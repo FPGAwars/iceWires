@@ -15,6 +15,9 @@ Wires and buses.
 * *Split*
   * *Bus2*
     * Split-all
+* *Wires*
+  * Bus-2
+  * Wire
 
 ## Examples
 * *TESTs*
@@ -23,6 +26,13 @@ Wires and buses.
       * *Split-all*
         * *Alhambra-II*
           * 01-manual-btns-leds
+  * *Wires*
+    * *Bus-2*
+      * *Alhambra-II*
+        * 01-manual-btn-led
+    * *Wire*
+      * *Alhambra-II*
+        * 01-manual-btn-led
 
 ## Languages
 | Language | Translated strings |
