@@ -7,7 +7,7 @@ Wires and buses.
 
 ## Install
 
-* Download the collection: Source code (zip) from Releases
+* Download the collection: Stable: Source code (zip) from Releases or unstable: Download ZIP from CODE
 * Install the collection: *Tools > Collections > Add*
 * Load the collection: *Select > Collection*
 
