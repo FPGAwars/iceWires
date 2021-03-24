@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2021-03-24 12:01+0100\n"
+"POT-Creation-Date: 2021-03-24 13:16+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -14,55 +14,160 @@ msgstr ""
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SearchPath-0: translation.js\n"
 
-#: translation.js:10 translation.js:20
-msgid "Split"
-msgstr "Split"
+#: translation.js:10 translation.js:39
+msgid "Copy"
+msgstr "Copiar"
 
-#: translation.js:11 translation.js:21
+#: translation.js:11 translation.js:40
+msgid "Join"
+msgstr "Agregar"
+
+#: translation.js:12 translation.js:41
+msgid "Split"
+msgstr "Separar"
+
+#: translation.js:13 translation.js:42
 msgid "Wires"
 msgstr "Cables"
 
-#: translation.js:12 translation.js:22
+#: translation.js:14
+msgid "Verilog"
+msgstr "Verilog"
+
+#: translation.js:15 translation.js:43
+msgid "Copy-02"
+msgstr "Copy-02"
+
+#: translation.js:16
+msgid "Copy-2: Copy the input wire twice and generate a 2 bits Bus output"
+msgstr ""
+"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"2 bits"
+
+#: translation.js:17
+msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
+msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+
+#: translation.js:18
+msgid "Copy-02-verilog"
+msgstr "Copy-02-verilog"
+
+#: translation.js:19
+msgid ""
+"Copy-2: Copy the input wire twice and generate a 2 bits Bus output (Verilog "
+"implementation)"
+msgstr ""
+"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"2 bits (Implementación en Verilog)"
+
+#: translation.js:20 translation.js:22 translation.js:47 translation.js:52
 msgid "Bus2"
 msgstr "Bus2"
 
-#: translation.js:13 translation.js:23
+#: translation.js:21 translation.js:48
+msgid "Join-all"
+msgstr "Join-all"
+
+#: translation.js:23 translation.js:53
 msgid "Split-all"
 msgstr "Split-all"
 
-#: translation.js:14
+#: translation.js:24
 msgid "Bus2-Split-all: Split the 2-bits bus into two wires"
 msgstr "Bus2-Split-all: Separar un bus de 2 bits en sus dos cables"
 
-#: translation.js:15 translation.js:27
+#: translation.js:25 translation.js:57
 msgid "Bus-2"
 msgstr "Bus-2"
 
-#: translation.js:16
+#: translation.js:26
 msgid "Bus2: Two bits plain Bus"
 msgstr "Bus2: Bus simple de 2 bits"
 
-#: translation.js:17 translation.js:28
+#: translation.js:27 translation.js:58
 msgid "Wire"
 msgstr "Wire"
 
-#: translation.js:18
+#: translation.js:28
 msgid "Wire: Just a simple wire"
 msgstr "Wire: Un simple cable"
 
-#: translation.js:19
+#: translation.js:29
 msgid "TESTs"
 msgstr "TESTs"
 
-#: translation.js:24 translation.js:29 translation.js:33
+#: translation.js:30
+msgid "00-Index"
+msgstr "00-Indice"
+
+#: translation.js:31
+msgid "# INDEX: IceWire Collection"
+msgstr "# ÍNDICE: Colección IceWires"
+
+#: translation.js:32
+msgid "## Wires Menu"
+msgstr "## Menú Cables"
+
+#: translation.js:33
+msgid "## Join Menu"
+msgstr "## Menú Agregar"
+
+#: translation.js:34
+msgid "## Split Menu"
+msgstr "## Menú Separar"
+
+#: translation.js:35
+msgid "Bus2-Join-all"
+msgstr "Bus2-Join-all"
+
+#: translation.js:36
+msgid "Bus2-Split-all"
+msgstr "Bus2-Split-all"
+
+#: translation.js:37
+msgid "## Copy Menu"
+msgstr "## Menú Copiar"
+
+#: translation.js:38
+msgid "Copy-2"
+msgstr "Copy-2"
+
+#: translation.js:44 translation.js:49 translation.js:54 translation.js:59
+#: translation.js:63
 msgid "Alhambra-II"
 msgstr "Alhambra-II"
 
-#: translation.js:25
+#: translation.js:45
+msgid "01-manual-btn-leds"
+msgstr "01-manual-btn-leds"
+
+#: translation.js:46
+msgid ""
+"# Copy-2: Manual testing with one pushbutton and two LEDs\n"
+"\n"
+"When the button is pressed, the Two LEDs are turned on"
+msgstr ""
+"# Copy-2: Prueba manual con un botón y dos LEDs  \n"
+"\n"
+"Cuando el botón se aprieta se encienden los dos LEDs"
+
+#: translation.js:50 translation.js:55
 msgid "01-manual-btns-leds"
 msgstr "01-manual-btns-leds"
 
-#: translation.js:26
+#: translation.js:51
+msgid ""
+"# Bus2-Join-all: Manual testing with two pushbuttons and an two LEDs\n"
+"\n"
+"The buttons SW1 and SW2 are connected to the LEDs 0 and 1 respectivelly  \n"
+"When the buttons are pressed, the corresponding LED is turn on"
+msgstr ""
+"# Bus2-Join-all: Prueba manual con dos pulsadores y dos LEDs\n"
+"\n"
+"Los botones SW1 y SW2 se conectan a los LEDs 0 y 1 respectivamente  \n"
+"Cuando los botones se aprietan, el LED correspondiente se enciende"
+
+#: translation.js:56
 msgid ""
 "# Bus2-Split-all: Manual testing with two pushbuttons and an two LEDs\n"
 "\n"
@@ -74,11 +179,11 @@ msgstr ""
 "Los botones SW1 y SW2 se conectan a los LEDs 0 y 1 respectivamente  \n"
 "Cuando los botones se aprieta, el LED correspondiente se enciende"
 
-#: translation.js:30 translation.js:34
+#: translation.js:60 translation.js:64
 msgid "01-manual-btn-led"
 msgstr "01-manual-btn-led"
 
-#: translation.js:31
+#: translation.js:61
 msgid ""
 "# BUS-2: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -90,11 +195,11 @@ msgstr ""
 "Los botones SW1 y SW2 se conectan a los LEDs 0 y 1 respectivamente  \n"
 "Cuando los botones se aprieta, el LED correspondiente se enciende"
 
-#: translation.js:32
+#: translation.js:62
 msgid "Bus\n"
 msgstr "Bus\n"
 
-#: translation.js:35
+#: translation.js:65
 msgid ""
 "# Wire: Manual testing with one pushbutton and one LED\n"
 "\n"

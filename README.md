@@ -12,6 +12,13 @@ Wires and buses.
 * Load the collection: *Select > Collection*
 
 ## Blocks
+* *Copy*
+  * Copy-02
+  * *Verilog*
+    * Copy-02-verilog
+* *Join*
+  * *Bus2*
+    * Join-all
 * *Split*
   * *Bus2*
     * Split-all
@@ -20,7 +27,17 @@ Wires and buses.
   * Wire
 
 ## Examples
+* 00-Index
 * *TESTs*
+  * *Copy*
+    * *Copy-02*
+      * *Alhambra-II*
+        * 01-manual-btn-leds
+  * *Join*
+    * *Bus2*
+      * *Join-all*
+        * *Alhambra-II*
+          * 01-manual-btns-leds
   * *Split*
     * *Bus2*
       * *Split-all*
