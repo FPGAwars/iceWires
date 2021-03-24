@@ -11,8 +11,23 @@ Wires and buses.
 * Install the collection: *Tools > Collections > Add*
 * Load the collection: *Select > Collection*
 
+## Blocks
+* *Split*
+  * *Bus2*
+    * Split-all
 
+## Examples
+* *TESTs*
+  * *Split*
+    * *Bus2*
+      * *Split-all*
+        * *Alhambra-II*
+          * 01-manual-btns-leds
 
+## Languages
+| Language | Translated strings |
+|:--------:|:------------------:|
+| es_ES | ![Progress](http://progressed.io/bar/100) |
 
 ## Authors
 * [Juan Gonzalez-Gomez (Obijuan)](https://github.com/Obijuan)
