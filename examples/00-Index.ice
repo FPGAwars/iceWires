@@ -15,7 +15,7 @@
           "id": "2bda1404-f512-48e6-887b-65b9612bb19f",
           "type": "basic.info",
           "data": {
-            "info": "# IceWire Collection: INDEX",
+            "info": "# INDEX: IceWire Collection",
             "readonly": true
           },
           "position": {
