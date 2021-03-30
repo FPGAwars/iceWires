@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2021-03-30 13:45+0200\n"
+"POT-Creation-Date: 2021-03-30 15:43+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -14,19 +14,19 @@ msgstr ""
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SearchPath-0: translation.js\n"
 
-#: translation.js:10 translation.js:47
+#: translation.js:10 translation.js:53
 msgid "Copy"
 msgstr "Copiar"
 
-#: translation.js:11 translation.js:48
+#: translation.js:11 translation.js:54
 msgid "Join"
 msgstr "Agregar"
 
-#: translation.js:12 translation.js:49
+#: translation.js:12 translation.js:55
 msgid "Split"
 msgstr "Separar"
 
-#: translation.js:13 translation.js:50
+#: translation.js:13 translation.js:56
 msgid "Wires"
 msgstr "Cables"
 
@@ -34,7 +34,7 @@ msgstr "Cables"
 msgid "Verilog"
 msgstr "Verilog"
 
-#: translation.js:15 translation.js:51
+#: translation.js:15 translation.js:57
 msgid "Copy-02"
 msgstr "Copy-02"
 
@@ -60,108 +60,123 @@ msgstr ""
 "Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
 "2 bits (Implementación en Verilog)"
 
-#: translation.js:20 translation.js:25 translation.js:55 translation.js:66
+#: translation.js:20 translation.js:28 translation.js:61 translation.js:77
 msgid "Bus2"
 msgstr "Bus2"
 
-#: translation.js:21 translation.js:26 translation.js:56 translation.js:67
+#: translation.js:21 translation.js:29 translation.js:62 translation.js:78
 msgid "Bus3"
 msgstr "Bus3"
 
-#: translation.js:22 translation.js:23 translation.js:57 translation.js:61
+#: translation.js:22 translation.js:30 translation.js:63 translation.js:79
+msgid "Bus4"
+msgstr "Bus4"
+
+#: translation.js:23 translation.js:24 translation.js:26 translation.js:64
+#: translation.js:68 translation.js:73
 msgid "Join-all"
 msgstr "Join-all"
 
-#: translation.js:24
+#: translation.js:25
 msgid "Bus3-Join-all: Joint three wires into a 3-bits Bus"
 msgstr "Bus-3-join-all: Agregar tres cables a un bus de 3 bits"
 
-#: translation.js:27 translation.js:29 translation.js:68 translation.js:72
+#: translation.js:27
+msgid "Bus4-Join-all: Join all the wires into a 4-bits Bus"
+msgstr "Bus-4-join-all: Agregar todos los cables a un bus de 4 bits"
+
+#: translation.js:31 translation.js:33 translation.js:35 translation.js:80
+#: translation.js:84 translation.js:89
 msgid "Split-all"
 msgstr "Split-all"
 
-#: translation.js:28
+#: translation.js:32
 msgid "Bus2-Split-all: Split the 2-bits bus into two wires"
 msgstr "Bus2-Split-all: Separar un bus de 2 bits en sus dos cables"
 
-#: translation.js:30
+#: translation.js:34
 msgid "Bus3-Split-all: Split the 3-bits bus into three wires"
 msgstr "Bus3-Split-all: Separar un bus de 3 bits en sus tres cables"
 
-#: translation.js:31 translation.js:77
+#: translation.js:36
+msgid "Bus4-Split-all: Split the 4-bits bus into its wires"
+msgstr "Bus4-Split-all: Separar un bus de 4 bits en sus  cables"
+
+#: translation.js:37 translation.js:94
 msgid "Bus-2"
 msgstr "Bus-2"
 
-#: translation.js:32
+#: translation.js:38
 msgid "Bus2: Two bits plain Bus"
 msgstr "Bus2: Bus simple de 2 bits"
 
-#: translation.js:33 translation.js:78
+#: translation.js:39 translation.js:95
 msgid "Wire"
 msgstr "Wire"
 
-#: translation.js:34
+#: translation.js:40
 msgid "Wire: Just a simple wire"
 msgstr "Wire: Un simple cable"
 
-#: translation.js:35
+#: translation.js:41
 msgid "TESTs"
 msgstr "TESTs"
 
-#: translation.js:36
+#: translation.js:42
 msgid "00-Index"
 msgstr "00-Indice"
 
-#: translation.js:37
+#: translation.js:43
 msgid "# INDEX: IceWire Collection"
 msgstr "# ÍNDICE: Colección IceWires"
 
-#: translation.js:38
+#: translation.js:44
 msgid "## Wires Menu"
 msgstr "## Menú Cables"
 
-#: translation.js:39
+#: translation.js:45
 msgid "## Join Menu"
 msgstr "## Menú Agregar"
 
-#: translation.js:40
+#: translation.js:46
 msgid "## Split Menu"
 msgstr "## Menú Separar"
 
-#: translation.js:41
+#: translation.js:47
 msgid "Bus2-Join-all"
 msgstr "Bus2-Join-all"
 
-#: translation.js:42
+#: translation.js:48
 msgid "Bus2-Split-all"
 msgstr "Bus2-Split-all"
 
-#: translation.js:43
+#: translation.js:49
 msgid "## Copy Menu"
 msgstr "## Menú Copiar"
 
-#: translation.js:44
+#: translation.js:50
 msgid "Copy-2"
 msgstr "Copy-2"
 
-#: translation.js:45
+#: translation.js:51
 msgid "Bus3-Join-all"
 msgstr "Bus3-Join-all"
 
-#: translation.js:46
+#: translation.js:52
 msgid "Bus3-Split-all"
 msgstr "Bus3-Split-all"
 
-#: translation.js:52 translation.js:58 translation.js:62 translation.js:69
-#: translation.js:73 translation.js:79 translation.js:83
+#: translation.js:58 translation.js:65 translation.js:69 translation.js:74
+#: translation.js:81 translation.js:85 translation.js:90 translation.js:96
+#: translation.js:100
 msgid "Alhambra-II"
 msgstr "Alhambra-II"
 
-#: translation.js:53
+#: translation.js:59
 msgid "01-manual-btn-leds"
 msgstr "01-manual-btn-leds"
 
-#: translation.js:54
+#: translation.js:60
 msgid ""
 "# Copy-2: Manual testing with one pushbutton and two LEDs\n"
 "\n"
@@ -171,11 +186,11 @@ msgstr ""
 "\n"
 "Cuando el botón se aprieta se encienden los dos LEDs"
 
-#: translation.js:59 translation.js:63 translation.js:70
+#: translation.js:66 translation.js:70 translation.js:75 translation.js:82
 msgid "01-manual-btns-leds"
 msgstr "01-manual-btns-leds"
 
-#: translation.js:60
+#: translation.js:67
 msgid ""
 "# Bus2-Join-all: Manual testing with two pushbuttons and an two LEDs\n"
 "\n"
@@ -187,11 +202,11 @@ msgstr ""
 "Los botones SW1 y SW2 se conectan a los LEDs 0 y 1 respectivamente  \n"
 "Cuando los botones se aprietan, el LED correspondiente se enciende"
 
-#: translation.js:64
+#: translation.js:71
 msgid "Constant bit 1"
 msgstr "Bit constante 1"
 
-#: translation.js:65
+#: translation.js:72
 msgid ""
 "# Bus3-Join-all: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -205,7 +220,21 @@ msgstr ""
 "Cuando los botones se aprietan, el LED correspondiente se enciende\n"
 "El LED2 se enciende"
 
-#: translation.js:71
+#: translation.js:76
+msgid ""
+"# Bus4-Join-all: Manual testing with two pushbuttons and two LEDs\n"
+"\n"
+"The buttons SW1 and SW2 are connected to the LEDs 0 and 1 respectivelly  \n"
+"When the buttons are pressed, the corresponding LED is turned on  \n"
+"The LED2 and LED3 are on"
+msgstr ""
+"# Bus4-Join-all: Prueba manual con dos pulsadores y dos LEDs\n"
+"\n"
+"Los botones SW1 y SW2 se conectan a los LEDs 0 y 1 respectivamente  \n"
+"Cuando los botones se aprietan, el LED correspondiente se enciende\n"
+"Los LEDs 2 y 3 se encienden"
+
+#: translation.js:83
 msgid ""
 "# Bus2-Split-all: Manual testing with two pushbuttons and an two LEDs\n"
 "\n"
@@ -217,15 +246,15 @@ msgstr ""
 "Los botones SW1 y SW2 se conectan a los LEDs 0 y 1 respectivamente  \n"
 "Cuando los botones se aprieta, el LED correspondiente se enciende"
 
-#: translation.js:74
+#: translation.js:86 translation.js:91
 msgid "01-manual-constant-leds"
 msgstr "01-manual-constant-leds"
 
-#: translation.js:75
+#: translation.js:87
 msgid "Generic: 3-bits generic constant (0-7)"
 msgstr "Generic: Constante genérica de 3-bits  (0-7)"
 
-#: translation.js:76
+#: translation.js:88
 msgid ""
 "# Bus3-Split-all: Manual testing with a constant and LEDs\n"
 "\n"
@@ -235,11 +264,25 @@ msgstr ""
 "\n"
 "El valor de la constante se muestra en los LEDs"
 
-#: translation.js:80 translation.js:84
+#: translation.js:92
+msgid "Generic: 4-bits generic constant (0-15)"
+msgstr "Generic: Constante genérica de 4-bits  (0-15)"
+
+#: translation.js:93
+msgid ""
+"# Bus4-Split-all: Manual testing with a constant and LEDs\n"
+"\n"
+"The value of the constant is shown on the LEDs"
+msgstr ""
+"# Bus4-Split-all: Prueba manual con una constante y LEDs  \n"
+"\n"
+"El valor de la constante se muestra en los LEDs"
+
+#: translation.js:97 translation.js:101
 msgid "01-manual-btn-led"
 msgstr "01-manual-btn-led"
 
-#: translation.js:81
+#: translation.js:98
 msgid ""
 "# BUS-2: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -251,11 +294,11 @@ msgstr ""
 "Los botones SW1 y SW2 se conectan a los LEDs 0 y 1 respectivamente  \n"
 "Cuando los botones se aprieta, el LED correspondiente se enciende"
 
-#: translation.js:82
+#: translation.js:99
 msgid "Bus\n"
 msgstr "Bus\n"
 
-#: translation.js:85
+#: translation.js:102
 msgid ""
 "# Wire: Manual testing with one pushbutton and one LED\n"
 "\n"

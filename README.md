@@ -21,10 +21,14 @@ Wires and buses.
     * Join-all
   * *Bus3*
     * Join-all
+  * *Bus4*
+    * Join-all
 * *Split*
   * *Bus2*
     * Split-all
   * *Bus3*
+    * Split-all
+  * *Bus4*
     * Split-all
 * *Wires*
   * Bus-2
@@ -46,12 +50,20 @@ Wires and buses.
       * *Join-all*
         * *Alhambra-II*
           * 01-manual-btns-leds
+    * *Bus4*
+      * *Join-all*
+        * *Alhambra-II*
+          * 01-manual-btns-leds
   * *Split*
     * *Bus2*
       * *Split-all*
         * *Alhambra-II*
           * 01-manual-btns-leds
     * *Bus3*
+      * *Split-all*
+        * *Alhambra-II*
+          * 01-manual-constant-leds
+    * *Bus4*
       * *Split-all*
         * *Alhambra-II*
           * 01-manual-constant-leds
