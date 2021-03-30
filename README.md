@@ -7,7 +7,7 @@ Wires and buses.
 
 ## Install
 
-* Download the collection: Stable: Source code (zip) from Releases or unstable: Download ZIP from CODE
+* Download the collection: [stable](https://github.com/FPGAwars/iceWires/archive/v0.1.0.zip) or [development](https://github.com/FPGAwars/iceWires/archive/master.zip)
 * Install the collection: *Tools > Collections > Add*
 * Load the collection: *Select > Collection*
 
@@ -19,8 +19,12 @@ Wires and buses.
 * *Join*
   * *Bus2*
     * Join-all
+  * *Bus3*
+    * Join-all
 * *Split*
   * *Bus2*
+    * Split-all
+  * *Bus3*
     * Split-all
 * *Wires*
   * Bus-2
@@ -38,11 +42,19 @@ Wires and buses.
       * *Join-all*
         * *Alhambra-II*
           * 01-manual-btns-leds
+    * *Bus3*
+      * *Join-all*
+        * *Alhambra-II*
+          * 01-manual-btns-leds
   * *Split*
     * *Bus2*
       * *Split-all*
         * *Alhambra-II*
           * 01-manual-btns-leds
+    * *Bus3*
+      * *Split-all*
+        * *Alhambra-II*
+          * 01-manual-constant-leds
   * *Wires*
     * *Bus-2*
       * *Alhambra-II*
