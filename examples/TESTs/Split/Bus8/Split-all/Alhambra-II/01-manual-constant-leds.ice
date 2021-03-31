@@ -180,7 +180,7 @@
           "id": "2bda1404-f512-48e6-887b-65b9612bb19f",
           "type": "basic.info",
           "data": {
-            "info": "# Bus4-Split-all: Manual testing with a constant and LEDs\n\nThe value of the constant is shown on the LEDs",
+            "info": "# Bus8-Split-all: Manual testing with a constant and LEDs\n\nThe value of the constant is shown on the LEDs",
             "readonly": true
           },
           "position": {
