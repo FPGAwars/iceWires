@@ -852,18 +852,6 @@
           }
         },
         {
-          "id": "070ed550-ecb8-43a8-95af-52926ff73dae",
-          "type": "e89fb7eb9ea4dd52bf619121192c6941c7fe7700",
-          "position": {
-            "x": 2192,
-            "y": -376
-          },
-          "size": {
-            "width": 96,
-            "height": 64
-          }
-        },
-        {
           "id": "ac795abb-ab2f-4d61-b507-f4a7bed9ce81",
           "type": "3fca9f0a48ef13e3454f08d314ddb764461952ff",
           "position": {
@@ -937,6 +925,18 @@
           "size": {
             "width": 152,
             "height": 40
+          }
+        },
+        {
+          "id": "e4a5ced8-1985-4bd2-bb0c-6cbd5e00c412",
+          "type": "7f542a10bdf86155481dedefef8358ea9b2c1a26",
+          "position": {
+            "x": 2192,
+            "y": -376
+          },
+          "size": {
+            "width": 96,
+            "height": 64
           }
         }
       ],
@@ -7139,117 +7139,6 @@
         }
       }
     },
-    "e89fb7eb9ea4dd52bf619121192c6941c7fe7700": {
-      "package": {
-        "name": "SR1-int2",
-        "version": "0.1",
-        "description": "SR1-int2: Shift  a 2-bit value one bit right. MSB is keep (the sign)",
-        "author": "Juan González-Gómez (Obijuan)",
-        "image": "%3Csvg%20width=%22298.966%22%20height=%22160.883%22%20viewBox=%220%200%20280.28048%20150.82772%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20fill=%22green%22%20stroke=%22green%22%3E%3Cpath%20d=%22M91.176%20109.68h10.65%22%20color=%22#000%22%20stroke-width=%222.645%22%20stroke-linecap=%22round%22%20transform=%22matrix(5.55181%200%200%205.55856%20-320.093%20-570.306)%22/%3E%3Cpath%20d=%22M59.663%20108.085c-.832%200-1.507.662-1.508%201.48%200%20.818.676%201.481%201.508%201.48h41.84c.833.001%201.508-.662%201.508-1.48s-.675-1.48-1.507-1.48z%22%20color=%22#000%22%20stroke-linecap=%22round%22%20transform=%22matrix(5.55181%200%200%205.55856%20-320.093%20-570.306)%22/%3E%3Cg%20color=%22#000%22%20fill-rule=%22evenodd%22%20stroke-width=%221.428%22%3E%3Cpath%20d=%22M80.414%20192.813l-9.155%205.291v-10.583z%22%20stroke-width=%222.015%22%20transform=%22matrix(3.91938%200%200%203.85892%20-46.011%20-704.69)%22/%3E%3Cpath%20d=%22M70.553%20186.299v13.027l11.271-6.513-1.056-.612zm1.412%202.445l7.039%204.069-7.04%204.07z%22%20transform=%22matrix(3.91938%200%200%203.85892%20-46.011%20-704.69)%22/%3E%3C/g%3E%3C/g%3E%3Cg%20transform=%22translate(-217.843%20-251.299)%22%3E%3Cellipse%20cx=%22349.268%22%20cy=%22289.633%22%20rx=%2236.074%22%20ry=%2236.118%22%20fill=%22#fff%22%20stroke=%22#000%22%20stroke-width=%224.432%22%20stroke-linecap=%22round%22/%3E%3Ctext%20style=%22line-height:1.25%22%20x=%22333.57%22%20y=%22310.804%22%20transform=%22scale(.9994%201.0006)%22%20font-weight=%22400%22%20font-size=%2259.1%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%20stroke-width=%221.477%22%3E%3Ctspan%20x=%22333.57%22%20y=%22310.804%22%3E1%3C/tspan%3E%3C/text%3E%3C/g%3E%3Cg%20style=%22line-height:1.25%22%20font-weight=%22700%22%20font-size=%2245.504%22%20font-family=%22sans-serif%22%20fill=%22green%22%20stroke-width=%221.809%22%3E%3Cpath%20d=%22M66.44%2094.27h14.584v56.558H66.44zM95.381%2094.27h16.29l20.57%2038.791V94.27h13.827v56.558h-16.29l-20.57-38.792v38.792H95.381zM153.644%2094.27h52.126v11.023h-18.752v45.535h-14.584v-45.535h-18.79z%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22/%3E%3C/g%3E%3C/svg%3E",
-        "otid": 1622709944841
-      },
-      "design": {
-        "graph": {
-          "blocks": [
-            {
-              "id": "a03f9523-36f8-46b7-80d6-0a0816fddaf1",
-              "type": "basic.input",
-              "data": {
-                "name": "",
-                "range": "[1:0]",
-                "clock": false,
-                "size": 2
-              },
-              "position": {
-                "x": 192,
-                "y": 288
-              }
-            },
-            {
-              "id": "afa15be9-7693-4d2f-a665-68037fd78d9a",
-              "type": "basic.output",
-              "data": {
-                "name": "",
-                "range": "[1:0]",
-                "size": 2
-              },
-              "position": {
-                "x": 1048,
-                "y": 288
-              }
-            },
-            {
-              "id": "09f1405f-37d1-418e-b122-c7d21a216f60",
-              "type": "0dbcb9470111c4072304f196bb9e5ac39f4ccfb7",
-              "position": {
-                "x": 448,
-                "y": 288
-              },
-              "size": {
-                "width": 96,
-                "height": 64
-              }
-            },
-            {
-              "id": "66e73a65-df2a-49ce-954c-8dc65ce73449",
-              "type": "80ac841b78ab68b7668296f4d0b0b4daadc7bcf9",
-              "position": {
-                "x": 776,
-                "y": 288
-              },
-              "size": {
-                "width": 96,
-                "height": 64
-              }
-            }
-          ],
-          "wires": [
-            {
-              "source": {
-                "block": "a03f9523-36f8-46b7-80d6-0a0816fddaf1",
-                "port": "out"
-              },
-              "target": {
-                "block": "09f1405f-37d1-418e-b122-c7d21a216f60",
-                "port": "a409d207-7594-4558-8e15-89712262cf5b"
-              },
-              "size": 2
-            },
-            {
-              "source": {
-                "block": "66e73a65-df2a-49ce-954c-8dc65ce73449",
-                "port": "99661aef-c9bf-473e-93c4-8f5edf511d36"
-              },
-              "target": {
-                "block": "afa15be9-7693-4d2f-a665-68037fd78d9a",
-                "port": "in"
-              },
-              "size": 2
-            },
-            {
-              "source": {
-                "block": "09f1405f-37d1-418e-b122-c7d21a216f60",
-                "port": "f5a71d7b-de20-4527-80c8-0eb20de0dc77"
-              },
-              "target": {
-                "block": "66e73a65-df2a-49ce-954c-8dc65ce73449",
-                "port": "969e11ca-69e8-403b-a566-7bf2fbe3a5a8"
-              }
-            },
-            {
-              "source": {
-                "block": "09f1405f-37d1-418e-b122-c7d21a216f60",
-                "port": "f5a71d7b-de20-4527-80c8-0eb20de0dc77"
-              },
-              "target": {
-                "block": "66e73a65-df2a-49ce-954c-8dc65ce73449",
-                "port": "e4111201-8441-4e7d-bcd2-bcf9d265d043"
-              }
-            }
-          ]
-        }
-      }
-    },
     "3fca9f0a48ef13e3454f08d314ddb764461952ff": {
       "package": {
         "name": "SL1-uint2",
@@ -7971,6 +7860,134 @@
               "target": {
                 "block": "1779be66-2be0-4ea5-910d-8c7b03680694",
                 "port": "in"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "7f542a10bdf86155481dedefef8358ea9b2c1a26": {
+      "package": {
+        "name": "SR1-int2",
+        "version": "0.1",
+        "description": "SR1-int2: Shift  a 2-bit value one bit right. MSB is keep (the sign)",
+        "author": "Juan González-Gómez (Obijuan)",
+        "image": "%3Csvg%20width=%22298.966%22%20height=%22160.883%22%20viewBox=%220%200%20280.28048%20150.82772%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20fill=%22green%22%20stroke=%22green%22%3E%3Cpath%20d=%22M91.176%20109.68h10.65%22%20color=%22#000%22%20stroke-width=%222.645%22%20stroke-linecap=%22round%22%20transform=%22matrix(5.55181%200%200%205.55856%20-320.093%20-570.306)%22/%3E%3Cpath%20d=%22M59.663%20108.085c-.832%200-1.507.662-1.508%201.48%200%20.818.676%201.481%201.508%201.48h41.84c.833.001%201.508-.662%201.508-1.48s-.675-1.48-1.507-1.48z%22%20color=%22#000%22%20stroke-linecap=%22round%22%20transform=%22matrix(5.55181%200%200%205.55856%20-320.093%20-570.306)%22/%3E%3Cg%20color=%22#000%22%20fill-rule=%22evenodd%22%20stroke-width=%221.428%22%3E%3Cpath%20d=%22M80.414%20192.813l-9.155%205.291v-10.583z%22%20stroke-width=%222.015%22%20transform=%22matrix(3.91938%200%200%203.85892%20-46.011%20-704.69)%22/%3E%3Cpath%20d=%22M70.553%20186.299v13.027l11.271-6.513-1.056-.612zm1.412%202.445l7.039%204.069-7.04%204.07z%22%20transform=%22matrix(3.91938%200%200%203.85892%20-46.011%20-704.69)%22/%3E%3C/g%3E%3C/g%3E%3Cg%20transform=%22translate(-217.843%20-251.299)%22%3E%3Cellipse%20cx=%22349.268%22%20cy=%22289.633%22%20rx=%2236.074%22%20ry=%2236.118%22%20fill=%22#fff%22%20stroke=%22#000%22%20stroke-width=%224.432%22%20stroke-linecap=%22round%22/%3E%3Ctext%20style=%22line-height:1.25%22%20x=%22333.57%22%20y=%22310.804%22%20transform=%22scale(.9994%201.0006)%22%20font-weight=%22400%22%20font-size=%2259.1%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%20stroke-width=%221.477%22%3E%3Ctspan%20x=%22333.57%22%20y=%22310.804%22%3E1%3C/tspan%3E%3C/text%3E%3C/g%3E%3Cg%20style=%22line-height:1.25%22%20font-weight=%22700%22%20font-size=%2245.504%22%20font-family=%22sans-serif%22%20fill=%22green%22%20stroke-width=%221.809%22%3E%3Cpath%20d=%22M66.44%2094.27h14.584v56.558H66.44zM95.381%2094.27h16.29l20.57%2038.791V94.27h13.827v56.558h-16.29l-20.57-38.792v38.792H95.381zM153.644%2094.27h52.126v11.023h-18.752v45.535h-14.584v-45.535h-18.79z%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22/%3E%3C/g%3E%3C/svg%3E",
+        "otid": 1622709944841
+      },
+      "design": {
+        "graph": {
+          "blocks": [
+            {
+              "id": "afa15be9-7693-4d2f-a665-68037fd78d9a",
+              "type": "basic.output",
+              "data": {
+                "name": "",
+                "range": "[1:0]",
+                "size": 2
+              },
+              "position": {
+                "x": 816,
+                "y": 256
+              }
+            },
+            {
+              "id": "a03f9523-36f8-46b7-80d6-0a0816fddaf1",
+              "type": "basic.input",
+              "data": {
+                "name": "",
+                "range": "[1:0]",
+                "clock": false,
+                "size": 2
+              },
+              "position": {
+                "x": 192,
+                "y": 288
+              }
+            },
+            {
+              "id": "462c0719-5ae2-45f5-a87d-4c53d4cc4788",
+              "type": "388b1b621be95f366d2585a1f6a6cfe7a55a4026",
+              "position": {
+                "x": 624,
+                "y": 272
+              },
+              "size": {
+                "width": 96,
+                "height": 64
+              }
+            },
+            {
+              "id": "7716e7aa-5bf6-423d-b0f4-66d2c3f947dd",
+              "type": "basic.info",
+              "data": {
+                "info": "Get the sign  \nand place it as the MSB",
+                "readonly": true
+              },
+              "position": {
+                "x": 464,
+                "y": 152
+              },
+              "size": {
+                "width": 192,
+                "height": 56
+              }
+            },
+            {
+              "id": "421a7f70-aa8a-4d31-920c-87c8ef1b924e",
+              "type": "e5166306329cf95efe5574e36fa76c5249e07ec2",
+              "position": {
+                "x": 336,
+                "y": 200
+              },
+              "size": {
+                "width": 96,
+                "height": 64
+              }
+            }
+          ],
+          "wires": [
+            {
+              "source": {
+                "block": "a03f9523-36f8-46b7-80d6-0a0816fddaf1",
+                "port": "out"
+              },
+              "target": {
+                "block": "421a7f70-aa8a-4d31-920c-87c8ef1b924e",
+                "port": "a03f9523-36f8-46b7-80d6-0a0816fddaf1"
+              },
+              "size": 2
+            },
+            {
+              "source": {
+                "block": "462c0719-5ae2-45f5-a87d-4c53d4cc4788",
+                "port": "afa15be9-7693-4d2f-a665-68037fd78d9a"
+              },
+              "target": {
+                "block": "afa15be9-7693-4d2f-a665-68037fd78d9a",
+                "port": "in"
+              },
+              "size": 2
+            },
+            {
+              "source": {
+                "block": "a03f9523-36f8-46b7-80d6-0a0816fddaf1",
+                "port": "out"
+              },
+              "target": {
+                "block": "462c0719-5ae2-45f5-a87d-4c53d4cc4788",
+                "port": "a03f9523-36f8-46b7-80d6-0a0816fddaf1"
+              },
+              "size": 2
+            },
+            {
+              "source": {
+                "block": "421a7f70-aa8a-4d31-920c-87c8ef1b924e",
+                "port": "1779be66-2be0-4ea5-910d-8c7b03680694"
+              },
+              "target": {
+                "block": "462c0719-5ae2-45f5-a87d-4c53d4cc4788",
+                "port": "79b18de5-9152-4bdb-8059-3dcf8efa92dc"
               }
             }
           ]
