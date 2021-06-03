@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="117.10561mm"
+   height="34.245152mm"
+   viewBox="0 0 117.10561 34.245152"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1 (af4d65493e, 2021-05-29)"
+   sodipodi:docname="Sign.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="73.571429"
+     inkscape:cy="257.85714"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1860"
+     inkscape:window-height="1016"
+     inkscape:window-x="60"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-153.81236,-20.411777)">
+    <path
+       d="m 177.68891,22.047762 v 6.9861 q -2.71928,-1.215935 -5.3059,-1.834957 -2.58663,-0.619021 -4.88585,-0.619021 -3.05089,0 -4.51001,0.8401 -1.45913,0.840101 -1.45913,2.608734 0,1.326474 0.97275,2.078143 0.99486,0.729561 3.58148,1.260151 l 3.6257,0.729561 q 5.50487,1.105396 7.8262,3.360403 2.32133,2.255006 2.32133,6.411294 0,5.460653 -3.24986,8.135711 -3.22776,2.652949 -9.88224,2.652949 -3.13932,0 -6.30075,-0.596914 -3.16143,-0.596913 -6.32286,-1.768633 v -7.18507 q 3.16143,1.680201 6.10178,2.542409 2.96246,0.840101 5.70384,0.840101 2.7856,0 4.26683,-0.928532 1.48123,-0.928533 1.48123,-2.65295 0,-1.547553 -1.01697,-2.387654 -0.99485,-0.840101 -4.00153,-1.503338 l -3.29408,-0.729561 q -4.95217,-1.06118 -7.25139,-3.38251 -2.27712,-2.321331 -2.27712,-6.256539 0,-4.930064 3.18354,-7.583013 3.18354,-2.652949 9.15268,-2.652949 2.71927,0 5.5933,0.42005 2.87403,0.397942 5.94703,1.215935 z"
+       style="font-weight:bold;font-size:45.277px;line-height:1.25;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:126.878;fill:#008000;stroke-width:1.13193"
+       id="path7327" />
+    <path
+       d="m 187.32796,21.00869 h 8.51154 V 54.0158 h -8.51154 z"
+       style="font-weight:bold;font-size:45.277px;line-height:1.25;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:126.878;fill:#008000;stroke-width:1.13193"
+       id="path7329" />
+    <path
+       d="m 233.843,51.561822 q -3.18354,1.547554 -6.61026,2.321331 -3.42673,0.773777 -7.07454,0.773777 -8.24625,0 -13.06577,-4.598445 -4.81952,-4.620554 -4.81952,-12.513078 0,-7.980955 4.90795,-12.557293 4.90796,-4.576337 13.44161,-4.576337 3.29408,0 6.30076,0.619021 3.02878,0.619022 5.70384,1.834957 v 6.831344 q -2.76349,-1.569662 -5.50487,-2.343438 -2.71928,-0.773777 -5.46066,-0.773777 -5.08482,0 -7.84831,2.85192 -2.74138,2.829813 -2.74138,8.113603 0,5.239575 2.65295,8.091495 2.65295,2.851921 7.5388,2.851921 1.32648,0 2.45398,-0.154755 1.14961,-0.176864 2.05603,-0.53059 v -6.411294 h -5.19535 V 35.688343 H 233.843 Z"
+       style="font-weight:bold;font-size:45.277px;line-height:1.25;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:126.878;fill:#008000;stroke-width:1.13193"
+       id="path7331" />
+    <path
+       d="m 241.33758,21.00869 h 9.50641 l 12.00459,22.638501 V 21.00869 h 8.06939 V 54.0158 h -9.5064 l -12.0046,-22.6385 v 22.6385 h -8.06939 z"
+       style="font-weight:bold;font-size:45.277px;line-height:1.25;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:126.878;fill:#008000;stroke-width:1.13193"
+       id="path7333" />
+  </g>
+</svg>
