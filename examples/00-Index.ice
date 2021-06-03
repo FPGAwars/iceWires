@@ -603,7 +603,7 @@
             "readonly": true
           },
           "position": {
-            "x": 2504,
+            "x": 2632,
             "y": -576
           },
           "size": {
@@ -615,7 +615,7 @@
           "id": "388ebbed-4781-42a2-8668-5df29e21149e",
           "type": "8926e46e96c3ca7ce574debf3d69525d860825ce",
           "position": {
-            "x": 2312,
+            "x": 2440,
             "y": -216
           },
           "size": {
@@ -627,7 +627,7 @@
           "id": "75b50829-717e-4b4e-8eb4-08cc7282c3da",
           "type": "fac2a77a414e0c67d158dfb4d310abef3a11aabf",
           "position": {
-            "x": 2312,
+            "x": 2440,
             "y": -464
           },
           "size": {
@@ -643,7 +643,7 @@
             "readonly": true
           },
           "position": {
-            "x": 2288,
+            "x": 2416,
             "y": -576
           },
           "size": {
@@ -655,7 +655,7 @@
           "id": "bfcfbb25-c816-4e8d-aee7-758ba4b0c892",
           "type": "378b5f2534906ff996d8a34bfbdf8b52fd131498",
           "position": {
-            "x": 2312,
+            "x": 2440,
             "y": -344
           },
           "size": {
@@ -876,8 +876,8 @@
           }
         },
         {
-          "id": "62179c1a-1d52-4557-9ccf-a5f05347692e",
-          "type": "eda26f88eb96d5dca99c1ec9826f60cf6ea8d6ad",
+          "id": "ac795abb-ab2f-4d61-b507-f4a7bed9ce81",
+          "type": "3fca9f0a48ef13e3454f08d314ddb764461952ff",
           "position": {
             "x": 2064,
             "y": -480
@@ -7390,11 +7390,11 @@
         }
       }
     },
-    "eda26f88eb96d5dca99c1ec9826f60cf6ea8d6ad": {
+    "3fca9f0a48ef13e3454f08d314ddb764461952ff": {
       "package": {
-        "name": "SL1-int2",
+        "name": "SL1-uint2",
         "version": "0.1",
-        "description": "SL1-int2: Shift  a 2-bit value one bit left. LSB is '0'. The sign is lost",
+        "description": "SL1-uint2: Shift  a 2-bit value one bit left. LSB is '0'. The sign is lost",
         "author": "Juan González-Gómez (Obijuan)",
         "image": "%3Csvg%20width=%22298.966%22%20height=%22164.122%22%20viewBox=%220%200%20280.28048%20153.86437%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20fill=%22green%22%20stroke=%22green%22%3E%3Cpath%20d=%22M91.176%20109.68h10.65%22%20color=%22#000%22%20stroke-width=%222.645%22%20stroke-linecap=%22round%22%20transform=%22matrix(-5.55181%200%200%205.55856%20600.373%20-570.306)%22/%3E%3Cpath%20d=%22M59.663%20108.085c-.832%200-1.507.662-1.508%201.48%200%20.818.676%201.481%201.508%201.48h41.84c.833.001%201.508-.662%201.508-1.48s-.675-1.48-1.507-1.48z%22%20color=%22#000%22%20stroke-linecap=%22round%22%20transform=%22matrix(-5.55181%200%200%205.55856%20600.373%20-570.306)%22/%3E%3Cg%20color=%22#000%22%20fill-rule=%22evenodd%22%20stroke-width=%221.428%22%3E%3Cpath%20d=%22M80.414%20192.813l-9.155%205.291v-10.583z%22%20stroke-width=%222.015%22%20transform=%22matrix(-3.91938%200%200%203.85892%20326.292%20-704.69)%22/%3E%3Cpath%20d=%22M70.553%20186.299v13.027l11.271-6.513-1.056-.612zm1.412%202.445l7.039%204.069-7.04%204.07z%22%20transform=%22matrix(-3.91938%200%200%203.85892%20326.292%20-704.69)%22/%3E%3C/g%3E%3C/g%3E%3Cg%20transform=%22translate(-217.843%20-251.299)%22%3E%3Cellipse%20cx=%22349.268%22%20cy=%22289.633%22%20rx=%2236.074%22%20ry=%2236.118%22%20fill=%22#fff%22%20stroke=%22#000%22%20stroke-width=%224.432%22%20stroke-linecap=%22round%22/%3E%3Ctext%20style=%22line-height:1.25%22%20x=%22333.57%22%20y=%22310.804%22%20transform=%22scale(.9994%201.0006)%22%20font-weight=%22400%22%20font-size=%2259.1%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%20stroke-width=%221.477%22%3E%3Ctspan%20x=%22333.57%22%20y=%22310.804%22%3E1%3C/tspan%3E%3C/text%3E%3C/g%3E%3Cg%20style=%22line-height:1.25%22%20font-weight=%22700%22%20font-size=%2245.504%22%20font-family=%22sans-serif%22%20fill=%22green%22%20stroke-width=%221.809%22%3E%3Cpath%20d=%22M27.921%2096.208h14.585v33.904q0%207.008%202.273%2010.04%202.31%202.992%207.5%202.992%205.228%200%207.501-2.993%202.31-3.03%202.31-10.039V96.208h14.585v33.904q0%2012.009-6.023%2017.88-6.023%205.872-18.373%205.872-12.311%200-18.335-5.871-6.023-5.872-6.023-17.88zM90.957%2096.208h14.585v56.558H90.957zM119.899%2096.208h16.29l20.57%2038.791V96.208h13.826v56.558h-16.29l-20.57-38.791v38.79H119.9zM178.162%2096.208h52.125v11.024h-18.751v45.534H196.95v-45.534h-18.79z%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22/%3E%3C/g%3E%3C/svg%3E",
         "otid": 1622709944841
