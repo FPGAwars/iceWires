@@ -587,8 +587,8 @@
           "id": "6ab8e2a6-35d7-4667-85d8-5467f8565795",
           "type": "acf1a9f5efa94102508b0bfef01f64c844f58114",
           "position": {
-            "x": 2240,
-            "y": 672
+            "x": 2744,
+            "y": 680
           },
           "size": {
             "width": 96,
@@ -675,7 +675,7 @@
             "y": -584
           },
           "size": {
-            "width": 112,
+            "width": 264,
             "height": 40
           }
         },
@@ -880,6 +880,18 @@
           "type": "3fca9f0a48ef13e3454f08d314ddb764461952ff",
           "position": {
             "x": 2064,
+            "y": -480
+          },
+          "size": {
+            "width": 96,
+            "height": 64
+          }
+        },
+        {
+          "id": "2e9b0859-1cc0-4d2d-a1f9-6bb684429c24",
+          "type": "e89fb7eb9ea4dd52bf619121192c6941c7fe7700",
+          "position": {
+            "x": 2248,
             "y": -480
           },
           "size": {
