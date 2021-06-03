@@ -41,7 +41,7 @@
           "type": "basic.constant",
           "data": {
             "name": "",
-            "value": "'h2",
+            "value": "'b10",
             "local": false
           },
           "position": {
