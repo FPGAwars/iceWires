@@ -962,6 +962,22 @@
             "width": 96,
             "height": 64
           }
+        },
+        {
+          "id": "db3c5c60-a4c5-4af1-b68f-7044f3417c46",
+          "type": "basic.info",
+          "data": {
+            "info": "Split 1-2",
+            "readonly": true
+          },
+          "position": {
+            "x": 1248,
+            "y": -304
+          },
+          "size": {
+            "width": 104,
+            "height": 40
+          }
         }
       ],
       "wires": []
