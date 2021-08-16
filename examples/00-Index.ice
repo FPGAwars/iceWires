@@ -1332,8 +1332,8 @@
           }
         },
         {
-          "id": "85cb160e-b900-4a5f-ae91-44b6b304df6a",
-          "type": "6e1515bad989bd789dfa47fce8deafac45307e29",
+          "id": "23ab00a5-8412-4c09-b83d-e5b9e69a320e",
+          "type": "27c4acfb3dc95157ab6b0f7b7317f3db53603fb3",
           "position": {
             "x": 792,
             "y": 1184
@@ -12116,7 +12116,7 @@
         }
       }
     },
-    "6e1515bad989bd789dfa47fce8deafac45307e29": {
+    "27c4acfb3dc95157ab6b0f7b7317f3db53603fb3": {
       "package": {
         "name": "Bus8-Join-1-7",
         "version": "0.1",
@@ -12131,7 +12131,7 @@
               "id": "a6e45acc-098d-4305-917b-166a6ddc7b4e",
               "type": "basic.input",
               "data": {
-                "name": "0",
+                "name": "1",
                 "clock": false
               },
               "position": {
@@ -12156,7 +12156,7 @@
               "id": "174f6267-276e-4312-bbe8-26cc25250b5f",
               "type": "basic.input",
               "data": {
-                "name": "1",
+                "name": "0",
                 "range": "[6:0]",
                 "clock": false,
                 "size": 7

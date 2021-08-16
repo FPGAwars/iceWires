@@ -588,7 +588,7 @@
               "id": "a6e45acc-098d-4305-917b-166a6ddc7b4e",
               "type": "basic.input",
               "data": {
-                "name": "0",
+                "name": "1",
                 "pins": [
                   {
                     "index": "0",
@@ -621,7 +621,7 @@
               "id": "174f6267-276e-4312-bbe8-26cc25250b5f",
               "type": "basic.input",
               "data": {
-                "name": "1",
+                "name": "0",
                 "range": "[6:0]",
                 "pins": [
                   {
