@@ -1084,7 +1084,7 @@
           "type": "c97ea62c7e57797474a81bca730a1b2bec259617",
           "position": {
             "x": 1224,
-            "y": 1440
+            "y": 1752
           },
           "size": {
             "width": 96,
@@ -1096,7 +1096,7 @@
           "type": "306ca367fbbc5181b3c709d73f447e0710871a1d",
           "position": {
             "x": 1224,
-            "y": 1632
+            "y": 1944
           },
           "size": {
             "width": 96,
@@ -1108,7 +1108,7 @@
           "type": "afdfd851c62ff1f87cbc865d3c5f80b274b5e994",
           "position": {
             "x": 1224,
-            "y": 1904
+            "y": 2216
           },
           "size": {
             "width": 96,
@@ -1120,7 +1120,7 @@
           "type": "90475fb7e43e99638e866f88fcab6adab81005ac",
           "position": {
             "x": 1232,
-            "y": 2080
+            "y": 2392
           },
           "size": {
             "width": 96,
@@ -1132,7 +1132,7 @@
           "type": "782bf2c9766ef493c6997e6695065f5a500bf9f7",
           "position": {
             "x": 1216,
-            "y": 2264
+            "y": 2576
           },
           "size": {
             "width": 96,
@@ -1144,7 +1144,7 @@
           "type": "5756f86a1672dc4930aef0a0744e3f182107a87b",
           "position": {
             "x": 1216,
-            "y": 2544
+            "y": 2856
           },
           "size": {
             "width": 96,
@@ -1156,7 +1156,7 @@
           "type": "8cc49c9b29485f2cfeab6064d7bb1cf9ced045b1",
           "position": {
             "x": 800,
-            "y": 1632
+            "y": 1944
           },
           "size": {
             "width": 96,
@@ -1168,7 +1168,7 @@
           "type": "0f6c392fd18934000cbfa24f7cb7eab931e7c1b2",
           "position": {
             "x": 1424,
-            "y": 1904
+            "y": 2216
           },
           "size": {
             "width": 96,
@@ -1180,7 +1180,7 @@
           "type": "ab13f05d92d80a82af1a712a92621ea26dde55f3",
           "position": {
             "x": 1432,
-            "y": 2080
+            "y": 2392
           },
           "size": {
             "width": 96,
@@ -1192,7 +1192,7 @@
           "type": "2db4d243dd03a8574fd42a0998d5f90be5caec10",
           "position": {
             "x": 1416,
-            "y": 2264
+            "y": 2576
           },
           "size": {
             "width": 96,
@@ -1204,7 +1204,7 @@
           "type": "df0f3f06c52c56d0d046f2ceed137a642c18ae0a",
           "position": {
             "x": 1424,
-            "y": 2544
+            "y": 2856
           },
           "size": {
             "width": 96,
@@ -1216,7 +1216,7 @@
           "type": "decca3cf2b9498594a9c2a30320829ba70f6fabb",
           "position": {
             "x": 792,
-            "y": 1904
+            "y": 2216
           },
           "size": {
             "width": 96,
@@ -1228,7 +1228,7 @@
           "type": "a52e3be3d374c081062b542fc91c5cb1be726cb8",
           "position": {
             "x": 800,
-            "y": 2072
+            "y": 2384
           },
           "size": {
             "width": 96,
@@ -1240,7 +1240,7 @@
           "type": "ce38dc5eab555d38058730d56bf27972e5cbb202",
           "position": {
             "x": 784,
-            "y": 2256
+            "y": 2568
           },
           "size": {
             "width": 96,
@@ -1252,7 +1252,7 @@
           "type": "ab06af09e4825434c378ef37d8362e7818fd4a8f",
           "position": {
             "x": 792,
-            "y": 2528
+            "y": 2840
           },
           "size": {
             "width": 96,
@@ -1348,7 +1348,7 @@
           "type": "852bc8c84d29887beb3432bd25e5e7b6419b7f06",
           "position": {
             "x": 1440,
-            "y": 1608
+            "y": 1920
           },
           "size": {
             "width": 96,
@@ -1360,7 +1360,7 @@
           "type": "401a2859b9822a66cc19b8c5277d4c310a836edd",
           "position": {
             "x": 992,
-            "y": 1632
+            "y": 1944
           },
           "size": {
             "width": 96,
@@ -1372,7 +1372,7 @@
           "type": "6fef69b52e3d1ced0e01e887f8e757974affab8f",
           "position": {
             "x": 1624,
-            "y": 2064
+            "y": 2376
           },
           "size": {
             "width": 96,
@@ -1384,7 +1384,7 @@
           "type": "33e50db9d48b2ac603cb27c1e0d79c8c449fc4fb",
           "position": {
             "x": 984,
-            "y": 2056
+            "y": 2368
           },
           "size": {
             "width": 96,
@@ -1396,7 +1396,7 @@
           "type": "468a0568931bf0e98f0069778cf0f1b58849922a",
           "position": {
             "x": 1624,
-            "y": 2512
+            "y": 2824
           },
           "size": {
             "width": 96,
@@ -1408,7 +1408,7 @@
           "type": "c2b13c14c2fe0c7bfbcf40c76859c3affa905b0c",
           "position": {
             "x": 1816,
-            "y": 2552
+            "y": 2864
           },
           "size": {
             "width": 96,
@@ -1420,7 +1420,7 @@
           "type": "78e0a3d1967abcd86e415b34d991628f183e3597",
           "position": {
             "x": 976,
-            "y": 2528
+            "y": 2840
           },
           "size": {
             "width": 96,
@@ -1432,7 +1432,7 @@
           "type": "41c4e90603ac0b25943c77ae5c92209e8f09ef3b",
           "position": {
             "x": 792,
-            "y": 2616
+            "y": 2928
           },
           "size": {
             "width": 96,
@@ -1444,7 +1444,7 @@
           "type": "eed20e592c9f28c20d4231538c5ea383da2fbe4e",
           "position": {
             "x": 1432,
-            "y": 1416
+            "y": 1728
           },
           "size": {
             "width": 96,
@@ -1456,7 +1456,7 @@
           "type": "aa90c2a63a74522e50fe6225d39948632fad9c04",
           "position": {
             "x": 800,
-            "y": 1416
+            "y": 1728
           },
           "size": {
             "width": 96,
@@ -1468,7 +1468,7 @@
           "type": "2dbbdf24834e69796fbfc1c5113fc929ee1fb935",
           "position": {
             "x": 1624,
-            "y": 1880
+            "y": 2192
           },
           "size": {
             "width": 96,
@@ -1480,7 +1480,7 @@
           "type": "e697e99650fddd7963a72281979197aceaa4bc2f",
           "position": {
             "x": 992,
-            "y": 1872
+            "y": 2184
           },
           "size": {
             "width": 96,
@@ -1492,7 +1492,7 @@
           "type": "e2f315320f653562def276e03b3907f1c224f333",
           "position": {
             "x": 976,
-            "y": 2224
+            "y": 2536
           },
           "size": {
             "width": 96,
@@ -1504,7 +1504,7 @@
           "type": "97bc99cf54d06f965a8fe4d7673f6b02d5921243",
           "position": {
             "x": 1624,
-            "y": 2232
+            "y": 2544
           },
           "size": {
             "width": 96,
@@ -1516,7 +1516,7 @@
           "type": "5901da7b7446f04f541509b67283261bf3f9c55d",
           "position": {
             "x": 1232,
-            "y": 1272
+            "y": 1584
           },
           "size": {
             "width": 96,
@@ -1528,7 +1528,19 @@
           "type": "fdff5359e6953d5e234aab798a757a36e9c07904",
           "position": {
             "x": 1008,
-            "y": 1272
+            "y": 1584
+          },
+          "size": {
+            "width": 96,
+            "height": 64
+          }
+        },
+        {
+          "id": "d31ed708-1c33-4bc0-a592-cde27b861925",
+          "type": "25da75892222429039919cf2178ff5d6091896a2",
+          "position": {
+            "x": 1064,
+            "y": 1304
           },
           "size": {
             "width": 96,
@@ -15028,6 +15040,128 @@
                 "port": "i1"
               },
               "size": 3
+            }
+          ]
+        }
+      }
+    },
+    "25da75892222429039919cf2178ff5d6091896a2": {
+      "package": {
+        "name": "Bus9-Split-1-8",
+        "version": "0.1",
+        "description": "Bus9-Split-half: Split the 9-bits bus into two buses of 1 and 8 wires",
+        "author": "Juan González-Gómez (Obijuan)",
+        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22354.768%22%20height=%22241.058%22%20viewBox=%220%200%20332.59497%20225.99201%22%3E%3Cpath%20d=%22M168.377%2077.643l61.147-60.938C240.21%206.25%20254.56.461%20269.484.5h62.611v26.186l-61.698.046c-8.012-.043-15.705%203.133-21.47%208.81L187.48%2096.857a57.292%2057.292%200%200%201-39.993%2016.139%2057.292%2057.292%200%200%201%2039.993%2016.14l61.448%2061.314c5.765%205.677%2013.458%208.853%2021.47%208.81l61.698.046v26.186h-62.612c-14.924.039-29.463-5.9-40.204-16.28l-60.902-60.863a29.857%2029.857%200%200%200-21.347-8.81L.5%20139.427V86.457h146.524a29.884%2029.884%200%200%200%2021.353-8.814z%22%20fill=%22green%22%20stroke=%22#000%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3C/svg%3E"
+      },
+      "design": {
+        "graph": {
+          "blocks": [
+            {
+              "id": "6461d1f4-0bf2-46a4-8c57-46d4419eba2b",
+              "type": "basic.output",
+              "data": {
+                "name": "1"
+              },
+              "position": {
+                "x": 584,
+                "y": 104
+              }
+            },
+            {
+              "id": "2dc9dc8d-4eab-4177-84b2-bf8a19c49fbf",
+              "type": "basic.input",
+              "data": {
+                "name": "",
+                "range": "[8:0]",
+                "clock": false,
+                "size": 9
+              },
+              "position": {
+                "x": 104,
+                "y": 208
+              }
+            },
+            {
+              "id": "a6af4d9d-22a4-4229-ae6c-45c65d875e16",
+              "type": "basic.output",
+              "data": {
+                "name": "0",
+                "range": "[7:0]",
+                "size": 8
+              },
+              "position": {
+                "x": 592,
+                "y": 272
+              }
+            },
+            {
+              "id": "16e78204-213e-4833-9096-89d735307ec2",
+              "type": "basic.code",
+              "data": {
+                "code": "assign o1 = i[8];\nassign o0 = i[7:0];",
+                "params": [],
+                "ports": {
+                  "in": [
+                    {
+                      "name": "i",
+                      "range": "[8:0]",
+                      "size": 9
+                    }
+                  ],
+                  "out": [
+                    {
+                      "name": "o1"
+                    },
+                    {
+                      "name": "o0",
+                      "range": "[7:0]",
+                      "size": 8
+                    }
+                  ]
+                }
+              },
+              "position": {
+                "x": 272,
+                "y": 176
+              },
+              "size": {
+                "width": 240,
+                "height": 120
+              }
+            }
+          ],
+          "wires": [
+            {
+              "source": {
+                "block": "16e78204-213e-4833-9096-89d735307ec2",
+                "port": "o1"
+              },
+              "target": {
+                "block": "6461d1f4-0bf2-46a4-8c57-46d4419eba2b",
+                "port": "in"
+              }
+            },
+            {
+              "source": {
+                "block": "2dc9dc8d-4eab-4177-84b2-bf8a19c49fbf",
+                "port": "out"
+              },
+              "target": {
+                "block": "16e78204-213e-4833-9096-89d735307ec2",
+                "port": "i"
+              },
+              "size": 9
+            },
+            {
+              "source": {
+                "block": "16e78204-213e-4833-9096-89d735307ec2",
+                "port": "o0"
+              },
+              "target": {
+                "block": "a6af4d9d-22a4-4229-ae6c-45c65d875e16",
+                "port": "in"
+              },
+              "size": 8
             }
           ]
         }
