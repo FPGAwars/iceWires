@@ -20,7 +20,7 @@
           },
           "position": {
             "x": 248,
-            "y": -904
+            "y": -992
           },
           "size": {
             "width": 408,
@@ -32,7 +32,7 @@
           "type": "1287783e6ac62040edf61d1c2f9cb6213624660e",
           "position": {
             "x": 408,
-            "y": -672
+            "y": -760
           },
           "size": {
             "width": 96,
@@ -44,7 +44,7 @@
           "type": "cb1f4e797e142766ba8adb1b22b493c3ab521355",
           "position": {
             "x": 248,
-            "y": -672
+            "y": -760
           },
           "size": {
             "width": 96,
@@ -60,7 +60,7 @@
           },
           "position": {
             "x": 288,
-            "y": -704
+            "y": -792
           },
           "size": {
             "width": 64,
@@ -76,7 +76,7 @@
           },
           "position": {
             "x": 288,
-            "y": -784
+            "y": -872
           },
           "size": {
             "width": 152,
@@ -92,7 +92,7 @@
           },
           "position": {
             "x": 440,
-            "y": -704
+            "y": -792
           },
           "size": {
             "width": 64,
@@ -104,7 +104,7 @@
           "type": "80ac841b78ab68b7668296f4d0b0b4daadc7bcf9",
           "position": {
             "x": 608,
-            "y": -672
+            "y": -760
           },
           "size": {
             "width": 96,
@@ -116,7 +116,7 @@
           "type": "0dbcb9470111c4072304f196bb9e5ac39f4ccfb7",
           "position": {
             "x": 1064,
-            "y": -672
+            "y": -760
           },
           "size": {
             "width": 96,
@@ -132,7 +132,7 @@
           },
           "position": {
             "x": 584,
-            "y": -784
+            "y": -872
           },
           "size": {
             "width": 368,
@@ -148,7 +148,7 @@
           },
           "position": {
             "x": 1032,
-            "y": -784
+            "y": -872
           },
           "size": {
             "width": 368,
@@ -164,7 +164,7 @@
           },
           "position": {
             "x": 616,
-            "y": -704
+            "y": -792
           },
           "size": {
             "width": 128,
@@ -180,7 +180,7 @@
           },
           "position": {
             "x": 1072,
-            "y": -704
+            "y": -792
           },
           "size": {
             "width": 128,
@@ -195,8 +195,8 @@
             "readonly": true
           },
           "position": {
-            "x": 1456,
-            "y": -784
+            "x": 1600,
+            "y": -872
           },
           "size": {
             "width": 152,
@@ -211,8 +211,8 @@
             "readonly": true
           },
           "position": {
-            "x": 1512,
-            "y": -704
+            "x": 1656,
+            "y": -792
           },
           "size": {
             "width": 128,
@@ -223,8 +223,8 @@
           "id": "fa74d5d6-2f69-4351-b936-da21fc4ad966",
           "type": "df47f9a8523b6fdf885ff501b7da7fbc0ec32a82",
           "position": {
-            "x": 1488,
-            "y": -672
+            "x": 1632,
+            "y": -760
           },
           "size": {
             "width": 96,
@@ -236,7 +236,7 @@
           "type": "2b9b8c7b12f595d67c236787e6f8d9426571540d",
           "position": {
             "x": 600,
-            "y": -448
+            "y": -536
           },
           "size": {
             "width": 96,
@@ -248,7 +248,7 @@
           "type": "9a279550d6cd93b170311188e39bffc553a4f512",
           "position": {
             "x": 1064,
-            "y": -448
+            "y": -536
           },
           "size": {
             "width": 96,
@@ -260,7 +260,7 @@
           "type": "c4f23ad05c2010ec9bd213c8814c9238873037ae",
           "position": {
             "x": 1064,
-            "y": -216
+            "y": -304
           },
           "size": {
             "width": 96,
@@ -272,7 +272,7 @@
           "type": "84f0a15761ee8b753f67079819a7614923939472",
           "position": {
             "x": 608,
-            "y": -208
+            "y": -296
           },
           "size": {
             "width": 96,
@@ -507,8 +507,8 @@
           "id": "5d6acac6-a704-41c7-8465-cabe3cd56a63",
           "type": "874eca57ad472b8138a22fee027ef89f043b82d8",
           "position": {
-            "x": 1472,
-            "y": -448
+            "x": 1640,
+            "y": -528
           },
           "size": {
             "width": 96,
@@ -519,8 +519,8 @@
           "id": "65ebc63c-dcea-4dc9-849b-bc04fdc1f31e",
           "type": "be7a1bf6c2ec9b5676a53b390d75848232974f17",
           "position": {
-            "x": 1624,
-            "y": -216
+            "x": 1640,
+            "y": -304
           },
           "size": {
             "width": 96,
@@ -555,8 +555,8 @@
           "id": "6ab8e2a6-35d7-4667-85d8-5467f8565795",
           "type": "acf1a9f5efa94102508b0bfef01f64c844f58114",
           "position": {
-            "x": 2968,
-            "y": -672
+            "x": 3112,
+            "y": -760
           },
           "size": {
             "width": 96,
@@ -571,8 +571,8 @@
             "readonly": true
           },
           "position": {
-            "x": 2960,
-            "y": -776
+            "x": 3104,
+            "y": -864
           },
           "size": {
             "width": 152,
@@ -583,8 +583,8 @@
           "id": "388ebbed-4781-42a2-8668-5df29e21149e",
           "type": "8926e46e96c3ca7ce574debf3d69525d860825ce",
           "position": {
-            "x": 2768,
-            "y": -216
+            "x": 2920,
+            "y": -304
           },
           "size": {
             "width": 96,
@@ -595,8 +595,8 @@
           "id": "75b50829-717e-4b4e-8eb4-08cc7282c3da",
           "type": "fac2a77a414e0c67d158dfb4d310abef3a11aabf",
           "position": {
-            "x": 2768,
-            "y": -664
+            "x": 2912,
+            "y": -752
           },
           "size": {
             "width": 96,
@@ -611,8 +611,8 @@
             "readonly": true
           },
           "position": {
-            "x": 2744,
-            "y": -776
+            "x": 2912,
+            "y": -864
           },
           "size": {
             "width": 152,
@@ -623,8 +623,8 @@
           "id": "bfcfbb25-c816-4e8d-aee7-758ba4b0c892",
           "type": "378b5f2534906ff996d8a34bfbdf8b52fd131498",
           "position": {
-            "x": 2768,
-            "y": -544
+            "x": 2920,
+            "y": -640
           },
           "size": {
             "width": 96,
@@ -639,8 +639,8 @@
             "readonly": true
           },
           "position": {
-            "x": 2400,
-            "y": -784
+            "x": 2544,
+            "y": -872
           },
           "size": {
             "width": 264,
@@ -655,8 +655,8 @@
             "readonly": true
           },
           "position": {
-            "x": 2008,
-            "y": -784
+            "x": 2152,
+            "y": -872
           },
           "size": {
             "width": 288,
@@ -716,7 +716,7 @@
           "type": "bb29cbc19d43008d6bbeb6136fcfc05cfac1f357",
           "position": {
             "x": 400,
-            "y": -448
+            "y": -536
           },
           "size": {
             "width": 96,
@@ -728,7 +728,7 @@
           "type": "17e6cad67e13a7b20a0446b06942e2bf2c685737",
           "position": {
             "x": 408,
-            "y": -200
+            "y": -288
           },
           "size": {
             "width": 96,
@@ -823,8 +823,8 @@
           "id": "9a3a87a0-04ef-48d8-bb46-af8492cb0898",
           "type": "388b1b621be95f366d2585a1f6a6cfe7a55a4026",
           "position": {
-            "x": 2016,
-            "y": -680
+            "x": 2160,
+            "y": -768
           },
           "size": {
             "width": 96,
@@ -835,8 +835,8 @@
           "id": "6a5a3d21-7e10-4b12-9527-3f716fc7f72c",
           "type": "67ebc452f5e6d93badd85e39e3c31fde852203f0",
           "position": {
-            "x": 2016,
-            "y": -576
+            "x": 2160,
+            "y": -664
           },
           "size": {
             "width": 96,
@@ -847,8 +847,8 @@
           "id": "ad4a8e22-0138-4a34-a705-da2aaf74c8ed",
           "type": "e5166306329cf95efe5574e36fa76c5249e07ec2",
           "position": {
-            "x": 1744,
-            "y": -672
+            "x": 1880,
+            "y": -760
           },
           "size": {
             "width": 96,
@@ -863,8 +863,8 @@
             "readonly": true
           },
           "position": {
-            "x": 1704,
-            "y": -784
+            "x": 1848,
+            "y": -872
           },
           "size": {
             "width": 152,
@@ -875,8 +875,8 @@
           "id": "e4a5ced8-1985-4bd2-bb0c-6cbd5e00c412",
           "type": "7f542a10bdf86155481dedefef8358ea9b2c1a26",
           "position": {
-            "x": 2192,
-            "y": -576
+            "x": 2336,
+            "y": -664
           },
           "size": {
             "width": 96,
@@ -887,8 +887,8 @@
           "id": "91f41269-faca-477c-94ec-6f6fe640615f",
           "type": "03eab824729a6aaa3141d81d17ea8520a8408268",
           "position": {
-            "x": 2400,
-            "y": -688
+            "x": 2544,
+            "y": -776
           },
           "size": {
             "width": 96,
@@ -899,8 +899,8 @@
           "id": "a9e18944-1cf9-428e-b339-12685aab0501",
           "type": "a634693e8b21f73ce80ddddbea67493eee0e163f",
           "position": {
-            "x": 2408,
-            "y": -576
+            "x": 2552,
+            "y": -664
           },
           "size": {
             "width": 96,
@@ -911,8 +911,8 @@
           "id": "add25c36-a4fd-48bc-843d-da524c2f353c",
           "type": "66eb52932b3a5b4a57764da82befa1520be6dbd3",
           "position": {
-            "x": 2592,
-            "y": -576
+            "x": 2736,
+            "y": -664
           },
           "size": {
             "width": 96,
@@ -924,7 +924,7 @@
           "type": "a1396ded444d071c511a0bf43a1bfd31e8e23280",
           "position": {
             "x": 1232,
-            "y": -360
+            "y": -448
           },
           "size": {
             "width": 96,
@@ -936,7 +936,7 @@
           "type": "0fa07340e795f699d6f370d550d2259f58dd3e21",
           "position": {
             "x": 1232,
-            "y": -216
+            "y": -304
           },
           "size": {
             "width": 96,
@@ -1500,7 +1500,7 @@
           "type": "bae18b574f84242abb0e465664fca2670a50b5da",
           "position": {
             "x": 1232,
-            "y": -448
+            "y": -536
           },
           "size": {
             "width": 96,
@@ -1512,7 +1512,7 @@
           "type": "c2a30f6f91dd1ca6fa71ed2983d5ab9fdc967f0f",
           "position": {
             "x": 768,
-            "y": -448
+            "y": -536
           },
           "size": {
             "width": 96,
@@ -1524,7 +1524,7 @@
           "type": "971c29e01b52b06d36d0145bb4312ffd8117229d",
           "position": {
             "x": 768,
-            "y": -360
+            "y": -448
           },
           "size": {
             "width": 96,
@@ -1536,7 +1536,19 @@
           "type": "73a1992e815d7d03a46c8779252d802c2a0c5180",
           "position": {
             "x": 1232,
-            "y": -120
+            "y": -208
+          },
+          "size": {
+            "width": 96,
+            "height": 64
+          }
+        },
+        {
+          "id": "abbc2e54-5ee8-4b89-80a1-c4c566fcb1b9",
+          "type": "82e0962b333c8ae0b15324a71101eb4cab8b8d69",
+          "position": {
+            "x": 1424,
+            "y": -304
           },
           "size": {
             "width": 96,
@@ -15771,6 +15783,133 @@
                 "port": "in"
               },
               "size": 3
+            }
+          ]
+        }
+      }
+    },
+    "82e0962b333c8ae0b15324a71101eb4cab8b8d69": {
+      "package": {
+        "name": "Bus4-Split-half",
+        "version": "0.1",
+        "description": "Bus4-Split-half: Split the 4-bits bus into two of the same size",
+        "author": "Juan González-Gómez (Obijuan)",
+        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22354.768%22%20height=%22241.058%22%20viewBox=%220%200%20332.59497%20225.99201%22%3E%3Cpath%20d=%22M168.377%2077.643l61.147-60.938C240.21%206.25%20254.56.461%20269.484.5h62.611v26.186l-61.698.046c-8.012-.043-15.705%203.133-21.47%208.81L187.48%2096.857a57.292%2057.292%200%200%201-39.993%2016.139%2057.292%2057.292%200%200%201%2039.993%2016.14l61.448%2061.314c5.765%205.677%2013.458%208.853%2021.47%208.81l61.698.046v26.186h-62.612c-14.924.039-29.463-5.9-40.204-16.28l-60.902-60.863a29.857%2029.857%200%200%200-21.347-8.81L.5%20139.427V86.457h146.524a29.884%2029.884%200%200%200%2021.353-8.814z%22%20fill=%22green%22%20stroke=%22#000%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3C/svg%3E"
+      },
+      "design": {
+        "graph": {
+          "blocks": [
+            {
+              "id": "80a2eb57-cca4-457c-8c37-1dd3f3174562",
+              "type": "basic.output",
+              "data": {
+                "name": "1",
+                "range": "[1:0]",
+                "size": 2
+              },
+              "position": {
+                "x": 600,
+                "y": 128
+              }
+            },
+            {
+              "id": "745d3113-3b1f-499a-a414-00e638cd932b",
+              "type": "basic.input",
+              "data": {
+                "name": "",
+                "range": "[3:0]",
+                "clock": false,
+                "size": 4
+              },
+              "position": {
+                "x": 136,
+                "y": 184
+              }
+            },
+            {
+              "id": "c05bafda-1d38-4102-9f69-0fab860fdd38",
+              "type": "basic.output",
+              "data": {
+                "name": "0",
+                "range": "[1:0]",
+                "size": 2
+              },
+              "position": {
+                "x": 608,
+                "y": 264
+              }
+            },
+            {
+              "id": "16e78204-213e-4833-9096-89d735307ec2",
+              "type": "basic.code",
+              "data": {
+                "code": "assign o1 = i[3:2];\nassign o0 = i[1:0];",
+                "params": [],
+                "ports": {
+                  "in": [
+                    {
+                      "name": "i",
+                      "range": "[3:0]",
+                      "size": 4
+                    }
+                  ],
+                  "out": [
+                    {
+                      "name": "o1",
+                      "range": "[1:0]",
+                      "size": 2
+                    },
+                    {
+                      "name": "o0",
+                      "range": "[1:0]",
+                      "size": 2
+                    }
+                  ]
+                }
+              },
+              "position": {
+                "x": 296,
+                "y": 176
+              },
+              "size": {
+                "width": 224,
+                "height": 80
+              }
+            }
+          ],
+          "wires": [
+            {
+              "source": {
+                "block": "745d3113-3b1f-499a-a414-00e638cd932b",
+                "port": "out"
+              },
+              "target": {
+                "block": "16e78204-213e-4833-9096-89d735307ec2",
+                "port": "i"
+              },
+              "size": 4
+            },
+            {
+              "source": {
+                "block": "16e78204-213e-4833-9096-89d735307ec2",
+                "port": "o0"
+              },
+              "target": {
+                "block": "c05bafda-1d38-4102-9f69-0fab860fdd38",
+                "port": "in"
+              },
+              "size": 2
+            },
+            {
+              "source": {
+                "block": "16e78204-213e-4833-9096-89d735307ec2",
+                "port": "o1"
+              },
+              "target": {
+                "block": "80a2eb57-cca4-457c-8c37-1dd3f3174562",
+                "port": "in"
+              },
+              "size": 2
             }
           ]
         }
