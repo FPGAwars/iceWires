@@ -1914,6 +1914,18 @@
             "width": 96,
             "height": 64
           }
+        },
+        {
+          "id": "d162ac7d-628f-49dc-a90d-69176c242d08",
+          "type": "aa6b8fb93205a14f27c90f599d2c26292b4d7af1",
+          "position": {
+            "x": 3128,
+            "y": 512
+          },
+          "size": {
+            "width": 96,
+            "height": 64
+          }
         }
       ],
       "wires": []
@@ -21201,6 +21213,107 @@
                 "port": "in"
               },
               "size": 2
+            }
+          ]
+        }
+      }
+    },
+    "aa6b8fb93205a14f27c90f599d2c26292b4d7af1": {
+      "package": {
+        "name": "UINT8-7bits",
+        "version": "0.1",
+        "description": "UINT8-7bits:  Extend a 7-bits unsigned integer to 8-bits ",
+        "author": "Juan González-Gómez (Obijuan)",
+        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22448.598%22%20height=%22127.811%22%20viewBox=%220%200%20118.69152%2033.816643%22%3E%3Cg%20style=%22line-height:1.25%22%20font-weight=%22700%22%20font-size=%2245.504%22%20font-family=%22sans-serif%22%20fill=%22green%22%20stroke-width=%221.138%22%3E%3Cpath%20d=%22M0%200h8.554v19.886q0%204.11%201.333%205.888%201.356%201.755%204.4%201.755%203.066%200%204.399-1.755%201.355-1.778%201.355-5.888V0h8.554v19.886q0%207.043-3.532%2010.487-3.533%203.444-10.776%203.444-7.221%200-10.754-3.444Q0%2026.929%200%2019.886zM36.972%200h8.554v33.172h-8.554zM53.947%200H63.5l12.064%2022.752V0h8.11v33.172h-9.554L62.056%2010.421v22.751h-8.11zM88.119%200h30.573v6.466h-10.999v26.706H99.14V6.466H88.12z%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22/%3E%3C/g%3E%3C/svg%3E",
+        "otid": 1621785467119
+      },
+      "design": {
+        "graph": {
+          "blocks": [
+            {
+              "id": "2110b07a-0d20-4fad-8cf9-cb00a7e251f3",
+              "type": "basic.output",
+              "data": {
+                "name": "",
+                "range": "[7:0]",
+                "size": 8
+              },
+              "position": {
+                "x": 920,
+                "y": 360
+              }
+            },
+            {
+              "id": "eea79fff-356e-46fe-b7cb-3d15ba73e82c",
+              "type": "basic.input",
+              "data": {
+                "name": "",
+                "range": "[6:0]",
+                "clock": false,
+                "size": 7
+              },
+              "position": {
+                "x": 400,
+                "y": 376
+              }
+            },
+            {
+              "id": "4064d201-f924-4a9e-91bf-dfe2359686ad",
+              "type": "27c4acfb3dc95157ab6b0f7b7317f3db53603fb3",
+              "position": {
+                "x": 736,
+                "y": 360
+              },
+              "size": {
+                "width": 96,
+                "height": 64
+              }
+            },
+            {
+              "id": "ca044817-9a51-4b44-99af-1b184c7b9b54",
+              "type": "d30ca9ee4f35f6cb76d5e5701447fc2b739bc640",
+              "position": {
+                "x": 528,
+                "y": 288
+              },
+              "size": {
+                "width": 96,
+                "height": 64
+              }
+            }
+          ],
+          "wires": [
+            {
+              "source": {
+                "block": "4064d201-f924-4a9e-91bf-dfe2359686ad",
+                "port": "1269698e-e555-4fcb-a613-cb4c7ff2e598"
+              },
+              "target": {
+                "block": "2110b07a-0d20-4fad-8cf9-cb00a7e251f3",
+                "port": "in"
+              },
+              "size": 8
+            },
+            {
+              "source": {
+                "block": "eea79fff-356e-46fe-b7cb-3d15ba73e82c",
+                "port": "out"
+              },
+              "target": {
+                "block": "4064d201-f924-4a9e-91bf-dfe2359686ad",
+                "port": "174f6267-276e-4312-bbe8-26cc25250b5f"
+              },
+              "size": 7
+            },
+            {
+              "source": {
+                "block": "ca044817-9a51-4b44-99af-1b184c7b9b54",
+                "port": "3d584b0a-29eb-47af-8c43-c0822282ef05"
+              },
+              "target": {
+                "block": "4064d201-f924-4a9e-91bf-dfe2359686ad",
+                "port": "a6e45acc-098d-4305-917b-166a6ddc7b4e"
+              }
             }
           ]
         }
