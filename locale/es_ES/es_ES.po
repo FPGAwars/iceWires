@@ -1899,10 +1899,8 @@ msgid "# INDEX: IceWire Collection"
 msgstr "# ÍNDICE: Colección IceWires"
 
 #: translation.js:400
-#, fuzzy
-#| msgid "Wires"
 msgid "## Wires"
-msgstr "Cables"
+msgstr "## Cables"
 
 #: translation.js:401
 msgid "Bus2"
@@ -1925,10 +1923,8 @@ msgid "Bus2-Split-all"
 msgstr "Bus2-Split-all"
 
 #: translation.js:406
-#, fuzzy
-#| msgid "## Copy Menu"
 msgid "## Copy"
-msgstr "## Menú Copiar"
+msgstr "## Copiar"
 
 #: translation.js:407
 msgid "Copy-2"
@@ -1972,33 +1968,31 @@ msgstr "Copy-2"
 
 #: translation.js:414
 msgid "## UINT8"
-msgstr ""
+msgstr "## UINT8"
 
 #: translation.js:415
 msgid "## Reversal"
-msgstr ""
+msgstr "## Inversión"
 
 #: translation.js:416
 msgid "## Shift-left"
-msgstr ""
+msgstr "## Desplazamiento a la izquierda"
 
 #: translation.js:417
 msgid "## Shift-right"
-msgstr ""
+msgstr "## Desplazamiento a la derecha"
 
 #: translation.js:418
-#, fuzzy
-#| msgid "## Split Menu"
 msgid "## Sign"
-msgstr "## Menú Separar"
+msgstr "## Signo"
 
 #: translation.js:419
 msgid "## UINT2"
-msgstr ""
+msgstr "## UINT2"
 
 #: translation.js:420
 msgid "## UINT4"
-msgstr ""
+msgstr "## UINT4"
 
 #: translation.js:435
 #, fuzzy
@@ -2531,15 +2525,15 @@ msgstr ""
 
 #: translation.js:642
 msgid "2-to-1 Multplexer (8-bit channels)"
-msgstr ""
+msgstr "Multiplexor 2-1 (Canales de 8 bits)"
 
 #: translation.js:643
 msgid "2-to-1 Multplexer (4-bit channels)"
-msgstr ""
+msgstr "Multiplexor 2-1 (Canales de 4 bits)"
 
 #: translation.js:644
 msgid "2-to-1 Multplexer (1-bit channels)"
-msgstr ""
+msgstr "Multiplexor 2-1 (Canales de 1 bit)"
 
 #: translation.js:645
 msgid "OR2: Two bits input OR gate"
@@ -2564,6 +2558,8 @@ msgid ""
 "## Bus-09-bits Join-1-8: Manual testing\n"
 "\n"
 msgstr ""
+"## Bus-09-bits Join-1-8: Prueba manual\n"
+"\n"
 
 #: translation.js:650
 msgid "Channel B"
@@ -2599,10 +2595,8 @@ msgstr ""
 #: translation.js:1226 translation.js:1228 translation.js:1230
 #: translation.js:1232 translation.js:1234 translation.js:1236
 #: translation.js:1238 translation.js:1240 translation.js:1242
-#, fuzzy
-#| msgid "01-manual-btn-leds"
 msgid "01-Manual-testing"
-msgstr "01-manual-btn-leds"
+msgstr "01-Manual-testing"
 
 #: translation.js:657
 msgid ""
@@ -2696,7 +2690,7 @@ msgstr ""
 
 #: translation.js:700
 msgid "2-to-1 Multplexer (1-bit channels). Fippled version"
-msgstr ""
+msgstr "Multiplexor 2-1 (Canales de 1 bit). Versión invertida"
 
 #: translation.js:701
 msgid "D Flip-flop (verilog implementation)"
@@ -2750,11 +2744,11 @@ msgstr ""
 
 #: translation.js:713
 msgid "1bit register (implemented in verilog)"
-msgstr ""
+msgstr "Registro de 1 bit (Implementado en verilog)"
 
 #: translation.js:714
 msgid "16-bits Syscounter with reset"
-msgstr ""
+msgstr "Contador del sistema de 16 bits con reset"
 
 #: translation.js:715
 msgid "DFF-rst-x16: 16 D flip-flops in paralell with reset"
@@ -2818,10 +2812,8 @@ msgid ""
 msgstr ""
 
 #: translation.js:729
-#, fuzzy
-#| msgid "Generic: 4-bits generic constant (0-15)"
 msgid "1-bit generic constant (0/1)"
-msgstr "Generic: Constante genérica de 4-bits  (0-15)"
+msgstr "Constante genérica de 1-bit  (0/1)"
 
 #: translation.js:730
 msgid ""
@@ -2892,6 +2884,10 @@ msgid ""
 "It generates a 1-period pulse (tic) when a rising edge is detected on the  \n"
 "input signal"
 msgstr ""
+"## Detector de flanco de subida\n"
+"\n"
+"Se genera un pulso de un ciclo cuando se detecta un flanco de subida en  \n"
+"la señal de entrada"
 
 #: translation.js:743
 msgid "Input signal"
@@ -2961,6 +2957,10 @@ msgid ""
 "0: No pull-up  \n"
 "1: Pull-up activated"
 msgstr ""
+"### Parámetro pull-up:\n"
+"\n"
+"0: Sin pull-up  \n"
+"1: Pull-up activado"
 
 #: translation.js:753
 msgid ""
@@ -3000,6 +3000,12 @@ msgid ""
 "IF more time is needed for debouncing,  \n"
 "use a counter with more bits (17, 18...)"
 msgstr ""
+"### Cálculo de tiempo\n"
+"\n"
+"Para CLK=12MHZ, un contador de 16 bits alcanza su  \n"
+"valor máximo cada 2 ** 16 * 1/F = 5.5ms aprox  \n"
+"Si se necesita más tiempo para el antirrebots,  \n"
+"usa un contador con más bits (17, 18...)"
 
 #: translation.js:759
 msgid ""
@@ -3010,6 +3016,12 @@ msgid ""
 "aprox. When a value is stable it is  \n"
 "captured on the output flip-flop"
 msgstr ""
+"## Antirrebotes  \n"
+"\n"
+"Un valor se considera estable cuando  \n"
+"no hay cambios durante 5.5ms  aprox  \n"
+"Cuando un valor es estable se captura  \n"
+"en el biestable"
 
 #: translation.js:760
 msgid "Stable output"
@@ -3047,6 +3059,11 @@ msgid ""
 "detected on the  \n"
 "input signal"
 msgstr ""
+"## Detector de flancos\n"
+"\n"
+"Se genera un pulso de un ciclo cuando un flanco (de subada o bajada) se "
+"detecta en  \n"
+"la señal de entrada"
 
 #: translation.js:767
 msgid ""
@@ -3078,6 +3095,14 @@ msgid ""
 "| 1 | 0     |  1     | Not      |\n"
 "| 1 | 1     |  0     | Not      |"
 msgstr ""
+"### Tabla de verdad para XOR\n"
+"\n"
+"| k | Entrada | Salida | Función |\n"
+"|---|-------|--------|----------|\n"
+"| 0 | 0     |  0     | cable     |\n"
+"| 0 | 1     |  1     | cable    |\n"
+"| 1 | 0     |  1     | Not      |\n"
+"| 1 | 1     |  0     | Not      |"
 
 #: translation.js:776
 msgid ""
@@ -3106,10 +3131,8 @@ msgstr ""
 #: translation.js:789 translation.js:791 translation.js:793 translation.js:795
 #: translation.js:1073 translation.js:1076 translation.js:1078
 #: translation.js:1080
-#, fuzzy
-#| msgid "01-manual-btn-leds"
 msgid "01-manual-testing"
-msgstr "01-manual-btn-leds"
+msgstr "01-manual-testing"
 
 #: translation.js:790
 msgid ""
@@ -3191,19 +3214,19 @@ msgstr ""
 
 #: translation.js:830 translation.js:1194
 msgid "02-Bits"
-msgstr ""
+msgstr "02-Bits"
 
 #: translation.js:831 translation.js:1195
 msgid "03-Bits"
-msgstr ""
+msgstr "03-Bits"
 
 #: translation.js:832
 msgid "04-Bits"
-msgstr ""
+msgstr "04-Bits"
 
 #: translation.js:833
 msgid "05-Bits"
-msgstr ""
+msgstr "05-Bits"
 
 #: translation.js:842
 msgid "Reversal-5: 5-bit Bus reversal"
@@ -3358,10 +3381,8 @@ msgstr ""
 "El valor de la constante se muestra en los LEDs"
 
 #: translation.js:964 translation.js:966
-#, fuzzy
-#| msgid "01-manual-btn-leds"
 msgid "01-manual-test"
-msgstr "01-manual-btn-leds"
+msgstr "01-manual-test"
 
 #: translation.js:965
 msgid ""
@@ -3568,6 +3589,8 @@ msgid ""
 "## Bus-09-bits Split-1-8: Manual testing\n"
 "\n"
 msgstr ""
+"## Bus-09-bits Split-1-8: Prueba manual\n"
+"\n"
 
 #: translation.js:1064
 msgid ""
@@ -3634,12 +3657,16 @@ msgid ""
 "## Bus-15: Split-7-8: Manual testing\n"
 "\n"
 msgstr ""
+"## Bus-15-bits Split-7-8: Prueba manual\n"
+"\n"
 
 #: translation.js:1090
 msgid ""
 "## Bus-16: Split-half: Manual testing\n"
 "\n"
 msgstr ""
+"## Bus-16-bits Split-half: Prueba manual\n"
+"\n"
 
 #: translation.js:1094
 msgid ""
@@ -3648,6 +3675,10 @@ msgid ""
 "The value is shown in 8 LEDs. Initially only the less significant  \n"
 "bits. When the button is pressed, the Upper bits are displayed"
 msgstr ""
+"## Split16-quarter: Prueba manual\n"
+"\n"
+"El valor se muestra en los 8 LEDs. Inicialmente solo los bits  \n"
+"menos sigfnificativos. cuando se aprieta el botón se muestran los superiores"
 
 #: translation.js:1099
 #, fuzzy
@@ -3660,6 +3691,8 @@ msgid ""
 "## Bus-19: Split-3-8-8: Manual testing\n"
 "\n"
 msgstr ""
+"## Bus-19-bits Split-3-8-8: Prueba manual\n"
+"\n"
 
 #: translation.js:1107
 #, fuzzy
@@ -3676,6 +3709,11 @@ msgid ""
 "switches  \n"
 "between the 8 less significant bits and the 8 bits in the middle"
 msgstr ""
+"## Bus 20 Split-12-8: Prueba manual\n"
+"\n"
+"La constante de 20-bits se muestra en los 8 LEDs. Cuando el botón sw1  \n"
+"se aprieta los 4 bits más significativos se muestran. El botón sw2 cambia  \n"
+"entre los 8 bits menos significativos y los 8 bits de en medio"
 
 #: translation.js:1109
 msgid ""
@@ -3692,19 +3730,19 @@ msgid ""
 "switches  \n"
 "between the 8 less significant bits and the 8 bits in the middle"
 msgstr ""
+"## Bus 20 Split-4-16: Prueba manual\n"
+"\n"
+"La constante de 20-bits se muestra en los 8 LEDs. Cuando el botón sw1  \n"
+"se aprieta los 4 bits más significativos se muestran. El botón sw2 cambia  \n"
+"entre los 8 bits menos significativos y los 8 bits de en medio"
 
 #: translation.js:1117
-#, fuzzy
-#| msgid ""
-#| "# Bus3-Split-all: Manual testing with a constant and LEDs\n"
-#| "\n"
-#| "The value of the constant is shown on the LEDs"
 msgid ""
 "## Bus20-Split-4-8-8: Manual testing\n"
 "\n"
 "The 20-bits constants is displayed on the 8 LEDs"
 msgstr ""
-"# Bus3-Split-all: Prueba manual con una constante y LEDs  \n"
+"# Bus20-Split-4-8-8: Prueba manual  \n"
 "\n"
 "El valor de la constante se muestra en los LEDs"
 
@@ -3717,6 +3755,11 @@ msgid ""
 "switches  \n"
 "between the 8 less significant bits and the 8 bits in the middle"
 msgstr ""
+"## Bus 24 Split-16-8: Prueba manual\n"
+"\n"
+"La constante de 24-bits se muestra en los 8 LEDs. Cuando el botón sw1  \n"
+"se aprieta los 8 bits más significativos se muestran. El botón sw2 cambia  \n"
+"entre los 8 bits menos significativos y los 8 bits de en medio"
 
 #: translation.js:1125
 msgid ""
@@ -3733,6 +3776,11 @@ msgid ""
 "switches  \n"
 "between the 8 less significant bits and the 8 bits in the middle"
 msgstr ""
+"## Bus 24 Split-8-16: Prueba manual\n"
+"\n"
+"La constante de 24-bits se muestra en los 8 LEDs. Cuando el botón sw1  \n"
+"se aprieta los 8 bits más significativos se muestran. El botón sw2 cambia  \n"
+"entre los 8 bits menos significativos y los 8 bits de en medio"
 
 #: translation.js:1133
 msgid ""
@@ -3741,6 +3789,11 @@ msgid ""
 "The 24-bits constant is displayed on the 8 LEDs. The sw1 is used for  \n"
 "displaying the lower, middle and higer segments of the constant on the LEDs"
 msgstr ""
+"## Bus 24 Split-one-third: Prueba manual\n"
+"\n"
+"La constante de 24-bits se muestra en los 8 LEDs. El boton sw1 se use "
+"para  \n"
+"mostrar el byte inferior, de enmedio y superior de la constante en los LEDs"
 
 #: translation.js:1138
 #, fuzzy
@@ -3753,6 +3806,8 @@ msgid ""
 "## Bus-27-Split-3-8-8-8: Manual testing\n"
 "\n"
 msgstr ""
+"## Bus-27-bits Split-3-8-8-8: Prueba manual\n"
+"\n"
 
 #: translation.js:1146
 #, fuzzy
@@ -3769,6 +3824,11 @@ msgid ""
 "switches  \n"
 "between the 8 less significant bits and the 8 bits in the middle"
 msgstr ""
+"## Bus 28 Split-20-8: Prueba manual\n"
+"\n"
+"La constante de 28-bits se muestra en los 8 LEDs. Cuando el botón sw1  \n"
+"se aprieta los 8 bits más significativos se muestran. El botón sw2 cambia  \n"
+"entre los 8 bits menos significativos y los 8 bits de en medio"
 
 #: translation.js:1151
 msgid ""
@@ -3779,6 +3839,11 @@ msgid ""
 "switches  \n"
 "between the 8 less significant bits and the 8 bits in the middle"
 msgstr ""
+"## Bus 28 Split-4-24: Prueba manual\n"
+"\n"
+"La constante de 28-bits se muestra en los 8 LEDs. Cuando el botón sw1  \n"
+"se aprieta los 8 bits más significativos se muestran. El botón sw2 cambia  \n"
+"entre los 8 bits menos significativos y los 8 bits de en medio"
 
 #: translation.js:1152
 msgid ""
@@ -3797,6 +3862,8 @@ msgid ""
 "## Bus-31: Split-7-8-8-8: Manual testing\n"
 "\n"
 msgstr ""
+"## Bus-31-bits Split-7-8-8-8: Prueba manual\n"
+"\n"
 
 #: translation.js:1169
 #, fuzzy
@@ -3864,79 +3931,79 @@ msgstr ""
 
 #: translation.js:1188 translation.js:1208
 msgid "01-bit"
-msgstr ""
+msgstr "01-bit"
 
 #: translation.js:1191
 msgid "## Uint2-1bits: Manual testing"
-msgstr ""
+msgstr "## Uint2-1bits: Prueba manual"
 
 #: translation.js:1193
 msgid "01-Bit"
-msgstr ""
+msgstr "01-Bit"
 
 #: translation.js:1198
 msgid "## Uint4-1bit: Manual testing"
-msgstr ""
+msgstr "## Uint4-1bit: Prueba manual"
 
 #: translation.js:1202
 msgid "## Uint4-2bit: Manual testing"
-msgstr ""
+msgstr "## Uint4-2bit: Prueba manual"
 
 #: translation.js:1206
 msgid "## Uint4-3bit: Manual testing"
-msgstr ""
+msgstr "## Uint4-3bit: Prueba manual"
 
 #: translation.js:1209
 msgid "02-bits"
-msgstr ""
+msgstr "02-bits"
 
 #: translation.js:1210
 msgid "03-bits"
-msgstr ""
+msgstr "03-bits"
 
 #: translation.js:1211
 msgid "04-bits"
-msgstr ""
+msgstr "04-bits"
 
 #: translation.js:1212
 msgid "05-bits"
-msgstr ""
+msgstr "05-bits"
 
 #: translation.js:1213
 msgid "06-bits"
-msgstr ""
+msgstr "06-bits"
 
 #: translation.js:1214
 msgid "07-bits"
-msgstr ""
+msgstr "07-bits"
 
 #: translation.js:1217
 msgid "## Uint8-1bit: Manual testing"
-msgstr ""
+msgstr "## Uint8-1bit: Prueba manual"
 
 #: translation.js:1221
 msgid "## Uint8-2bits: Manual testing"
-msgstr ""
+msgstr "## Uint8-2bit: Prueba manual"
 
 #: translation.js:1225
 msgid "## Uint8-3bits: Manual testing"
-msgstr ""
+msgstr "## Uint8-3bit: Prueba manual"
 
 #: translation.js:1229
 msgid "## Uint8-4bits: Manual testing"
-msgstr ""
+msgstr "## Uint8-4bit: Prueba manual"
 
 #: translation.js:1233
 msgid "## Uint8-5bits: Manual testing"
-msgstr ""
+msgstr "## Uint8-5bit: Prueba manual"
 
 #: translation.js:1237
 msgid "## Uint8-6bits: Manual testing"
-msgstr ""
+msgstr "## Uint8-6bit: Prueba manual"
 
 #: translation.js:1241
 msgid "## Uint8-7bits: Manual testing"
-msgstr ""
+msgstr "## Uint8-7bit: Prueba manual"
 
 #: translation.js:1252 translation.js:1255 translation.js:1257
 #: translation.js:1259 translation.js:1261 translation.js:1263
