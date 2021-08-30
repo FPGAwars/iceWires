@@ -638,8 +638,9 @@ For installing and using this colection in Icestudio follow these steps:
         * **Alhambra-II**
           * Manual-testing
     * **Bus-19**
-      * **Alhambra-II**
-        * 01-Manual-testing
+      * **Split-3-8-8**
+        * **Alhambra-II**
+          * 01-Manual-testing
     * **Bus-20**
       * **Split-12-8**
         * **Alhambra-II**
@@ -651,8 +652,6 @@ For installing and using this colection in Icestudio follow these steps:
         * **Alhambra-II**
           * Manual-testing
     * **Bus-23**
-      * **Alhambra-II**
-        * 01-Manual-testing
     * **Bus-24**
       * **Split-16-8**
         * **Alhambra-II**
@@ -664,8 +663,9 @@ For installing and using this colection in Icestudio follow these steps:
         * **Alhambra-II**
           * Manual-testing
     * **Bus-27**
-      * **Alhambra-II**
-        * 01-Manual-testing
+      * **Split-3-8-8-8**
+        * **Alhambra-II**
+          * 01-Manual-testing
     * **Bus-28**
       * **Split-20-8**
         * **Alhambra-II**
@@ -677,8 +677,9 @@ For installing and using this colection in Icestudio follow these steps:
         * **Alhambra-II**
           * Manual-testing
     * **Bus-31**
-      * **Alhambra-II**
-        * 01-Manual-testing
+      * **Split-7-8-8-8**
+        * **Alhambra-II**
+          * 01-Manual-testing
     * **Bus-32**
       * **Split-24-8**
         * **Alhambra-II**
