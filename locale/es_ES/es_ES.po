@@ -115,10 +115,8 @@ msgstr ""
 "2 bits"
 
 #: translation.js:30
-#, fuzzy
-#| msgid "Bus4-Join-all: Join all the wires into a 4-bits Bus"
 msgid "Bus5-Join-all: Join all the wires into a 5-bits Bus"
-msgstr "Bus-4-join-all: Agregar todos los cables a un bus de 4 bits"
+msgstr "Bus5-join-all: Unir todos los cables en un bus de 5 bits"
 
 #: translation.js:31 translation.js:433
 #, fuzzy
@@ -135,10 +133,8 @@ msgstr ""
 "2 bits"
 
 #: translation.js:33
-#, fuzzy
-#| msgid "Bus4-Join-all: Join all the wires into a 4-bits Bus"
 msgid "Bus6-Join-all: Join all the wires into a 6-bits Bus"
-msgstr "Bus-4-join-all: Agregar todos los cables a un bus de 4 bits"
+msgstr "Bus6-join-all: Unir todos los cables en un bus de 6 bits"
 
 #: translation.js:34
 #, fuzzy
@@ -155,10 +151,8 @@ msgstr ""
 "2 bits"
 
 #: translation.js:36
-#, fuzzy
-#| msgid "Bus4-Join-all: Join all the wires into a 4-bits Bus"
 msgid "Bus7-Join-all: Join all the wires into a 7-bits Bus"
-msgstr "Bus-4-join-all: Agregar todos los cables a un bus de 4 bits"
+msgstr "Bus7-join-all: Unir todos los cables en un bus de 7-bits"
 
 #: translation.js:37 translation.js:434
 #, fuzzy
@@ -194,131 +188,89 @@ msgstr ""
 
 #: translation.js:42 translation.js:179 translation.js:208 translation.js:461
 #: translation.js:844 translation.js:874
-#, fuzzy
-#| msgid "Bus-2"
 msgid "Bus-02"
-msgstr "Bus-2"
+msgstr "Bus-02"
 
 #: translation.js:43 translation.js:180 translation.js:209 translation.js:462
 #: translation.js:845 translation.js:875
-#, fuzzy
-#| msgid "Bus-2"
 msgid "Bus-03"
-msgstr "Bus-2"
+msgstr "Bus-03"
 
 #: translation.js:44 translation.js:210 translation.js:463 translation.js:876
-#, fuzzy
-#| msgid "Bus-2"
 msgid "Bus-04"
-msgstr "Bus-2"
+msgstr "Bus-04"
 
 #: translation.js:45 translation.js:211 translation.js:464 translation.js:877
-#, fuzzy
-#| msgid "Bus-2"
 msgid "Bus-05"
-msgstr "Bus-2"
+msgstr "Bus-05"
 
 #: translation.js:46 translation.js:212 translation.js:465 translation.js:878
-#, fuzzy
-#| msgid "Bus-2"
 msgid "Bus-06"
-msgstr "Bus-2"
+msgstr "Bus-06"
 
 #: translation.js:47 translation.js:213 translation.js:466 translation.js:879
-#, fuzzy
-#| msgid "Bus-2"
 msgid "Bus-07"
-msgstr "Bus-2"
+msgstr "Bus-07"
 
 #: translation.js:48 translation.js:214 translation.js:467 translation.js:880
-#, fuzzy
-#| msgid "Bus-2"
 msgid "Bus-08"
-msgstr "Bus-2"
+msgstr "Bus-08"
 
 #: translation.js:49 translation.js:215 translation.js:468 translation.js:881
-#, fuzzy
-#| msgid "Bus-2"
 msgid "Bus-09"
-msgstr "Bus-2"
+msgstr "Bus-09"
 
 #: translation.js:50 translation.js:216 translation.js:469 translation.js:882
-#, fuzzy
-#| msgid "Bus-2"
 msgid "Bus-10"
-msgstr "Bus-2"
+msgstr "Bus-10"
 
 #: translation.js:51 translation.js:217 translation.js:470 translation.js:883
-#, fuzzy
-#| msgid "Bus-2"
 msgid "Bus-11"
-msgstr "Bus-2"
+msgstr "Bus-11"
 
 #: translation.js:52 translation.js:218 translation.js:471 translation.js:884
-#, fuzzy
-#| msgid "Bus-2"
 msgid "Bus-12"
-msgstr "Bus-2"
+msgstr "Bus-12"
 
 #: translation.js:53 translation.js:219 translation.js:472 translation.js:885
-#, fuzzy
-#| msgid "Bus-2"
 msgid "Bus-15"
-msgstr "Bus-2"
+msgstr "Bus-15"
 
 #: translation.js:54 translation.js:220 translation.js:473 translation.js:886
-#, fuzzy
-#| msgid "Bus-2"
 msgid "Bus-16"
-msgstr "Bus-2"
+msgstr "Bus-16"
 
 #: translation.js:55 translation.js:221 translation.js:474 translation.js:887
-#, fuzzy
-#| msgid "Bus-2"
 msgid "Bus-19"
-msgstr "Bus-2"
+msgstr "Bus-19"
 
 #: translation.js:56 translation.js:222 translation.js:475 translation.js:888
-#, fuzzy
-#| msgid "Bus-2"
 msgid "Bus-20"
-msgstr "Bus-2"
+msgstr "Bus-20"
 
 #: translation.js:57 translation.js:223 translation.js:476 translation.js:889
-#, fuzzy
-#| msgid "Bus-2"
 msgid "Bus-23"
-msgstr "Bus-2"
+msgstr "Bus-23"
 
 #: translation.js:58 translation.js:224 translation.js:477 translation.js:890
-#, fuzzy
-#| msgid "Bus-2"
 msgid "Bus-24"
-msgstr "Bus-2"
+msgstr "Bus-24"
 
 #: translation.js:59 translation.js:225 translation.js:478 translation.js:891
-#, fuzzy
-#| msgid "Bus-2"
 msgid "Bus-27"
-msgstr "Bus-2"
+msgstr "Bus-27"
 
 #: translation.js:60 translation.js:226 translation.js:479 translation.js:892
-#, fuzzy
-#| msgid "Bus-2"
 msgid "Bus-28"
-msgstr "Bus-2"
+msgstr "Bus-28"
 
 #: translation.js:61 translation.js:227 translation.js:480 translation.js:893
-#, fuzzy
-#| msgid "Bus-2"
 msgid "Bus-31"
-msgstr "Bus-2"
+msgstr "Bus-31"
 
 #: translation.js:62 translation.js:228 translation.js:481 translation.js:894
-#, fuzzy
-#| msgid "Bus-2"
 msgid "Bus-32"
-msgstr "Bus-2"
+msgstr "Bus-32"
 
 #: translation.js:63 translation.js:68 translation.js:73 translation.js:84
 #: translation.js:93 translation.js:110 translation.js:123 translation.js:482
@@ -334,10 +286,8 @@ msgid "Join-1-2"
 msgstr "Agregar"
 
 #: translation.js:65
-#, fuzzy
-#| msgid "Bus3-Join-all: Joint three wires into a 3-bits Bus"
 msgid "Bus3-Join-1-2: Join two buses of 2 and 1 bits into a 3-bits Bus"
-msgstr "Bus-3-join-all: Agregar tres cables a un bus de 3 bits"
+msgstr "Bus3-join-1-2: Unir dos buses de 2 y 1 bits en un bus de 3 bits"
 
 #: translation.js:66 translation.js:487
 #, fuzzy
@@ -346,10 +296,8 @@ msgid "Join-2-1"
 msgstr "Agregar"
 
 #: translation.js:67
-#, fuzzy
-#| msgid "Bus3-Join-all: Joint three wires into a 3-bits Bus"
 msgid "Bus3-Join-2-1: Joint two buses of 1 and 2 bits into a 3-bits Bus"
-msgstr "Bus-3-join-all: Agregar tres cables a un bus de 3 bits"
+msgstr "Bus3-join-2-1: Unir dos buses de 1 y 2 bits en un bus de 3 bits"
 
 #: translation.js:69 translation.js:502
 #, fuzzy
@@ -358,10 +306,8 @@ msgid "Join-1-3"
 msgstr "Agregar"
 
 #: translation.js:70
-#, fuzzy
-#| msgid "Bus4-Join-all: Join all the wires into a 4-bits Bus"
 msgid "Bus4-Join-1-3: Join the two buses into a 4-bits Bus"
-msgstr "Bus-4-join-all: Agregar todos los cables a un bus de 4 bits"
+msgstr "Bus-4-join-1-3: Unir todos los cables en un bus de 4 bits"
 
 #: translation.js:71 translation.js:503
 #, fuzzy
@@ -370,10 +316,8 @@ msgid "Join-3-1"
 msgstr "Agregar"
 
 #: translation.js:72
-#, fuzzy
-#| msgid "Bus4-Join-all: Join all the wires into a 4-bits Bus"
 msgid "Bus4-Join-3-1: Join the two buses into a 4-bits Bus"
-msgstr "Bus-4-join-all: Agregar todos los cables a un bus de 4 bits"
+msgstr "Bus4-join-3-1: Unir dos buses en un bus de 4 bits"
 
 #: translation.js:74 translation.js:94 translation.js:124 translation.js:140
 #: translation.js:166 translation.js:505 translation.js:552 translation.js:610
@@ -384,10 +328,8 @@ msgid "Join-half"
 msgstr "Join-all"
 
 #: translation.js:75
-#, fuzzy
-#| msgid "Bus4-Join-all: Join all the wires into a 4-bits Bus"
 msgid "Bus4-Join-half: Join the two buses into a 4-bits Bus"
-msgstr "Bus-4-join-all: Agregar todos los cables a un bus de 4 bits"
+msgstr "Bus4-join-half: Unir dos buses en un bus de 4 bits"
 
 #: translation.js:76 translation.js:523
 #, fuzzy
@@ -396,10 +338,8 @@ msgid "Join-1-4"
 msgstr "Agregar"
 
 #: translation.js:77
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus5-Join-1-4: Join the two buses of 1 and 4 bits into a 5-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus5-join-1-4: Unir dos buses de 1 y 4 bits en un bus de 5 bits"
 
 #: translation.js:78 translation.js:524
 #, fuzzy
@@ -408,10 +348,8 @@ msgid "Join-2-3"
 msgstr "Agregar"
 
 #: translation.js:79
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus5-Join-2-3: Join the two buses of 2 and 3 bits into a 5-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus5-join-2-3: Unir dos buses de 2 y 3 bits en un bus de 5 bits"
 
 #: translation.js:80 translation.js:525
 #, fuzzy
@@ -420,10 +358,8 @@ msgid "Join-3-2"
 msgstr "Agregar"
 
 #: translation.js:81
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus5-Join-3-2: Join the two buses of 3 and 2 bits into a 5-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus5-join-3-2: Unir dos buses de 3 y 2 bits en un bus de 5 bits"
 
 #: translation.js:82 translation.js:526
 #, fuzzy
@@ -432,10 +368,8 @@ msgid "Join-4-1"
 msgstr "Agregar"
 
 #: translation.js:83
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus5-Join-4-1: Join the two buses of 4 and 1 bits into a 5-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus5-join-4-1: Unir dos buses de 4 y 1 bits en un bus de 5 bits"
 
 #: translation.js:85 translation.js:96 translation.js:549
 #, fuzzy
@@ -444,10 +378,8 @@ msgid "Join-1-5"
 msgstr "Agregar"
 
 #: translation.js:86
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus6-Join-1-5: Join the two buses into a 6-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus6-join-1-5: Unir dos buses en un bus de 6 bits"
 
 #: translation.js:87 translation.js:97
 #, fuzzy
@@ -456,10 +388,8 @@ msgid "Join-2-4"
 msgstr "Agregar"
 
 #: translation.js:88
-#, fuzzy
-#| msgid "Bus4-Join-all: Join all the wires into a 4-bits Bus"
 msgid "Bus6-Join-2-4: Join all the two buses into a 6-bits Bus"
-msgstr "Bus-4-join-all: Agregar todos los cables a un bus de 4 bits"
+msgstr "Bus6-join-2-4: Unir dos buses en un bus de 6 bits"
 
 #: translation.js:89 translation.js:550
 #, fuzzy
@@ -468,10 +398,8 @@ msgid "Join-4-2"
 msgstr "Agregar"
 
 #: translation.js:90
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus6-Join-4-2: Join the two buses into a 6-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus6-join-4-2: Unir dos buses en un bus de 6 bits"
 
 #: translation.js:91 translation.js:551
 #, fuzzy
@@ -480,16 +408,12 @@ msgid "Join-5-1"
 msgstr "Agregar"
 
 #: translation.js:92
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus6-Join-5-1: Join the two buses into a 6-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus6-join-5-1: Unir dos buses en un bus de 6 bits"
 
 #: translation.js:95
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus6-Join-half: Join the two buses into a 6-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus6-Join-half: Unir dos buses en un bus de 6 bits"
 
 #: translation.js:98 translation.js:570
 #, fuzzy
@@ -498,10 +422,8 @@ msgid "Join-1-6"
 msgstr "Agregar"
 
 #: translation.js:99
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus7-Join-1-4: Join the two buses into a 7-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus7-join-1-4: Unir dos buses en un bus de 7 bits"
 
 #: translation.js:100 translation.js:571
 #, fuzzy
@@ -510,10 +432,8 @@ msgid "Join-2-5"
 msgstr "Agregar"
 
 #: translation.js:101
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus7-Join-2-5: Join the two buses into a 7-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus7-join-2-5: Unir dos buses en un bus de 7 bits"
 
 #: translation.js:102 translation.js:572
 #, fuzzy
@@ -522,10 +442,8 @@ msgid "Join-3-4"
 msgstr "Agregar"
 
 #: translation.js:103
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus7-Join-3-4: Join the two buses into a 7-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus7-join-3-4: Unir dos buses en un bus de 7 bits"
 
 #: translation.js:104 translation.js:573
 #, fuzzy
@@ -534,10 +452,8 @@ msgid "Join-4-3"
 msgstr "Agregar"
 
 #: translation.js:105
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus7-Join-4-3: Join the two buses into a 7-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus7-join-4-3: Unir dos buses en un bus de 7 bits"
 
 #: translation.js:106 translation.js:574
 #, fuzzy
@@ -546,10 +462,8 @@ msgid "Join-5-2"
 msgstr "Agregar"
 
 #: translation.js:107
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus7-Join-5-2: Join the two buses into a 7-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus7-join-5-2: Unir dos buses en un bus de 7 bits"
 
 #: translation.js:108 translation.js:575
 #, fuzzy
@@ -558,10 +472,8 @@ msgid "Join-6-1"
 msgstr "Agregar"
 
 #: translation.js:109
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus7-Join-6-1: Join the two buses into a 7-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus7-join-6-1: Unir dos buses en un bus de 7 bits"
 
 #: translation.js:111 translation.js:603
 #, fuzzy
@@ -570,10 +482,8 @@ msgid "Join-1-7"
 msgstr "Agregar"
 
 #: translation.js:112
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus7-Join-1-7: Join the two buses into an 8-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus7-join-1-7: Unir dos buses en un bus de 8 bits"
 
 #: translation.js:113 translation.js:604
 #, fuzzy
@@ -630,10 +540,8 @@ msgid "Join-7-1"
 msgstr "Agregar"
 
 #: translation.js:122
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus7-Join-7-1: Join the two buses into an 8-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus7-join-7-1: Unir dos buses en un bus de 8 bits"
 
 #: translation.js:125
 #, fuzzy
@@ -660,10 +568,8 @@ msgid "Join-8-2"
 msgstr "Agregar"
 
 #: translation.js:129
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus10-Join-2-8: Join the two buses into an 10-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus10-join-2-8: Unir dos buses en un bus de 10 bits"
 
 #: translation.js:130
 #, fuzzy
@@ -672,10 +578,8 @@ msgid "Join-3-8"
 msgstr "Agregar"
 
 #: translation.js:131
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus11-Join-3-8: Join the two buses into an 11-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus11-join-3-8: Unir dos buses en un bus de 11 bits"
 
 #: translation.js:132 translation.js:663
 #, fuzzy
@@ -684,10 +588,8 @@ msgid "Join-1-11"
 msgstr "Agregar"
 
 #: translation.js:133
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus12-Join-1-11: Join the two buses into an 12-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus12-join-1-11: Unir dos buses en un bus de 12 bits"
 
 #: translation.js:134 translation.js:664
 #, fuzzy
@@ -696,20 +598,16 @@ msgid "Join-4-8"
 msgstr "Agregar"
 
 #: translation.js:135
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus12-Join-4-8: Join the two buses into an 12-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus12-join-4-8: Unir dos buses en un bus de 12 bits"
 
 #: translation.js:136 translation.js:154 translation.js:665 translation.js:787
 msgid "Join-one-third"
 msgstr ""
 
 #: translation.js:137
-#, fuzzy
-#| msgid "Bus3-Join-all: Joint three wires into a 3-bits Bus"
 msgid "Bus12-Join-one-third: Join the three buses into an 12-bits Bus"
-msgstr "Bus-3-join-all: Agregar tres cables a un bus de 3 bits"
+msgstr "Bus12-join-one-third: Unir los tres buses en un bus de 12 bits"
 
 #: translation.js:138
 #, fuzzy
@@ -718,16 +616,12 @@ msgid "Join-7-8"
 msgstr "Agregar"
 
 #: translation.js:139
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus15-Join-7-8: Join the two buses into a 15-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus15-join-7-8: Unir dos buses en un bus de 15 bits"
 
 #: translation.js:141
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus16-Join-half: Join the two same halves into an 16-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus16-join-half: Unir los dos partes iguales en un bus de 16 bits"
 
 #: translation.js:142 translation.js:168 translation.js:684 translation.js:817
 #, fuzzy
@@ -736,20 +630,16 @@ msgid "Join-quarter"
 msgstr "Join-all"
 
 #: translation.js:143
-#, fuzzy
-#| msgid "Bus3-Join-all: Joint three wires into a 3-bits Bus"
 msgid "Bus16-Join-quarter: Join the four same buses into an 16-bits Bus"
-msgstr "Bus-3-join-all: Agregar tres cables a un bus de 3 bits"
+msgstr "Bus16-join-quarter: Unir cuatro buses iguales en un bus de 16 bits"
 
 #: translation.js:144
 msgid "Join-3-8-8"
 msgstr ""
 
 #: translation.js:145
-#, fuzzy
-#| msgid "Bus3-Join-all: Joint three wires into a 3-bits Bus"
 msgid "Bus19-Join-3-8-8: Join the three buses into a 19-bits Bus"
-msgstr "Bus-3-join-all: Agregar tres cables a un bus de 3 bits"
+msgstr "Bus19-join-3-8-8: Unir los tres buses en un bus de 19 bits"
 
 #: translation.js:146 translation.js:772
 #, fuzzy
@@ -758,30 +648,24 @@ msgid "Join-4-16"
 msgstr "Agregar"
 
 #: translation.js:147
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus20-Join-half: Join the two buses into an 20-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus20-join-half: Unir dos buses en un bus de 20 bits"
 
 #: translation.js:148 translation.js:773
 msgid "Join-4-8-8"
 msgstr ""
 
 #: translation.js:149
-#, fuzzy
-#| msgid "Bus3-Join-all: Joint three wires into a 3-bits Bus"
 msgid "Bus20-Join-4-8-8: Join the three buses into an 20-bits Bus"
-msgstr "Bus-3-join-all: Agregar tres cables a un bus de 3 bits"
+msgstr "Bus20-join-4-8-8: Unir los tres buses en un bus de 20 bits"
 
 #: translation.js:150
 msgid "Join-7-8-8"
 msgstr ""
 
 #: translation.js:151
-#, fuzzy
-#| msgid "Bus3-Join-all: Joint three wires into a 3-bits Bus"
 msgid "Bus23-Join-7-8-8: Join the three buses into a 23-bits Bus"
-msgstr "Bus-3-join-all: Agregar tres cables a un bus de 3 bits"
+msgstr "Bus23-join-7-8-8: Unir los tres buses en un bus de 23-bits"
 
 #: translation.js:152 translation.js:786
 #, fuzzy
@@ -790,26 +674,20 @@ msgid "Join-8-16"
 msgstr "Agregar"
 
 #: translation.js:153
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus24-Join-8-16: Join the two buses into an 24-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus24-join-8-16: Unir dos buses en un bus de 24 bits"
 
 #: translation.js:155
-#, fuzzy
-#| msgid "Bus3-Join-all: Joint three wires into a 3-bits Bus"
 msgid "Bus24-Join-one-third: Join the three buses into an 24-bits Bus"
-msgstr "Bus-3-join-all: Agregar tres cables a un bus de 3 bits"
+msgstr "Bus24-join-one-third: Unir tres buses en un bus de 24 bits"
 
 #: translation.js:156
 msgid "Join-3-8-8-8"
 msgstr ""
 
 #: translation.js:157
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus27-Join-3-8-8-8: Join the four buses into a 27-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus27-join-3-8-8-8: Unir cuatro buses en un bus de 27 bits"
 
 #: translation.js:158 translation.js:800
 #, fuzzy
@@ -818,30 +696,24 @@ msgid "Join-4-24"
 msgstr "Agregar"
 
 #: translation.js:159
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus28-Join-4-24: Join the two buses into an 28-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus28-join-4-24: Unir dos buses en un bus de 28 bits"
 
 #: translation.js:160 translation.js:801
 msgid "Join-4-8-8-8"
 msgstr ""
 
 #: translation.js:161
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus28-Join-4-8-8-8: Join the four buses into an 28-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus28-join-4-8-8-8: Unir cuatro buses en un bus de 28 bits"
 
 #: translation.js:162
 msgid "Join-7-8-8-8"
 msgstr ""
 
 #: translation.js:163
-#, fuzzy
-#| msgid "Bus3-Join-all: Joint three wires into a 3-bits Bus"
 msgid "Bus31-Join-7-8-8-8: Join the four buses into a 31-bits Bus"
-msgstr "Bus-3-join-all: Agregar tres cables a un bus de 3 bits"
+msgstr "Bus31-join-7-8-8-8: Unir cuatro buses en un bus de 31 bits"
 
 #: translation.js:164 translation.js:815
 #, fuzzy
@@ -850,22 +722,16 @@ msgid "Join-8-24"
 msgstr "Agregar"
 
 #: translation.js:165
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus32-Join-8-24: Join the two buses into an 32-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus32-join-8-24: Unir dos buses en un bus de 32 bits"
 
 #: translation.js:167
-#, fuzzy
-#| msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgid "Bus32-Join-half: Join the two buses into an 32-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+msgstr "Bus32-join-half: Unir dos buses en un bus de 32 bits"
 
 #: translation.js:169
-#, fuzzy
-#| msgid "Bus3-Join-all: Joint three wires into a 3-bits Bus"
 msgid "Bus32-Join-quarter: Join the four buses into an 32-bits Bus"
-msgstr "Bus-3-join-all: Agregar tres cables a un bus de 3 bits"
+msgstr "Bus32-join-quarter: Unir cuatro buses en un bus de 32 bits"
 
 #: translation.js:170
 msgid "Reversal-02"
@@ -1417,10 +1283,9 @@ msgid "Split-7-8"
 msgstr "Separar"
 
 #: translation.js:304
-#, fuzzy
-#| msgid "Bus2-Split-all: Split the 2-bits bus into two wires"
 msgid "Bus15-Split-7-8: Split the 15-bits bus into two buses of 7 and 8 bits"
-msgstr "Bus2-Split-all: Separar un bus de 2 bits en sus dos cables"
+msgstr ""
+"Bus15-Split-7-8: Separar un bus de 15 bits en sus dos buses de 7 y 8 bits"
 
 #: translation.js:306
 #, fuzzy
@@ -1664,7 +1529,7 @@ msgstr ""
 
 #: translation.js:350
 msgid "3bits constant value: 0"
-msgstr ""
+msgstr "Valor constante 0 de 3 bits"
 
 #: translation.js:351
 msgid "Generic: 3-bits generic constant (0-7)"
@@ -1680,7 +1545,7 @@ msgstr ""
 
 #: translation.js:354
 msgid "2bits constant value: 0"
-msgstr ""
+msgstr "Valor constante 0 de 2 bits"
 
 #: translation.js:355
 #, fuzzy
@@ -1706,7 +1571,7 @@ msgstr ""
 
 #: translation.js:360
 msgid "7bits constant value: 0"
-msgstr ""
+msgstr "Valor constante 0 de 7 bits"
 
 #: translation.js:361
 #, fuzzy
@@ -1724,7 +1589,7 @@ msgstr ""
 
 #: translation.js:364
 msgid "6bits constant value: 0"
-msgstr ""
+msgstr "Valor constante 0 de 6 bits"
 
 #: translation.js:365
 #, fuzzy
@@ -1742,7 +1607,7 @@ msgstr ""
 
 #: translation.js:368
 msgid "5bits constant value: 0"
-msgstr ""
+msgstr "Valor constante 0 de 5 bits"
 
 #: translation.js:369
 #, fuzzy
@@ -1760,7 +1625,7 @@ msgstr ""
 
 #: translation.js:372
 msgid "4bits constant value: 0"
-msgstr ""
+msgstr "Valor constante 0 de 4 bits"
 
 #: translation.js:373
 msgid "Generic: 4-bits generic constant (0-15)"
@@ -1799,10 +1664,8 @@ msgid "Bus2: Two bits plain Bus"
 msgstr "Bus2: Bus simple de 2 bits"
 
 #: translation.js:382 translation.js:1244
-#, fuzzy
-#| msgid "Bus-2"
 msgid "Bus-3"
-msgstr "Bus-2"
+msgstr "Bus-3"
 
 #: translation.js:383
 #, fuzzy
@@ -1811,58 +1674,40 @@ msgid "Bus3: Three bits plain Bus"
 msgstr "Bus2: Bus simple de 2 bits"
 
 #: translation.js:384 translation.js:1245
-#, fuzzy
-#| msgid "Bus-2"
 msgid "Bus-4"
-msgstr "Bus-2"
+msgstr "Bus-4"
 
 #: translation.js:385
-#, fuzzy
-#| msgid "Bus2: Two bits plain Bus"
 msgid "Bus4: Four bits plain Bus"
-msgstr "Bus2: Bus simple de 2 bits"
+msgstr "Bus4: Bus de 4 bits"
 
 #: translation.js:386 translation.js:1246
-#, fuzzy
-#| msgid "Bus-2"
 msgid "Bus-5"
-msgstr "Bus-2"
+msgstr "Bus-5"
 
 #: translation.js:387
-#, fuzzy
-#| msgid "Bus2: Two bits plain Bus"
 msgid "Bus5: Five bits plain Bus"
-msgstr "Bus2: Bus simple de 2 bits"
+msgstr "Bus5: Bus simple de 5 bits"
 
 #: translation.js:388 translation.js:1247
-#, fuzzy
-#| msgid "Bus-2"
 msgid "Bus-6"
-msgstr "Bus-2"
+msgstr "Bus-6"
 
 #: translation.js:389
-#, fuzzy
-#| msgid "Bus2: Two bits plain Bus"
 msgid "Bus6: Six bits plain Bus"
-msgstr "Bus2: Bus simple de 2 bits"
+msgstr "Bus6: Bus simple de 6 bits"
 
 #: translation.js:390 translation.js:1248
-#, fuzzy
-#| msgid "Bus-2"
 msgid "Bus-7"
-msgstr "Bus-2"
+msgstr "Bus-7"
 
 #: translation.js:391
-#, fuzzy
-#| msgid "Bus2: Two bits plain Bus"
 msgid "Bus7: Seven bits plain Bus"
-msgstr "Bus2: Bus simple de 2 bits"
+msgstr "Bus7: Bus simple de 7 bits"
 
 #: translation.js:392 translation.js:1249
-#, fuzzy
-#| msgid "Bus-2"
 msgid "Bus-8"
-msgstr "Bus-2"
+msgstr "Bus-8"
 
 #: translation.js:393
 #, fuzzy
@@ -1949,16 +1794,12 @@ msgid "Bus8-Split-half"
 msgstr "Bus2-Split-all"
 
 #: translation.js:411
-#, fuzzy
-#| msgid "Bus2-Join-all"
 msgid "Bus7-all"
-msgstr "Bus2-Join-all"
+msgstr "Bus7-all"
 
 #: translation.js:412
-#, fuzzy
-#| msgid "Bus2-Split-all"
 msgid "Bus-Split-all"
-msgstr "Bus2-Split-all"
+msgstr "Bus-Split-all"
 
 #: translation.js:413
 #, fuzzy
@@ -2194,7 +2035,7 @@ msgstr ""
 
 #: translation.js:508
 msgid "2bits constant value: 3"
-msgstr ""
+msgstr "Valor constante 3 de 2 bits"
 
 #: translation.js:509
 msgid ""
@@ -2266,7 +2107,7 @@ msgstr ""
 
 #: translation.js:542
 msgid "3bits constant value: 7"
-msgstr ""
+msgstr "Valor constante 7 de 3 bits"
 
 #: translation.js:543
 msgid "# Bus5-Join-4-1: Manual testing\n"
@@ -2312,7 +2153,7 @@ msgstr ""
 
 #: translation.js:563
 msgid "4bits constant value: 15 (0xF in hexadecimal)"
-msgstr ""
+msgstr "Valor constante 15 (0xF en hexadecimal) de 4 bits"
 
 #: translation.js:564
 msgid ""
@@ -2331,8 +2172,6 @@ msgstr ""
 "\n"
 
 #: translation.js:577
-#, fuzzy
-#| msgid "Alhambra-II"
 msgid "Alhambr-II"
 msgstr "Alhambra-II"
 
@@ -2670,11 +2509,11 @@ msgstr ""
 
 #: translation.js:695
 msgid "4-to-1 Multplexer (8-bit channels)"
-msgstr ""
+msgstr "Multiplexor 4-1 (Canales de 8 bits)"
 
 #: translation.js:696
 msgid "8bits constant value: 0"
-msgstr ""
+msgstr "Valor constante 0 de 8 bits"
 
 #: translation.js:697
 msgid "Counter-x02: 2-bits counter"
@@ -2703,18 +2542,20 @@ msgstr ""
 #: translation.js:703
 msgid "AdderK-2bit: Adder of 2-bit operand and 2-bit constant"
 msgstr ""
+"AdderK-2bit: Sumador de un operando de 2 bits y una constante de 2 bits"
 
 #: translation.js:704
 msgid "Adder-2bits: Adder of two operands of 2 bits"
-msgstr ""
+msgstr "Adder-2bits: Sumador de dos operandos de 2 bits"
 
 #: translation.js:705
 msgid "Adder-1bit: Adder of two operands of 1 bit"
-msgstr ""
+msgstr "Adder-1bit: Sumador de dos operandos de 1 bit"
 
 #: translation.js:706
 msgid "AdderC-1bit: Adder of two operands of 1 bit plus the carry in"
 msgstr ""
+"AdderC-1bit: Sumador de dos operandos de 1 bit más el acarreo de entrada"
 
 #: translation.js:707
 msgid "XOR gate: two bits input xor gate"
@@ -2769,6 +2610,7 @@ msgstr ""
 #: translation.js:719
 msgid "AdderK-16bit: Adder of 16-bit operand and 16-bit constant"
 msgstr ""
+"AdderK-16bit: Sumador de un operando de 16 bits y una constante de 16 bits"
 
 #: translation.js:720
 #, fuzzy
@@ -2778,23 +2620,25 @@ msgstr "Generic: Constante genérica de 3-bits  (0-7)"
 
 #: translation.js:721
 msgid "Adder-16bits: Adder of two operands of 16 bits"
-msgstr ""
+msgstr "Adder-16bits: Sumador de dos operandos de 16 bits"
 
 #: translation.js:722
 msgid "Adder-8bits: Adder of two operands of 8 bits"
-msgstr ""
+msgstr "Adder-8bits: Sumador de dos operandos de 8 bits"
 
 #: translation.js:723
 msgid "Adder-4bits: Adder of two operands of 4 bits"
-msgstr ""
+msgstr "Adder-4bits: Sumador de dos operandos de 4 bits"
 
 #: translation.js:724
 msgid "AdderC-4bits: Adder of two operands of 4 bits and Carry in"
 msgstr ""
+"AdderC-4bits: Sumador de dos operandos de 4 bits más el acarreo de entrada"
 
 #: translation.js:725
 msgid "AdderC-8bits: Adder of two operands of 8 bits and Carry in"
 msgstr ""
+"AdderC-8bit: Sumador de dos operandos de 8 bit más el acarreo de entrada"
 
 #: translation.js:726
 msgid ""
