@@ -1,9 +1,12 @@
 {
   "name": "icewires",
   "version": "0.1.0",
-  "description": "Wires and buses",
-  "keywords": ["wires","buses", "bus"],
-  "license": "GPL-2.0",
+  "description": "Working with wires and buses",
+  "header": "https://github.com/FPGAwars/iceWires/raw/main/wiki/Logo/iceWires-collection-github.png",
+  "footer": "https://github.com/FPGAwars/icestudio-wiki/raw/main/Logos/fgpawars-banner.svg",
+  "wiki": "https://github.com/FPGAwars/iceWires/wiki",
+  "keywords": ["wires","buses"],
+  "license": "LGPL-3.0",
   "authors": [{
     "name": "Juan Gonzalez-Gomez (Obijuan)",
     "email": "",
@@ -12,7 +15,8 @@
   "contributors": [],
   "repository": {
     "type": "git",
-    "branch": "master",
+    "branch": "main",
     "url": "https://github.com/FPGAwars/iceWires"
   }
 }
+
