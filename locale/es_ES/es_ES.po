@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2021-08-30 14:11+0200\n"
+"POT-Creation-Date: 2021-08-31 09:50+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -24,23 +24,23 @@ msgstr "Agregar"
 
 #: translation.js:12 translation.js:423
 msgid "Reversal"
-msgstr ""
+msgstr "Reversal"
 
 #: translation.js:13 translation.js:424
 msgid "Shift"
-msgstr ""
+msgstr "Shift"
 
 #: translation.js:14 translation.js:425
 msgid "Sign"
-msgstr ""
+msgstr "Sign"
 
 #: translation.js:15 translation.js:426
 msgid "Split"
-msgstr "Separar"
+msgstr "Split"
 
 #: translation.js:16 translation.js:427
 msgid "Uint"
-msgstr ""
+msgstr "Uint"
 
 #: translation.js:17 translation.js:428
 msgid "Wires"
@@ -276,10 +276,8 @@ msgstr "Bus4-join-3-1: Unir dos buses en un bus de 4 bits"
 #: translation.js:74 translation.js:94 translation.js:124 translation.js:140
 #: translation.js:166 translation.js:505 translation.js:552 translation.js:610
 #: translation.js:683 translation.js:816
-#, fuzzy
-#| msgid "Join-all"
 msgid "Join-half"
-msgstr "Join-all"
+msgstr "Join-half"
 
 #: translation.js:75
 msgid "Bus4-Join-half: Join the two buses into a 4-bits Bus"
@@ -342,10 +340,8 @@ msgid "Bus6-Join-4-2: Join the two buses into a 6-bits Bus"
 msgstr "Bus6-join-4-2: Unir dos buses en un bus de 6 bits"
 
 #: translation.js:91 translation.js:551
-#, fuzzy
-#| msgid "Join"
 msgid "Join-5-1"
-msgstr "Agregar"
+msgstr "Join-5-1"
 
 #: translation.js:92
 msgid "Bus6-Join-5-1: Join the two buses into a 6-bits Bus"
@@ -388,20 +384,16 @@ msgid "Bus7-Join-4-3: Join the two buses into a 7-bits Bus"
 msgstr "Bus7-join-4-3: Unir dos buses en un bus de 7 bits"
 
 #: translation.js:106 translation.js:574
-#, fuzzy
-#| msgid "Join"
 msgid "Join-5-2"
-msgstr "Agregar"
+msgstr "Join-5-2"
 
 #: translation.js:107
 msgid "Bus7-Join-5-2: Join the two buses into a 7-bits Bus"
 msgstr "Bus7-join-5-2: Unir dos buses en un bus de 7 bits"
 
 #: translation.js:108 translation.js:575
-#, fuzzy
-#| msgid "Join"
 msgid "Join-6-1"
-msgstr "Agregar"
+msgstr "Join-6-1"
 
 #: translation.js:109
 msgid "Bus7-Join-6-1: Join the two buses into a 7-bits Bus"
@@ -432,30 +424,24 @@ msgid "Bus8-Join-3-5: Join the two buses into an 8-bits Bus"
 msgstr "Bus8-join-3-5: Unir dos buses en un bus de 8 bits"
 
 #: translation.js:117 translation.js:606
-#, fuzzy
-#| msgid "Join"
 msgid "Join-5-3"
-msgstr "Agregar"
+msgstr "Join-5-3"
 
 #: translation.js:118
 msgid "Bus8-Join-5-3: Join the two buses into an 8-bits Bus"
 msgstr "Bus8-join-5-3: Unir dos buses en un bus de 8 bits"
 
 #: translation.js:119 translation.js:607
-#, fuzzy
-#| msgid "Join"
 msgid "Join-6-2"
-msgstr "Agregar"
+msgstr "Join-6-2"
 
 #: translation.js:120
 msgid "Bus8-Join-6-2: Join the two buses into an 8-bits Bus"
 msgstr "Bus8-join-6-2: Unir dos buses en un bus de 8 bits"
 
 #: translation.js:121 translation.js:608
-#, fuzzy
-#| msgid "Join"
 msgid "Join-7-1"
-msgstr "Agregar"
+msgstr "Join-7-1"
 
 #: translation.js:122
 msgid "Bus7-Join-7-1: Join the two buses into an 8-bits Bus"
@@ -474,10 +460,8 @@ msgid "Bus8-Join-1-8: Join the two buses into an 9-bits Bus"
 msgstr "Bus8-join-1-8: Unir dos buses en un bus de 9 bits"
 
 #: translation.js:128
-#, fuzzy
-#| msgid "Join"
 msgid "Join-8-2"
-msgstr "Agregar"
+msgstr "Join-8-2"
 
 #: translation.js:129
 msgid "Bus10-Join-2-8: Join the two buses into an 10-bits Bus"
@@ -509,17 +493,15 @@ msgstr "Bus12-join-4-8: Unir dos buses en un bus de 12 bits"
 
 #: translation.js:136 translation.js:154 translation.js:665 translation.js:787
 msgid "Join-one-third"
-msgstr ""
+msgstr "Join-one-third"
 
 #: translation.js:137
 msgid "Bus12-Join-one-third: Join the three buses into an 12-bits Bus"
 msgstr "Bus12-join-one-third: Unir los tres buses en un bus de 12 bits"
 
 #: translation.js:138
-#, fuzzy
-#| msgid "Join"
 msgid "Join-7-8"
-msgstr "Agregar"
+msgstr "Join-7-8"
 
 #: translation.js:139
 msgid "Bus15-Join-7-8: Join the two buses into a 15-bits Bus"
@@ -530,10 +512,8 @@ msgid "Bus16-Join-half: Join the two same halves into an 16-bits Bus"
 msgstr "Bus16-join-half: Unir los dos partes iguales en un bus de 16 bits"
 
 #: translation.js:142 translation.js:168 translation.js:684 translation.js:817
-#, fuzzy
-#| msgid "Join-all"
 msgid "Join-quarter"
-msgstr "Join-all"
+msgstr "Join-quarter"
 
 #: translation.js:143
 msgid "Bus16-Join-quarter: Join the four same buses into an 16-bits Bus"
@@ -557,7 +537,7 @@ msgstr "Bus20-join-half: Unir dos buses en un bus de 20 bits"
 
 #: translation.js:148 translation.js:773
 msgid "Join-4-8-8"
-msgstr ""
+msgstr "Join-4-8-8"
 
 #: translation.js:149
 msgid "Bus20-Join-4-8-8: Join the three buses into an 20-bits Bus"
@@ -565,17 +545,15 @@ msgstr "Bus20-join-4-8-8: Unir los tres buses en un bus de 20 bits"
 
 #: translation.js:150
 msgid "Join-7-8-8"
-msgstr ""
+msgstr "Join-7-8-8"
 
 #: translation.js:151
 msgid "Bus23-Join-7-8-8: Join the three buses into a 23-bits Bus"
 msgstr "Bus23-join-7-8-8: Unir los tres buses en un bus de 23-bits"
 
 #: translation.js:152 translation.js:786
-#, fuzzy
-#| msgid "Join"
 msgid "Join-8-16"
-msgstr "Agregar"
+msgstr "Join-8-16"
 
 #: translation.js:153
 msgid "Bus24-Join-8-16: Join the two buses into an 24-bits Bus"
@@ -603,7 +581,7 @@ msgstr "Bus28-join-4-24: Unir dos buses en un bus de 28 bits"
 
 #: translation.js:160 translation.js:801
 msgid "Join-4-8-8-8"
-msgstr ""
+msgstr "Join-4-8-8-8"
 
 #: translation.js:161
 msgid "Bus28-Join-4-8-8-8: Join the four buses into an 28-bits Bus"
@@ -611,17 +589,15 @@ msgstr "Bus28-join-4-8-8-8: Unir cuatro buses en un bus de 28 bits"
 
 #: translation.js:162
 msgid "Join-7-8-8-8"
-msgstr ""
+msgstr "Join-7-8-8-8"
 
 #: translation.js:163
 msgid "Bus31-Join-7-8-8-8: Join the four buses into a 31-bits Bus"
 msgstr "Bus31-join-7-8-8-8: Unir cuatro buses en un bus de 31 bits"
 
 #: translation.js:164 translation.js:815
-#, fuzzy
-#| msgid "Join"
 msgid "Join-8-24"
-msgstr "Agregar"
+msgstr "Join-8-24"
 
 #: translation.js:165
 msgid "Bus32-Join-8-24: Join the two buses into an 32-bits Bus"
@@ -637,11 +613,11 @@ msgstr "Bus32-join-quarter: Unir cuatro buses en un bus de 32 bits"
 
 #: translation.js:170
 msgid "Reversal-02"
-msgstr ""
+msgstr "Reversal-02"
 
 #: translation.js:171
 msgid "Reversal-2: 2-bit Bus reversal"
-msgstr ""
+msgstr "Reversal-2: Inversión de un Bus de 2-bits"
 
 #: translation.js:172
 msgid "Bus2-Split-all: Split the 2-bits bus into two wires"
@@ -649,11 +625,11 @@ msgstr "Bus2-Split-all: Separar un bus de 2 bits en sus dos cables"
 
 #: translation.js:173
 msgid "Reversal-03"
-msgstr ""
+msgstr "Reversal-03"
 
 #: translation.js:174
 msgid "Reversal-3: 3-bit Bus reversal"
-msgstr ""
+msgstr "Reversal-3: Inversión de un Bus de 3-bits"
 
 #: translation.js:175
 msgid "Bus3-Split-all: Split the 3-bits bus into three wires"
@@ -661,11 +637,11 @@ msgstr "Bus3-Split-all: Separar un bus de 3 bits en sus tres cables"
 
 #: translation.js:176
 msgid "Reversal-04"
-msgstr ""
+msgstr "Reversal-04"
 
 #: translation.js:177
 msgid "Reversal-4: 4-bit Bus reversal"
-msgstr ""
+msgstr "Reversal-4: Inversión de un Bus de 4-bits"
 
 #: translation.js:178
 msgid "Bus4-Split-all: Split the 4-bits bus into its wires"
@@ -673,19 +649,19 @@ msgstr "Bus4-Split-all: Separar un bus de 4 bits en sus  cables"
 
 #: translation.js:181
 msgid "Shift-Left"
-msgstr ""
+msgstr "Shift-Left"
 
 #: translation.js:182 translation.js:204
 msgid "Shift-Right"
-msgstr ""
+msgstr "Shift-Right"
 
 #: translation.js:183 translation.js:849
 msgid "SL1-int2"
-msgstr ""
+msgstr "SL1-int2"
 
 #: translation.js:184
 msgid "SL1-int2: Shift  a 2-bit value one bit left. LSB is "
-msgstr ""
+msgstr "SL1-int2: Desplazar un valor de 2 bits un bit a la izquierda. El LSB "
 
 #: translation.js:185
 msgid "Constant bit 0"
@@ -694,46 +670,50 @@ msgstr "Bit constante 0"
 #: translation.js:186
 msgid "SL1: Shift  a 2-bit value one bit left. LSB is filled with "
 msgstr ""
+"SL1: Desplaar un valor de 2 bits un bit a la izquierda. LSB se rellena con "
 
 #: translation.js:187
 msgid "Sign-int2: Get the sign of a 2-bits Intenger"
-msgstr ""
+msgstr "Sign-int2: Obtener el signo de un entero de 2 bits"
 
 #: translation.js:188
 msgid "Sign bit is kept"
-msgstr ""
+msgstr "El bit de signo se mantiene"
 
 #: translation.js:189
 msgid "Get the sign  "
-msgstr "Obtener el signo"
+msgstr "Obtener el signo "
 
 #: translation.js:190 translation.js:850
 msgid "SL1-uint2"
-msgstr ""
+msgstr "SL1-uint2"
 
 #: translation.js:191
 msgid "SL1-uint2: Shift  a 2-bit value one bit left. LSB is "
-msgstr ""
+msgstr "SL1-uint2: Desplazar un valor de 2-bits un bit a la izquierda. El LSB "
 
 #: translation.js:192
 msgid "Sign bit is lost"
-msgstr ""
+msgstr "El bit de signo se pierde"
 
 #: translation.js:193 translation.js:848
 msgid "SL1"
-msgstr ""
+msgstr "SL1"
 
 #: translation.js:194 translation.js:858
 msgid "SR1-int2"
-msgstr ""
+msgstr "SR1-int2"
 
 #: translation.js:195
 msgid "SR1-int2: Shift  a 2-bit value one bit right. MSB is keep (the sign)"
 msgstr ""
+"SR1-int2: Desplazar un valor de 2 bits un bit a la derecha. MSB se mantiene "
+"(el signo)"
 
 #: translation.js:196 translation.js:203
 msgid "SR1: Shift  a 2-bit value one bit right. MSB is filled with "
 msgstr ""
+"SR1: Desplazar un valor de 2-bits un bit a la derecha. MSB se rellena con "
 
 #: translation.js:197
 msgid ""
@@ -745,39 +725,43 @@ msgstr ""
 
 #: translation.js:198 translation.js:859
 msgid "SR1-uint2"
-msgstr ""
+msgstr "SR1-uint2"
 
 #: translation.js:199
 msgid ""
 "SR1-uint2: Shift  a 2-bit value one bit right. MSB is filled with 0 (no sign "
 "used)"
 msgstr ""
+"SR1-uint2: Desplazar un valor de 2-bits un bit a la derecha. El MSB se "
+"rellena con 0 (no se usa signo)"
 
 #: translation.js:200
 msgid "The MSB is "
-msgstr ""
+msgstr "El MSB es "
 
 #: translation.js:201
 msgid "This bit is ignored"
-msgstr ""
+msgstr "Este bit se ignora"
 
 #: translation.js:202 translation.js:857
 msgid "SR1"
-msgstr ""
+msgstr "SR1"
 
 #: translation.js:205 translation.js:867
 msgid "SR1-uint3"
-msgstr ""
+msgstr "SR1-uint3"
 
 #: translation.js:206
 msgid ""
 "SR1-uint3: Shift  a 3-bit value one bit right. MSB is filled with 0 (no sign "
 "used)"
 msgstr ""
+"SR1-uint3: Desplazar un valor de 3 bits un bit a la derecha. El MSB se "
+"rellena con 0 (no se usa signo)"
 
 #: translation.js:207 translation.js:873
 msgid "Sign-int2"
-msgstr ""
+msgstr "Sign-int2"
 
 #: translation.js:229 translation.js:234 translation.js:239 translation.js:250
 #: translation.js:260 translation.js:276 translation.js:289 translation.js:895
@@ -787,40 +771,32 @@ msgid "Split-all"
 msgstr "Split-all"
 
 #: translation.js:230 translation.js:899
-#, fuzzy
-#| msgid "Split"
 msgid "Split-1-2"
-msgstr "Separar"
+msgstr "Split-1-2"
 
 #: translation.js:231
 msgid "Bus3-Split-1-2: Split the 3-bits bus into two: 1-bit and 2-bits buses"
 msgstr "Bus3-Split-1-2: Separar un bus de 3 bits en dos buses de 1 y 2 bits"
 
 #: translation.js:232 translation.js:900
-#, fuzzy
-#| msgid "Split"
 msgid "Split-2-1"
-msgstr "Separar"
+msgstr "Split-2-1"
 
 #: translation.js:233
 msgid "Bus3-Split-2-1: Split the 3-bits bus into two: 2-bit and 1-bits buses"
 msgstr "Bus3-Split-2-1: Separar un bus de 3 bits en dos buses de 2 y 1 bits"
 
 #: translation.js:235 translation.js:913
-#, fuzzy
-#| msgid "Split"
 msgid "Split-1-3"
-msgstr "Separar"
+msgstr "Split-1-3"
 
 #: translation.js:236
 msgid "Bus4-Split-1-3: Split the 4-bits bus into two: 1-bit and 3-bits buses"
 msgstr "Bus4-Split-1-3: Separar un bus de 4 bits en dos buses de 1 y 3 bits"
 
 #: translation.js:237 translation.js:914
-#, fuzzy
-#| msgid "Split"
 msgid "Split-3-1"
-msgstr "Separar"
+msgstr "Split-3-1"
 
 #: translation.js:238
 msgid "Bus4-Split-3-1: Split the 4-bits bus into two: 3-bits and 1-bits buses"
@@ -829,10 +805,8 @@ msgstr "Bus4-Split-3-1: Separar un bus de 4 bits en dos buses de 3 y 1 bits"
 #: translation.js:240 translation.js:262 translation.js:291 translation.js:305
 #: translation.js:338 translation.js:916 translation.js:962 translation.js:1023
 #: translation.js:1086 translation.js:1165
-#, fuzzy
-#| msgid "Split-all"
 msgid "Split-half"
-msgstr "Split-all"
+msgstr "Split-half"
 
 #: translation.js:241
 msgid "Bus4-Split-half: Split the 4-bits bus into two of the same size"
@@ -840,40 +814,32 @@ msgstr ""
 "Bus4-Split-half: Separar un bus de 4 bits en dos buses del mismo tamaño"
 
 #: translation.js:242 translation.js:932
-#, fuzzy
-#| msgid "Split"
 msgid "Split-1-4"
-msgstr "Separar"
+msgstr "Split-1-4"
 
 #: translation.js:243
 msgid "Bus5-Split-1-4: Split the 5-bits bus into two buses of 1 and 4 bits"
 msgstr "Bus5-Split-1-4: Separar un bus de 5 bits en dos buses de 1 y 4 bits"
 
 #: translation.js:244 translation.js:933
-#, fuzzy
-#| msgid "Split"
 msgid "Split-2-3"
-msgstr "Separar"
+msgstr "Split-2-3"
 
 #: translation.js:245
 msgid "Bus5-Split-2-3: Split the 5-bits bus into two buses of 2 and 3 bits"
 msgstr "Bus5-Split-2-3: Separar un bus de 5 bits en dos buses de 2 y 3 bits"
 
 #: translation.js:246 translation.js:934
-#, fuzzy
-#| msgid "Split"
 msgid "Split-3-2"
-msgstr "Separar"
+msgstr "Split-3-2"
 
 #: translation.js:247
 msgid "Bus5-Split-3-2: Split the 5-bits bus into two buses of 3 and 2 bits"
 msgstr "Bus5-Split-3-2: Separar un bus de 5 bits en dos buses de 3 y 2 bits"
 
 #: translation.js:248 translation.js:935
-#, fuzzy
-#| msgid "Split"
 msgid "Split-4-1"
-msgstr "Separar"
+msgstr "Split-4-1"
 
 #: translation.js:249
 msgid "Bus5-Split-4-1: Split the 5-bits bus into two buses of 4 and 1 bits"
@@ -884,40 +850,32 @@ msgid "Bus5-Split-all: Split the 5-bits bus into its wires"
 msgstr "Bus5-Split-all: Separar un bus de 5 bits en sus  cables"
 
 #: translation.js:252 translation.js:957
-#, fuzzy
-#| msgid "Split"
 msgid "Split-1-5"
-msgstr "Separar"
+msgstr "Split-1-5"
 
 #: translation.js:253
 msgid "Bus6-Split-1-5: Split the 6-bits bus into two buses of 1 and 5 wires"
 msgstr "Bus6-Split-1-5: Separar un bus de 6 bits en dos buses de 1 y 5 bits"
 
 #: translation.js:254 translation.js:958
-#, fuzzy
-#| msgid "Split"
 msgid "Split-2-4"
-msgstr "Separar"
+msgstr "Split-2-4"
 
 #: translation.js:255
 msgid "Bus6-Split-2-4: Split the 6-bits bus into two buses of 2 and 4 wires"
 msgstr "Bus6-Split-2-4: Separar un bus de 6 bits en dos buses de 2 y 4 bits"
 
 #: translation.js:256 translation.js:959
-#, fuzzy
-#| msgid "Split"
 msgid "Split-4-2"
-msgstr "Separar"
+msgstr "Split-4-2"
 
 #: translation.js:257
 msgid "Bus6-Split-4-2: Split the 6-bits bus into two buses of 4 and 2 wires"
 msgstr "Bus6-Split-4-2: Separar un bus de 6 bits en dos buses de 4 y 2 bits"
 
 #: translation.js:258 translation.js:960
-#, fuzzy
-#| msgid "Split"
 msgid "Split-5-1"
-msgstr "Separar"
+msgstr "Split-5-1"
 
 #: translation.js:259
 msgid "Bus6-Split-5-1: Split the 6-bits bus into two buses of 5 and 1 wires"
@@ -932,60 +890,48 @@ msgid "Bus6-Split-half: Split the 6-bits bus into two buses of 3 wires"
 msgstr "Bus6-Split-half: Separar un bus de 6 bits en dos buses de 3 cables"
 
 #: translation.js:264 translation.js:987
-#, fuzzy
-#| msgid "Split"
 msgid "Split-1-6"
-msgstr "Separar"
+msgstr "Split-1-6"
 
 #: translation.js:265
 msgid "Bus7-Split-1-6: Split the 7-bits bus into two buses of 1 and 6 wires"
 msgstr "Bus7-Split-1-6: Separar un bus de 7 bits en dos buses de 1 y 6 bits"
 
 #: translation.js:266 translation.js:988
-#, fuzzy
-#| msgid "Split"
 msgid "Split-2-5"
-msgstr "Separar"
+msgstr "Split-2-5"
 
 #: translation.js:267
 msgid "Bus7-Split-2-5: Split the 7-bits bus into two buses of 2 and 5 wires"
 msgstr "Bus7-Split-2-5: Separar un bus de 7 bits en dos buses de 2 y 5 bits"
 
 #: translation.js:268 translation.js:989
-#, fuzzy
-#| msgid "Split"
 msgid "Split-3-4"
-msgstr "Separar"
+msgstr "Split-3-4"
 
 #: translation.js:269
 msgid "Bus7-Split-3-4: Split the 7-bits bus into two buses of 3 and 4 wires"
 msgstr "Bus7-Split-3-4: Separar un bus de 7 bits en dos buses de 3 y 4 bits"
 
 #: translation.js:270 translation.js:990
-#, fuzzy
-#| msgid "Split"
 msgid "Split-4-3"
-msgstr "Separar"
+msgstr "Split-4-3"
 
 #: translation.js:271
 msgid "Bus7-Split-4-3: Split the 7-bits bus into two buses of 4 and 3 wires"
 msgstr "Bus7-Split-4-3: Separar un bus de 7 bits en dos buses de 4 y 3 bits"
 
 #: translation.js:272 translation.js:991
-#, fuzzy
-#| msgid "Split"
 msgid "Split-5-2"
-msgstr "Separar"
+msgstr "Split-5-2"
 
 #: translation.js:273
 msgid "Bus7-Split-5-2: Split the 7-bits bus into two buses of 5 and 2 wires"
 msgstr "Bus7-Split-5-2: Separar un bus de 7 bits en dos buses de 5 y 2 bits"
 
 #: translation.js:274
-#, fuzzy
-#| msgid "Split"
 msgid "Split-6-1"
-msgstr "Separar"
+msgstr "Split-6-1"
 
 #: translation.js:275
 msgid "Bus7-Split-6-1: Split the 7-bits bus into two buses of 6 and 1 wires"
@@ -996,56 +942,44 @@ msgid "Bus7-Split-all: Split the 7-bits bus into its wires"
 msgstr "Bus7-Split-all: Separar un bus de 7 bits en sus cables"
 
 #: translation.js:278 translation.js:1016
-#, fuzzy
-#| msgid "Split"
 msgid "Split-1-7"
-msgstr "Separar"
+msgstr "Split-1-7"
 
 #: translation.js:279
 msgid "Bus8-Split-half: Split the 8-bits bus into two buses of 1 and 7 wires"
 msgstr "Bus8-Split-half: Separar un bus de 8 bits en dos buses de 1 y 7 bits"
 
 #: translation.js:280 translation.js:1017
-#, fuzzy
-#| msgid "Split"
 msgid "Split-2-6"
-msgstr "Separar"
+msgstr "Split-2-6"
 
 #: translation.js:281 translation.js:1018
-#, fuzzy
-#| msgid "Split"
 msgid "Split-3-5"
-msgstr "Separar"
+msgstr "Split-3-5"
 
 #: translation.js:282
 msgid "Bus8-Split-3-5: Split the 8-bits bus into two buses of 3 and 5 wires"
 msgstr "Bus8-Split-3-5: Separar un bus de 8 bits en dos buses de 3 y 5 bits"
 
 #: translation.js:283 translation.js:1019
-#, fuzzy
-#| msgid "Split"
 msgid "Split-5-3"
-msgstr "Separar"
+msgstr "Split-5-3"
 
 #: translation.js:284
 msgid "Bus8-Split-5-3: Split the 8-bits bus into two buses of 5 and 3 wires"
 msgstr "Bus8-Split-5-3: Separar un bus de 8 bits en dos buses de 5 y 3 bits"
 
 #: translation.js:285 translation.js:1020
-#, fuzzy
-#| msgid "Split"
 msgid "Split-6-2"
-msgstr "Separar"
+msgstr "Split-6-2"
 
 #: translation.js:286
 msgid "Bus8-Split-6-2: Split the 8-bits bus into two buses of 6 and 2 wires"
 msgstr "Bus8-Split-6-2: Separar un bus de 8 bits en dos buses de 6 y 2 bits"
 
 #: translation.js:287 translation.js:1021
-#, fuzzy
-#| msgid "Split"
 msgid "Split-7-1"
-msgstr "Separar"
+msgstr "Split-7-1"
 
 #: translation.js:288
 msgid "Bus8-Split-7-1: Split the 8-bits bus into two buses of 7 and 1 wires"
@@ -1060,40 +994,32 @@ msgid "Bus8-Split-half: Split the 8-bits bus into two buses of the same size"
 msgstr "Bus8-Split-half: Separar un bus de 8 bits en dos buses iguales"
 
 #: translation.js:293 translation.js:1056
-#, fuzzy
-#| msgid "Split"
 msgid "Split-1-8"
-msgstr "Separar"
+msgstr "Split-1-8"
 
 #: translation.js:294
 msgid "Bus9-Split-half: Split the 9-bits bus into two buses of 1 and 8 wires"
 msgstr "Bus9-Split-half: Separar un bus de 9 bits en dos buses de 1 y 8 bits"
 
 #: translation.js:295
-#, fuzzy
-#| msgid "Split"
 msgid "Split-2-8"
-msgstr "Separar"
+msgstr "Split-2-8"
 
 #: translation.js:296
 msgid "Bus10-Split-2-8: Split the 10-bits bus into two buses of 2 and 8 wires"
 msgstr "Bus10-Split-2-8: Separar un bus de 10 bits en dos buses de 2 y 8 bits"
 
 #: translation.js:297 translation.js:1066
-#, fuzzy
-#| msgid "Split"
 msgid "Split-3-8"
-msgstr "Separar"
+msgstr "Split-3-8"
 
 #: translation.js:298
 msgid "Bus11-Split-3-8: Split the 11-bits bus into two buses of 3 and 8 wires"
 msgstr "Bus11-Split-3-8: Separar un bus de 11 bits en dos buses de 3 y 8 bits"
 
 #: translation.js:299 translation.js:1070
-#, fuzzy
-#| msgid "Split"
 msgid "Split-4-8"
-msgstr "Separar"
+msgstr "Split-4-8"
 
 #: translation.js:300
 msgid "Bus12-Split-4-8: Split the 12-bits bus into two buses of 4 and 8 wires"
@@ -1102,7 +1028,7 @@ msgstr "Bus12-Split-4-8: Separar un bus de 12 bits en dos buses de 4 y 8 bits"
 #: translation.js:301 translation.js:323 translation.js:1071
 #: translation.js:1121
 msgid "Split-one-third"
-msgstr ""
+msgstr "Split-one-third"
 
 #: translation.js:302
 msgid ""
@@ -1112,10 +1038,8 @@ msgstr ""
 "tamaño"
 
 #: translation.js:303
-#, fuzzy
-#| msgid "Split"
 msgid "Split-7-8"
-msgstr "Separar"
+msgstr "Split-7-8"
 
 #: translation.js:304
 msgid "Bus15-Split-7-8: Split the 15-bits bus into two buses of 7 and 8 bits"
@@ -1129,10 +1053,8 @@ msgstr ""
 
 #: translation.js:307 translation.js:340 translation.js:1087
 #: translation.js:1166
-#, fuzzy
-#| msgid "Split-all"
 msgid "Split-quarter"
-msgstr "Split-all"
+msgstr "Split-quarter"
 
 #: translation.js:308
 msgid ""
@@ -1142,10 +1064,8 @@ msgstr ""
 "tamaño"
 
 #: translation.js:309 translation.js:1096
-#, fuzzy
-#| msgid "Split"
 msgid "Split-3-8-8"
-msgstr "Separar"
+msgstr "Split-3-8-8"
 
 #: translation.js:310
 msgid ""
@@ -1154,10 +1074,8 @@ msgstr ""
 "Bus19-Split-3-8-8: Separar un bus de 19 bits en dos buses de 3, 8 y 8 cables"
 
 #: translation.js:311 translation.js:1102
-#, fuzzy
-#| msgid "Split"
 msgid "Split-12-8"
-msgstr "Separar"
+msgstr "Split-12-8"
 
 #: translation.js:312
 msgid ""
@@ -1166,10 +1084,8 @@ msgstr ""
 "Bus20-Split-8-12: Separar un bus de 20 bits en dos buses de 8 y 12 bits"
 
 #: translation.js:313 translation.js:1103
-#, fuzzy
-#| msgid "Split"
 msgid "Split-4-16"
-msgstr "Separar"
+msgstr "Split-4-16"
 
 #: translation.js:314
 msgid ""
@@ -1178,10 +1094,8 @@ msgstr ""
 "Bus20-Split-4-16: Separar un bus de 20 bits en dos buses de 4 y 16 bits"
 
 #: translation.js:315 translation.js:1104
-#, fuzzy
-#| msgid "Split"
 msgid "Split-4-8-8"
-msgstr "Separar"
+msgstr "Split-4-8-8"
 
 #: translation.js:316
 msgid ""
@@ -1190,10 +1104,8 @@ msgstr ""
 "Bus20-Split-4-8-8: Separar un bus de 20 bits en tres de 4, 8 y 8 cables"
 
 #: translation.js:317
-#, fuzzy
-#| msgid "Split"
 msgid "Split-7-8-8"
-msgstr "Separar"
+msgstr "Split-7-8-8"
 
 #: translation.js:318
 msgid ""
@@ -1202,10 +1114,8 @@ msgstr ""
 "Bus19-Split-3-8-8: Separar un bus de 19 bits en dos buses de 3,  8 y 8 bits"
 
 #: translation.js:319 translation.js:1119
-#, fuzzy
-#| msgid "Split"
 msgid "Split-16-8"
-msgstr "Separar"
+msgstr "Split-16-8"
 
 #: translation.js:320
 msgid ""
@@ -1214,10 +1124,8 @@ msgstr ""
 "Bus24-Split-16-8: Separar un bus de 24 bits en dos buses de 16 y 8 bits"
 
 #: translation.js:321 translation.js:1120
-#, fuzzy
-#| msgid "Split"
 msgid "Split-8-16"
-msgstr "Separar"
+msgstr "Split-8-16"
 
 #: translation.js:322
 msgid ""
@@ -1235,7 +1143,7 @@ msgstr ""
 
 #: translation.js:325 translation.js:1135
 msgid "Split-3-8-8-8"
-msgstr ""
+msgstr "Split-3-8-8-8"
 
 #: translation.js:326
 msgid ""
@@ -1245,10 +1153,8 @@ msgstr ""
 "Bus27-Split-3-8-8-8: Separar un bus de 27 bits en dos buses de 7,8,8 y 8 bits"
 
 #: translation.js:327 translation.js:1141
-#, fuzzy
-#| msgid "Split"
 msgid "Split-20-8"
-msgstr "Separar"
+msgstr "Split-20-8"
 
 #: translation.js:328
 msgid ""
@@ -1257,10 +1163,8 @@ msgstr ""
 "Bus28-Split-20-8: Separar un bus de 28 bits en dos buses de 20 y 8 bits"
 
 #: translation.js:329 translation.js:1142
-#, fuzzy
-#| msgid "Split"
 msgid "Split-4-24"
-msgstr "Separar"
+msgstr "Split-4-24"
 
 #: translation.js:330
 msgid ""
@@ -1270,7 +1174,7 @@ msgstr ""
 
 #: translation.js:331 translation.js:1143
 msgid "Split-4-8-8-8"
-msgstr ""
+msgstr "Split-4-8-8-8"
 
 #: translation.js:332
 msgid ""
@@ -1282,7 +1186,7 @@ msgstr ""
 
 #: translation.js:333 translation.js:1157
 msgid "Split-7-8-8-8"
-msgstr ""
+msgstr "Split-7-8-8-8"
 
 #: translation.js:334
 msgid ""
@@ -1293,10 +1197,8 @@ msgstr ""
 "bits"
 
 #: translation.js:335 translation.js:342 translation.js:1163
-#, fuzzy
-#| msgid "Split"
 msgid "Split-24-8"
-msgstr "Separar"
+msgstr "Split-24-8"
 
 #: translation.js:336
 msgid ""
@@ -1305,10 +1207,8 @@ msgstr ""
 "Bus32-Split-8-24: Separar un bus de 28 bits en dos buses de 8 y 24 bits"
 
 #: translation.js:337 translation.js:1164
-#, fuzzy
-#| msgid "Split"
 msgid "Split-8-24"
-msgstr "Separar"
+msgstr "Split-8-24"
 
 #: translation.js:339
 msgid "Bus32-Split-half: Split the 32-bits bus into two buses of 16 wires"
@@ -1321,31 +1221,31 @@ msgstr ""
 
 #: translation.js:343 translation.js:1185
 msgid "Uint2"
-msgstr ""
+msgstr "Uint2"
 
 #: translation.js:344 translation.js:1186
 msgid "Uint4"
-msgstr ""
+msgstr "Uint4"
 
 #: translation.js:345 translation.js:1187
 msgid "Uint8"
-msgstr ""
+msgstr "Uint8"
 
 #: translation.js:346
 msgid "Uint2-01-bit"
-msgstr ""
+msgstr "Uint2-01-bit"
 
 #: translation.js:347
 msgid "UINT2-1bit:  Extend a 1-bit unsigned integer to 2-bits "
-msgstr ""
+msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
 
 #: translation.js:348
 msgid "Uint4-01-bit"
-msgstr ""
+msgstr "Uint4-01-bit"
 
 #: translation.js:349
 msgid "UINT4-1bit:  Extend a 1-bit unsigned integer to 4-bits "
-msgstr ""
+msgstr "UINT4-1bit:  Extender un entero sin signo de 1 bit a 4 bits "
 
 #: translation.js:350
 msgid "3bits constant value: 0"
@@ -1357,11 +1257,11 @@ msgstr "Generic: Constante genérica de 3-bits  (0-7)"
 
 #: translation.js:352
 msgid "Uint4-02-bit"
-msgstr ""
+msgstr "Uint4-02-bit"
 
 #: translation.js:353
 msgid "UINT4-2bit:  Extend a 2-bit unsigned integer to 4-bits "
-msgstr ""
+msgstr "UINT4-2bit:  Extender un entero sin signo de 2 bit a 4 bits "
 
 #: translation.js:354
 msgid "2bits constant value: 0"
@@ -1373,19 +1273,19 @@ msgstr "Generic: Constante genérica de 2-bits (0,1,2,3)"
 
 #: translation.js:356
 msgid "Uint4-03-bit"
-msgstr ""
+msgstr "Uint4-03-bit"
 
 #: translation.js:357
 msgid "UINT4-3bit:  Extend a 3-bit unsigned integer to 4-bits "
-msgstr ""
+msgstr "UINT4-3bit:  Extender un entero sin signo de 3 bit a 4 bits "
 
 #: translation.js:358
 msgid "Uint8-01-bit"
-msgstr ""
+msgstr "Uint8-01-bit"
 
 #: translation.js:359
 msgid "UINT8-1bit:  Extend a 1-bit unsigned integer to 8-bits "
-msgstr ""
+msgstr "UINT8-1bit:  Extender un entero sin signo de 1 bit a 8 bits "
 
 #: translation.js:360
 msgid "7bits constant value: 0"
@@ -1397,11 +1297,11 @@ msgstr "Generic: Constante genérica de 7-bits (0-127)"
 
 #: translation.js:362
 msgid "Uint8-02-bits"
-msgstr ""
+msgstr "Uint8-02-bits"
 
 #: translation.js:363
 msgid "UINT8-2bits:  Extend a 2-bits unsigned integer to 8-bits "
-msgstr ""
+msgstr "UINT8-2bit:  Extender un entero sin signo de 2 bits a 8 bits "
 
 #: translation.js:364
 msgid "6bits constant value: 0"
@@ -1413,11 +1313,11 @@ msgstr "Generic: Constante genérica de 6-bits (0-63)"
 
 #: translation.js:366
 msgid "Uint8-03-bits"
-msgstr ""
+msgstr "Uint8-03-bits"
 
 #: translation.js:367
 msgid "UINT8-3bits:  Extend a 3-bits unsigned integer to 8-bits "
-msgstr ""
+msgstr "UINT8-3bit:  Extender un entero sin signo de 3 bits a 8 bits "
 
 #: translation.js:368
 msgid "5bits constant value: 0"
@@ -1429,11 +1329,11 @@ msgstr "Generic: Constante genérica de 5-bits (0-31)"
 
 #: translation.js:370
 msgid "Uint8-04-bits"
-msgstr ""
+msgstr "Uint8-04-bits"
 
 #: translation.js:371
 msgid "UINT8-4bits:  Extend a 4-bits unsigned integer to 8-bits "
-msgstr ""
+msgstr "UINT8-4bit:  Extender un entero sin signo de 4 bits a 8 bits "
 
 #: translation.js:372
 msgid "4bits constant value: 0"
@@ -1445,27 +1345,27 @@ msgstr "Generic: Constante genérica de 4-bits  (0-15)"
 
 #: translation.js:374
 msgid "Uint8-05-bits"
-msgstr ""
+msgstr "Uint8-05-bits"
 
 #: translation.js:375
 msgid "UINT8-5bits:  Extend a 5-bits unsigned integer to 8-bits "
-msgstr ""
+msgstr "UINT8-5bit:  Extender un entero sin signo de 5 bits a 8 bits "
 
 #: translation.js:376
 msgid "Uint8-06-bits"
-msgstr ""
+msgstr "Uint8-06-bits"
 
 #: translation.js:377
 msgid "UINT8-6bits:  Extend a 6-bits unsigned integer to 8-bits "
-msgstr ""
+msgstr "UINT8-6bit:  Extender un entero sin signo de 6 bits a 8 bits "
 
 #: translation.js:378
 msgid "Uint8-07-bits"
-msgstr ""
+msgstr "Uint8-07-bits"
 
 #: translation.js:379
 msgid "UINT8-7bits:  Extend a 7-bits unsigned integer to 8-bits "
-msgstr ""
+msgstr "UINT8-2bit:  Extender un entero sin signo de 7 bits a 8 bits "
 
 #: translation.js:380 translation.js:1243
 msgid "Bus-2"
@@ -2174,15 +2074,15 @@ msgstr "Multiplexor 2-1 (Canales de 1 bit)"
 
 #: translation.js:645
 msgid "OR2: Two bits input OR gate"
-msgstr ""
+msgstr "OR2: Puerta OR de dos entradas"
 
 #: translation.js:646
 msgid "Two bits input And gate"
-msgstr ""
+msgstr "Puerta AND de dos entradas"
 
 #: translation.js:647
 msgid "NOT gate (Verilog implementation)"
-msgstr ""
+msgstr "Puerta NOT (Implementación en verilog)"
 
 #: translation.js:648
 msgid "Generic: 8-bits generic constant (0-255)"
@@ -2210,7 +2110,7 @@ msgstr "Entrada"
 
 #: translation.js:653
 msgid "Output"
-msgstr ""
+msgstr "Salida"
 
 #: translation.js:656 translation.js:658 translation.js:660 translation.js:662
 #: translation.js:803 translation.js:806 translation.js:808 translation.js:810
@@ -2319,7 +2219,7 @@ msgstr "Componente genérico con entrada clk"
 
 #: translation.js:699
 msgid "Reg: 1-Bit register"
-msgstr ""
+msgstr "Reg: Registro de 1-Bit"
 
 #: translation.js:700
 msgid "2-to-1 Multplexer (1-bit channels). Fippled version"
@@ -2353,7 +2253,7 @@ msgstr ""
 
 #: translation.js:707
 msgid "XOR gate: two bits input xor gate"
-msgstr ""
+msgstr "Puerta XOR: Puerta XOR de entrada de dos bits"
 
 #: translation.js:708
 msgid "Button-tic: Configurable button that emits a tic when it is pressed"
@@ -2364,6 +2264,8 @@ msgid ""
 "Rising-edge detector. It generates a 1-period pulse (tic) when a rising edge "
 "is detected on the input"
 msgstr ""
+"Detector de flanco de subida. Se genera un pulso de 1 ciclo cuando se "
+"detecta un flanco de subida en la entrada"
 
 #: translation.js:710
 msgid "Configurable button (pull-up on/off. Not on/off)"
@@ -2375,7 +2277,7 @@ msgstr "Configuración del pull-up interno de la FPGA en puerto de entrada"
 
 #: translation.js:712
 msgid "Remove the rebound on a mechanical switch"
-msgstr ""
+msgstr "Eliminar los rebotes de un interruptor mecánico"
 
 #: translation.js:713
 msgid "1bit register (implemented in verilog)"
@@ -2444,12 +2346,14 @@ msgstr ""
 
 #: translation.js:727
 msgid "Sync 1-bit input with the system clock domain"
-msgstr ""
+msgstr "Sincronizar una entrada de un bit con el dominio del reloj del sistema"
 
 #: translation.js:728
 msgid ""
 "Select positive or negative logic for the input (0=positive, 1=negative)"
 msgstr ""
+"Seleccionar lógica positiva o negativa para la entrada (0=positiva, "
+"1=negativa)"
 
 #: translation.js:729
 msgid "1-bit generic constant (0/1)"
@@ -2465,7 +2369,7 @@ msgstr ""
 
 #: translation.js:731
 msgid "Mux 2-1"
-msgstr ""
+msgstr "Mux 2-1"
 
 #: translation.js:732
 msgid ""
@@ -2477,11 +2381,11 @@ msgstr ""
 
 #: translation.js:733
 msgid "Parameter: Initial value"
-msgstr ""
+msgstr "Parámetro: Valor inicial"
 
 #: translation.js:734
 msgid "System clock"
-msgstr ""
+msgstr "Reloj del sistema"
 
 #: translation.js:735
 msgid "Input data"
@@ -2505,19 +2409,19 @@ msgstr "Señal de estado del botón"
 
 #: translation.js:738
 msgid "Tic: button pressed"
-msgstr ""
+msgstr "Tic: Botón apretado"
 
 #: translation.js:739
 msgid "Rising edge detector"
-msgstr ""
+msgstr "Detector de flanco de subida"
 
 #: translation.js:740
 msgid "Pull up on/off"
-msgstr ""
+msgstr "Pull up on/off"
 
 #: translation.js:741
 msgid "Not on/off"
-msgstr ""
+msgstr "Not on/off"
 
 #: translation.js:742
 msgid ""
@@ -2546,6 +2450,8 @@ msgid ""
 "Signal state in the previous  \n"
 "clock cycle"
 msgstr ""
+"Estado de la señal en el ciclo  \n"
+"de reloj anterior"
 
 #: translation.js:746
 msgid ""
@@ -2587,7 +2493,7 @@ msgstr ""
 
 #: translation.js:749
 msgid "Synchronization stage"
-msgstr ""
+msgstr "Etapa de sincronización"
 
 #: translation.js:750
 msgid ""
@@ -2596,6 +2502,10 @@ msgid ""
 "* 0: Wire\n"
 "* 1: signal inverted"
 msgstr ""
+"Etapa de normalización\n"
+"\n"
+"* 0: Cable\n"
+"* 1: Señal invertica"
 
 #: translation.js:751
 msgid "Debouncing stage"
@@ -2618,12 +2528,16 @@ msgid ""
 "Only an FPGA pin can  \n"
 "be connected here!!!"
 msgstr ""
+"¡¡Sólo se puede conectar  \n"
+"aquí un pin de la FPGA!!"
 
 #: translation.js:754
 msgid ""
 "The pull-up is connected  \n"
 "by default"
 msgstr ""
+"El Pull-up se conecta  \n"
+"por defecto"
 
 #: translation.js:755
 msgid "Edge detector"
@@ -2634,6 +2548,8 @@ msgid ""
 "Whenever there is a change in  \n"
 "the input, the counter is started"
 msgstr ""
+"Siempre que haya un cambio en  \n"
+"la entrada, se arranca el contador"
 
 #: translation.js:757
 msgid ""
@@ -2679,7 +2595,7 @@ msgstr ""
 
 #: translation.js:760
 msgid "Stable output"
-msgstr ""
+msgstr "Salida estable"
 
 #: translation.js:761
 msgid "Counter"
@@ -2694,6 +2610,8 @@ msgid ""
 "Reset input: Active high  \n"
 "When rst = 1, the DFF is reset to 0"
 msgstr ""
+"Entrada de reset: Activa a nivel alto  \n"
+"Cuando rst = 1, el biestable se inicializa a 0"
 
 #: translation.js:764
 msgid "Data input"
@@ -2727,6 +2645,8 @@ msgid ""
 "previous 0, or if the current value is 0 and the  \n"
 "previous 1\n"
 msgstr ""
+"La salida es 1 si el valor actua es 1 y el previo 0,  \n"
+"o si el valor actual es 0 y el previo 1\n"
 
 #: translation.js:768
 msgid "In any other case the output is 0"
@@ -2739,6 +2659,10 @@ msgid ""
 "When k=1, it act as a not gate\n"
 "(The output is the inverse of the input)"
 msgstr ""
+"Cuando k=0, funciona como un cable  \n"
+"(La salida es igual a la entrada)  \n"
+"Cuando k=1, actúa como una puerta NOT\n"
+"(La salida es la inversa de la entrada)"
 
 #: translation.js:770
 msgid ""
@@ -2884,23 +2808,23 @@ msgstr "05-Bits"
 
 #: translation.js:842
 msgid "Reversal-5: 5-bit Bus reversal"
-msgstr ""
+msgstr "Reversal-5: Inversión de un Bus de 5-bits"
 
 #: translation.js:843
 msgid "TODO"
-msgstr ""
+msgstr "Por hacer"
 
 #: translation.js:846
 msgid "Shift-left"
-msgstr ""
+msgstr "Shift-left"
 
 #: translation.js:847 translation.js:866
 msgid "Shift-right"
-msgstr ""
+msgstr "Shift-right"
 
 #: translation.js:870
 msgid "Sign-02Bits"
-msgstr ""
+msgstr "Sign-02Bits"
 
 #: translation.js:898
 msgid ""
@@ -3292,7 +3216,7 @@ msgstr ""
 #: translation.js:1153 translation.js:1155 translation.js:1156
 #: translation.js:1174 translation.js:1176
 msgid "Manual-testing"
-msgstr ""
+msgstr "Manual-testing"
 
 #: translation.js:1083
 msgid "Generic: 15-bits generic constant"
@@ -3362,6 +3286,8 @@ msgid ""
 "Values for testing:  \n"
 "0-FFFFF"
 msgstr ""
+"Valores para probar:  \n"
+"0-FFFFF"
 
 #: translation.js:1113
 msgid ""
@@ -3408,6 +3334,8 @@ msgid ""
 "Values for testing:  \n"
 "0-FFFFFF"
 msgstr ""
+"Valores para probar:  \n"
+"0-FFFFFF"
 
 #: translation.js:1129
 msgid ""
@@ -3488,6 +3416,8 @@ msgid ""
 "Values for testing:  \n"
 "0-FFFFFFF"
 msgstr ""
+"Valores para probar:  \n"
+"0-FFFFFFF"
 
 #: translation.js:1160
 msgid "Generic: 31-bits generic constant"
@@ -3526,6 +3456,8 @@ msgid ""
 "Values for testing:  \n"
 "0-FFFFFFFF"
 msgstr ""
+"Valores para probar:  \n"
+"0-FFFFFFFF"
 
 #: translation.js:1175
 msgid ""
