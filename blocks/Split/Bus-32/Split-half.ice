@@ -12,119 +12,10 @@
     "graph": {
       "blocks": [
         {
-          "id": "9deb9c40-8e37-489d-ad5d-4e9560ae2be9",
+          "id": "071df647-0dc5-4a8c-95e4-1803ac704adf",
           "type": "basic.output",
           "data": {
             "name": "1",
-            "range": "[31:16]",
-            "pins": [
-              {
-                "index": "31",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "30",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "29",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "28",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "27",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "26",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "25",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "24",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "23",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "22",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "21",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "20",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "19",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "18",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "17",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "16",
-                "name": "",
-                "value": ""
-              }
-            ],
-            "virtual": false
-          },
-          "position": {
-            "x": 648,
-            "y": 192
-          }
-        },
-        {
-          "id": "5204a9f1-594b-4216-b993-03b46bef9e6e",
-          "type": "basic.input",
-          "data": {
-            "name": "",
-            "range": "[31:0]",
-            "clock": false,
-            "size": 32
-          },
-          "position": {
-            "x": 64,
-            "y": 248
-          }
-        },
-        {
-          "id": "c31e1eae-55c3-4efc-ad16-a0d3cc020008",
-          "type": "basic.output",
-          "data": {
-            "name": "0",
             "range": "[15:0]",
             "pins": [
               {
@@ -212,6 +103,33 @@
           },
           "position": {
             "x": 648,
+            "y": 192
+          }
+        },
+        {
+          "id": "5204a9f1-594b-4216-b993-03b46bef9e6e",
+          "type": "basic.input",
+          "data": {
+            "name": "",
+            "range": "[31:0]",
+            "clock": false,
+            "size": 32
+          },
+          "position": {
+            "x": 64,
+            "y": 248
+          }
+        },
+        {
+          "id": "c31e1eae-55c3-4efc-ad16-a0d3cc020008",
+          "type": "basic.output",
+          "data": {
+            "name": "0",
+            "range": "[15:0]",
+            "size": 16
+          },
+          "position": {
+            "x": 648,
             "y": 296
           }
         },
@@ -282,7 +200,7 @@
             "port": "o1"
           },
           "target": {
-            "block": "9deb9c40-8e37-489d-ad5d-4e9560ae2be9",
+            "block": "071df647-0dc5-4a8c-95e4-1803ac704adf",
             "port": "in"
           },
           "size": 16
