@@ -259,6 +259,8 @@ For installing and using this colection in Icestudio follow these steps:
 
 ## Examples
 * 00-Index
+* 01-Index
+* 02-Index
 * **TESTs**
   * **Copy**
     * **Copy-02**

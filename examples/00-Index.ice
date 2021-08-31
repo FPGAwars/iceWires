@@ -1111,7 +1111,7 @@
           "id": "7a38143c-f45a-439a-afbc-7b77fb511bdc",
           "type": "basic.info",
           "data": {
-            "info": "Extend to the input bus to a N-bits bus, by adding 0's as  \nmost significant bits.  Ex: The 2-bits bus b1,b0 is extended  \nas a 4-bits bus:  0,0,b1,b0",
+            "info": "Extend to the input bus to a N-bits bus, by adding 0s as  \nmost significant bits.  Ex: The 2-bits bus b1,b0 is extended  \nas a 4-bits bus:  0,0,b1,b0",
             "readonly": true
           },
           "position": {
