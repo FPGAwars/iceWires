@@ -65,108 +65,72 @@ msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
 msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
 
 #: translation.js:22 translation.js:430
-#, fuzzy
-#| msgid "Copy-02"
 msgid "Copy-03"
-msgstr "Copy-02"
+msgstr "Copy-03"
 
 #: translation.js:23
-#, fuzzy
-#| msgid "Copy-2: Copy the input wire twice and generate a 2 bits Bus output"
 msgid "Copy-3: Copy the input wire and creates a 3 bits Bus output"
-msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits"
+msgstr "Copy-3: Copiar el cable de entrada y sacarlo por un bus de 3 bits"
 
 #: translation.js:24
 msgid "Bus3-Join-all: Joint three wires into a 3-bits Bus"
 msgstr "Bus-3-join-all: Agregar tres cables a un bus de 3 bits"
 
 #: translation.js:25 translation.js:431
-#, fuzzy
-#| msgid "Copy-02"
 msgid "Copy-04"
-msgstr "Copy-02"
+msgstr "Copy-04"
 
 #: translation.js:26
-#, fuzzy
-#| msgid "Copy-2: Copy the input wire twice and generate a 2 bits Bus output"
 msgid "Copy-4: Copy the input wire and creates a 4 bits Bus output"
-msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits"
+msgstr "Copy-4: Copiar el cable de entrada y sacarlo por un bus de 4 bits"
 
 #: translation.js:27
 msgid "Bus4-Join-all: Join all the wires into a 4-bits Bus"
 msgstr "Bus-4-join-all: Agregar todos los cables a un bus de 4 bits"
 
 #: translation.js:28 translation.js:432
-#, fuzzy
-#| msgid "Copy-02"
 msgid "Copy-05"
-msgstr "Copy-02"
+msgstr "Copy-05"
 
 #: translation.js:29
-#, fuzzy
-#| msgid "Copy-2: Copy the input wire twice and generate a 2 bits Bus output"
 msgid "Copy-5: Copy the input wire and creates a 5 bits Bus output"
-msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits"
+msgstr "Copy-5: Copiar el cable de entrada y sacarlo por un bus de 5 bits"
 
 #: translation.js:30
 msgid "Bus5-Join-all: Join all the wires into a 5-bits Bus"
 msgstr "Bus5-join-all: Unir todos los cables en un bus de 5 bits"
 
 #: translation.js:31 translation.js:433
-#, fuzzy
-#| msgid "Copy-02"
 msgid "Copy-06"
-msgstr "Copy-02"
+msgstr "Copy-06"
 
 #: translation.js:32
-#, fuzzy
-#| msgid "Copy-2: Copy the input wire twice and generate a 2 bits Bus output"
 msgid "Copy-6: Copy the input wire and creates a 6 bits Bus output"
-msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits"
+msgstr "Copy-6: Copiar el cable de entrada y sacarlo por un bus de 6 bits"
 
 #: translation.js:33
 msgid "Bus6-Join-all: Join all the wires into a 6-bits Bus"
 msgstr "Bus6-join-all: Unir todos los cables en un bus de 6 bits"
 
 #: translation.js:34
-#, fuzzy
-#| msgid "Copy-02"
 msgid "Copy-07"
-msgstr "Copy-02"
+msgstr "Copy-07"
 
 #: translation.js:35
-#, fuzzy
-#| msgid "Copy-2: Copy the input wire twice and generate a 2 bits Bus output"
 msgid "Copy-7: Copy the input wire and creates a 7 bits Bus output"
-msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits"
+msgstr "Copy-7: Copiar el cable de entrada y sacarlo por un bus de 7 bits"
 
 #: translation.js:36
 msgid "Bus7-Join-all: Join all the wires into a 7-bits Bus"
 msgstr "Bus7-join-all: Unir todos los cables en un bus de 7-bits"
 
 #: translation.js:37 translation.js:434
-#, fuzzy
-#| msgid "Copy-02"
 msgid "Copy-08"
-msgstr "Copy-02"
+msgstr "Copy-08"
 
 #: translation.js:38
-#, fuzzy
-#| msgid "Copy-2: Copy the input wire twice and generate a 2 bits Bus output"
 msgid "Copy-8: Copy the input wire and creates a 8 bits Bus output"
-msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits"
+msgstr "Copy-8: Copiar el cable de entrada y sacarlo por un bus de 8 bits"
 
 #: translation.js:39
 msgid "Bus8-Join-all: Join all the wires into a 8-bits Bus"
@@ -278,40 +242,32 @@ msgid "Join-all"
 msgstr "Join-all"
 
 #: translation.js:64 translation.js:486
-#, fuzzy
-#| msgid "Join"
 msgid "Join-1-2"
-msgstr "Agregar"
+msgstr "Join-1-2"
 
 #: translation.js:65
 msgid "Bus3-Join-1-2: Join two buses of 2 and 1 bits into a 3-bits Bus"
 msgstr "Bus3-join-1-2: Unir dos buses de 2 y 1 bits en un bus de 3 bits"
 
 #: translation.js:66 translation.js:487
-#, fuzzy
-#| msgid "Join"
 msgid "Join-2-1"
-msgstr "Agregar"
+msgstr "Join-2-1"
 
 #: translation.js:67
 msgid "Bus3-Join-2-1: Joint two buses of 1 and 2 bits into a 3-bits Bus"
 msgstr "Bus3-join-2-1: Unir dos buses de 1 y 2 bits en un bus de 3 bits"
 
 #: translation.js:69 translation.js:502
-#, fuzzy
-#| msgid "Join"
 msgid "Join-1-3"
-msgstr "Agregar"
+msgstr "Join-1-3"
 
 #: translation.js:70
 msgid "Bus4-Join-1-3: Join the two buses into a 4-bits Bus"
 msgstr "Bus-4-join-1-3: Unir todos los cables en un bus de 4 bits"
 
 #: translation.js:71 translation.js:503
-#, fuzzy
-#| msgid "Join"
 msgid "Join-3-1"
-msgstr "Agregar"
+msgstr "Join-3-1"
 
 #: translation.js:72
 msgid "Bus4-Join-3-1: Join the two buses into a 4-bits Bus"
@@ -330,70 +286,56 @@ msgid "Bus4-Join-half: Join the two buses into a 4-bits Bus"
 msgstr "Bus4-join-half: Unir dos buses en un bus de 4 bits"
 
 #: translation.js:76 translation.js:523
-#, fuzzy
-#| msgid "Join"
 msgid "Join-1-4"
-msgstr "Agregar"
+msgstr "Join-1-4"
 
 #: translation.js:77
 msgid "Bus5-Join-1-4: Join the two buses of 1 and 4 bits into a 5-bits Bus"
 msgstr "Bus5-join-1-4: Unir dos buses de 1 y 4 bits en un bus de 5 bits"
 
 #: translation.js:78 translation.js:524
-#, fuzzy
-#| msgid "Join"
 msgid "Join-2-3"
-msgstr "Agregar"
+msgstr "Join-2-3"
 
 #: translation.js:79
 msgid "Bus5-Join-2-3: Join the two buses of 2 and 3 bits into a 5-bits Bus"
 msgstr "Bus5-join-2-3: Unir dos buses de 2 y 3 bits en un bus de 5 bits"
 
 #: translation.js:80 translation.js:525
-#, fuzzy
-#| msgid "Join"
 msgid "Join-3-2"
-msgstr "Agregar"
+msgstr "Join-3-2"
 
 #: translation.js:81
 msgid "Bus5-Join-3-2: Join the two buses of 3 and 2 bits into a 5-bits Bus"
 msgstr "Bus5-join-3-2: Unir dos buses de 3 y 2 bits en un bus de 5 bits"
 
 #: translation.js:82 translation.js:526
-#, fuzzy
-#| msgid "Join"
 msgid "Join-4-1"
-msgstr "Agregar"
+msgstr "Join-4-1"
 
 #: translation.js:83
 msgid "Bus5-Join-4-1: Join the two buses of 4 and 1 bits into a 5-bits Bus"
 msgstr "Bus5-join-4-1: Unir dos buses de 4 y 1 bits en un bus de 5 bits"
 
 #: translation.js:85 translation.js:96 translation.js:549
-#, fuzzy
-#| msgid "Join"
 msgid "Join-1-5"
-msgstr "Agregar"
+msgstr "Join-1-5"
 
 #: translation.js:86
 msgid "Bus6-Join-1-5: Join the two buses into a 6-bits Bus"
 msgstr "Bus6-join-1-5: Unir dos buses en un bus de 6 bits"
 
 #: translation.js:87 translation.js:97
-#, fuzzy
-#| msgid "Join"
 msgid "Join-2-4"
-msgstr "Agregar"
+msgstr "Join-2-4"
 
 #: translation.js:88
 msgid "Bus6-Join-2-4: Join all the two buses into a 6-bits Bus"
 msgstr "Bus6-join-2-4: Unir dos buses en un bus de 6 bits"
 
 #: translation.js:89 translation.js:550
-#, fuzzy
-#| msgid "Join"
 msgid "Join-4-2"
-msgstr "Agregar"
+msgstr "Join-4-2"
 
 #: translation.js:90
 msgid "Bus6-Join-4-2: Join the two buses into a 6-bits Bus"
@@ -414,40 +356,32 @@ msgid "Bus6-Join-half: Join the two buses into a 6-bits Bus"
 msgstr "Bus6-Join-half: Unir dos buses en un bus de 6 bits"
 
 #: translation.js:98 translation.js:570
-#, fuzzy
-#| msgid "Join"
 msgid "Join-1-6"
-msgstr "Agregar"
+msgstr "Join-1-6"
 
 #: translation.js:99
 msgid "Bus7-Join-1-4: Join the two buses into a 7-bits Bus"
 msgstr "Bus7-join-1-4: Unir dos buses en un bus de 7 bits"
 
 #: translation.js:100 translation.js:571
-#, fuzzy
-#| msgid "Join"
 msgid "Join-2-5"
-msgstr "Agregar"
+msgstr "Join-2-5"
 
 #: translation.js:101
 msgid "Bus7-Join-2-5: Join the two buses into a 7-bits Bus"
 msgstr "Bus7-join-2-5: Unir dos buses en un bus de 7 bits"
 
 #: translation.js:102 translation.js:572
-#, fuzzy
-#| msgid "Join"
 msgid "Join-3-4"
-msgstr "Agregar"
+msgstr "Join-3-4"
 
 #: translation.js:103
 msgid "Bus7-Join-3-4: Join the two buses into a 7-bits Bus"
 msgstr "Bus7-join-3-4: Unir dos buses en un bus de 7 bits"
 
 #: translation.js:104 translation.js:573
-#, fuzzy
-#| msgid "Join"
 msgid "Join-4-3"
-msgstr "Agregar"
+msgstr "Join-4-3"
 
 #: translation.js:105
 msgid "Bus7-Join-4-3: Join the two buses into a 7-bits Bus"
@@ -474,30 +408,24 @@ msgid "Bus7-Join-6-1: Join the two buses into a 7-bits Bus"
 msgstr "Bus7-join-6-1: Unir dos buses en un bus de 7 bits"
 
 #: translation.js:111 translation.js:603
-#, fuzzy
-#| msgid "Join"
 msgid "Join-1-7"
-msgstr "Agregar"
+msgstr "Join-1-7"
 
 #: translation.js:112
 msgid "Bus7-Join-1-7: Join the two buses into an 8-bits Bus"
 msgstr "Bus7-join-1-7: Unir dos buses en un bus de 8 bits"
 
 #: translation.js:113 translation.js:604
-#, fuzzy
-#| msgid "Join"
 msgid "Join-2-6"
-msgstr "Agregar"
+msgstr "Join-2-6"
 
 #: translation.js:114
 msgid "Bus8-Join-2-6: Join the two buses into an 8-bits Bus"
 msgstr "Bus8-join-2-6: Unir dos buses en un bus de 8 bits"
 
 #: translation.js:115 translation.js:605
-#, fuzzy
-#| msgid "Join"
 msgid "Join-3-5"
-msgstr "Agregar"
+msgstr "Join-3-5"
 
 #: translation.js:116
 msgid "Bus8-Join-3-5: Join the two buses into an 8-bits Bus"
@@ -538,10 +466,8 @@ msgid "Bus8-Join-half: Join the two same halves into an 8-bits Bus"
 msgstr "Bus8-join-half: Unir dos buses en un bus de 8 bits"
 
 #: translation.js:126
-#, fuzzy
-#| msgid "Join"
 msgid "Join-1-8"
-msgstr "Agregar"
+msgstr "Join-1-8"
 
 #: translation.js:127
 msgid "Bus8-Join-1-8: Join the two buses into an 9-bits Bus"
@@ -558,30 +484,24 @@ msgid "Bus10-Join-2-8: Join the two buses into an 10-bits Bus"
 msgstr "Bus10-join-2-8: Unir dos buses en un bus de 10 bits"
 
 #: translation.js:130
-#, fuzzy
-#| msgid "Join"
 msgid "Join-3-8"
-msgstr "Agregar"
+msgstr "Join-3-8"
 
 #: translation.js:131
 msgid "Bus11-Join-3-8: Join the two buses into an 11-bits Bus"
 msgstr "Bus11-join-3-8: Unir dos buses en un bus de 11 bits"
 
 #: translation.js:132 translation.js:663
-#, fuzzy
-#| msgid "Join"
 msgid "Join-1-11"
-msgstr "Agregar"
+msgstr "Join-1-11"
 
 #: translation.js:133
 msgid "Bus12-Join-1-11: Join the two buses into an 12-bits Bus"
 msgstr "Bus12-join-1-11: Unir dos buses en un bus de 12 bits"
 
 #: translation.js:134 translation.js:664
-#, fuzzy
-#| msgid "Join"
 msgid "Join-4-8"
-msgstr "Agregar"
+msgstr "Join-4-8"
 
 #: translation.js:135
 msgid "Bus12-Join-4-8: Join the two buses into an 12-bits Bus"
@@ -621,17 +541,15 @@ msgstr "Bus16-join-quarter: Unir cuatro buses iguales en un bus de 16 bits"
 
 #: translation.js:144
 msgid "Join-3-8-8"
-msgstr ""
+msgstr "Join-3-8-8"
 
 #: translation.js:145
 msgid "Bus19-Join-3-8-8: Join the three buses into a 19-bits Bus"
 msgstr "Bus19-join-3-8-8: Unir los tres buses en un bus de 19 bits"
 
 #: translation.js:146 translation.js:772
-#, fuzzy
-#| msgid "Join"
 msgid "Join-4-16"
-msgstr "Agregar"
+msgstr "Join-4-16"
 
 #: translation.js:147
 msgid "Bus20-Join-half: Join the two buses into an 20-bits Bus"
@@ -669,17 +587,15 @@ msgstr "Bus24-join-one-third: Unir tres buses en un bus de 24 bits"
 
 #: translation.js:156
 msgid "Join-3-8-8-8"
-msgstr ""
+msgstr "Join-3-8-8-8"
 
 #: translation.js:157
 msgid "Bus27-Join-3-8-8-8: Join the four buses into a 27-bits Bus"
 msgstr "Bus27-join-3-8-8-8: Unir cuatro buses en un bus de 27 bits"
 
 #: translation.js:158 translation.js:800
-#, fuzzy
-#| msgid "Join"
 msgid "Join-4-24"
-msgstr "Agregar"
+msgstr "Join-4-24"
 
 #: translation.js:159
 msgid "Bus28-Join-4-24: Join the two buses into an 28-bits Bus"
@@ -789,7 +705,7 @@ msgstr ""
 
 #: translation.js:189
 msgid "Get the sign  "
-msgstr ""
+msgstr "Obtener el signo"
 
 #: translation.js:190 translation.js:850
 msgid "SL1-uint2"
@@ -824,6 +740,8 @@ msgid ""
 "Get the sign  \n"
 "and place it as the MSB"
 msgstr ""
+"Obtener el signo\n"
+"y colocarlo como el bit MSB"
 
 #: translation.js:198 translation.js:859
 msgid "SR1-uint2"
@@ -1450,10 +1368,8 @@ msgid "2bits constant value: 0"
 msgstr "Valor constante 0 de 2 bits"
 
 #: translation.js:355
-#, fuzzy
-#| msgid "Generic: 4-bits generic constant (0-15)"
 msgid "Generic: 2-bits generic constant (0,1,2,3)"
-msgstr "Generic: Constante genérica de 4-bits  (0-15)"
+msgstr "Generic: Constante genérica de 2-bits (0,1,2,3)"
 
 #: translation.js:356
 msgid "Uint4-03-bit"
@@ -1476,10 +1392,8 @@ msgid "7bits constant value: 0"
 msgstr "Valor constante 0 de 7 bits"
 
 #: translation.js:361
-#, fuzzy
-#| msgid "Generic: 3-bits generic constant (0-7)"
 msgid "Generic: 7-bits generic constant (0-127)"
-msgstr "Generic: Constante genérica de 3-bits  (0-7)"
+msgstr "Generic: Constante genérica de 7-bits (0-127)"
 
 #: translation.js:362
 msgid "Uint8-02-bits"
@@ -1494,10 +1408,8 @@ msgid "6bits constant value: 0"
 msgstr "Valor constante 0 de 6 bits"
 
 #: translation.js:365
-#, fuzzy
-#| msgid "Generic: 3-bits generic constant (0-7)"
 msgid "Generic: 6-bits generic constant (0-63)"
-msgstr "Generic: Constante genérica de 3-bits  (0-7)"
+msgstr "Generic: Constante genérica de 6-bits (0-63)"
 
 #: translation.js:366
 msgid "Uint8-03-bits"
@@ -1512,10 +1424,8 @@ msgid "5bits constant value: 0"
 msgstr "Valor constante 0 de 5 bits"
 
 #: translation.js:369
-#, fuzzy
-#| msgid "Generic: 4-bits generic constant (0-15)"
 msgid "Generic: 5-bits generic constant (0-31)"
-msgstr "Generic: Constante genérica de 4-bits  (0-15)"
+msgstr "Generic: Constante genérica de 5-bits (0-31)"
 
 #: translation.js:370
 msgid "Uint8-04-bits"
@@ -1694,10 +1604,8 @@ msgid "Bus-Split-all"
 msgstr "Bus-Split-all"
 
 #: translation.js:413
-#, fuzzy
-#| msgid "Copy-2"
 msgid "Copy-8"
-msgstr "Copy-2"
+msgstr "Copy-8"
 
 #: translation.js:414
 msgid "## UINT8"
@@ -1728,10 +1636,8 @@ msgid "## UINT4"
 msgstr "## UINT4"
 
 #: translation.js:435
-#, fuzzy
-#| msgid "Copy-2"
 msgid "Copy-7"
-msgstr "Copy-2"
+msgstr "Copy-7"
 
 #: translation.js:436 translation.js:439 translation.js:442 translation.js:446
 #: translation.js:450 translation.js:454 translation.js:457 translation.js:483
@@ -2279,10 +2185,8 @@ msgid "NOT gate (Verilog implementation)"
 msgstr ""
 
 #: translation.js:648
-#, fuzzy
-#| msgid "Generic: 4-bits generic constant (0-15)"
 msgid "Generic: 8-bits generic constant (0-255)"
-msgstr "Generic: Constante genérica de 4-bits  (0-15)"
+msgstr "Generic: Constante genérica de 8-bits (0-255)"
 
 #: translation.js:649
 msgid ""
@@ -2294,15 +2198,15 @@ msgstr ""
 
 #: translation.js:650
 msgid "Channel B"
-msgstr ""
+msgstr "Canal B"
 
 #: translation.js:651
 msgid "Channel A"
-msgstr ""
+msgstr "Canal A"
 
 #: translation.js:652
 msgid "Input"
-msgstr ""
+msgstr "Entrada"
 
 #: translation.js:653
 msgid "Output"
@@ -2346,10 +2250,8 @@ msgstr ""
 "\n"
 
 #: translation.js:668
-#, fuzzy
-#| msgid "Generic: 3-bits generic constant (0-7)"
 msgid "Generic: 11-bits generic constant"
-msgstr "Generic: Constante genérica de 3-bits  (0-7)"
+msgstr "Generic: Constante genérica de 11-bits"
 
 #: translation.js:669
 msgid ""
@@ -2409,11 +2311,11 @@ msgstr "Valor constante 0 de 8 bits"
 
 #: translation.js:697
 msgid "Counter-x02: 2-bits counter"
-msgstr ""
+msgstr "Counter-x02: Contador de 2 bits"
 
 #: translation.js:698
 msgid "Generic component with clk input"
-msgstr ""
+msgstr "Componente genérico con entrada clk"
 
 #: translation.js:699
 msgid "Reg: 1-Bit register"
@@ -2425,11 +2327,11 @@ msgstr "Multiplexor 2-1 (Canales de 1 bit). Versión invertida"
 
 #: translation.js:701
 msgid "D Flip-flop (verilog implementation)"
-msgstr ""
+msgstr "Biestable D (Implementación en Verilog)"
 
 #: translation.js:702
 msgid "Inc1-2bit: Increment a 2-bits number by one"
-msgstr ""
+msgstr "Inc1-2bit: Incrementar un número de 2 bits en uno"
 
 #: translation.js:703
 msgid "AdderK-2bit: Adder of 2-bit operand and 2-bit constant"
@@ -2455,7 +2357,7 @@ msgstr ""
 
 #: translation.js:708
 msgid "Button-tic: Configurable button that emits a tic when it is pressed"
-msgstr ""
+msgstr "Button-tic: Botón configurable que emite un tic cuando se pulsa"
 
 #: translation.js:709
 msgid ""
@@ -2465,11 +2367,11 @@ msgstr ""
 
 #: translation.js:710
 msgid "Configurable button (pull-up on/off. Not on/off)"
-msgstr ""
+msgstr "Botón configurable (pull-up on/off. Not on/off)"
 
 #: translation.js:711
 msgid "FPGA internal pull-up configuration on the input port"
-msgstr ""
+msgstr "Configuración del pull-up interno de la FPGA en puerto de entrada"
 
 #: translation.js:712
 msgid "Remove the rebound on a mechanical switch"
@@ -2485,19 +2387,21 @@ msgstr "Contador del sistema de 16 bits con reset"
 
 #: translation.js:715
 msgid "DFF-rst-x16: 16 D flip-flops in paralell with reset"
-msgstr ""
+msgstr "DFF-rst-x16: 16 Biestables D en paralelo con reset"
 
 #: translation.js:716
 msgid "DFF-rst-x04: Three D flip-flops in paralell with reset"
-msgstr ""
+msgstr "DFF-rst-x04: Tres Biestables D en paralelo con reset"
 
 #: translation.js:717
 msgid "DFF-rst-x01: D Flip flop with reset input. When rst=1, the DFF is 0"
 msgstr ""
+"DFF-rst-x01: Biestable D con entrada de reset. Cuando rst=1, el Biestable se "
+"pone a 0"
 
 #: translation.js:718
 msgid "Inc1-16bit: Increment a 16-bits number by one"
-msgstr ""
+msgstr "Inc1-16bit: Incrementar un número de 16 bits en uno"
 
 #: translation.js:719
 msgid "AdderK-16bit: Adder of 16-bit operand and 16-bit constant"
@@ -2505,10 +2409,8 @@ msgstr ""
 "AdderK-16bit: Sumador de un operando de 16 bits y una constante de 16 bits"
 
 #: translation.js:720
-#, fuzzy
-#| msgid "Generic: 3-bits generic constant (0-7)"
 msgid "Generic: 16-bits generic constant"
-msgstr "Generic: Constante genérica de 3-bits  (0-7)"
+msgstr "Generic: Constante genérica de 16-bits"
 
 #: translation.js:721
 msgid "Adder-16bits: Adder of two operands of 16 bits"
@@ -2537,6 +2439,8 @@ msgid ""
 "Edges detector. It generates a 1-period pulse (tic) when either a rising "
 "edge or a falling edge is detected on the input"
 msgstr ""
+"Detector de flancos. Se genera un pulso de un ciclo cuando se detecta un "
+"flanco de subida o de bajada en la entrada"
 
 #: translation.js:727
 msgid "Sync 1-bit input with the system clock domain"
@@ -2568,6 +2472,8 @@ msgid ""
 "D Flip-flip\n"
 "(System)"
 msgstr ""
+"Biestable D\n"
+"(Sistema)"
 
 #: translation.js:733
 msgid "Parameter: Initial value"
@@ -2579,7 +2485,7 @@ msgstr ""
 
 #: translation.js:735
 msgid "Input data"
-msgstr ""
+msgstr "Datos de entrad"
 
 #: translation.js:736
 msgid ""
@@ -2595,7 +2501,7 @@ msgstr ""
 
 #: translation.js:737
 msgid "Button state signal"
-msgstr ""
+msgstr "Señal de estado del botón"
 
 #: translation.js:738
 msgid "Tic: button pressed"
@@ -2627,13 +2533,13 @@ msgstr ""
 
 #: translation.js:743
 msgid "Input signal"
-msgstr ""
+msgstr "Señal de entrada"
 
 #: translation.js:744
 msgid ""
 "Current signal  \n"
 "state"
-msgstr ""
+msgstr "Estado de la señal actual"
 
 #: translation.js:745
 msgid ""
@@ -2650,6 +2556,12 @@ msgid ""
 "\n"
 "In any other case the output is 0"
 msgstr ""
+"Si la señal actual es 1 y su valor en  \n"
+"el ciclo previo era 0, significa  \n"
+"que se ha detectado un flanco de subida!  \n"
+"La salida es 1\n"
+"\n"
+"En cualquier otro caso la salida es 0"
 
 #: translation.js:747
 msgid ""
@@ -2669,6 +2581,9 @@ msgid ""
 "* 0: OFF\n"
 "* 1: ON"
 msgstr ""
+"Pull-up interno  \n"
+"* 0: OFF\n"
+"* 1: ON"
 
 #: translation.js:749
 msgid "Synchronization stage"
@@ -2684,7 +2599,7 @@ msgstr ""
 
 #: translation.js:751
 msgid "Debouncing stage"
-msgstr ""
+msgstr "Etapa antirrebotes"
 
 #: translation.js:752
 msgid ""
@@ -2712,7 +2627,7 @@ msgstr ""
 
 #: translation.js:755
 msgid "Edge detector"
-msgstr ""
+msgstr "Detector de flancos"
 
 #: translation.js:756
 msgid ""
@@ -2726,6 +2641,9 @@ msgid ""
 "value, the input is considered stable  \n"
 "and it is captured"
 msgstr ""
+"Si el contador alcanza su máximo  \n"
+"valor, la entrada se considera estable  \n"
+"y se captura"
 
 #: translation.js:758
 msgid ""
@@ -2765,11 +2683,11 @@ msgstr ""
 
 #: translation.js:761
 msgid "Counter"
-msgstr ""
+msgstr "Contador"
 
 #: translation.js:762
 msgid "Initial value"
-msgstr ""
+msgstr "Valor inicial"
 
 #: translation.js:763
 msgid ""
@@ -2779,13 +2697,15 @@ msgstr ""
 
 #: translation.js:764
 msgid "Data input"
-msgstr ""
+msgstr "Entrada de datos"
 
 #: translation.js:765
 msgid ""
 "Initial default  \n"
 "value: 0"
 msgstr ""
+"Valor inicial por  \n"
+"defecto: 0"
 
 #: translation.js:766
 msgid ""
@@ -2810,7 +2730,7 @@ msgstr ""
 
 #: translation.js:768
 msgid "In any other case the output is 0"
-msgstr ""
+msgstr "En cualquier otro caso la salida es 0"
 
 #: translation.js:769
 msgid ""
@@ -2895,10 +2815,8 @@ msgstr ""
 "\n"
 
 #: translation.js:804
-#, fuzzy
-#| msgid "Generic: 4-bits generic constant (0-15)"
 msgid "Generic: 24-bits generic constant"
-msgstr "Generic: Constante genérica de 4-bits  (0-15)"
+msgstr "Generic: Constante genérica de 24-bits"
 
 #: translation.js:805
 msgid ""
@@ -3313,10 +3231,8 @@ msgstr ""
 "El valor de la constante se muestra en los LEDs"
 
 #: translation.js:1059
-#, fuzzy
-#| msgid "Generic: 3-bits generic constant (0-7)"
 msgid "Generic: 9-bits generic constant"
-msgstr "Generic: Constante genérica de 3-bits  (0-7)"
+msgstr "Generic: Constante genérica de 9-bits"
 
 #: translation.js:1060
 msgid ""
@@ -3343,10 +3259,8 @@ msgstr ""
 "\n"
 
 #: translation.js:1074
-#, fuzzy
-#| msgid "Generic: 4-bits generic constant (0-15)"
 msgid "Generic: 12-bits generic constant (0-4095)"
-msgstr "Generic: Constante genérica de 4-bits  (0-15)"
+msgstr "Generic: Constante genérica de 12-bits (0-4095)"
 
 #: translation.js:1075
 msgid ""
@@ -3381,10 +3295,8 @@ msgid "Manual-testing"
 msgstr ""
 
 #: translation.js:1083
-#, fuzzy
-#| msgid "Generic: 3-bits generic constant (0-7)"
 msgid "Generic: 15-bits generic constant"
-msgstr "Generic: Constante genérica de 3-bits  (0-7)"
+msgstr "Generic: Constante genérica de 15-bits"
 
 #: translation.js:1084
 msgid ""
@@ -3415,10 +3327,8 @@ msgstr ""
 "menos sigfnificativos. cuando se aprieta el botón se muestran los superiores"
 
 #: translation.js:1099
-#, fuzzy
-#| msgid "Generic: 3-bits generic constant (0-7)"
 msgid "Generic: 19-bits generic constant"
-msgstr "Generic: Constante genérica de 3-bits  (0-7)"
+msgstr "Generic: Constante genérica de 19-bits"
 
 #: translation.js:1100
 msgid ""
@@ -3429,10 +3339,8 @@ msgstr ""
 "\n"
 
 #: translation.js:1107
-#, fuzzy
-#| msgid "Generic: 3-bits generic constant (0-7)"
 msgid "Generic: 20-bits generic constant"
-msgstr "Generic: Constante genérica de 3-bits  (0-7)"
+msgstr "Generic: Constante genérica de 20-bits"
 
 #: translation.js:1108
 msgid ""
@@ -3530,10 +3438,8 @@ msgstr ""
 "mostrar el byte inferior, de enmedio y superior de la constante en los LEDs"
 
 #: translation.js:1138
-#, fuzzy
-#| msgid "Generic: 3-bits generic constant (0-7)"
 msgid "Generic: 27-bits generic constant"
-msgstr "Generic: Constante genérica de 3-bits  (0-7)"
+msgstr "Generic: Constante genérica de 17-bits"
 
 #: translation.js:1139
 msgid ""
@@ -3544,10 +3450,8 @@ msgstr ""
 "\n"
 
 #: translation.js:1146
-#, fuzzy
-#| msgid "Generic: 3-bits generic constant (0-7)"
 msgid "Generic: 28-bits generic constant"
-msgstr "Generic: Constante genérica de 3-bits  (0-7)"
+msgstr "Generic: Constante genérica de 28-bits"
 
 #: translation.js:1147
 msgid ""
@@ -3586,10 +3490,8 @@ msgid ""
 msgstr ""
 
 #: translation.js:1160
-#, fuzzy
-#| msgid "Generic: 3-bits generic constant (0-7)"
 msgid "Generic: 31-bits generic constant"
-msgstr "Generic: Constante genérica de 3-bits  (0-7)"
+msgstr "Generic: Constante genérica de 31-bits"
 
 #: translation.js:1161
 msgid ""
@@ -3600,10 +3502,8 @@ msgstr ""
 "\n"
 
 #: translation.js:1169
-#, fuzzy
-#| msgid "Generic: 3-bits generic constant (0-7)"
 msgid "Generic: 32-bits generic constant"
-msgstr "Generic: Constante genérica de 3-bits  (0-7)"
+msgstr "Generic: Constante genérica de 32-bits"
 
 #: translation.js:1170
 msgid ""
