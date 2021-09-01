@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="272.47867mm"
+   height="153.58269mm"
+   viewBox="0 0 272.47867 153.58269"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="split-04.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.47433591"
+     inkscape:cx="393.18128"
+     inkscape:cy="363.66633"
+     inkscape:window-width="1858"
+     inkscape:window-height="1016"
+     inkscape:window-x="62"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-global="false" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path7223" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path6635" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path7223-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-6-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path7223-1-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-6-7-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path7223-1-5-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-6-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path7223-1-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-6-7-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path7223-1-5-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-6-7-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path7223-1-5-9" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(-2.8701091,-43.769054)"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;stroke-width:0.256481"
+       id="rect17249"
+       width="272.47867"
+       height="153.58269"
+       x="2.8701091"
+       y="43.769054"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceWires/wiki/images/Split-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2.8701091,-43.769054)"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.00199px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20005"
+       x="122.14038"
+       y="78.345284"
+       id="text3278"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceWires/wiki/images/Split-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan3276"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.20005"
+         x="122.14038"
+         y="78.345284">Split-all</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.00199px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20005"
+       x="25.578993"
+       y="90.167328"
+       id="text3278-6"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceWires/wiki/images/Split-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan3276-2"
+         style="stroke-width:0.20005"
+         x="25.578993"
+         y="90.167328">Input Bus</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.20005"
+         x="25.578993"
+         y="100.16982"
+         id="tspan7689">(<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan121478">5</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.20005"
+   id="tspan26125"> bits</tspan>)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.00199px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20005"
+       x="198.92332"
+       y="77.119514"
+       id="text3278-6-7"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceWires/wiki/images/Split-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.20005"
+         x="198.92332"
+         y="77.119514"
+         id="tspan12037">Bit 4 (MSB)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.00199px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20005"
+       x="206.14229"
+       y="173.93999"
+       id="text3278-6-7-3"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceWires/wiki/images/Split-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.20005"
+         x="206.14229"
+         y="173.93999"
+         id="tspan12037-6">Bit 0 (LSB)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.00199px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20005"
+       x="200.12038"
+       y="101.21323"
+       id="text3278-6-7-2"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceWires/wiki/images/Split-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.20005"
+         x="200.12038"
+         y="101.21323"
+         id="tspan12037-7">Bit 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.00199px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20005"
+       x="202.37505"
+       y="121.46862"
+       id="text3278-6-7-2-0"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceWires/wiki/images/Split-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.20005"
+         x="202.37505"
+         y="121.46862"
+         id="tspan12037-7-9">Bit 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.00199px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20005"
+       x="204.59277"
+       y="148.34477"
+       id="text3278-6-7-2-0-0"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceWires/wiki/images/Split-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.20005"
+         x="204.59277"
+         y="148.34477"
+         id="tspan12037-7-9-6">Bit 1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.656543;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 46.860533,104.227 35.940222,17.92846"
+       id="path7194"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceWires/wiki/images/Split-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.656543;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-6-3)"
+       d="m 201.80386,171.41829 -23.62826,3.39597"
+       id="path7194-8-7"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceWires/wiki/images/Split-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.623739;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-6-7)"
+       d="m 197.37345,98.87171 -21.60282,13.66147"
+       id="path7194-8-9"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceWires/wiki/images/Split-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.588775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-6-7-2)"
+       d="M 196.13405,77.474077 178.18759,92.126905"
+       id="path7194-8-9-1"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceWires/wiki/images/Split-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.592347;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-6-7-5)"
+       d="m 201.11131,146.01094 -23.45153,8.09567"
+       id="path7194-8-9-56"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceWires/wiki/images/Split-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.592347;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-6-7-6)"
+       d="m 199.4214,119.03433 -24.16678,15.63389"
+       id="path7194-8-9-5"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceWires/wiki/images/Split-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g115316"
+       transform="translate(14.908256,-67.261162)"
+       inkscape:export-filename="/home/obijuan/Develop/Icestudio-collections/iceWires/wiki/images/Split-04.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         ry="2.8517175"
+         y="152.56645"
+         x="93.602654"
+         height="98.329262"
+         width="59.241348"
+         id="rect861"
+         style="display:inline;fill:#e3e3e3;fill-opacity:1;stroke:#777777;stroke-width:0.793749;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1480"
+         d="m 152.63612,162.36935 h 5.09808"
+         style="display:inline;fill:none;stroke:#777777;stroke-width:2.08673;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1480-5"
+         d="m 152.63612,181.81583 h 5.09808"
+         style="display:inline;fill:none;stroke:#777777;stroke-width:2.08673;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1480-5-4"
+         d="m 152.63612,201.55128 h 5.09808"
+         style="display:inline;fill:none;stroke:#777777;stroke-width:2.08673;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1480-5-4-7"
+         d="m 152.63612,221.72451 h 5.09808"
+         style="display:inline;fill:none;stroke:#777777;stroke-width:2.08673;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1480-5-4-7-6"
+         d="m 152.63612,241.09695 h 5.09808"
+         style="display:inline;fill:none;stroke:#777777;stroke-width:2.08673;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path865-2-1-2"
+         d="M 93.673548,201.64228 H 87.944162"
+         style="display:inline;fill:none;stroke:#777777;stroke-width:4.7625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:8.82359px;line-height:1.25;font-family:sans-serif;display:inline;fill:#767675;fill-opacity:1;stroke:none;stroke-width:0.297393"
+         x="71.680725"
+         y="196.36958"
+         id="text844"><tspan
+           sodipodi:role="line"
+           id="tspan842"
+           x="71.680725"
+           y="196.36958"
+           style="fill:#767675;fill-opacity:1;stroke-width:0.297393">[4:0]</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:8.40398px;line-height:1.25;font-family:sans-serif;display:inline;fill:#767675;fill-opacity:1;stroke:none;stroke-width:0.297393"
+         x="155.28885"
+         y="217.98836"
+         id="text1531"><tspan
+           sodipodi:role="line"
+           id="tspan1529"
+           x="155.28885"
+           y="217.98836"
+           style="fill:#767675;fill-opacity:1;stroke-width:0.297393">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:8.40398px;line-height:1.25;font-family:sans-serif;display:inline;fill:#767675;fill-opacity:1;stroke:none;stroke-width:0.297393"
+         x="155.28885"
+         y="198.3259"
+         id="text1531-9"><tspan
+           sodipodi:role="line"
+           id="tspan1529-3"
+           x="155.28885"
+           y="198.3259"
+           style="fill:#767675;fill-opacity:1;stroke-width:0.297393">2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:8.40398px;line-height:1.25;font-family:sans-serif;display:inline;fill:#767675;fill-opacity:1;stroke:none;stroke-width:0.297393"
+         x="155.28885"
+         y="178.19319"
+         id="text1531-9-7"><tspan
+           sodipodi:role="line"
+           id="tspan1529-3-4"
+           x="155.28885"
+           y="178.19319"
+           style="fill:#767675;fill-opacity:1;stroke-width:0.297393">3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:8.40398px;line-height:1.25;font-family:sans-serif;display:inline;fill:#767675;fill-opacity:1;stroke:none;stroke-width:0.297393"
+         x="155.28885"
+         y="158.62111"
+         id="text1531-9-7-5"><tspan
+           sodipodi:role="line"
+           id="tspan1529-3-4-2"
+           x="155.28885"
+           y="158.62111"
+           style="fill:#767675;fill-opacity:1;stroke-width:0.297393">4</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:8.40398px;line-height:1.25;font-family:sans-serif;display:inline;fill:#767675;fill-opacity:1;stroke:none;stroke-width:0.297393"
+         x="155.28885"
+         y="237.84091"
+         id="text1531-5"><tspan
+           sodipodi:role="line"
+           id="tspan1529-6"
+           x="155.28885"
+           y="237.84091"
+           style="fill:#767675;fill-opacity:1;stroke-width:0.297393">0</tspan></text>
+      <g
+         id="g114589"
+         transform="matrix(0.14752314,0,0,0.14746483,98.840631,184.73786)"
+         style="display:inline;stroke-width:1.91345">
+        <g
+           inkscape:label="Layer 1"
+           id="layer1-7"
+           style="display:inline;stroke-width:1.91345"
+           transform="translate(-184.13054,-190.83615)" />
+        <g
+           id="layer2-4"
+           inkscape:label="Layer 2"
+           style="display:inline;stroke-width:1.91345"
+           transform="translate(-184.13054,-190.83615)">
+          <path
+             id="path4302-1-2"
+             style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:1.91345;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 352.50764,268.47913 61.14709,-60.93784 c 10.68433,-10.45534 25.03442,-16.2442 39.95909,-16.20494 h 62.6117 v 26.18621 l -61.69807,0.0456 c -8.01174,-0.0428 -15.70507,3.13284 -21.46956,8.81038 l -61.4484,61.31435 c -10.71816,10.38367 -25.06825,16.17257 -39.99292,16.13927 14.92467,-0.0333 29.27476,5.75561 39.99292,16.13928 l 61.4484,61.31434 c 5.76449,5.67753 13.45782,8.8532 21.46956,8.81038 l 61.69807,0.0456 v 26.18621 h -62.6117 c -14.92467,0.0392 -29.46299,-5.90016 -40.2038,-16.28023 l -60.90238,-60.86255 c -5.64787,-5.68127 -13.34121,-8.85693 -21.34706,-8.80954 l -146.53004,-0.11399 v -52.96843 h 146.52415 c 8.01174,0.0428 15.70508,-3.13284 21.35295,-8.81412 z"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccccccccccccccccccc" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <style
+     id="style263">.st0{display:none}.st1{fill:none;stroke:#000;stroke-width:.75;stroke-linejoin:round;stroke-miterlimit:10}.st2{fill:#010002}</style>
+  <style
+     id="style263-7">.st0{display:none}.st1{fill:none;stroke:#000;stroke-width:.75;stroke-linejoin:round;stroke-miterlimit:10}.st2{fill:#010002}</style>
+  <style
+     id="style263-8">.st0{display:none}.st1{fill:none;stroke:#000;stroke-width:.75;stroke-linejoin:round;stroke-miterlimit:10}.st2{fill:#010002}</style>
+  <style
+     id="style263-6">.st0{display:none}.st1{fill:none;stroke:#000;stroke-width:.75;stroke-linejoin:round;stroke-miterlimit:10}.st2{fill:#010002}</style>
+  <style
+     id="style263-5">.st0{display:none}.st1{fill:none;stroke:#000;stroke-width:.75;stroke-linejoin:round;stroke-miterlimit:10}.st2{fill:#010002}</style>
+  <style
+     id="style263-1">.st0{display:none}.st1{fill:none;stroke:#000;stroke-width:.75;stroke-linejoin:round;stroke-miterlimit:10}.st2{fill:#010002}</style>
+  <style
+     id="style263-6-2">.st0{display:none}.st1{fill:none;stroke:#000;stroke-width:.75;stroke-linejoin:round;stroke-miterlimit:10}.st2{fill:#010002}</style>
+  <style
+     id="style263-60">.st0{display:none}.st1{fill:none;stroke:#000;stroke-width:.75;stroke-linejoin:round;stroke-miterlimit:10}.st2{fill:#010002}</style>
+  <style
+     id="style263-0">.st0{display:none}.st1{fill:none;stroke:#000;stroke-width:.75;stroke-linejoin:round;stroke-miterlimit:10}.st2{fill:#010002}</style>
+</svg>
