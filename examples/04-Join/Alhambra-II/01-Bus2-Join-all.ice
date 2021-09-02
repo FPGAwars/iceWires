@@ -80,7 +80,7 @@
           "id": "019c9484-b4ba-49a5-b27a-073f6d5a5ac1",
           "type": "basic.info",
           "data": {
-            "info": "# Example: Using the Bus2-Join-all block\n\n",
+            "info": "# Example: Using the Bus2-Join-all block\n\nThe state of buttons SW1 and SW2 are inserted into a 2-bits bus and then shown on LEDs 0 and 7",
             "readonly": true
           },
           "position": {
