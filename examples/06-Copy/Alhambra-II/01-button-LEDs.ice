@@ -113,6 +113,22 @@
             "width": 696,
             "height": 88
           }
+        },
+        {
+          "id": "161eb61a-9c85-4a93-90a8-7fa09e8ec999",
+          "type": "basic.info",
+          "data": {
+            "info": "Copy-8 Block",
+            "readonly": true
+          },
+          "position": {
+            "x": 360,
+            "y": 176
+          },
+          "size": {
+            "width": 144,
+            "height": 32
+          }
         }
       ],
       "wires": [
