@@ -16115,8 +16115,8 @@
                 "clock": false
               },
               "position": {
-                "x": 216,
-                "y": 304
+                "x": 224,
+                "y": 392
               }
             },
             {
@@ -16126,20 +16126,8 @@
                 "name": "out"
               },
               "position": {
-                "x": 1048,
-                "y": 384
-              }
-            },
-            {
-              "id": "09f1405f-37d1-418e-b122-c7d21a216f60",
-              "type": "0dbcb9470111c4072304f196bb9e5ac39f4ccfb7",
-              "position": {
-                "x": 472,
-                "y": 272
-              },
-              "size": {
-                "width": 96,
-                "height": 64
+                "x": 1056,
+                "y": 408
               }
             },
             {
@@ -16153,25 +16141,21 @@
                 "width": 96,
                 "height": 64
               }
+            },
+            {
+              "id": "8dcab02c-2c4e-437d-a479-b12ac0e2cbe0",
+              "type": "ecd30a800a660ad1e59f783099570f517b0d6cfe",
+              "position": {
+                "x": 416,
+                "y": 392
+              },
+              "size": {
+                "width": 96,
+                "height": 64
+              }
             }
           ],
           "wires": [
-            {
-              "source": {
-                "block": "09f1405f-37d1-418e-b122-c7d21a216f60",
-                "port": "f5a71d7b-de20-4527-80c8-0eb20de0dc77"
-              },
-              "target": {
-                "block": "66e73a65-df2a-49ce-954c-8dc65ce73449",
-                "port": "e4111201-8441-4e7d-bcd2-bcf9d265d043"
-              },
-              "vertices": [
-                {
-                  "x": 672,
-                  "y": 320
-                }
-              ]
-            },
             {
               "source": {
                 "block": "79b18de5-9152-4bdb-8059-3dcf8efa92dc",
@@ -16184,19 +16168,146 @@
             },
             {
               "source": {
-                "block": "09f1405f-37d1-418e-b122-c7d21a216f60",
-                "port": "0f7487e5-b070-4277-bba6-acf69934afca"
+                "block": "8b0a8a99-fd6c-41b8-826a-52f35e572df2",
+                "port": "out"
+              },
+              "target": {
+                "block": "8dcab02c-2c4e-437d-a479-b12ac0e2cbe0",
+                "port": "5204a9f1-594b-4216-b993-03b46bef9e6e"
+              },
+              "size": 32
+            },
+            {
+              "source": {
+                "block": "8dcab02c-2c4e-437d-a479-b12ac0e2cbe0",
+                "port": "893af5e6-8636-4eb0-9db0-2b2cc10feffe"
               },
               "target": {
                 "block": "390a8028-5755-42e1-8173-5d973fb17d9b",
                 "port": "in"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "ecd30a800a660ad1e59f783099570f517b0d6cfe": {
+      "package": {
+        "name": "Bus32-Split-31-1",
+        "version": "0.1",
+        "description": "Bus32-Split-31-1: Split the 32-bits bus into two buses of 31 and 1 wires",
+        "author": "Juan González-Gómez (Obijuan)",
+        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22354.768%22%20height=%22241.058%22%20viewBox=%220%200%20332.59497%20225.99201%22%3E%3Cpath%20d=%22M168.377%2077.643l61.147-60.938C240.21%206.25%20254.56.461%20269.484.5h62.611v26.186l-61.698.046c-8.012-.043-15.705%203.133-21.47%208.81L187.48%2096.857a57.292%2057.292%200%200%201-39.993%2016.139%2057.292%2057.292%200%200%201%2039.993%2016.14l61.448%2061.314c5.765%205.677%2013.458%208.853%2021.47%208.81l61.698.046v26.186h-62.612c-14.924.039-29.463-5.9-40.204-16.28l-60.902-60.863a29.857%2029.857%200%200%200-21.347-8.81L.5%20139.427V86.457h146.524a29.884%2029.884%200%200%200%2021.353-8.814z%22%20fill=%22green%22%20stroke=%22#000%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3C/svg%3E"
+      },
+      "design": {
+        "graph": {
+          "blocks": [
+            {
+              "id": "fcdf42fb-4c60-4831-a889-ae811cdabcbe",
+              "type": "basic.output",
+              "data": {
+                "name": "1",
+                "range": "[30:0]",
+                "size": 31
               },
-              "vertices": [
-                {
-                  "x": 616,
-                  "y": 376
+              "position": {
+                "x": 592,
+                "y": 176
+              }
+            },
+            {
+              "id": "5204a9f1-594b-4216-b993-03b46bef9e6e",
+              "type": "basic.input",
+              "data": {
+                "name": "",
+                "range": "[31:0]",
+                "clock": false,
+                "size": 32
+              },
+              "position": {
+                "x": 72,
+                "y": 208
+              }
+            },
+            {
+              "id": "893af5e6-8636-4eb0-9db0-2b2cc10feffe",
+              "type": "basic.output",
+              "data": {
+                "name": "0"
+              },
+              "position": {
+                "x": 592,
+                "y": 232
+              }
+            },
+            {
+              "id": "16e78204-213e-4833-9096-89d735307ec2",
+              "type": "basic.code",
+              "data": {
+                "code": "assign o1 = i[31:1];\nassign o0 = i[0];",
+                "params": [],
+                "ports": {
+                  "in": [
+                    {
+                      "name": "i",
+                      "range": "[31:0]",
+                      "size": 32
+                    }
+                  ],
+                  "out": [
+                    {
+                      "name": "o1",
+                      "range": "[30:0]",
+                      "size": 31
+                    },
+                    {
+                      "name": "o0"
+                    }
+                  ]
                 }
-              ]
+              },
+              "position": {
+                "x": 272,
+                "y": 176
+              },
+              "size": {
+                "width": 240,
+                "height": 120
+              }
+            }
+          ],
+          "wires": [
+            {
+              "source": {
+                "block": "5204a9f1-594b-4216-b993-03b46bef9e6e",
+                "port": "out"
+              },
+              "target": {
+                "block": "16e78204-213e-4833-9096-89d735307ec2",
+                "port": "i"
+              },
+              "size": 32
+            },
+            {
+              "source": {
+                "block": "16e78204-213e-4833-9096-89d735307ec2",
+                "port": "o0"
+              },
+              "target": {
+                "block": "893af5e6-8636-4eb0-9db0-2b2cc10feffe",
+                "port": "in"
+              }
+            },
+            {
+              "source": {
+                "block": "16e78204-213e-4833-9096-89d735307ec2",
+                "port": "o1"
+              },
+              "target": {
+                "block": "fcdf42fb-4c60-4831-a889-ae811cdabcbe",
+                "port": "in"
+              },
+              "size": 31
             }
           ]
         }
