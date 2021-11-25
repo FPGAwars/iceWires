@@ -107,8 +107,8 @@
             "readonly": true
           },
           "position": {
-            "x": 424,
-            "y": -216
+            "x": 232,
+            "y": -192
           },
           "size": {
             "width": 544,
@@ -121,30 +121,6 @@
           "position": {
             "x": 184,
             "y": 176
-          },
-          "size": {
-            "width": 96,
-            "height": 64
-          }
-        },
-        {
-          "id": "3cc02945-635a-4de8-a39c-a7093d5785b5",
-          "type": "ab13f05d92d80a82af1a712a92621ea26dde55f3",
-          "position": {
-            "x": 984,
-            "y": -88
-          },
-          "size": {
-            "width": 96,
-            "height": 64
-          }
-        },
-        {
-          "id": "83123c2a-a03c-499d-b185-3a6f3616e338",
-          "type": "306ca367fbbc5181b3c709d73f447e0710871a1d",
-          "position": {
-            "x": 1176,
-            "y": -144
           },
           "size": {
             "width": 96,
@@ -234,6 +210,18 @@
             "width": 96,
             "height": 64
           }
+        },
+        {
+          "id": "5a28b79c-a320-4f93-adee-6e82970e3f4d",
+          "type": "c0d149b7d0139717c12d4ea392e21aa27f14ab1a",
+          "position": {
+            "x": 568,
+            "y": 64
+          },
+          "size": {
+            "width": 96,
+            "height": 64
+          }
         }
       ],
       "wires": [
@@ -278,17 +266,6 @@
             "port": "5204a9f1-594b-4216-b993-03b46bef9e6e"
           },
           "size": 32
-        },
-        {
-          "source": {
-            "block": "3cc02945-635a-4de8-a39c-a7093d5785b5",
-            "port": "4ca7b72f-724d-435c-8490-645c338586db"
-          },
-          "target": {
-            "block": "83123c2a-a03c-499d-b185-3a6f3616e338",
-            "port": "a0c9783a-c287-45a7-bfc7-9da552cf732f"
-          },
-          "size": 16
         },
         {
           "source": {
@@ -365,6 +342,39 @@
             "port": "d27f1697-8fc0-4125-9747-9691b098cb29"
           },
           "size": 2
+        },
+        {
+          "source": {
+            "block": "f3bff801-314b-411e-b6ad-a7ac4cf2a9cc",
+            "port": "2995bdb2-532a-40ee-86f7-3448bdac2217"
+          },
+          "target": {
+            "block": "5a28b79c-a320-4f93-adee-6e82970e3f4d",
+            "port": "c2754a89-979b-43ef-b7fb-da91d424542c"
+          },
+          "size": 22
+        },
+        {
+          "source": {
+            "block": "5a28b79c-a320-4f93-adee-6e82970e3f4d",
+            "port": "47d4b24e-00d2-48a7-a5c4-353c1003e422"
+          },
+          "target": {
+            "block": "e3048a8d-cbc2-4066-b1ac-cf24b7d71231",
+            "port": "bb4a2739-f9d5-4f5f-924f-f301bba6f988"
+          },
+          "size": 6
+        },
+        {
+          "source": {
+            "block": "5a28b79c-a320-4f93-adee-6e82970e3f4d",
+            "port": "4ca7b72f-724d-435c-8490-645c338586db"
+          },
+          "target": {
+            "block": "55f1d1ba-8f24-4f64-9fb5-aa561ca0f969",
+            "port": "7b354025-dd86-43bb-82d6-b83299cada75"
+          },
+          "size": 16
         }
       ]
     }
@@ -621,260 +631,6 @@
                 "port": "in"
               },
               "size": 32
-            }
-          ]
-        }
-      }
-    },
-    "ab13f05d92d80a82af1a712a92621ea26dde55f3": {
-      "package": {
-        "name": "Bus24-Split-16-8",
-        "version": "0.1",
-        "description": "Bus24-Split-16-8: Split the 24-bits bus into two buses of 16 and 8 wires",
-        "author": "Juan González-Gómez (Obijuan)",
-        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22354.768%22%20height=%22241.058%22%20viewBox=%220%200%20332.59497%20225.99201%22%3E%3Cpath%20d=%22M168.377%2077.643l61.147-60.938C240.21%206.25%20254.56.461%20269.484.5h62.611v26.186l-61.698.046c-8.012-.043-15.705%203.133-21.47%208.81L187.48%2096.857a57.292%2057.292%200%200%201-39.993%2016.139%2057.292%2057.292%200%200%201%2039.993%2016.14l61.448%2061.314c5.765%205.677%2013.458%208.853%2021.47%208.81l61.698.046v26.186h-62.612c-14.924.039-29.463-5.9-40.204-16.28l-60.902-60.863a29.857%2029.857%200%200%200-21.347-8.81L.5%20139.427V86.457h146.524a29.884%2029.884%200%200%200%2021.353-8.814z%22%20fill=%22green%22%20stroke=%22#000%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3C/svg%3E"
-      },
-      "design": {
-        "graph": {
-          "blocks": [
-            {
-              "id": "4ca7b72f-724d-435c-8490-645c338586db",
-              "type": "basic.output",
-              "data": {
-                "name": "1",
-                "range": "[15:0]",
-                "size": 16
-              },
-              "position": {
-                "x": 600,
-                "y": 128
-              }
-            },
-            {
-              "id": "901245a6-b7da-4af7-8917-7a47e5675ae1",
-              "type": "basic.input",
-              "data": {
-                "name": "",
-                "range": "[23:0]",
-                "clock": false,
-                "size": 24
-              },
-              "position": {
-                "x": 96,
-                "y": 200
-              }
-            },
-            {
-              "id": "872cccab-7461-412b-9924-bad211fa1922",
-              "type": "basic.output",
-              "data": {
-                "name": "0",
-                "range": "[7:0]",
-                "size": 8
-              },
-              "position": {
-                "x": 592,
-                "y": 224
-              }
-            },
-            {
-              "id": "16e78204-213e-4833-9096-89d735307ec2",
-              "type": "basic.code",
-              "data": {
-                "code": "assign o1 = i[23:8];\nassign o0 = i[7:0];",
-                "params": [],
-                "ports": {
-                  "in": [
-                    {
-                      "name": "i",
-                      "range": "[23:0]",
-                      "size": 24
-                    }
-                  ],
-                  "out": [
-                    {
-                      "name": "o1",
-                      "range": "[15:0]",
-                      "size": 16
-                    },
-                    {
-                      "name": "o0",
-                      "range": "[7:0]",
-                      "size": 8
-                    }
-                  ]
-                }
-              },
-              "position": {
-                "x": 272,
-                "y": 168
-              },
-              "size": {
-                "width": 240,
-                "height": 120
-              }
-            }
-          ],
-          "wires": [
-            {
-              "source": {
-                "block": "901245a6-b7da-4af7-8917-7a47e5675ae1",
-                "port": "out"
-              },
-              "target": {
-                "block": "16e78204-213e-4833-9096-89d735307ec2",
-                "port": "i"
-              },
-              "size": 24
-            },
-            {
-              "source": {
-                "block": "16e78204-213e-4833-9096-89d735307ec2",
-                "port": "o1"
-              },
-              "target": {
-                "block": "4ca7b72f-724d-435c-8490-645c338586db",
-                "port": "in"
-              },
-              "size": 16
-            },
-            {
-              "source": {
-                "block": "16e78204-213e-4833-9096-89d735307ec2",
-                "port": "o0"
-              },
-              "target": {
-                "block": "872cccab-7461-412b-9924-bad211fa1922",
-                "port": "in"
-              },
-              "size": 8
-            }
-          ]
-        }
-      }
-    },
-    "306ca367fbbc5181b3c709d73f447e0710871a1d": {
-      "package": {
-        "name": "Bus16-Split-half",
-        "version": "0.1",
-        "description": "Bus16-Split-half: Split the 16-bits bus into two buses of the same size",
-        "author": "Juan González-Gómez (Obijuan)",
-        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22354.768%22%20height=%22241.058%22%20viewBox=%220%200%20332.59497%20225.99201%22%3E%3Cpath%20d=%22M168.377%2077.643l61.147-60.938C240.21%206.25%20254.56.461%20269.484.5h62.611v26.186l-61.698.046c-8.012-.043-15.705%203.133-21.47%208.81L187.48%2096.857a57.292%2057.292%200%200%201-39.993%2016.139%2057.292%2057.292%200%200%201%2039.993%2016.14l61.448%2061.314c5.765%205.677%2013.458%208.853%2021.47%208.81l61.698.046v26.186h-62.612c-14.924.039-29.463-5.9-40.204-16.28l-60.902-60.863a29.857%2029.857%200%200%200-21.347-8.81L.5%20139.427V86.457h146.524a29.884%2029.884%200%200%200%2021.353-8.814z%22%20fill=%22green%22%20stroke=%22#000%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3C/svg%3E"
-      },
-      "design": {
-        "graph": {
-          "blocks": [
-            {
-              "id": "6ac467f0-b16b-44ef-8f03-ae206c13186e",
-              "type": "basic.output",
-              "data": {
-                "name": "1",
-                "range": "[7:0]",
-                "size": 8
-              },
-              "position": {
-                "x": 608,
-                "y": 176
-              }
-            },
-            {
-              "id": "a0c9783a-c287-45a7-bfc7-9da552cf732f",
-              "type": "basic.input",
-              "data": {
-                "name": "",
-                "range": "[15:0]",
-                "clock": false,
-                "size": 16
-              },
-              "position": {
-                "x": 96,
-                "y": 208
-              }
-            },
-            {
-              "id": "0e7ef93d-c4da-4c2e-9653-7a470dc912b6",
-              "type": "basic.output",
-              "data": {
-                "name": "0",
-                "range": "[7:0]",
-                "size": 8
-              },
-              "position": {
-                "x": 608,
-                "y": 272
-              }
-            },
-            {
-              "id": "16e78204-213e-4833-9096-89d735307ec2",
-              "type": "basic.code",
-              "data": {
-                "code": "assign o1 = i[15:8];\nassign o0 = i[7:0];",
-                "params": [],
-                "ports": {
-                  "in": [
-                    {
-                      "name": "i",
-                      "range": "[15:0]",
-                      "size": 16
-                    }
-                  ],
-                  "out": [
-                    {
-                      "name": "o1",
-                      "range": "[7:0]",
-                      "size": 8
-                    },
-                    {
-                      "name": "o0",
-                      "range": "[7:0]",
-                      "size": 8
-                    }
-                  ]
-                }
-              },
-              "position": {
-                "x": 272,
-                "y": 176
-              },
-              "size": {
-                "width": 240,
-                "height": 120
-              }
-            }
-          ],
-          "wires": [
-            {
-              "source": {
-                "block": "a0c9783a-c287-45a7-bfc7-9da552cf732f",
-                "port": "out"
-              },
-              "target": {
-                "block": "16e78204-213e-4833-9096-89d735307ec2",
-                "port": "i"
-              },
-              "size": 16
-            },
-            {
-              "source": {
-                "block": "16e78204-213e-4833-9096-89d735307ec2",
-                "port": "o1"
-              },
-              "target": {
-                "block": "6ac467f0-b16b-44ef-8f03-ae206c13186e",
-                "port": "in"
-              },
-              "size": 8
-            },
-            {
-              "source": {
-                "block": "16e78204-213e-4833-9096-89d735307ec2",
-                "port": "o0"
-              },
-              "target": {
-                "block": "0e7ef93d-c4da-4c2e-9653-7a470dc912b6",
-                "port": "in"
-              },
-              "size": 8
             }
           ]
         }
@@ -6461,6 +6217,133 @@
               "target": {
                 "block": "17bd7ef3-6604-48a9-9c2e-50a8be908636",
                 "port": "38fdb02d-4323-4a34-9ffe-8385f844b660"
+              },
+              "size": 8
+            }
+          ]
+        }
+      }
+    },
+    "306ca367fbbc5181b3c709d73f447e0710871a1d": {
+      "package": {
+        "name": "Bus16-Split-half",
+        "version": "0.1",
+        "description": "Bus16-Split-half: Split the 16-bits bus into two buses of the same size",
+        "author": "Juan González-Gómez (Obijuan)",
+        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22354.768%22%20height=%22241.058%22%20viewBox=%220%200%20332.59497%20225.99201%22%3E%3Cpath%20d=%22M168.377%2077.643l61.147-60.938C240.21%206.25%20254.56.461%20269.484.5h62.611v26.186l-61.698.046c-8.012-.043-15.705%203.133-21.47%208.81L187.48%2096.857a57.292%2057.292%200%200%201-39.993%2016.139%2057.292%2057.292%200%200%201%2039.993%2016.14l61.448%2061.314c5.765%205.677%2013.458%208.853%2021.47%208.81l61.698.046v26.186h-62.612c-14.924.039-29.463-5.9-40.204-16.28l-60.902-60.863a29.857%2029.857%200%200%200-21.347-8.81L.5%20139.427V86.457h146.524a29.884%2029.884%200%200%200%2021.353-8.814z%22%20fill=%22green%22%20stroke=%22#000%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3C/svg%3E"
+      },
+      "design": {
+        "graph": {
+          "blocks": [
+            {
+              "id": "6ac467f0-b16b-44ef-8f03-ae206c13186e",
+              "type": "basic.output",
+              "data": {
+                "name": "1",
+                "range": "[7:0]",
+                "size": 8
+              },
+              "position": {
+                "x": 608,
+                "y": 176
+              }
+            },
+            {
+              "id": "a0c9783a-c287-45a7-bfc7-9da552cf732f",
+              "type": "basic.input",
+              "data": {
+                "name": "",
+                "range": "[15:0]",
+                "clock": false,
+                "size": 16
+              },
+              "position": {
+                "x": 96,
+                "y": 208
+              }
+            },
+            {
+              "id": "0e7ef93d-c4da-4c2e-9653-7a470dc912b6",
+              "type": "basic.output",
+              "data": {
+                "name": "0",
+                "range": "[7:0]",
+                "size": 8
+              },
+              "position": {
+                "x": 608,
+                "y": 272
+              }
+            },
+            {
+              "id": "16e78204-213e-4833-9096-89d735307ec2",
+              "type": "basic.code",
+              "data": {
+                "code": "assign o1 = i[15:8];\nassign o0 = i[7:0];",
+                "params": [],
+                "ports": {
+                  "in": [
+                    {
+                      "name": "i",
+                      "range": "[15:0]",
+                      "size": 16
+                    }
+                  ],
+                  "out": [
+                    {
+                      "name": "o1",
+                      "range": "[7:0]",
+                      "size": 8
+                    },
+                    {
+                      "name": "o0",
+                      "range": "[7:0]",
+                      "size": 8
+                    }
+                  ]
+                }
+              },
+              "position": {
+                "x": 272,
+                "y": 176
+              },
+              "size": {
+                "width": 240,
+                "height": 120
+              }
+            }
+          ],
+          "wires": [
+            {
+              "source": {
+                "block": "a0c9783a-c287-45a7-bfc7-9da552cf732f",
+                "port": "out"
+              },
+              "target": {
+                "block": "16e78204-213e-4833-9096-89d735307ec2",
+                "port": "i"
+              },
+              "size": 16
+            },
+            {
+              "source": {
+                "block": "16e78204-213e-4833-9096-89d735307ec2",
+                "port": "o1"
+              },
+              "target": {
+                "block": "6ac467f0-b16b-44ef-8f03-ae206c13186e",
+                "port": "in"
+              },
+              "size": 8
+            },
+            {
+              "source": {
+                "block": "16e78204-213e-4833-9096-89d735307ec2",
+                "port": "o0"
+              },
+              "target": {
+                "block": "0e7ef93d-c4da-4c2e-9653-7a470dc912b6",
+                "port": "in"
               },
               "size": 8
             }
@@ -16767,6 +16650,133 @@
                 "port": "i1"
               },
               "size": 6
+            }
+          ]
+        }
+      }
+    },
+    "c0d149b7d0139717c12d4ea392e21aa27f14ab1a": {
+      "package": {
+        "name": "Bus22-Split-16-6",
+        "version": "0.1",
+        "description": "Bus22-Split-16-6: Split the 22-bits bus into two buses of 16 and 6 wires",
+        "author": "Juan González-Gómez (Obijuan)",
+        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22354.768%22%20height=%22241.058%22%20viewBox=%220%200%20332.59497%20225.99201%22%3E%3Cpath%20d=%22M168.377%2077.643l61.147-60.938C240.21%206.25%20254.56.461%20269.484.5h62.611v26.186l-61.698.046c-8.012-.043-15.705%203.133-21.47%208.81L187.48%2096.857a57.292%2057.292%200%200%201-39.993%2016.139%2057.292%2057.292%200%200%201%2039.993%2016.14l61.448%2061.314c5.765%205.677%2013.458%208.853%2021.47%208.81l61.698.046v26.186h-62.612c-14.924.039-29.463-5.9-40.204-16.28l-60.902-60.863a29.857%2029.857%200%200%200-21.347-8.81L.5%20139.427V86.457h146.524a29.884%2029.884%200%200%200%2021.353-8.814z%22%20fill=%22green%22%20stroke=%22#000%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3C/svg%3E"
+      },
+      "design": {
+        "graph": {
+          "blocks": [
+            {
+              "id": "4ca7b72f-724d-435c-8490-645c338586db",
+              "type": "basic.output",
+              "data": {
+                "name": "1",
+                "range": "[15:0]",
+                "size": 16
+              },
+              "position": {
+                "x": 600,
+                "y": 128
+              }
+            },
+            {
+              "id": "c2754a89-979b-43ef-b7fb-da91d424542c",
+              "type": "basic.input",
+              "data": {
+                "name": "",
+                "range": "[21:0]",
+                "clock": false,
+                "size": 22
+              },
+              "position": {
+                "x": 96,
+                "y": 200
+              }
+            },
+            {
+              "id": "47d4b24e-00d2-48a7-a5c4-353c1003e422",
+              "type": "basic.output",
+              "data": {
+                "name": "0",
+                "range": "[5:0]",
+                "size": 6
+              },
+              "position": {
+                "x": 592,
+                "y": 256
+              }
+            },
+            {
+              "id": "16e78204-213e-4833-9096-89d735307ec2",
+              "type": "basic.code",
+              "data": {
+                "code": "assign o1 = i[21:6];\nassign o0 = i[5:0];",
+                "params": [],
+                "ports": {
+                  "in": [
+                    {
+                      "name": "i",
+                      "range": "[21:0]",
+                      "size": 22
+                    }
+                  ],
+                  "out": [
+                    {
+                      "name": "o1",
+                      "range": "[15:0]",
+                      "size": 16
+                    },
+                    {
+                      "name": "o0",
+                      "range": "[5:0]",
+                      "size": 6
+                    }
+                  ]
+                }
+              },
+              "position": {
+                "x": 272,
+                "y": 168
+              },
+              "size": {
+                "width": 240,
+                "height": 120
+              }
+            }
+          ],
+          "wires": [
+            {
+              "source": {
+                "block": "16e78204-213e-4833-9096-89d735307ec2",
+                "port": "o1"
+              },
+              "target": {
+                "block": "4ca7b72f-724d-435c-8490-645c338586db",
+                "port": "in"
+              },
+              "size": 16
+            },
+            {
+              "source": {
+                "block": "16e78204-213e-4833-9096-89d735307ec2",
+                "port": "o0"
+              },
+              "target": {
+                "block": "47d4b24e-00d2-48a7-a5c4-353c1003e422",
+                "port": "in"
+              },
+              "size": 6
+            },
+            {
+              "source": {
+                "block": "c2754a89-979b-43ef-b7fb-da91d424542c",
+                "port": "out"
+              },
+              "target": {
+                "block": "16e78204-213e-4833-9096-89d735307ec2",
+                "port": "i"
+              },
+              "size": 22
             }
           ]
         }
