@@ -1211,8 +1211,20 @@
           "id": "4c114b43-5e76-464e-b723-ee39c2ae78d6",
           "type": "3d6d1b30211ed4fb04c11e98449a6c643d12ae3e",
           "position": {
-            "x": 1784,
-            "y": -456
+            "x": 1792,
+            "y": -360
+          },
+          "size": {
+            "width": 96,
+            "height": 64
+          }
+        },
+        {
+          "id": "c40ac9e9-078d-4bae-a75c-3e3a26530641",
+          "type": "ff627ade87f13468a7912818488f7442a3cf3eb6",
+          "position": {
+            "x": 1792,
+            "y": -448
           },
           "size": {
             "width": 96,
@@ -8634,6 +8646,157 @@
                 {
                   "x": 800,
                   "y": 240
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "ff627ade87f13468a7912818488f7442a3cf3eb6": {
+      "package": {
+        "name": "Bus-SR1",
+        "version": "0.1",
+        "description": "SR1: Shift  a 3-bit value one bit right. MSB is filled with ",
+        "author": "Juan González-Gómez (Obijuan)",
+        "image": "%3Csvg%20width=%22298.966%22%20height=%22132.487%22%20viewBox=%220%200%20280.28048%20124.20677%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20fill=%22green%22%20stroke=%22green%22%3E%3Cpath%20d=%22M91.176%20109.68h10.65%22%20color=%22#000%22%20stroke-width=%222.645%22%20stroke-linecap=%22round%22%20transform=%22matrix(5.55181%200%200%205.55856%20-320.093%20-547.401)%22/%3E%3Cpath%20d=%22M59.663%20108.085c-.832%200-1.507.662-1.508%201.48%200%20.818.676%201.481%201.508%201.48h41.84c.833.001%201.508-.662%201.508-1.48s-.675-1.48-1.507-1.48z%22%20color=%22#000%22%20stroke-linecap=%22round%22%20transform=%22matrix(5.55181%200%200%205.55856%20-320.093%20-547.401)%22/%3E%3Cg%20color=%22#000%22%20fill-rule=%22evenodd%22%20stroke-width=%221.428%22%3E%3Cpath%20d=%22M80.414%20192.813l-9.155%205.291v-10.583z%22%20stroke-width=%222.015%22%20transform=%22matrix(3.91938%200%200%203.85892%20-46.011%20-681.786)%22/%3E%3Cpath%20d=%22M70.553%20186.299v13.027l11.271-6.513-1.056-.612zm1.412%202.445l7.039%204.069-7.04%204.07z%22%20transform=%22matrix(3.91938%200%200%203.85892%20-46.011%20-681.786)%22/%3E%3C/g%3E%3C/g%3E%3Cg%20transform=%22translate(-217.843%20-228.395)%22%3E%3Cellipse%20cx=%22349.268%22%20cy=%22289.633%22%20rx=%2236.074%22%20ry=%2236.118%22%20fill=%22#fff%22%20stroke=%22#000%22%20stroke-width=%224.432%22%20stroke-linecap=%22round%22/%3E%3Ctext%20style=%22line-height:1.25%22%20x=%22333.57%22%20y=%22310.804%22%20transform=%22scale(.9994%201.0006)%22%20font-weight=%22400%22%20font-size=%2259.1%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%20stroke-width=%221.477%22%3E%3Ctspan%20x=%22333.57%22%20y=%22310.804%22%3E1%3C/tspan%3E%3C/text%3E%3C/g%3E%3Cg%20style=%22line-height:1.25%22%20font-weight=%22400%22%20font-size=%2245.504%22%20font-family=%22sans-serif%22%20fill=%22none%22%20stroke-width=%221.65%22%20stroke=%22green%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%3E%3Cpath%20d=%22M4.534%201.47l40.643-.064v50.43M274.981%20122.738l-63.82.063V72.37%22%20stroke-width=%222.813217%22/%3E%3C/g%3E%3C/svg%3E",
+        "otid": 1622709944841
+      },
+      "design": {
+        "graph": {
+          "blocks": [
+            {
+              "id": "79b18de5-9152-4bdb-8059-3dcf8efa92dc",
+              "type": "basic.input",
+              "data": {
+                "name": "in",
+                "clock": false
+              },
+              "position": {
+                "x": 216,
+                "y": 152
+              }
+            },
+            {
+              "id": "bec27045-1589-4220-ae0d-0d311228f45a",
+              "type": "basic.output",
+              "data": {
+                "name": "",
+                "range": "[2:0]",
+                "size": 3
+              },
+              "position": {
+                "x": 1040,
+                "y": 240
+              }
+            },
+            {
+              "id": "2cbeee6f-11de-4546-a198-78af5ec30f61",
+              "type": "basic.input",
+              "data": {
+                "name": "",
+                "range": "[2:0]",
+                "clock": false,
+                "size": 3
+              },
+              "position": {
+                "x": 216,
+                "y": 272
+              }
+            },
+            {
+              "id": "390a8028-5755-42e1-8173-5d973fb17d9b",
+              "type": "basic.output",
+              "data": {
+                "name": "out"
+              },
+              "position": {
+                "x": 1032,
+                "y": 400
+              }
+            },
+            {
+              "id": "58224f2f-9016-46b0-976e-2a2639ab39f6",
+              "type": "bae18b574f84242abb0e465664fca2670a50b5da",
+              "position": {
+                "x": 472,
+                "y": 272
+              },
+              "size": {
+                "width": 96,
+                "height": 64
+              }
+            },
+            {
+              "id": "206ade5d-860d-414a-af5a-5b893c3b5f3d",
+              "type": "971c29e01b52b06d36d0145bb4312ffd8117229d",
+              "position": {
+                "x": 784,
+                "y": 240
+              },
+              "size": {
+                "width": 96,
+                "height": 64
+              }
+            }
+          ],
+          "wires": [
+            {
+              "source": {
+                "block": "79b18de5-9152-4bdb-8059-3dcf8efa92dc",
+                "port": "out"
+              },
+              "target": {
+                "block": "206ade5d-860d-414a-af5a-5b893c3b5f3d",
+                "port": "e4111201-8441-4e7d-bcd2-bcf9d265d043"
+              }
+            },
+            {
+              "source": {
+                "block": "2cbeee6f-11de-4546-a198-78af5ec30f61",
+                "port": "out"
+              },
+              "target": {
+                "block": "58224f2f-9016-46b0-976e-2a2639ab39f6",
+                "port": "2772ef22-9ad6-45c8-ae1a-2fcb655b1eca"
+              },
+              "size": 3
+            },
+            {
+              "source": {
+                "block": "58224f2f-9016-46b0-976e-2a2639ab39f6",
+                "port": "9e160bfa-47dc-4557-b2d7-c8fdc2ddd7f8"
+              },
+              "target": {
+                "block": "206ade5d-860d-414a-af5a-5b893c3b5f3d",
+                "port": "1ccd4e28-a4b6-4504-a98f-7ec6baa94d74"
+              },
+              "size": 2
+            },
+            {
+              "source": {
+                "block": "206ade5d-860d-414a-af5a-5b893c3b5f3d",
+                "port": "a7b70668-43df-4c7f-8da5-7076008e97bd"
+              },
+              "target": {
+                "block": "bec27045-1589-4220-ae0d-0d311228f45a",
+                "port": "in"
+              },
+              "size": 3
+            },
+            {
+              "source": {
+                "block": "58224f2f-9016-46b0-976e-2a2639ab39f6",
+                "port": "f5a71d7b-de20-4527-80c8-0eb20de0dc77"
+              },
+              "target": {
+                "block": "390a8028-5755-42e1-8173-5d973fb17d9b",
+                "port": "in"
+              },
+              "vertices": [
+                {
+                  "x": 640,
+                  "y": 384
                 }
               ]
             }
