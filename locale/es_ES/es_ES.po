@@ -2036,28 +2036,20 @@ msgid "Wire: Just a simple wire"
 msgstr "Wire: Un simple cable"
 
 #: translation.js:511
-#, fuzzy
-#| msgid "Split"
 msgid "03-Split"
-msgstr "Split"
+msgstr "03-Split"
 
 #: translation.js:512
-#, fuzzy
-#| msgid "Join"
 msgid "04-Join"
-msgstr "Agregar"
+msgstr "04-Join"
 
 #: translation.js:513
-#, fuzzy
-#| msgid "Wires"
 msgid "05-Wires"
-msgstr "Cables"
+msgstr "05-Wires"
 
 #: translation.js:514
-#, fuzzy
-#| msgid "Copy"
 msgid "06-Copy"
-msgstr "Copiar"
+msgstr "06-Copy"
 
 #: translation.js:515
 #, fuzzy
@@ -2368,10 +2360,8 @@ msgid "## 32-Bits"
 msgstr "## 32-Bits"
 
 #: translation.js:580
-#, fuzzy
-#| msgid "## UINT8"
 msgid "## UINT16"
-msgstr "## UINT8"
+msgstr "## UINT16"
 
 #: translation.js:581
 msgid "## 22-Bits"
@@ -2452,10 +2442,8 @@ msgid "Alhambra-II"
 msgstr "Alhambra-II"
 
 #: translation.js:585 translation.js:596
-#, fuzzy
-#| msgid "Bus2-Split-all"
 msgid "01-Bus2-Split-all"
-msgstr "Bus2-Split-all"
+msgstr "01-Bus2-Split-all"
 
 #: translation.js:586
 msgid ""
@@ -2490,10 +2478,8 @@ msgid "LSB bit"
 msgstr ""
 
 #: translation.js:591 translation.js:597
-#, fuzzy
-#| msgid "Split-1-4"
 msgid "02-Split-1-4"
-msgstr "Split-1-4"
+msgstr "02-Split-1-4"
 
 #: translation.js:592
 msgid ""
@@ -2524,10 +2510,8 @@ msgid "5-bits constant"
 msgstr "Valor constante 0 de 5 bits"
 
 #: translation.js:599 translation.js:607
-#, fuzzy
-#| msgid "Bus2-Join-all"
 msgid "01-Bus2-Join-all"
-msgstr "Bus2-Join-all"
+msgstr "01-Bus2-Join-all"
 
 #: translation.js:600
 msgid ""
@@ -2552,10 +2536,8 @@ msgid "2 bits Output BUS"
 msgstr ""
 
 #: translation.js:603 translation.js:608
-#, fuzzy
-#| msgid "Join-1-4"
 msgid "02-Join-1-4"
-msgstr "Join-1-4"
+msgstr "02-Join-1-4"
 
 #: translation.js:604
 msgid ""
@@ -2582,10 +2564,8 @@ msgid "4-bits constant"
 msgstr "Valor constante 0 de 4 bits"
 
 #: translation.js:610 translation.js:616
-#, fuzzy
-#| msgid "01-manual-btn-leds"
 msgid "01-Bus-2-button-leds"
-msgstr "01-manual-btn-leds"
+msgstr "01-Bus-2-button-leds"
 
 #: translation.js:611
 msgid "# Example: Bus-2: Connection of two buses"
@@ -2617,7 +2597,7 @@ msgstr ""
 
 #: translation.js:618 translation.js:621
 msgid "01-button-LEDs"
-msgstr ""
+msgstr "01-button-LEDs"
 
 #: translation.js:619
 msgid ""
@@ -2639,7 +2619,7 @@ msgstr "Copy-8"
 #: translation.js:1276 translation.js:1278 translation.js:1280
 #: translation.js:1282 translation.js:1283
 msgid "01-sign-LED"
-msgstr ""
+msgstr "01-sign-LED"
 
 #: translation.js:624
 msgid ""
@@ -3095,10 +3075,8 @@ msgid "In any other case the output is 0"
 msgstr "En cualquier otro caso la salida es 0"
 
 #: translation.js:690 translation.js:692
-#, fuzzy
-#| msgid "Reversal-04"
 msgid "01-Reversal-4-bits"
-msgstr "Reversal-04"
+msgstr "01-Reversal-4-bits"
 
 #: translation.js:691
 #, fuzzy
@@ -3107,10 +3085,8 @@ msgid "Reversal-4"
 msgstr "Reversal-04"
 
 #: translation.js:694
-#, fuzzy
-#| msgid "Shift-right"
 msgid "01-Shift-right-1-bus4"
-msgstr "Shift-right"
+msgstr "01-Shift-right-1-bus4"
 
 #: translation.js:695
 #, fuzzy
@@ -3125,6 +3101,10 @@ msgid ""
 "Shift a 4-bits number 1 bit to the right.  \n"
 "The result is shown on the LEDs"
 msgstr ""
+"# Bus-4 Shift right: Ejemplos\n"
+"\n"
+"Desplazar 1 bit a la derecha un número de 4bits.  \n"
+"El resultado se muestra en los LEDs"
 
 #: translation.js:697
 msgid ""
@@ -4177,16 +4157,12 @@ msgid "## BUS-3-Shift-right-1: Manual testing"
 msgstr "## BUS-3-Shift-right-1: Prueba manual"
 
 #: translation.js:1200
-#, fuzzy
-#| msgid "## Uint4-1bit: Manual testing"
 msgid "## BUS-4-Shift-right-1: Manual testing"
-msgstr "## Uint4-1bit: Prueba manual"
+msgstr "## BUS-4-Shift-right-1: Prueba manual"
 
 #: translation.js:1211
-#, fuzzy
-#| msgid "## Uint4-1bit: Manual testing"
 msgid "## BUS-8-Shift-right-1: Manual testing"
-msgstr "## Uint4-1bit: Prueba manual"
+msgstr "## BUS-8-Shift-right-1: Prueba manual"
 
 #: translation.js:1218
 msgid "## BUS-16-Shift-Left-1: Manual testing"
@@ -4740,19 +4716,14 @@ msgstr ""
 "menos sigfnificativos. cuando se aprieta el botón se muestran los superiores"
 
 #: translation.js:1534
-#, fuzzy
-#| msgid ""
-#| "# Bus7-Split-2-5: Manual testing\n"
-#| "\n"
-#| "The value of the constant is shown on the LEDs"
 msgid ""
 "## Bus17-Split-1-16: Manual testing\n"
 "\n"
 "The 17-bit constnat is shown on the LEDs"
 msgstr ""
-"# Bus7-Split-2-5: Prueba manual con una constante y LEDs  \n"
+"# Bus17-Split-1-16: Prueba manual\n"
 "\n"
-"El valor de la constante se muestra en los LEDs"
+"La constante de 17-bits se muestra en los LEDs"
 
 #: translation.js:1538
 msgid ""
@@ -4763,19 +4734,14 @@ msgstr ""
 "\n"
 
 #: translation.js:1546
-#, fuzzy
-#| msgid ""
-#| "## Bus20-Split-4-8-8: Manual testing\n"
-#| "\n"
-#| "The 20-bits constants is displayed on the 8 LEDs"
 msgid ""
 "## Bus20-Split-1-19: Manual testing\n"
 "\n"
 "The 20-bits constants is displayed on the 8 LEDs. "
 msgstr ""
-"# Bus20-Split-4-8-8: Prueba manual  \n"
+"# Bus20-Split-1-19: Prueba manual  \n"
 "\n"
-"El valor de la constante se muestra en los LEDs"
+"La constante de 20-bits se muestra en los 8 LEDs"
 
 #: translation.js:1547
 msgid ""
@@ -4826,19 +4792,14 @@ msgstr ""
 "El valor de la constante se muestra en los LEDs"
 
 #: translation.js:1564
-#, fuzzy
-#| msgid ""
-#| "## Bus20-Split-4-8-8: Manual testing\n"
-#| "\n"
-#| "The 20-bits constants is displayed on the 8 LEDs"
 msgid ""
 "## BUS22-split-16-6: Manual testing\n"
 "\n"
 "The 22-bits constants is displayed on the 8 LEDs"
 msgstr ""
-"# Bus20-Split-4-8-8: Prueba manual  \n"
+"# Bus22-Split-16-6: Prueba manual  \n"
 "\n"
-"El valor de la constante se muestra en los LEDs"
+"La constante de 22-bits se muestra en los 8 LEDs"
 
 #: translation.js:1570
 msgid ""
@@ -5069,10 +5030,8 @@ msgstr ""
 "El valor de la constante se muestra en los LEDs"
 
 #: translation.js:1659
-#, fuzzy
-#| msgid "## Uint2-1bits: Manual testing"
 msgid "## Uint12-8bits: Manual testing"
-msgstr "## Uint2-1bits: Prueba manual"
+msgstr "## Uint12-8bits: Prueba manual"
 
 #: translation.js:1661
 #, fuzzy
@@ -5087,16 +5046,12 @@ msgid "09-bits"
 msgstr "02-bits"
 
 #: translation.js:1665
-#, fuzzy
-#| msgid "## Uint2-1bits: Manual testing"
 msgid "## Uint16-8bits: Manual testing"
-msgstr "## Uint2-1bits: Prueba manual"
+msgstr "## Uint16-8bits: Prueba manual"
 
 #: translation.js:1669
-#, fuzzy
-#| msgid "## Uint2-1bits: Manual testing"
 msgid "## Uint16-9bits: Manual testing"
-msgstr "## Uint2-1bits: Prueba manual"
+msgstr "## Uint16-9bits: Prueba manual"
 
 #: translation.js:1671 translation.js:1691
 msgid "01-bit"
