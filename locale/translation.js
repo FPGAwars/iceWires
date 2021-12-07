@@ -272,7 +272,7 @@ gettext('Bus16-Split-half: Split the 16-bits bus into two buses of 1 and 15 wire
 gettext('Shift-Right');
 gettext('Shift-left');
 gettext('SR1');
-gettext('SR1-32bits: Shift  a 32-bit value one bit right. MSB is filled with the input \');
+gettext('SR1-32bits: Shift  a 32-bit value one bit right. MSB is filled with the input  in');
 gettext('Bus32-Split-31-1: Split the 32-bits bus into two buses of 31 and 1 wires');
 gettext('SL1');
 gettext('Bus32-Split-1-31: Split the 32-bits bus into two buses of 1 and 31 wires');
@@ -1234,6 +1234,7 @@ gettext('SR1');
 gettext('Alhambra-II');
 gettext('01-Manual-testing');
 gettext('Value to Shift');
+gettext('01-Manual-testing');
 gettext('Sign-02Bits');
 gettext('Sign-03Bits');
 gettext('Sign-04Bits');
