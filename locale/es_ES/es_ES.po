@@ -2912,7 +2912,7 @@ msgid ""
 "MSB "
 msgstr ""
 "Insertar 0 como  \n"
-"el bit de mayor peso"
+"el bit de mayor peso "
 
 #: translation.js:699
 msgid ""
@@ -2999,7 +2999,7 @@ msgid ""
 "the byte to display "
 msgstr ""
 "Display16-8: Mostrar un valor de 16 bits en los 8 LEDs. La entrada sel "
-"selecciona el byte a mostrar"
+"selecciona el byte a mostrar "
 
 #: translation.js:741
 msgid "2-to-1 Multplexer (8-bit channels)"
@@ -3743,7 +3743,7 @@ msgid ""
 "the byte to display "
 msgstr ""
 "Display32-8: Mostrar un valor de 32 bits en 8 LEDs. La entrada sel "
-"selecciona el byte a mostrar"
+"selecciona el byte a mostrar "
 
 #: translation.js:1045
 msgid "Generic: 19-bits generic constant"
@@ -4511,7 +4511,7 @@ msgid ""
 msgstr ""
 "# Bus20-Split-1-19: Prueba manual  \n"
 "\n"
-"La constante de 20-bits se muestra en los 8 LEDs"
+"La constante de 20-bits se muestra en los 8 LEDs "
 
 #: translation.js:1547
 msgid ""
