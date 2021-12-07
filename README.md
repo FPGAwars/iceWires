@@ -32,10 +32,9 @@ For installing and using this colection in Icestudio follow these steps:
 | CZech |  cs_CZ | ![](https://progress-bar.dev/0) |
 | German |  de_DE | ![](https://progress-bar.dev/0) |
 | Greek |  el_GR | ![](https://progress-bar.dev/0) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/100) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/77) |
 | Basque |  eu_ES | ![](https://progress-bar.dev/0) |
 | French |  fr_FR | ![](https://progress-bar.dev/0) |
-| Galician |  gl_ES | ![](https://progress-bar.dev/4) |
 | Italian |  it_IT | ![](https://progress-bar.dev/0) |
 | Korean |  ko_KR | ![](https://progress-bar.dev/0) |
 | Netherlands |  nl_NL | ![](https://progress-bar.dev/0) |
@@ -52,6 +51,7 @@ For installing and using this colection in Icestudio follow these steps:
   * Copy-06
   * Copy-07
   * Copy-08
+  * Copy-09
   * **Verilog**
     * Copy-02-verilog
 * **Join**
@@ -98,6 +98,7 @@ For installing and using this colection in Icestudio follow these steps:
     * Join-half
   * **Bus-09**
     * Join-1-8
+    * Join-8-1
   * **Bus-10**
     * Join-8-2
   * **Bus-11**
@@ -107,15 +108,23 @@ For installing and using this colection in Icestudio follow these steps:
     * Join-4-8
     * Join-one-third
   * **Bus-15**
+    * Join-5-10
     * Join-7-8
   * **Bus-16**
+    * Join-1-15
+    * Join-15-1
+    * Join-4-12
+    * Join-7-9
     * Join-half
     * Join-quarter
   * **Bus-19**
     * Join-3-8-8
   * **Bus-20**
+    * Join-1-19
     * Join-4-16
     * Join-4-8-8
+  * **Bus-22**
+    * Join-10-22
   * **Bus-23**
     * Join-7-8-8
   * **Bus-24**
@@ -129,6 +138,11 @@ For installing and using this colection in Icestudio follow these steps:
   * **Bus-31**
     * Join-7-8-8-8
   * **Bus-32**
+    * Join-1-31
+    * Join-17-15
+    * Join-29-3
+    * Join-3-29
+    * Join-31-1
     * Join-8-24
     * Join-half
     * Join-quarter
@@ -147,10 +161,43 @@ For installing and using this colection in Icestudio follow these steps:
       * SR1-uint2
       * SR1
   * **Bus-03**
+    * **Shift-Left**
+      * SL1
     * **Shift-Right**
       * SR1-uint3
+      * SR1
+  * **Bus-04**
+    * **Shift-left**
+      * SL1
+    * **Shift-right**
+      * SR1
+  * **Bus-08**
+    * **Shift-left**
+      * SL1
+    * **Shift-right**
+      * SR1
+  * **Bus-16**
+    * **Shift-left**
+      * SL1
+    * **Shift-right**
+      * SR1
+  * **Bus-32**
+    * **Shift-Right**
+      * SR1
+    * **Shift-left**
+      * SL1
 * **Sign**
+  * Sign-int12
+  * Sign-int16
   * Sign-int2
+  * Sign-int20
+  * Sign-int3
+  * Sign-int32
+  * Sign-int4
+  * Sign-int5
+  * Sign-int6
+  * Sign-int7
+  * Sign-int8
 * **Split**
   * **Bus-02**
     * Split-all
@@ -200,19 +247,28 @@ For installing and using this colection in Icestudio follow these steps:
   * **Bus-11**
     * Split-3-8
   * **Bus-12**
+    * Split-1-11
     * Split-4-8
     * Split-one-third
   * **Bus-15**
+    * Split-5-10
     * Split-7-8
   * **Bus-16**
+    * Split-1-15
+    * Split-15-1
     * Split-half
     * Split-quarter
+  * **Bus-17**
+    * Split-1-16
   * **Bus-19**
     * Split-3-8-8
   * **Bus-20**
+    * Split-1-19
     * Split-12-8
     * Split-4-16
     * Split-4-8-8
+  * **Bus-22**
+    * Split-16-6
   * **Bus-23**
     * Split-7-8-8
   * **Bus-24**
@@ -228,11 +284,21 @@ For installing and using this colection in Icestudio follow these steps:
   * **Bus-31**
     * Split-7-8-8-8
   * **Bus-32**
+    * Split-1-31
+    * Split-17-15
+    * Split-22-10
     * Split-24-8
+    * Split-29-3
+    * Split-31-1
     * Split-8-24
     * Split-half
     * Split-quarter
 * **Uint**
+  * **Uint12**
+    * Uint12-08-bits
+  * **Uint16**
+    * Uint16-08-bits
+    * Uint16-09-bits
   * **Uint2**
     * Uint2-01-bit
   * **Uint4**
@@ -261,6 +327,32 @@ For installing and using this colection in Icestudio follow these steps:
 * 00-Index
 * 01-Index
 * 02-Index
+* **03-Split**
+  * **Alhambra-II**
+    * 01-Bus2-Split-all
+    * 02-Split-1-4
+* **04-Join**
+  * **Alhambra-II**
+    * 01-Bus2-Join-all
+    * 02-Join-1-4
+* **05-Wires**
+  * **Alhambra-II**
+    * 01-Bus-2-button-leds
+* **06-Copy**
+  * **Alhambra-II**
+    * 01-button-LEDs
+* **07-Sign**
+  * **Alhambra-II**
+    * 01-sign-LED
+* **08-Uint**
+  * **Alhambra-II**
+    * 01-Manual-testing
+* **09-Reversal**
+  * **Alhambra-II**
+    * 01-Reversal-4-bits
+* **10-Shift**
+  * **Alhambra-II**
+    * 01-Shift-right-1-bus4
 * **TESTs**
   * **Copy**
     * **Copy-02**
@@ -279,6 +371,9 @@ For installing and using this colection in Icestudio follow these steps:
       * **Alhambra-II**
         * 01-manual-btn-leds
     * **Copy-08**
+      * **Alhambra-II**
+        * 01-manual-btn-leds
+    * **Copy-09**
       * **Alhambra-II**
         * 01-manual-btn-leds
     * **Copy-7**
@@ -409,8 +504,24 @@ For installing and using this colection in Icestudio follow these steps:
           * 01-manual-btns-leds
     * **Bus-15**
       * **Alhambra-II**
-        * 01-manual-btns-leds
+      * **Join-5-10**
+        * **Alhambra-II**
+          * 01-manual-btns-leds
+      * **Join-7-8**
+        * **Alhambra-II**
+          * 01-manual-btns-leds
     * **Bus-16**
+      * **Join-1-15**
+        * **Alhambra-II**
+          * 01-manual-btns-leds
+      * **Join-15-1**
+        * **Alhambra-II**
+          * 01-manual-btns-leds
+      * **Join-4-12**
+        * **Alhambra-II**
+          * 01-manual-btns-leds
+      * **Join-7-9**
+        * 01-manual-btns-leds
       * **Join-half**
         * **Alhambra-II**
           * 01-manual-btns-leds
@@ -421,12 +532,19 @@ For installing and using this colection in Icestudio follow these steps:
       * **Alhambra-II**
         * 01-manual-btns-leds
     * **Bus-20**
+      * **Join-1-19**
+        * **Alhambra-II**
+          * 01-manual-btns-leds
       * **Join-4-16**
         * **Alhambra-II**
           * 01-manual-btns-leds
       * **Join-4-8-8**
         * **Alhambra-II**
           * 01-manual-btns-leds
+    * **Bus-22**
+      * **Join-10-22**
+        * **Alhambra-II**
+          * 01-manual-testing
     * **Bus-23**
       * **Alhambra-II**
         * 01-manual-btns-leds
@@ -447,10 +565,23 @@ For installing and using this colection in Icestudio follow these steps:
       * **Join-4-8-8-8**
         * **Alhambra-II**
           * 01-Manual-testing
+    * **Bus-29**
     * **Bus-31**
       * **Alhambra-II**
         * 01-manual-btns-leds
     * **Bus-32**
+      * **Join-1-31**
+        * **Alhambra-II**
+          * 01-Manual-testing
+      * **Join-17-15**
+        * **Alhambra-II**
+          * 01-Manual-testing
+      * **Join-29-3**
+        * **Alhambra-II**
+          * 01-Manual-testing
+      * **Join-31-1**
+        * **Alhambra-II**
+          * 01-Manual-testing
       * **Join-8-24**
         * **Alhambra-II**
           * 01-Manual-testing
@@ -496,8 +627,51 @@ For installing and using this colection in Icestudio follow these steps:
           * **Alhambra-II**
             * 01-Manual-testing
     * **Bus-03**
+      * **Shift-left**
+        * **SL1**
+          * **Alhambra-II**
+            * 01-Manual-testing
       * **Shift-right**
+        * **SR1**
         * **SR1-uint3**
+          * **Alhambra-II**
+            * 01-Manual-testing
+          * **Alhambra-II**
+            * 01-Manual-testing
+    * **Bus-04**
+      * **Shift-left**
+        * **SL1**
+          * **Alhambra-II**
+            * 01-Manual-testing
+      * **Shift-right**
+        * **SR1**
+          * **Alhambra-II**
+            * 01-Manual-testing
+    * **Bus-08**
+      * **Shift-left**
+        * **SL1**
+          * **Alhambra-II**
+            * 01-Manual-testing
+      * **Shift-right**
+        * **SR1**
+          * **Alhambra-II**
+            * 01-Manual-testing
+    * **Bus-16**
+      * **Shift-left**
+        * **SL1**
+          * **Alhambra-II**
+            * 01-Manual-testing
+      * **Shift-right**
+        * **SR1**
+          * **Alhambra-II**
+            * 01-Manual-testing
+    * **Bus-32**
+      * **Shift-left**
+        * **SL1**
+          * **Alhambra-II**
+            * 01-Manual-testing
+      * **Shift-right**
+        * **SR1**
           * **Alhambra-II**
             * 01-Manual-testing
   * **Sign**
@@ -505,6 +679,35 @@ For installing and using this colection in Icestudio follow these steps:
       * **Alhambra-II**
         * 01-Manual-testing
         * Sign-int2
+    * **Sign-03Bits**
+      * **Alhambra-II**
+        * Sign-int3
+    * **Sign-04Bits**
+      * **Alhambra-II**
+        * Sign-int4
+    * **Sign-05Bits**
+      * **Alhambra-II**
+        * Sign-int5
+    * **Sign-06Bits**
+      * **Alhambra-II**
+        * Sign-int6
+    * **Sign-07Bits**
+      * **Alhambra-II**
+        * Sign-int7
+    * **Sign-08Bits**
+      * **Alhambra-II**
+        * Sign-int8
+    * **Sign-12Bits**
+      * **Alhambra-II**
+        * Sign-int12
+    * **Sign-16Bits**
+      * 01-sign-LED
+    * **Sign-20Bits**
+      * **Alhambra-II**
+        * 01-sign-LED
+    * **Sign-32Bits**
+      * **Alhambra-II**
+        * 01-sign-LED
   * **Split**
     * **Bus-02**
       * **Split-all**
@@ -616,6 +819,9 @@ For installing and using this colection in Icestudio follow these steps:
       * **Split-1-8**
         * **Alhambra-II**
           * 01-manual-btns-leds
+      * **Split-8-1**
+        * **Alhambra-II**
+          * 01-manual-btns-leds
     * **Bus-10**
       * **Alhambra-II**
         * 01-manual-btns-leds
@@ -623,6 +829,9 @@ For installing and using this colection in Icestudio follow these steps:
       * **Split-3-8**
         * 01-manual-btns-leds
     * **Bus-12**
+      * **Split-1-11**
+        * **Alhambra-II**
+          * 01-manual-testing
       * **Split-4-8**
         * **Alhambra-II**
           * 01-manual-testing
@@ -631,12 +840,27 @@ For installing and using this colection in Icestudio follow these steps:
           * 01-manual-testing
     * **Bus-15**
       * **Alhambra-II**
-        * Manual-testing
+      * **Split-5-10**
+        * **Alhambra-II**
+          * Manual-testing
+      * **Split-7-8**
+        * **Alhambra-II**
+          * Manual-testing
     * **Bus-16**
+      * **Split-1-15**
+        * **Alhambra-II**
+          * Manual-testing
+      * **Split-15-1**
+        * **Alhambra-II**
+          * Manual-testing
       * **Split-half**
         * **Alhambra-II**
           * Manual-testing
       * **Split-quarter**
+        * **Alhambra-II**
+          * Manual-testing
+    * **Bus-17**
+      * **Split-1-16**
         * **Alhambra-II**
           * Manual-testing
     * **Bus-19**
@@ -644,6 +868,9 @@ For installing and using this colection in Icestudio follow these steps:
         * **Alhambra-II**
           * 01-Manual-testing
     * **Bus-20**
+      * **Split-1-19**
+        * **Alhambra-II**
+          * Manual-testing
       * **Split-12-8**
         * **Alhambra-II**
           * Manual-testing
@@ -651,6 +878,10 @@ For installing and using this colection in Icestudio follow these steps:
         * **Alhambra-II**
           * Manual-testing
       * **Split-4-8-8**
+        * **Alhambra-II**
+          * Manual-testing
+    * **Bus-22**
+      * **Split-16-6**
         * **Alhambra-II**
           * Manual-testing
     * **Bus-23**
@@ -683,7 +914,22 @@ For installing and using this colection in Icestudio follow these steps:
         * **Alhambra-II**
           * 01-Manual-testing
     * **Bus-32**
+      * **Split-1-31**
+        * **Alhambra-II**
+          * 01-Manual-testing
+      * **Split-17-15**
+        * **Alhambra-II**
+          * 01-Manual-testing
+      * **Split-22-10**
+        * **Alhambra-II**
+          * 01-Manual-testing
       * **Split-24-8**
+        * **Alhambra-II**
+          * 01-Manual-testing
+      * **Split-29-3**
+        * **Alhambra-II**
+          * 01-Manual-testing
+      * **Split-31-1**
         * **Alhambra-II**
           * 01-Manual-testing
       * **Split-8-24**
@@ -696,6 +942,16 @@ For installing and using this colection in Icestudio follow these steps:
         * **Alhambra-II**
           * 01-Manual-testing
   * **Uint**
+    * **Uint12**
+      * **Alhambra-II**
+        * 01-Manual-testing
+    * **Uint16**
+      * **08-bits**
+        * **Alhambra-II**
+          * 01-Manual-testing
+      * **09-bits**
+        * **Alhambra-II**
+          * 01-Manual-testing
     * **Uint2**
       * **01-bit**
         * **Alhambra-II**
