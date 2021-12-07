@@ -232,7 +232,7 @@ gettext('SR1-uint2: Shift  a 2-bit value one bit right. MSB is filled with 0 (no
 gettext('The MSB is 0 (no sight)');
 gettext('This bit is ignored');
 gettext('SR1');
-gettext('SR1: Shift  a 2-bit value one bit right. MSB is filled with 'in'. The LSB is written to 'out'');
+gettext('SR1: Shift  a 2-bit value one bit right. MSB is filled with in');
 gettext('Shift-Left');
 gettext('Shift-Right');
 gettext('SL1');
