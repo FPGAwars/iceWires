@@ -516,18 +516,6 @@
           }
         },
         {
-          "id": "a9e18944-1cf9-428e-b339-12685aab0501",
-          "type": "a634693e8b21f73ce80ddddbea67493eee0e163f",
-          "position": {
-            "x": 2136,
-            "y": -552
-          },
-          "size": {
-            "width": 96,
-            "height": 64
-          }
-        },
-        {
           "id": "983a6609-f35d-4b8e-924d-707b13ac048e",
           "type": "a1396ded444d071c511a0bf43a1bfd31e8e23280",
           "position": {
@@ -1248,6 +1236,18 @@
           "type": "869a33e172e75088ca90415fe8227bd400656908",
           "position": {
             "x": 2320,
+            "y": -552
+          },
+          "size": {
+            "width": 96,
+            "height": 64
+          }
+        },
+        {
+          "id": "8043dcdb-1070-4f24-8c50-bb8ff156ebdd",
+          "type": "e9badc787e612623fe7b0c693a01f45d06cbb601",
+          "position": {
+            "x": 2136,
             "y": -552
           },
           "size": {
@@ -4675,123 +4675,6 @@
                   "y": 232
                 }
               ]
-            }
-          ]
-        }
-      }
-    },
-    "a634693e8b21f73ce80ddddbea67493eee0e163f": {
-      "package": {
-        "name": "SL1-uint2",
-        "version": "0.1",
-        "description": "SL1-uint2: Shift  a 2-bit value one bit left. LSB is '0'. The sign is lost",
-        "author": "Juan González-Gómez (Obijuan)",
-        "image": "%3Csvg%20width=%22298.966%22%20height=%22164.122%22%20viewBox=%220%200%20280.28048%20153.86437%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20fill=%22green%22%20stroke=%22green%22%3E%3Cpath%20d=%22M91.176%20109.68h10.65%22%20color=%22#000%22%20stroke-width=%222.645%22%20stroke-linecap=%22round%22%20transform=%22matrix(-5.55181%200%200%205.55856%20600.373%20-570.306)%22/%3E%3Cpath%20d=%22M59.663%20108.085c-.832%200-1.507.662-1.508%201.48%200%20.818.676%201.481%201.508%201.48h41.84c.833.001%201.508-.662%201.508-1.48s-.675-1.48-1.507-1.48z%22%20color=%22#000%22%20stroke-linecap=%22round%22%20transform=%22matrix(-5.55181%200%200%205.55856%20600.373%20-570.306)%22/%3E%3Cg%20color=%22#000%22%20fill-rule=%22evenodd%22%20stroke-width=%221.428%22%3E%3Cpath%20d=%22M80.414%20192.813l-9.155%205.291v-10.583z%22%20stroke-width=%222.015%22%20transform=%22matrix(-3.91938%200%200%203.85892%20326.292%20-704.69)%22/%3E%3Cpath%20d=%22M70.553%20186.299v13.027l11.271-6.513-1.056-.612zm1.412%202.445l7.039%204.069-7.04%204.07z%22%20transform=%22matrix(-3.91938%200%200%203.85892%20326.292%20-704.69)%22/%3E%3C/g%3E%3C/g%3E%3Cg%20transform=%22translate(-217.843%20-251.299)%22%3E%3Cellipse%20cx=%22349.268%22%20cy=%22289.633%22%20rx=%2236.074%22%20ry=%2236.118%22%20fill=%22#fff%22%20stroke=%22#000%22%20stroke-width=%224.432%22%20stroke-linecap=%22round%22/%3E%3Ctext%20style=%22line-height:1.25%22%20x=%22333.57%22%20y=%22310.804%22%20transform=%22scale(.9994%201.0006)%22%20font-weight=%22400%22%20font-size=%2259.1%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%20stroke-width=%221.477%22%3E%3Ctspan%20x=%22333.57%22%20y=%22310.804%22%3E1%3C/tspan%3E%3C/text%3E%3C/g%3E%3Cg%20style=%22line-height:1.25%22%20font-weight=%22700%22%20font-size=%2245.504%22%20font-family=%22sans-serif%22%20fill=%22green%22%20stroke-width=%221.809%22%3E%3Cpath%20d=%22M27.921%2096.208h14.585v33.904q0%207.008%202.273%2010.04%202.31%202.992%207.5%202.992%205.228%200%207.501-2.993%202.31-3.03%202.31-10.039V96.208h14.585v33.904q0%2012.009-6.023%2017.88-6.023%205.872-18.373%205.872-12.311%200-18.335-5.871-6.023-5.872-6.023-17.88zM90.957%2096.208h14.585v56.558H90.957zM119.899%2096.208h16.29l20.57%2038.791V96.208h13.826v56.558h-16.29l-20.57-38.791v38.79H119.9zM178.162%2096.208h52.125v11.024h-18.751v45.534H196.95v-45.534h-18.79z%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22/%3E%3C/g%3E%3C/svg%3E",
-        "otid": 1622709944841
-      },
-      "design": {
-        "graph": {
-          "blocks": [
-            {
-              "id": "a03f9523-36f8-46b7-80d6-0a0816fddaf1",
-              "type": "basic.input",
-              "data": {
-                "name": "",
-                "range": "[1:0]",
-                "clock": false,
-                "size": 2
-              },
-              "position": {
-                "x": 248,
-                "y": 288
-              }
-            },
-            {
-              "id": "afa15be9-7693-4d2f-a665-68037fd78d9a",
-              "type": "basic.output",
-              "data": {
-                "name": "",
-                "range": "[1:0]",
-                "size": 2
-              },
-              "position": {
-                "x": 776,
-                "y": 320
-              }
-            },
-            {
-              "id": "ffcf7fbf-977b-4b90-9951-79fcdc85368b",
-              "type": "d30ca9ee4f35f6cb76d5e5701447fc2b739bc640",
-              "position": {
-                "x": 424,
-                "y": 368
-              },
-              "size": {
-                "width": 96,
-                "height": 64
-              }
-            },
-            {
-              "id": "973e828d-9a19-42c4-b2c7-fec10a1cde15",
-              "type": "basic.info",
-              "data": {
-                "info": "Sign bit is lost",
-                "readonly": true
-              },
-              "position": {
-                "x": 704,
-                "y": 264
-              },
-              "size": {
-                "width": 160,
-                "height": 40
-              }
-            },
-            {
-              "id": "2b155a3d-a30a-48e0-a8e7-0397191ffdfa",
-              "type": "03eab824729a6aaa3141d81d17ea8520a8408268",
-              "position": {
-                "x": 576,
-                "y": 304
-              },
-              "size": {
-                "width": 96,
-                "height": 64
-              }
-            }
-          ],
-          "wires": [
-            {
-              "source": {
-                "block": "a03f9523-36f8-46b7-80d6-0a0816fddaf1",
-                "port": "out"
-              },
-              "target": {
-                "block": "2b155a3d-a30a-48e0-a8e7-0397191ffdfa",
-                "port": "a03f9523-36f8-46b7-80d6-0a0816fddaf1"
-              },
-              "size": 2
-            },
-            {
-              "source": {
-                "block": "ffcf7fbf-977b-4b90-9951-79fcdc85368b",
-                "port": "3d584b0a-29eb-47af-8c43-c0822282ef05"
-              },
-              "target": {
-                "block": "2b155a3d-a30a-48e0-a8e7-0397191ffdfa",
-                "port": "79b18de5-9152-4bdb-8059-3dcf8efa92dc"
-              }
-            },
-            {
-              "source": {
-                "block": "2b155a3d-a30a-48e0-a8e7-0397191ffdfa",
-                "port": "afa15be9-7693-4d2f-a665-68037fd78d9a"
-              },
-              "target": {
-                "block": "afa15be9-7693-4d2f-a665-68037fd78d9a",
-                "port": "in"
-              },
-              "size": 2
             }
           ]
         }
@@ -9364,6 +9247,123 @@
                 "block": "66e73a65-df2a-49ce-954c-8dc65ce73449",
                 "port": "e4111201-8441-4e7d-bcd2-bcf9d265d043"
               }
+            }
+          ]
+        }
+      }
+    },
+    "e9badc787e612623fe7b0c693a01f45d06cbb601": {
+      "package": {
+        "name": "SL1-uint2",
+        "version": "0.1",
+        "description": "SL1-uint2: Shift  a 2-bit value one bit left. LSB is 0. The sign is lost",
+        "author": "Juan González-Gómez (Obijuan)",
+        "image": "%3Csvg%20width=%22298.966%22%20height=%22164.122%22%20viewBox=%220%200%20280.28048%20153.86437%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20fill=%22green%22%20stroke=%22green%22%3E%3Cpath%20d=%22M91.176%20109.68h10.65%22%20color=%22#000%22%20stroke-width=%222.645%22%20stroke-linecap=%22round%22%20transform=%22matrix(-5.55181%200%200%205.55856%20600.373%20-570.306)%22/%3E%3Cpath%20d=%22M59.663%20108.085c-.832%200-1.507.662-1.508%201.48%200%20.818.676%201.481%201.508%201.48h41.84c.833.001%201.508-.662%201.508-1.48s-.675-1.48-1.507-1.48z%22%20color=%22#000%22%20stroke-linecap=%22round%22%20transform=%22matrix(-5.55181%200%200%205.55856%20600.373%20-570.306)%22/%3E%3Cg%20color=%22#000%22%20fill-rule=%22evenodd%22%20stroke-width=%221.428%22%3E%3Cpath%20d=%22M80.414%20192.813l-9.155%205.291v-10.583z%22%20stroke-width=%222.015%22%20transform=%22matrix(-3.91938%200%200%203.85892%20326.292%20-704.69)%22/%3E%3Cpath%20d=%22M70.553%20186.299v13.027l11.271-6.513-1.056-.612zm1.412%202.445l7.039%204.069-7.04%204.07z%22%20transform=%22matrix(-3.91938%200%200%203.85892%20326.292%20-704.69)%22/%3E%3C/g%3E%3C/g%3E%3Cg%20transform=%22translate(-217.843%20-251.299)%22%3E%3Cellipse%20cx=%22349.268%22%20cy=%22289.633%22%20rx=%2236.074%22%20ry=%2236.118%22%20fill=%22#fff%22%20stroke=%22#000%22%20stroke-width=%224.432%22%20stroke-linecap=%22round%22/%3E%3Ctext%20style=%22line-height:1.25%22%20x=%22333.57%22%20y=%22310.804%22%20transform=%22scale(.9994%201.0006)%22%20font-weight=%22400%22%20font-size=%2259.1%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%20stroke-width=%221.477%22%3E%3Ctspan%20x=%22333.57%22%20y=%22310.804%22%3E1%3C/tspan%3E%3C/text%3E%3C/g%3E%3Cg%20style=%22line-height:1.25%22%20font-weight=%22700%22%20font-size=%2245.504%22%20font-family=%22sans-serif%22%20fill=%22green%22%20stroke-width=%221.809%22%3E%3Cpath%20d=%22M27.921%2096.208h14.585v33.904q0%207.008%202.273%2010.04%202.31%202.992%207.5%202.992%205.228%200%207.501-2.993%202.31-3.03%202.31-10.039V96.208h14.585v33.904q0%2012.009-6.023%2017.88-6.023%205.872-18.373%205.872-12.311%200-18.335-5.871-6.023-5.872-6.023-17.88zM90.957%2096.208h14.585v56.558H90.957zM119.899%2096.208h16.29l20.57%2038.791V96.208h13.826v56.558h-16.29l-20.57-38.791v38.79H119.9zM178.162%2096.208h52.125v11.024h-18.751v45.534H196.95v-45.534h-18.79z%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22/%3E%3C/g%3E%3C/svg%3E",
+        "otid": 1622709944841
+      },
+      "design": {
+        "graph": {
+          "blocks": [
+            {
+              "id": "a03f9523-36f8-46b7-80d6-0a0816fddaf1",
+              "type": "basic.input",
+              "data": {
+                "name": "",
+                "range": "[1:0]",
+                "clock": false,
+                "size": 2
+              },
+              "position": {
+                "x": 248,
+                "y": 288
+              }
+            },
+            {
+              "id": "afa15be9-7693-4d2f-a665-68037fd78d9a",
+              "type": "basic.output",
+              "data": {
+                "name": "",
+                "range": "[1:0]",
+                "size": 2
+              },
+              "position": {
+                "x": 776,
+                "y": 320
+              }
+            },
+            {
+              "id": "ffcf7fbf-977b-4b90-9951-79fcdc85368b",
+              "type": "d30ca9ee4f35f6cb76d5e5701447fc2b739bc640",
+              "position": {
+                "x": 424,
+                "y": 368
+              },
+              "size": {
+                "width": 96,
+                "height": 64
+              }
+            },
+            {
+              "id": "973e828d-9a19-42c4-b2c7-fec10a1cde15",
+              "type": "basic.info",
+              "data": {
+                "info": "Sign bit is lost",
+                "readonly": true
+              },
+              "position": {
+                "x": 704,
+                "y": 264
+              },
+              "size": {
+                "width": 160,
+                "height": 40
+              }
+            },
+            {
+              "id": "2b155a3d-a30a-48e0-a8e7-0397191ffdfa",
+              "type": "03eab824729a6aaa3141d81d17ea8520a8408268",
+              "position": {
+                "x": 576,
+                "y": 304
+              },
+              "size": {
+                "width": 96,
+                "height": 64
+              }
+            }
+          ],
+          "wires": [
+            {
+              "source": {
+                "block": "a03f9523-36f8-46b7-80d6-0a0816fddaf1",
+                "port": "out"
+              },
+              "target": {
+                "block": "2b155a3d-a30a-48e0-a8e7-0397191ffdfa",
+                "port": "a03f9523-36f8-46b7-80d6-0a0816fddaf1"
+              },
+              "size": 2
+            },
+            {
+              "source": {
+                "block": "ffcf7fbf-977b-4b90-9951-79fcdc85368b",
+                "port": "3d584b0a-29eb-47af-8c43-c0822282ef05"
+              },
+              "target": {
+                "block": "2b155a3d-a30a-48e0-a8e7-0397191ffdfa",
+                "port": "79b18de5-9152-4bdb-8059-3dcf8efa92dc"
+              }
+            },
+            {
+              "source": {
+                "block": "2b155a3d-a30a-48e0-a8e7-0397191ffdfa",
+                "port": "afa15be9-7693-4d2f-a665-68037fd78d9a"
+              },
+              "target": {
+                "block": "afa15be9-7693-4d2f-a665-68037fd78d9a",
+                "port": "in"
+              },
+              "size": 2
             }
           ]
         }
