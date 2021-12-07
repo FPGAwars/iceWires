@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2021-12-07 15:56+0100\n"
+"POT-Creation-Date: 2021-12-07 16:11+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -2553,7 +2553,7 @@ msgstr "01-manual-btn-leds"
 
 #: translation.js:611
 msgid "# Example: Bus-2: Connection of two buses"
-msgstr ""
+msgstr "# Ejemplo: Bus-2: Conexión de dos buses"
 
 #: translation.js:612
 msgid "2-bits input bus"
@@ -2584,19 +2584,14 @@ msgid "01-button-LEDs"
 msgstr ""
 
 #: translation.js:619
-#, fuzzy
-#| msgid ""
-#| "# Copy-3: Manual testing with one pushbutton and LEDs\n"
-#| "\n"
-#| "When the button is pressed, the LEDs are turned on"
 msgid ""
 "# Example: Turning on 8 LEDs with one button\n"
 "\n"
 "When the button SW1 is pressed, the 8 LEDs are turned on"
 msgstr ""
-"# Copy-3: Prueba manual con un botón y LEDs  \n"
+"# Ejemplo: Encendiendo 8 LEDs con un botón\n"
 "\n"
-"Cuando el botón se aprieta se encienden los dos LEDs"
+"Cuando el botón SW1  se aprieta,  se encienden los 8 LEDs"
 
 #: translation.js:620
 #, fuzzy
@@ -2616,6 +2611,9 @@ msgid ""
 "\n"
 "The Sign of a number is shown on an LED"
 msgstr ""
+"# Ejemplo: Mostrando el bit de signo en un LED\n"
+"\n"
+"El signo de un número se muestra en un LED"
 
 #: translation.js:625
 #, fuzzy
@@ -2764,7 +2762,7 @@ msgstr "Bit constante 1"
 
 #: translation.js:650
 msgid "# Example: Displaying the two buttons on the LEDs\n"
-msgstr ""
+msgstr "# Ejemplo: Mostrando los dos botones en los LEDs\n"
 
 #: translation.js:651
 msgid "System clock"
@@ -3291,19 +3289,14 @@ msgid "1-bit generic constant (0/1)"
 msgstr "Constante genérica de 1-bit  (0/1)"
 
 #: translation.js:765
-#, fuzzy
-#| msgid ""
-#| "# Copy-3: Manual testing with one pushbutton and LEDs\n"
-#| "\n"
-#| "When the button is pressed, the LEDs are turned on"
 msgid ""
 "# Copy-9: Manual testing with one pushbutton and LEDs\n"
 "\n"
 "When the button is pressed, the LEDs are turned on"
 msgstr ""
-"# Copy-3: Prueba manual con un botón y LEDs  \n"
+"# Copy-9: Prueba manual con un botón y LEDs  \n"
 "\n"
-"Cuando el botón se aprieta se encienden los dos LEDs"
+"Cuando el botón se aprieta se encienden los LEDs"
 
 #: translation.js:766
 msgid "Channel B"
@@ -4051,15 +4044,11 @@ msgid "Generic: 31-bits generic constant"
 msgstr "Generic: Constante genérica de 31-bits"
 
 #: translation.js:1104
-#, fuzzy
-#| msgid ""
-#| "# Bus3-Join-2-1: Manual testing\n"
-#| "\n"
 msgid ""
 "# Bus32-Join-31-1: Manual testing\n"
 "\n"
 msgstr ""
-"# Bus3-Join-2-1: Prueba manual\n"
+"# Bus32-Join-31-1: Prueba manual\n"
 "\n"
 
 #: translation.js:1107
@@ -4083,15 +4072,11 @@ msgid "Generic: 29-bits generic constant"
 msgstr "Generic: Constante genérica de 9-bits"
 
 #: translation.js:1113
-#, fuzzy
-#| msgid ""
-#| "# Bus5-Join-2-3: Manual testing\n"
-#| "\n"
 msgid ""
 "# Bus32-Join-29-3: Manual testing\n"
 "\n"
 msgstr ""
-"# Bus5-Join-2-3: Prueba manual\n"
+"# Bus32-Join-29-3: Prueba manual\n"
 "\n"
 
 #: translation.js:1120
