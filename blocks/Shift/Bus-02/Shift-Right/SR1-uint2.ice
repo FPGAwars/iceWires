@@ -67,7 +67,7 @@
           "id": "6acc19c6-a4f6-410d-bbe2-a1f65a2c3a7d",
           "type": "basic.info",
           "data": {
-            "info": "The MSB is '0' (no sight)",
+            "info": "The MSB is 0 (no sight)",
             "readonly": true
           },
           "position": {
