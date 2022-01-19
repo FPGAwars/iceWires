@@ -35,6 +35,7 @@ For installing and using this colection in Icestudio follow these steps:
 | Spanish |  es_ES | ![](https://progress-bar.dev/100) |
 | Basque |  eu_ES | ![](https://progress-bar.dev/0) |
 | French |  fr_FR | ![](https://progress-bar.dev/0) |
+| Galician |  gl_ES | ![](https://progress-bar.dev/0) |
 | Italian |  it_IT | ![](https://progress-bar.dev/0) |
 | Korean |  ko_KR | ![](https://progress-bar.dev/0) |
 | Netherlands |  nl_NL | ![](https://progress-bar.dev/0) |
@@ -503,7 +504,6 @@ For installing and using this colection in Icestudio follow these steps:
         * **Alhambra-II**
           * 01-manual-btns-leds
     * **Bus-15**
-      * **Alhambra-II**
       * **Join-5-10**
         * **Alhambra-II**
           * 01-manual-btns-leds
@@ -565,7 +565,6 @@ For installing and using this colection in Icestudio follow these steps:
       * **Join-4-8-8-8**
         * **Alhambra-II**
           * 01-Manual-testing
-    * **Bus-29**
     * **Bus-31**
       * **Alhambra-II**
         * 01-manual-btns-leds
@@ -839,7 +838,6 @@ For installing and using this colection in Icestudio follow these steps:
         * **Alhambra-II**
           * 01-manual-testing
     * **Bus-15**
-      * **Alhambra-II**
       * **Split-5-10**
         * **Alhambra-II**
           * Manual-testing
@@ -884,7 +882,6 @@ For installing and using this colection in Icestudio follow these steps:
       * **Split-16-6**
         * **Alhambra-II**
           * Manual-testing
-    * **Bus-23**
     * **Bus-24**
       * **Split-16-8**
         * **Alhambra-II**
