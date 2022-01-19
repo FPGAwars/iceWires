@@ -17,24 +17,7 @@
           "data": {
             "name": "1",
             "range": "[2:0]",
-            "pins": [
-              {
-                "index": "2",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "1",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "0",
-                "name": "",
-                "value": ""
-              }
-            ],
-            "virtual": false
+            "size": 3
           },
           "position": {
             "x": 624,
@@ -61,19 +44,7 @@
           "data": {
             "name": "0",
             "range": "[1:0]",
-            "pins": [
-              {
-                "index": "1",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "0",
-                "name": "",
-                "value": ""
-              }
-            ],
-            "virtual": false
+            "size": 2
           },
           "position": {
             "x": 616,
@@ -84,7 +55,7 @@
           "id": "16e78204-213e-4833-9096-89d735307ec2",
           "type": "basic.code",
           "data": {
-            "code": "assign o1 = i[2:0];\nassign o0 = i[1:0];\n",
+            "code": "assign o1 = i[4:2];\nassign o0 = i[1:0];\n",
             "params": [],
             "ports": {
               "in": [

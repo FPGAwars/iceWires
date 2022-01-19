@@ -108,8 +108,8 @@
           }
         },
         {
-          "id": "a68bb848-0473-4a63-ba86-90e71f39f7f5",
-          "type": "5ad54f549693d173dde1968ead9ac725df80b5e4",
+          "id": "d9a7352b-472e-46eb-a8a4-ae97dfd626a3",
+          "type": "b05d3eb438dbe00e81fe40aea6da9af4795c47f8",
           "position": {
             "x": 952,
             "y": -120
@@ -137,14 +137,14 @@
             "port": "a7d148e6-3b95-44f3-b6d9-949c71147bbc"
           },
           "target": {
-            "block": "a68bb848-0473-4a63-ba86-90e71f39f7f5",
+            "block": "d9a7352b-472e-46eb-a8a4-ae97dfd626a3",
             "port": "84c41a4d-c406-4f4a-9b7c-c538e98f7f2d"
           },
           "size": 5
         },
         {
           "source": {
-            "block": "a68bb848-0473-4a63-ba86-90e71f39f7f5",
+            "block": "d9a7352b-472e-46eb-a8a4-ae97dfd626a3",
             "port": "0aedbc95-a02c-453a-829c-9c5db6b42c84"
           },
           "target": {
@@ -155,7 +155,7 @@
         },
         {
           "source": {
-            "block": "a68bb848-0473-4a63-ba86-90e71f39f7f5",
+            "block": "d9a7352b-472e-46eb-a8a4-ae97dfd626a3",
             "port": "a59d72b2-a2a9-4a15-ae1f-5b5cd6d09241"
           },
           "target": {
@@ -262,7 +262,7 @@
         }
       }
     },
-    "5ad54f549693d173dde1968ead9ac725df80b5e4": {
+    "b05d3eb438dbe00e81fe40aea6da9af4795c47f8": {
       "package": {
         "name": "Bus5-Split-3-2",
         "version": "0.1",
@@ -279,24 +279,7 @@
               "data": {
                 "name": "1",
                 "range": "[2:0]",
-                "pins": [
-                  {
-                    "index": "2",
-                    "name": "",
-                    "value": ""
-                  },
-                  {
-                    "index": "1",
-                    "name": "",
-                    "value": ""
-                  },
-                  {
-                    "index": "0",
-                    "name": "",
-                    "value": ""
-                  }
-                ],
-                "virtual": false
+                "size": 3
               },
               "position": {
                 "x": 624,
@@ -323,19 +306,7 @@
               "data": {
                 "name": "0",
                 "range": "[1:0]",
-                "pins": [
-                  {
-                    "index": "1",
-                    "name": "",
-                    "value": ""
-                  },
-                  {
-                    "index": "0",
-                    "name": "",
-                    "value": ""
-                  }
-                ],
-                "virtual": false
+                "size": 2
               },
               "position": {
                 "x": 616,
@@ -346,7 +317,7 @@
               "id": "16e78204-213e-4833-9096-89d735307ec2",
               "type": "basic.code",
               "data": {
-                "code": "assign o1 = i[2:0];\nassign o0 = i[1:0];\n",
+                "code": "assign o1 = i[4:2];\nassign o0 = i[1:0];\n",
                 "params": [],
                 "ports": {
                   "in": [
