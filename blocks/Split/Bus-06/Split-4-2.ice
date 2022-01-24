@@ -57,7 +57,7 @@
           "id": "16e78204-213e-4833-9096-89d735307ec2",
           "type": "basic.code",
           "data": {
-            "code": "assign o1 = i[5:4];\nassign o0 = i[3:0];",
+            "code": "assign o1 = i[5:2];\nassign o0 = i[1:0];",
             "params": [],
             "ports": {
               "in": [
