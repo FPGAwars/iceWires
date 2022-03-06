@@ -32,7 +32,7 @@ For installing and using this colection in Icestudio follow these steps:
 | CZech |  cs_CZ | ![](https://progress-bar.dev/0) |
 | German |  de_DE | ![](https://progress-bar.dev/0) |
 | Greek |  el_GR | ![](https://progress-bar.dev/0) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/100) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/99) |
 | Basque |  eu_ES | ![](https://progress-bar.dev/0) |
 | French |  fr_FR | ![](https://progress-bar.dev/0) |
 | Galician |  gl_ES | ![](https://progress-bar.dev/0) |
@@ -53,6 +53,7 @@ For installing and using this colection in Icestudio follow these steps:
   * Copy-07
   * Copy-08
   * Copy-09
+  * Copy-12
   * **Verilog**
     * Copy-02-verilog
 * **Join**
@@ -375,6 +376,9 @@ For installing and using this colection in Icestudio follow these steps:
       * **Alhambra-II**
         * 01-manual-btn-leds
     * **Copy-09**
+      * **Alhambra-II**
+        * 01-manual-btn-leds
+    * **Copy-12**
       * **Alhambra-II**
         * 01-manual-btn-leds
     * **Copy-7**
