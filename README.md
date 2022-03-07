@@ -32,7 +32,7 @@ For installing and using this colection in Icestudio follow these steps:
 | CZech |  cs_CZ | ![](https://progress-bar.dev/0) |
 | German |  de_DE | ![](https://progress-bar.dev/0) |
 | Greek |  el_GR | ![](https://progress-bar.dev/0) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/99) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/98) |
 | Basque |  eu_ES | ![](https://progress-bar.dev/0) |
 | French |  fr_FR | ![](https://progress-bar.dev/0) |
 | Galician |  gl_ES | ![](https://progress-bar.dev/0) |
@@ -108,6 +108,7 @@ For installing and using this colection in Icestudio follow these steps:
   * **Bus-12**
     * Join-1-11
     * Join-4-8
+    * Join-one-fourth
     * Join-one-third
   * **Bus-15**
     * Join-5-10
@@ -503,6 +504,9 @@ For installing and using this colection in Icestudio follow these steps:
         * **Alhambra-II**
           * 01-manual-btns-leds
       * **Join-4-8**
+        * **Alhambra-II**
+          * 01-manual-btns-leds
+      * **Join-one-fourth**
         * **Alhambra-II**
           * 01-manual-btns-leds
       * **Join-one-third**
