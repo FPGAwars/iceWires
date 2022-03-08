@@ -32,7 +32,7 @@ For installing and using this colection in Icestudio follow these steps:
 | CZech |  cs_CZ | ![](https://progress-bar.dev/0) |
 | German |  de_DE | ![](https://progress-bar.dev/0) |
 | Greek |  el_GR | ![](https://progress-bar.dev/0) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/96) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/95) |
 | Basque |  eu_ES | ![](https://progress-bar.dev/0) |
 | French |  fr_FR | ![](https://progress-bar.dev/0) |
 | Galician |  gl_ES | ![](https://progress-bar.dev/0) |
@@ -299,6 +299,8 @@ For installing and using this colection in Icestudio follow these steps:
     * Split-8-24
     * Split-half
     * Split-quarter
+  * **Bus-64**
+    * Split-half
 * **Uint**
   * **Uint12**
     * Uint12-08-bits
@@ -957,6 +959,10 @@ For installing and using this colection in Icestudio follow these steps:
         * **Alhambra-II**
           * 01-Manual-testing
       * **Split-quarter**
+        * **Alhambra-II**
+          * 01-Manual-testing
+    * **Bus-64**
+      * **Split-half**
         * **Alhambra-II**
           * 01-Manual-testing
   * **Uint**
