@@ -32,7 +32,7 @@ For installing and using this colection in Icestudio follow these steps:
 | CZech |  cs_CZ | ![](https://progress-bar.dev/0) |
 | German |  de_DE | ![](https://progress-bar.dev/0) |
 | Greek |  el_GR | ![](https://progress-bar.dev/0) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/97) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/96) |
 | Basque |  eu_ES | ![](https://progress-bar.dev/0) |
 | French |  fr_FR | ![](https://progress-bar.dev/0) |
 | Galician |  gl_ES | ![](https://progress-bar.dev/0) |
@@ -245,6 +245,7 @@ For installing and using this colection in Icestudio follow these steps:
     * Split-7-1
     * Split-all
     * Split-half
+    * Split-quarter
   * **Bus-09**
     * Split-1-8
   * **Bus-10**
@@ -829,6 +830,9 @@ For installing and using this colection in Icestudio follow these steps:
         * **Alhambra-II**
           * 01-manual-constant-leds
       * **Split-half**
+        * **Alhambra-II**
+          * 01-manual-constant-leds
+      * **Split-quarter**
         * **Alhambra-II**
           * 01-manual-constant-leds
     * **Bus-09**
