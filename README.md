@@ -151,6 +151,8 @@ For installing and using this colection in Icestudio follow these steps:
     * Join-8-24
     * Join-half
     * Join-quarter
+  * **Bus-64**
+    * Join-half
 * **Reversal**
   * Reversal-02
   * Reversal-03
