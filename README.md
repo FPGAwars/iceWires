@@ -32,7 +32,7 @@ For installing and using this colection in Icestudio follow these steps:
 | CZech |  cs_CZ | ![](https://progress-bar.dev/0) |
 | German |  de_DE | ![](https://progress-bar.dev/0) |
 | Greek |  el_GR | ![](https://progress-bar.dev/0) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/95) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/94) |
 | Basque |  eu_ES | ![](https://progress-bar.dev/0) |
 | French |  fr_FR | ![](https://progress-bar.dev/0) |
 | Galician |  gl_ES | ![](https://progress-bar.dev/0) |
@@ -177,6 +177,7 @@ For installing and using this colection in Icestudio follow these steps:
     * **Shift-left**
       * SL1
     * **Shift-right**
+      * SR1-uint4
       * SR1
   * **Bus-08**
     * **Shift-left**
@@ -666,6 +667,9 @@ For installing and using this colection in Icestudio follow these steps:
             * 01-Manual-testing
       * **Shift-right**
         * **SR1**
+        * **SR1-uint4**
+          * **Alhambra-II**
+            * 01-Manual-testing
           * **Alhambra-II**
             * 01-Manual-testing
     * **Bus-08**
