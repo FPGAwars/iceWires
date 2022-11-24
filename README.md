@@ -313,6 +313,8 @@ For installing and using this colection in Icestudio follow these steps:
     * Uint16-12-bits
   * **Uint2**
     * Uint2-01-bit
+  * **Uint32**
+    * Uint32-16-bits
   * **Uint4**
     * Uint4-01-bit
     * Uint4-02-bit
@@ -987,6 +989,10 @@ For installing and using this colection in Icestudio follow these steps:
           * 01-Manual-testing
     * **Uint2**
       * **01-bit**
+        * **Alhambra-II**
+          * 01-Manual-testing
+    * **Uint32**
+      * **16-bits**
         * **Alhambra-II**
           * 01-Manual-testing
     * **Uint4**
