@@ -147,6 +147,7 @@ For installing and using this colection in Icestudio follow these steps:
     * Join-17-15
     * Join-29-3
     * Join-3-29
+    * Join-30-2
     * Join-31-1
     * Join-8-24
     * Join-half
@@ -602,6 +603,9 @@ For installing and using this colection in Icestudio follow these steps:
         * **Alhambra-II**
           * 01-Manual-testing
       * **Join-29-3**
+        * **Alhambra-II**
+          * 01-Manual-testing
+      * **Join-30-2**
         * **Alhambra-II**
           * 01-Manual-testing
       * **Join-31-1**
