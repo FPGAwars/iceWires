@@ -32,7 +32,7 @@ For installing and using this colection in Icestudio follow these steps:
 | CZech |  cs_CZ | ![](https://progress-bar.dev/0) |
 | German |  de_DE | ![](https://progress-bar.dev/0) |
 | Greek |  el_GR | ![](https://progress-bar.dev/0) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/92) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/91) |
 | Basque |  eu_ES | ![](https://progress-bar.dev/0) |
 | French |  fr_FR | ![](https://progress-bar.dev/0) |
 | Galician |  gl_ES | ![](https://progress-bar.dev/0) |
@@ -151,6 +151,7 @@ For installing and using this colection in Icestudio follow these steps:
     * Join-3-29
     * Join-30-2
     * Join-31-1
+    * Join-4-28
     * Join-8-24
     * Join-half
     * Join-quarter
@@ -319,6 +320,8 @@ For installing and using this colection in Icestudio follow these steps:
   * **Uint32**
     * Uint32-16-bits
     * Uint32-2-bits
+    * Uint32-24-bits
+    * Uint32-28-bits
     * Uint32-8-bits
   * **Uint4**
     * Uint4-01-bit
