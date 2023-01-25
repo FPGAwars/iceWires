@@ -325,6 +325,7 @@ For installing and using this colection in Icestudio follow these steps:
     * Uint32-20-bits
     * Uint32-24-bits
     * Uint32-28-bits
+    * Uint32-29-bits
     * Uint32-30-bits
     * Uint32-31-bits
     * Uint32-8-bits
