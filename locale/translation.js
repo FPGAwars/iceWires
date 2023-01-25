@@ -505,6 +505,8 @@ gettext('Uint32-24-bits');
 gettext('UINT32-24bits:  Extend a 24-bits unsigned integer to 32-bits ');
 gettext('Uint32-28-bits');
 gettext('UINT32-28bits:  Extend a 28-bits unsigned integer to 32-bits ');
+gettext('Uint32-31-bits');
+gettext('UINT32-31bits:  Extend a 31-bits unsigned integer to 32-bits ');
 gettext('Uint32-8-bits');
 gettext('UINT32-8bits:  Extend a 8-bits unsigned integer to 32-bits ');
 gettext('Uint4-01-bit');
