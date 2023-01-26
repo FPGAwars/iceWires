@@ -194,6 +194,8 @@ gettext('Join-05-27');
 gettext('Bus32-Join-5-27: Join the two buses into an 32-bits Bus');
 gettext('Join-06-26');
 gettext('Bus32-Join-6-26: Join the two buses into an 32-bits Bus');
+gettext('Join-07-25');
+gettext('Bus32-Join-7-25: Join the two buses into an 32-bits Bus');
 gettext('Join-1-31');
 gettext('Bus32-Join-1-31: Join the two buses into an 32-bits Bus');
 gettext('Join-12-20');
