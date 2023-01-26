@@ -145,6 +145,7 @@ For installing and using this colection in Icestudio follow these steps:
   * **Bus-31**
     * Join-7-8-8-8
   * **Bus-32**
+    * Join-05-27
     * Join-1-31
     * Join-12-20
     * Join-17-15
@@ -324,6 +325,7 @@ For installing and using this colection in Icestudio follow these steps:
     * Uint32-2-bits
     * Uint32-20-bits
     * Uint32-24-bits
+    * Uint32-27-bits
     * Uint32-28-bits
     * Uint32-29-bits
     * Uint32-30-bits
