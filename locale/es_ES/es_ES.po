@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-27 20:38+0000\n"
+"POT-Creation-Date: 2023-01-27 20:58+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -731,131 +731,134 @@ msgstr "Bus31-join-7-8-8-8: Unir cuatro buses en un bus de 31 bits"
 
 #: translation.js:193
 #, fuzzy
-msgid "Join-05-27"
-msgstr "Join-5-2"
-
-#: translation.js:194
-#, fuzzy
-msgid "Bus32-Join-5-27: Join the two buses into an 32-bits Bus"
-msgstr "Bus32-join-3-29: Unir dos buses en un bus de 32 bits"
-
-#: translation.js:195
-#, fuzzy
-msgid "Join-06-26"
-msgstr "Join-6-2"
-
-#: translation.js:196
-#, fuzzy
-msgid "Bus32-Join-6-26: Join the two buses into an 32-bits Bus"
-msgstr "Bus32-join-3-29: Unir dos buses en un bus de 32 bits"
-
-#: translation.js:197
-#, fuzzy
-msgid "Join-07-25"
-msgstr "Join-3-2"
-
-#: translation.js:198
-#, fuzzy
-msgid "Bus32-Join-7-25: Join the two buses into an 32-bits Bus"
-msgstr "Bus32-join-17-15: Unir dos buses en un bus de 32 bits"
-
-#: translation.js:199
-#, fuzzy
-msgid "Join-09-23"
-msgstr "Join-29-3"
-
-#: translation.js:200
-#, fuzzy
-msgid "Bus32-Join-9-23: Join the two buses into an 32-bits Bus"
-msgstr "Bus32-join-29-3: Unir dos buses en un bus de 32 bits"
-
-#: translation.js:201 translation.js:1113
-msgid "Join-1-31"
+msgid "Join-01-31"
 msgstr "Join-1-31"
 
-#: translation.js:202
+#: translation.js:194
 msgid "Bus32-Join-1-31: Join the two buses into an 32-bits Bus"
 msgstr "Bus32-join-1-31: Unir dos buses en un bus de 32 bits"
 
-#: translation.js:203
+#: translation.js:195
 #, fuzzy
-msgid "Join-12-20"
-msgstr "Join-1-2"
-
-#: translation.js:204
-#, fuzzy
-msgid "Bus32-Join-12-20: Join the two buses into an 32-bits Bus"
-msgstr "Bus32-join-10-22: Unir dos buses en un bus de 32 bits"
-
-#: translation.js:205 translation.js:1114
-msgid "Join-17-15"
-msgstr "Join-17-15"
-
-#: translation.js:206
-msgid "Bus32-Join-17-15: Join the two buses into an 32-bits Bus"
-msgstr "Bus32-join-17-15: Unir dos buses en un bus de 32 bits"
-
-#: translation.js:207
-#, fuzzy
-msgid "Join-2-30"
+msgid "Join-02-30"
 msgstr "Join-2-3"
 
-#: translation.js:208
+#: translation.js:196
 #, fuzzy
 msgid "Bus32-Join-2-30: Join the two buses into an 32-bits Bus"
 msgstr "Bus32-join-29-3: Unir dos buses en un bus de 32 bits"
 
-#: translation.js:209 translation.js:1115
-msgid "Join-29-3"
-msgstr "Join-29-3"
-
-#: translation.js:210
-msgid "Bus32-Join-29-3: Join the two buses into an 32-bits Bus"
-msgstr "Bus32-join-29-3: Unir dos buses en un bus de 32 bits"
-
-#: translation.js:211
-msgid "Join-3-29"
+#: translation.js:197
+#, fuzzy
+msgid "Join-03-29"
 msgstr "Join-3-29"
 
-#: translation.js:212
+#: translation.js:198
 msgid "Bus32-Join-3-29: Join the two buses into an 32-bits Bus"
 msgstr "Bus32-join-3-29: Unir dos buses en un bus de 32 bits"
 
-#: translation.js:213 translation.js:1116
+#: translation.js:199
 #, fuzzy
-msgid "Join-30-2"
-msgstr "Join-3-2"
-
-#: translation.js:214
-#, fuzzy
-msgid "Bus32-Join-30-2: Join the two buses into an 32-bits Bus"
-msgstr "Bus32-join-3-29: Unir dos buses en un bus de 32 bits"
-
-#: translation.js:215 translation.js:1117
-msgid "Join-31-1"
-msgstr "Join-31-1"
-
-#: translation.js:216
-msgid "Bus32-Join-31-1: Join the two buses into an 32-bits Bus"
-msgstr "Bus32-join-31-1: Unir dos buses en un bus de 32 bits"
-
-#: translation.js:217
-#, fuzzy
-msgid "Join-4-28"
+msgid "Join-04-28"
 msgstr "Join-4-2"
 
-#: translation.js:218
+#: translation.js:200
 #, fuzzy
 msgid "Bus32-Join-4-28: Join the two buses into an 32-bits Bus"
 msgstr "Bus32-join-3-29: Unir dos buses en un bus de 32 bits"
 
-#: translation.js:219 translation.js:1118
-msgid "Join-8-24"
+#: translation.js:201
+#, fuzzy
+msgid "Join-05-27"
+msgstr "Join-5-2"
+
+#: translation.js:202
+#, fuzzy
+msgid "Bus32-Join-5-27: Join the two buses into an 32-bits Bus"
+msgstr "Bus32-join-3-29: Unir dos buses en un bus de 32 bits"
+
+#: translation.js:203
+#, fuzzy
+msgid "Join-06-26"
+msgstr "Join-6-2"
+
+#: translation.js:204
+#, fuzzy
+msgid "Bus32-Join-6-26: Join the two buses into an 32-bits Bus"
+msgstr "Bus32-join-3-29: Unir dos buses en un bus de 32 bits"
+
+#: translation.js:205
+#, fuzzy
+msgid "Join-07-25"
+msgstr "Join-3-2"
+
+#: translation.js:206
+#, fuzzy
+msgid "Bus32-Join-7-25: Join the two buses into an 32-bits Bus"
+msgstr "Bus32-join-17-15: Unir dos buses en un bus de 32 bits"
+
+#: translation.js:207
+#, fuzzy
+msgid "Join-08-24"
 msgstr "Join-8-24"
 
-#: translation.js:220
+#: translation.js:208
 msgid "Bus32-Join-8-24: Join the two buses into an 32-bits Bus"
 msgstr "Bus32-join-8-24: Unir dos buses en un bus de 32 bits"
+
+#: translation.js:209
+#, fuzzy
+msgid "Join-09-23"
+msgstr "Join-29-3"
+
+#: translation.js:210
+#, fuzzy
+msgid "Bus32-Join-9-23: Join the two buses into an 32-bits Bus"
+msgstr "Bus32-join-29-3: Unir dos buses en un bus de 32 bits"
+
+#: translation.js:211
+#, fuzzy
+msgid "Join-12-20"
+msgstr "Join-1-2"
+
+#: translation.js:212
+#, fuzzy
+msgid "Bus32-Join-12-20: Join the two buses into an 32-bits Bus"
+msgstr "Bus32-join-10-22: Unir dos buses en un bus de 32 bits"
+
+#: translation.js:213 translation.js:1114
+msgid "Join-17-15"
+msgstr "Join-17-15"
+
+#: translation.js:214
+msgid "Bus32-Join-17-15: Join the two buses into an 32-bits Bus"
+msgstr "Bus32-join-17-15: Unir dos buses en un bus de 32 bits"
+
+#: translation.js:215 translation.js:1115
+msgid "Join-29-3"
+msgstr "Join-29-3"
+
+#: translation.js:216
+msgid "Bus32-Join-29-3: Join the two buses into an 32-bits Bus"
+msgstr "Bus32-join-29-3: Unir dos buses en un bus de 32 bits"
+
+#: translation.js:217 translation.js:1116
+#, fuzzy
+msgid "Join-30-2"
+msgstr "Join-3-2"
+
+#: translation.js:218
+#, fuzzy
+msgid "Bus32-Join-30-2: Join the two buses into an 32-bits Bus"
+msgstr "Bus32-join-3-29: Unir dos buses en un bus de 32 bits"
+
+#: translation.js:219 translation.js:1117
+msgid "Join-31-1"
+msgstr "Join-31-1"
+
+#: translation.js:220
+msgid "Bus32-Join-31-1: Join the two buses into an 32-bits Bus"
+msgstr "Bus32-join-31-1: Unir dos buses en un bus de 32 bits"
 
 #: translation.js:222
 msgid "Bus32-Join-half: Join the two buses into an 32-bits Bus"
@@ -4222,6 +4225,14 @@ msgid ""
 msgstr ""
 "# Bus31-Join-7-8-8-8: Prueba manual\n"
 "\n"
+
+#: translation.js:1113
+msgid "Join-1-31"
+msgstr "Join-1-31"
+
+#: translation.js:1118
+msgid "Join-8-24"
+msgstr "Join-8-24"
 
 #: translation.js:1123
 msgid "Generic: 31-bits generic constant"
