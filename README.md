@@ -32,7 +32,7 @@ For installing and using this colection in Icestudio follow these steps:
 | CZech |  cs_CZ | ![](https://progress-bar.dev/0) |
 | German |  de_DE | ![](https://progress-bar.dev/0) |
 | Greek |  el_GR | ![](https://progress-bar.dev/0) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/85) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/84) |
 | Basque |  eu_ES | ![](https://progress-bar.dev/0) |
 | French |  fr_FR | ![](https://progress-bar.dev/0) |
 | Galician |  gl_ES | ![](https://progress-bar.dev/0) |
@@ -120,6 +120,7 @@ For installing and using this colection in Icestudio follow these steps:
     * Join-03-13
     * Join-04-12
     * Join-05-11
+    * Join-06-10
     * Join-07-9
     * Join-14-02
     * Join-15-01
