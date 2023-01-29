@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-29 10:17+0000\n"
+"POT-Creation-Date: 2023-01-29 10:29+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -582,8 +582,9 @@ msgstr "Join-7-8"
 msgid "Bus15-Join-7-8: Join the two buses into a 15-bits Bus"
 msgstr "Bus15-join-7-8: Unir dos buses en un bus de 15 bits"
 
-#: translation.js:153 translation.js:1044
-msgid "Join-1-15"
+#: translation.js:153
+#, fuzzy
+msgid "Join-01-15"
 msgstr "Join-1-15"
 
 #: translation.js:154
@@ -592,47 +593,49 @@ msgstr "Bus6-join-1-15: Unir dos buses en un bus de 16 bits"
 
 #: translation.js:155
 #, fuzzy
-msgid "Join-14-2"
-msgstr "Join-1-2"
-
-#: translation.js:156
-#, fuzzy
-msgid "Bus16-Join-14-2: Join the two buses into a 16-bits Bus"
-msgstr "Bus6-join-4-2: Unir dos buses en un bus de 6 bits"
-
-#: translation.js:157 translation.js:1045
-msgid "Join-15-1"
-msgstr "Join-15-1"
-
-#: translation.js:158
-msgid "Bus16-Join-15-1: Join the two buses into a 16-bits Bus"
-msgstr "Bus6-join-15-1: Unir dos buses en un bus de 16 bits"
-
-#: translation.js:159
-#, fuzzy
-msgid "Join-2-14"
+msgid "Join-02-14"
 msgstr "Join-2-1"
 
-#: translation.js:160
+#: translation.js:156
 #, fuzzy
 msgid "Bus16-Join-2-14: Join the two buses into a 16-bits Bus"
 msgstr "Bus6-join-1-15: Unir dos buses en un bus de 16 bits"
 
-#: translation.js:161 translation.js:1046
-msgid "Join-4-12"
+#: translation.js:157
+#, fuzzy
+msgid "Join-04-12"
 msgstr "Join-4-12"
 
-#: translation.js:162
+#: translation.js:158
 msgid "Bus16-Join-4-12: Join the two same halves into an 16-bits Bus"
 msgstr "Bus16-Join-4-12: Unir los dos partes iguales en un bus de 16 bits"
 
-#: translation.js:163 translation.js:1047
-msgid "Join-7-9"
+#: translation.js:159
+#, fuzzy
+msgid "Join-07-9"
 msgstr "Join-7-9"
 
-#: translation.js:164
+#: translation.js:160
 msgid "Bus16-Join-7-9: Join the two same halves into an 16-bits Bus"
 msgstr "Bus16-Join-7-9: Unir los dos partes iguales en un bus de 16 bits"
+
+#: translation.js:161
+#, fuzzy
+msgid "Join-14-2"
+msgstr "Join-1-2"
+
+#: translation.js:162
+#, fuzzy
+msgid "Bus16-Join-14-2: Join the two buses into a 16-bits Bus"
+msgstr "Bus6-join-4-2: Unir dos buses en un bus de 6 bits"
+
+#: translation.js:163 translation.js:1045
+msgid "Join-15-1"
+msgstr "Join-15-1"
+
+#: translation.js:164
+msgid "Bus16-Join-15-1: Join the two buses into a 16-bits Bus"
+msgstr "Bus6-join-15-1: Unir dos buses en un bus de 16 bits"
 
 #: translation.js:166
 msgid "Bus16-Join-half: Join the two same halves into an 16-bits Bus"
@@ -4073,6 +4076,18 @@ msgid ""
 msgstr ""
 "# Bus15-Join-7-8: Prueba manual\n"
 "\n"
+
+#: translation.js:1044
+msgid "Join-1-15"
+msgstr "Join-1-15"
+
+#: translation.js:1046
+msgid "Join-4-12"
+msgstr "Join-4-12"
+
+#: translation.js:1047
+msgid "Join-7-9"
+msgstr "Join-7-9"
 
 #: translation.js:1052
 msgid ""

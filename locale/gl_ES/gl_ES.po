@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Icestudio 0.3.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-29 10:17+0000\n"
+"POT-Creation-Date: 2023-01-29 10:29+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Xoan Sampaiño <xoansampainho@gmail.com>, Diego Vazquez "
 "<contacto@diegovazquez.me>\n"
@@ -572,8 +572,8 @@ msgstr ""
 msgid "Bus15-Join-7-8: Join the two buses into a 15-bits Bus"
 msgstr ""
 
-#: translation.js:153 translation.js:1044
-msgid "Join-1-15"
+#: translation.js:153
+msgid "Join-01-15"
 msgstr ""
 
 #: translation.js:154
@@ -581,43 +581,43 @@ msgid "Bus16-Join-1-15: Join the two buses into a 16-bits Bus"
 msgstr ""
 
 #: translation.js:155
-msgid "Join-14-2"
+msgid "Join-02-14"
 msgstr ""
 
 #: translation.js:156
-msgid "Bus16-Join-14-2: Join the two buses into a 16-bits Bus"
-msgstr ""
-
-#: translation.js:157 translation.js:1045
-msgid "Join-15-1"
-msgstr ""
-
-#: translation.js:158
-msgid "Bus16-Join-15-1: Join the two buses into a 16-bits Bus"
-msgstr ""
-
-#: translation.js:159
-msgid "Join-2-14"
-msgstr ""
-
-#: translation.js:160
 msgid "Bus16-Join-2-14: Join the two buses into a 16-bits Bus"
 msgstr ""
 
-#: translation.js:161 translation.js:1046
-msgid "Join-4-12"
+#: translation.js:157
+msgid "Join-04-12"
 msgstr ""
 
-#: translation.js:162
+#: translation.js:158
 msgid "Bus16-Join-4-12: Join the two same halves into an 16-bits Bus"
 msgstr ""
 
-#: translation.js:163 translation.js:1047
-msgid "Join-7-9"
+#: translation.js:159
+msgid "Join-07-9"
+msgstr ""
+
+#: translation.js:160
+msgid "Bus16-Join-7-9: Join the two same halves into an 16-bits Bus"
+msgstr ""
+
+#: translation.js:161
+msgid "Join-14-2"
+msgstr ""
+
+#: translation.js:162
+msgid "Bus16-Join-14-2: Join the two buses into a 16-bits Bus"
+msgstr ""
+
+#: translation.js:163 translation.js:1045
+msgid "Join-15-1"
 msgstr ""
 
 #: translation.js:164
-msgid "Bus16-Join-7-9: Join the two same halves into an 16-bits Bus"
+msgid "Bus16-Join-15-1: Join the two buses into a 16-bits Bus"
 msgstr ""
 
 #: translation.js:166
@@ -3601,6 +3601,18 @@ msgstr ""
 msgid ""
 "# Bus15-Join-7-8: Manual testing\n"
 "\n"
+msgstr ""
+
+#: translation.js:1044
+msgid "Join-1-15"
+msgstr ""
+
+#: translation.js:1046
+msgid "Join-4-12"
+msgstr ""
+
+#: translation.js:1047
+msgid "Join-7-9"
 msgstr ""
 
 #: translation.js:1052

@@ -115,12 +115,12 @@ For installing and using this colection in Icestudio follow these steps:
     * Join-5-10
     * Join-7-8
   * **Bus-16**
-    * Join-1-15
+    * Join-01-15
+    * Join-02-14
+    * Join-04-12
+    * Join-07-9
     * Join-14-2
     * Join-15-1
-    * Join-2-14
-    * Join-4-12
-    * Join-7-9
     * Join-half
     * Join-quarter
   * **Bus-19**
