@@ -509,6 +509,8 @@ gettext('7bits constant value: 0');
 gettext('Generic: 7-bits generic constant (0-127)');
 gettext('Uint16-12-bits');
 gettext('UINT16-12bits:  Extend a 12-bits unsigned integer to 16-bits ');
+gettext('Uint16-15-bits');
+gettext('UINT16-15bits:  Extend a 12-bits unsigned integer to 16-bits ');
 gettext('Uint2-01-bit');
 gettext('UINT2-1bit:  Extend a 1-bit unsigned integer to 2-bits ');
 gettext('Uint32-16-bits');
