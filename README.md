@@ -117,6 +117,7 @@ For installing and using this colection in Icestudio follow these steps:
   * **Bus-16**
     * Join-01-15
     * Join-02-14
+    * Join-03-13
     * Join-04-12
     * Join-07-9
     * Join-14-02
