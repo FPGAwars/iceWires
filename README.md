@@ -329,6 +329,7 @@ For installing and using this colection in Icestudio follow these steps:
   * **Uint16**
     * Uint16-08-bits
     * Uint16-09-bits
+    * Uint16-11-bits
     * Uint16-12-bits
     * Uint16-13-bits
     * Uint16-14-bits
