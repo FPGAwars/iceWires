@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-29 10:45+0000\n"
+"POT-Creation-Date: 2023-01-29 10:46+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -621,7 +621,7 @@ msgstr "Bus16-Join-7-9: Unir los dos partes iguales en un bus de 16 bits"
 
 #: translation.js:161
 #, fuzzy
-msgid "Join-14-2"
+msgid "Join-14-02"
 msgstr "Join-1-2"
 
 #: translation.js:162
@@ -629,8 +629,9 @@ msgstr "Join-1-2"
 msgid "Bus16-Join-14-2: Join the two buses into a 16-bits Bus"
 msgstr "Bus6-join-4-2: Unir dos buses en un bus de 6 bits"
 
-#: translation.js:163 translation.js:1051
-msgid "Join-15-1"
+#: translation.js:163
+#, fuzzy
+msgid "Join-15-01"
 msgstr "Join-15-1"
 
 #: translation.js:164
@@ -4110,6 +4111,10 @@ msgstr ""
 #: translation.js:1050
 msgid "Join-1-15"
 msgstr "Join-1-15"
+
+#: translation.js:1051
+msgid "Join-15-1"
+msgstr "Join-15-1"
 
 #: translation.js:1052
 msgid "Join-4-12"
