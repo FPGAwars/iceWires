@@ -160,6 +160,8 @@ gettext('Join-04-12');
 gettext('Bus16-Join-4-12: Join the two same halves into an 16-bits Bus');
 gettext('Join-05-11');
 gettext('Bus16-Join-5-11: Join the two same halves into an 16-bits Bus');
+gettext('Join-06-10');
+gettext('Bus16-Join-6-10: Join the two same halves into an 16-bits Bus');
 gettext('Join-07-9');
 gettext('Bus16-Join-7-9: Join the two same halves into an 16-bits Bus');
 gettext('Join-14-02');
