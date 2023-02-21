@@ -838,6 +838,7 @@ gettext('01-manual-btn-leds');
 gettext('# Copy-2: Manual testing with one pushbutton and two LEDs\n\nWhen the button is pressed, the Two LEDs are turned on');
 gettext('Alhambra-II');
 gettext('01-manual-btn-leds');
+gettext('Copy-3: Copy the input wire twice and generate a 3 bits Bus output (Verilog implementation)');
 gettext('# Copy-3: Manual testing with one pushbutton and LEDs\n\nWhen the button is pressed, the LEDs are turned on');
 gettext('Alhambra-II');
 gettext('01-manual-btn-leds');
