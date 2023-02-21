@@ -22,6 +22,8 @@ gettext('Copy-03');
 gettext('Copy-3: Copy the input wire twice and generate a 3 bits Bus output (Verilog implementation)');
 gettext('Copy-04');
 gettext('Copy-4: Copy the input wire twice and generate a 4 bits Bus output (Verilog implementation)');
+gettext('Copy-05');
+gettext('Copy-5: Copy the input wire twice and generate a 5 bits Bus output (Verilog implementation)');
 gettext('Copy-02');
 gettext('Copy-2: Copy the input wire twice and generate a 2 bits Bus output');
 gettext('Bus2-Join-all: Joint two wires into a 2-bits Bus');
