@@ -46,16 +46,16 @@ For installing and using this colection in Icestudio follow these steps:
 ## Blocks
 * **Copy**
   * Copy-02
-  * Copy-03
-  * Copy-04
-  * Copy-05
-  * Copy-06
-  * Copy-07
-  * Copy-08
-  * Copy-09
-  * Copy-12
-  * **Verilog**
-    * Copy-02-verilog
+  * **Blocks**
+    * Copy-02
+    * Copy-03
+    * Copy-04
+    * Copy-05
+    * Copy-06
+    * Copy-07
+    * Copy-08
+    * Copy-09
+    * Copy-12
 * **Join**
   * **Bus-02**
     * Join-all
