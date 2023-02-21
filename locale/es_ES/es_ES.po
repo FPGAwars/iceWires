@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-29 12:30+0000\n"
+"POT-Creation-Date: 2023-02-21 18:11+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -48,132 +48,128 @@ msgid "Wires"
 msgstr "Cables"
 
 #: translation.js:18
-msgid "Verilog"
-msgstr "Verilog"
+msgid "Blocks"
+msgstr ""
 
-#: translation.js:19 translation.js:827
+#: translation.js:19 translation.js:21 translation.js:827
 msgid "Copy-02"
 msgstr "Copy-02"
 
 #: translation.js:20
-msgid "Copy-2: Copy the input wire twice and generate a 2 bits Bus output"
-msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits"
-
-#: translation.js:21
-msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
-msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
-
-#: translation.js:22 translation.js:828
-msgid "Copy-03"
-msgstr "Copy-03"
-
-#: translation.js:23
-msgid "Copy-3: Copy the input wire and creates a 3 bits Bus output"
-msgstr "Copy-3: Copiar el cable de entrada y sacarlo por un bus de 3 bits"
-
-#: translation.js:24
-msgid "Bus3-Join-all: Joint three wires into a 3-bits Bus"
-msgstr "Bus-3-join-all: Agregar tres cables a un bus de 3 bits"
-
-#: translation.js:25 translation.js:829
-msgid "Copy-04"
-msgstr "Copy-04"
-
-#: translation.js:26
-msgid "Copy-4: Copy the input wire and creates a 4 bits Bus output"
-msgstr "Copy-4: Copiar el cable de entrada y sacarlo por un bus de 4 bits"
-
-#: translation.js:27
-msgid "Bus4-Join-all: Join all the wires into a 4-bits Bus"
-msgstr "Bus-4-join-all: Agregar todos los cables a un bus de 4 bits"
-
-#: translation.js:28 translation.js:830
-msgid "Copy-05"
-msgstr "Copy-05"
-
-#: translation.js:29
-msgid "Copy-5: Copy the input wire and creates a 5 bits Bus output"
-msgstr "Copy-5: Copiar el cable de entrada y sacarlo por un bus de 5 bits"
-
-#: translation.js:30
-msgid "Bus5-Join-all: Join all the wires into a 5-bits Bus"
-msgstr "Bus5-join-all: Unir todos los cables en un bus de 5 bits"
-
-#: translation.js:31 translation.js:831
-msgid "Copy-06"
-msgstr "Copy-06"
-
-#: translation.js:32
-msgid "Copy-6: Copy the input wire and creates a 6 bits Bus output"
-msgstr "Copy-6: Copiar el cable de entrada y sacarlo por un bus de 6 bits"
-
-#: translation.js:33
-msgid "Bus6-Join-all: Join all the wires into a 6-bits Bus"
-msgstr "Bus6-join-all: Unir todos los cables en un bus de 6 bits"
-
-#: translation.js:34
-msgid "Copy-07"
-msgstr "Copy-07"
-
-#: translation.js:35
-msgid "Copy-7: Copy the input wire and creates a 7 bits Bus output"
-msgstr "Copy-7: Copiar el cable de entrada y sacarlo por un bus de 7 bits"
-
-#: translation.js:36
-msgid "Bus7-Join-all: Join all the wires into a 7-bits Bus"
-msgstr "Bus7-join-all: Unir todos los cables en un bus de 7-bits"
-
-#: translation.js:37 translation.js:832
-msgid "Copy-08"
-msgstr "Copy-08"
-
-#: translation.js:38
-msgid "Copy-8: Copy the input wire and creates a 8 bits Bus output"
-msgstr "Copy-8: Copiar el cable de entrada y sacarlo por un bus de 8 bits"
-
-#: translation.js:39
-msgid "Bus8-Join-all: Join all the wires into a 8-bits Bus"
-msgstr "Bus8-join-all: Unir dos buses en un bus de 8 bits"
-
-#: translation.js:40 translation.js:833
-msgid "Copy-09"
-msgstr "Copy-09"
-
-#: translation.js:41
-msgid "Copy-9: Copy the input wire and creates a 9 bits Bus output"
-msgstr "Copy-9: Copiar el cable de entrada y sacarlo por un bus de 9 bits"
-
-#: translation.js:42
-msgid "Bus8-Join-1-8: Join the two buses into an 9-bits Bus"
-msgstr "Bus8-join-1-8: Unir dos buses en un bus de 9 bits"
-
-#: translation.js:43 translation.js:834
-#, fuzzy
-msgid "Copy-12"
-msgstr "Copy-2"
-
-#: translation.js:44
-#, fuzzy
-msgid "Copy-12: Copy the input wire and creates a 12 bits Bus output"
-msgstr "Copy-3: Copiar el cable de entrada y sacarlo por un bus de 3 bits"
-
-#: translation.js:45
-msgid "Bus12-Join-4-8: Join the two buses into an 12-bits Bus"
-msgstr "Bus12-join-4-8: Unir dos buses en un bus de 12 bits"
-
-#: translation.js:46
-msgid "Copy-02-verilog"
-msgstr "Copy-02-verilog"
-
-#: translation.js:47
 msgid ""
 "Copy-2: Copy the input wire twice and generate a 2 bits Bus output (Verilog "
 "implementation)"
 msgstr ""
 "Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
 "2 bits (Implementación en Verilog)"
+
+#: translation.js:22
+msgid "Copy-2: Copy the input wire twice and generate a 2 bits Bus output"
+msgstr ""
+"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"2 bits"
+
+#: translation.js:23
+msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
+msgstr "Bus-2-join-all: Agregar dos cables a un bus de 2 bits"
+
+#: translation.js:24 translation.js:828
+msgid "Copy-03"
+msgstr "Copy-03"
+
+#: translation.js:25
+msgid "Copy-3: Copy the input wire and creates a 3 bits Bus output"
+msgstr "Copy-3: Copiar el cable de entrada y sacarlo por un bus de 3 bits"
+
+#: translation.js:26
+msgid "Bus3-Join-all: Joint three wires into a 3-bits Bus"
+msgstr "Bus-3-join-all: Agregar tres cables a un bus de 3 bits"
+
+#: translation.js:27 translation.js:829
+msgid "Copy-04"
+msgstr "Copy-04"
+
+#: translation.js:28
+msgid "Copy-4: Copy the input wire and creates a 4 bits Bus output"
+msgstr "Copy-4: Copiar el cable de entrada y sacarlo por un bus de 4 bits"
+
+#: translation.js:29
+msgid "Bus4-Join-all: Join all the wires into a 4-bits Bus"
+msgstr "Bus-4-join-all: Agregar todos los cables a un bus de 4 bits"
+
+#: translation.js:30 translation.js:830
+msgid "Copy-05"
+msgstr "Copy-05"
+
+#: translation.js:31
+msgid "Copy-5: Copy the input wire and creates a 5 bits Bus output"
+msgstr "Copy-5: Copiar el cable de entrada y sacarlo por un bus de 5 bits"
+
+#: translation.js:32
+msgid "Bus5-Join-all: Join all the wires into a 5-bits Bus"
+msgstr "Bus5-join-all: Unir todos los cables en un bus de 5 bits"
+
+#: translation.js:33 translation.js:831
+msgid "Copy-06"
+msgstr "Copy-06"
+
+#: translation.js:34
+msgid "Copy-6: Copy the input wire and creates a 6 bits Bus output"
+msgstr "Copy-6: Copiar el cable de entrada y sacarlo por un bus de 6 bits"
+
+#: translation.js:35
+msgid "Bus6-Join-all: Join all the wires into a 6-bits Bus"
+msgstr "Bus6-join-all: Unir todos los cables en un bus de 6 bits"
+
+#: translation.js:36
+msgid "Copy-07"
+msgstr "Copy-07"
+
+#: translation.js:37
+msgid "Copy-7: Copy the input wire and creates a 7 bits Bus output"
+msgstr "Copy-7: Copiar el cable de entrada y sacarlo por un bus de 7 bits"
+
+#: translation.js:38
+msgid "Bus7-Join-all: Join all the wires into a 7-bits Bus"
+msgstr "Bus7-join-all: Unir todos los cables en un bus de 7-bits"
+
+#: translation.js:39 translation.js:832
+msgid "Copy-08"
+msgstr "Copy-08"
+
+#: translation.js:40
+msgid "Copy-8: Copy the input wire and creates a 8 bits Bus output"
+msgstr "Copy-8: Copiar el cable de entrada y sacarlo por un bus de 8 bits"
+
+#: translation.js:41
+msgid "Bus8-Join-all: Join all the wires into a 8-bits Bus"
+msgstr "Bus8-join-all: Unir dos buses en un bus de 8 bits"
+
+#: translation.js:42 translation.js:833
+msgid "Copy-09"
+msgstr "Copy-09"
+
+#: translation.js:43
+msgid "Copy-9: Copy the input wire and creates a 9 bits Bus output"
+msgstr "Copy-9: Copiar el cable de entrada y sacarlo por un bus de 9 bits"
+
+#: translation.js:44
+msgid "Bus8-Join-1-8: Join the two buses into an 9-bits Bus"
+msgstr "Bus8-join-1-8: Unir dos buses en un bus de 9 bits"
+
+#: translation.js:45 translation.js:834
+#, fuzzy
+msgid "Copy-12"
+msgstr "Copy-2"
+
+#: translation.js:46
+#, fuzzy
+msgid "Copy-12: Copy the input wire and creates a 12 bits Bus output"
+msgstr "Copy-3: Copiar el cable de entrada y sacarlo por un bus de 3 bits"
+
+#: translation.js:47
+msgid "Bus12-Join-4-8: Join the two buses into an 12-bits Bus"
+msgstr "Bus12-join-4-8: Unir dos buses en un bus de 12 bits"
 
 #: translation.js:48 translation.js:253 translation.js:352 translation.js:874
 #: translation.js:1208 translation.js:1324
@@ -5728,6 +5724,12 @@ msgstr ""
 "# Wire: Prueba manual con un botón y un LED  \n"
 "\n"
 "Cuando el botón se aprieta el LED0 se enciende"
+
+#~ msgid "Verilog"
+#~ msgstr "Verilog"
+
+#~ msgid "Copy-02-verilog"
+#~ msgstr "Copy-02-verilog"
 
 #~ msgid "Bus-29"
 #~ msgstr "Bus-29"

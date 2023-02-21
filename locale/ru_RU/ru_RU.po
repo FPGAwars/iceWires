@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-29 12:30+0000\n"
+"POT-Creation-Date: 2023-02-21 18:11+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -49,125 +49,121 @@ msgid "Wires"
 msgstr ""
 
 #: translation.js:18
-msgid "Verilog"
+msgid "Blocks"
 msgstr ""
 
-#: translation.js:19 translation.js:827
+#: translation.js:19 translation.js:21 translation.js:827
 msgid "Copy-02"
 msgstr ""
 
 #: translation.js:20
-msgid "Copy-2: Copy the input wire twice and generate a 2 bits Bus output"
-msgstr ""
-
-#: translation.js:21
-msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
-msgstr ""
-
-#: translation.js:22 translation.js:828
-msgid "Copy-03"
-msgstr ""
-
-#: translation.js:23
-msgid "Copy-3: Copy the input wire and creates a 3 bits Bus output"
-msgstr ""
-
-#: translation.js:24
-msgid "Bus3-Join-all: Joint three wires into a 3-bits Bus"
-msgstr ""
-
-#: translation.js:25 translation.js:829
-msgid "Copy-04"
-msgstr ""
-
-#: translation.js:26
-msgid "Copy-4: Copy the input wire and creates a 4 bits Bus output"
-msgstr ""
-
-#: translation.js:27
-msgid "Bus4-Join-all: Join all the wires into a 4-bits Bus"
-msgstr ""
-
-#: translation.js:28 translation.js:830
-msgid "Copy-05"
-msgstr ""
-
-#: translation.js:29
-msgid "Copy-5: Copy the input wire and creates a 5 bits Bus output"
-msgstr ""
-
-#: translation.js:30
-msgid "Bus5-Join-all: Join all the wires into a 5-bits Bus"
-msgstr ""
-
-#: translation.js:31 translation.js:831
-msgid "Copy-06"
-msgstr ""
-
-#: translation.js:32
-msgid "Copy-6: Copy the input wire and creates a 6 bits Bus output"
-msgstr ""
-
-#: translation.js:33
-msgid "Bus6-Join-all: Join all the wires into a 6-bits Bus"
-msgstr ""
-
-#: translation.js:34
-msgid "Copy-07"
-msgstr ""
-
-#: translation.js:35
-msgid "Copy-7: Copy the input wire and creates a 7 bits Bus output"
-msgstr ""
-
-#: translation.js:36
-msgid "Bus7-Join-all: Join all the wires into a 7-bits Bus"
-msgstr ""
-
-#: translation.js:37 translation.js:832
-msgid "Copy-08"
-msgstr ""
-
-#: translation.js:38
-msgid "Copy-8: Copy the input wire and creates a 8 bits Bus output"
-msgstr ""
-
-#: translation.js:39
-msgid "Bus8-Join-all: Join all the wires into a 8-bits Bus"
-msgstr ""
-
-#: translation.js:40 translation.js:833
-msgid "Copy-09"
-msgstr ""
-
-#: translation.js:41
-msgid "Copy-9: Copy the input wire and creates a 9 bits Bus output"
-msgstr ""
-
-#: translation.js:42
-msgid "Bus8-Join-1-8: Join the two buses into an 9-bits Bus"
-msgstr ""
-
-#: translation.js:43 translation.js:834
-msgid "Copy-12"
-msgstr ""
-
-#: translation.js:44
-msgid "Copy-12: Copy the input wire and creates a 12 bits Bus output"
-msgstr ""
-
-#: translation.js:45
-msgid "Bus12-Join-4-8: Join the two buses into an 12-bits Bus"
-msgstr ""
-
-#: translation.js:46
-msgid "Copy-02-verilog"
-msgstr ""
-
-#: translation.js:47
 msgid ""
 "Copy-2: Copy the input wire twice and generate a 2 bits Bus output (Verilog "
 "implementation)"
+msgstr ""
+
+#: translation.js:22
+msgid "Copy-2: Copy the input wire twice and generate a 2 bits Bus output"
+msgstr ""
+
+#: translation.js:23
+msgid "Bus2-Join-all: Joint two wires into a 2-bits Bus"
+msgstr ""
+
+#: translation.js:24 translation.js:828
+msgid "Copy-03"
+msgstr ""
+
+#: translation.js:25
+msgid "Copy-3: Copy the input wire and creates a 3 bits Bus output"
+msgstr ""
+
+#: translation.js:26
+msgid "Bus3-Join-all: Joint three wires into a 3-bits Bus"
+msgstr ""
+
+#: translation.js:27 translation.js:829
+msgid "Copy-04"
+msgstr ""
+
+#: translation.js:28
+msgid "Copy-4: Copy the input wire and creates a 4 bits Bus output"
+msgstr ""
+
+#: translation.js:29
+msgid "Bus4-Join-all: Join all the wires into a 4-bits Bus"
+msgstr ""
+
+#: translation.js:30 translation.js:830
+msgid "Copy-05"
+msgstr ""
+
+#: translation.js:31
+msgid "Copy-5: Copy the input wire and creates a 5 bits Bus output"
+msgstr ""
+
+#: translation.js:32
+msgid "Bus5-Join-all: Join all the wires into a 5-bits Bus"
+msgstr ""
+
+#: translation.js:33 translation.js:831
+msgid "Copy-06"
+msgstr ""
+
+#: translation.js:34
+msgid "Copy-6: Copy the input wire and creates a 6 bits Bus output"
+msgstr ""
+
+#: translation.js:35
+msgid "Bus6-Join-all: Join all the wires into a 6-bits Bus"
+msgstr ""
+
+#: translation.js:36
+msgid "Copy-07"
+msgstr ""
+
+#: translation.js:37
+msgid "Copy-7: Copy the input wire and creates a 7 bits Bus output"
+msgstr ""
+
+#: translation.js:38
+msgid "Bus7-Join-all: Join all the wires into a 7-bits Bus"
+msgstr ""
+
+#: translation.js:39 translation.js:832
+msgid "Copy-08"
+msgstr ""
+
+#: translation.js:40
+msgid "Copy-8: Copy the input wire and creates a 8 bits Bus output"
+msgstr ""
+
+#: translation.js:41
+msgid "Bus8-Join-all: Join all the wires into a 8-bits Bus"
+msgstr ""
+
+#: translation.js:42 translation.js:833
+msgid "Copy-09"
+msgstr ""
+
+#: translation.js:43
+msgid "Copy-9: Copy the input wire and creates a 9 bits Bus output"
+msgstr ""
+
+#: translation.js:44
+msgid "Bus8-Join-1-8: Join the two buses into an 9-bits Bus"
+msgstr ""
+
+#: translation.js:45 translation.js:834
+msgid "Copy-12"
+msgstr ""
+
+#: translation.js:46
+msgid "Copy-12: Copy the input wire and creates a 12 bits Bus output"
+msgstr ""
+
+#: translation.js:47
+msgid "Bus12-Join-4-8: Join the two buses into an 12-bits Bus"
 msgstr ""
 
 #: translation.js:48 translation.js:253 translation.js:352 translation.js:874
