@@ -737,6 +737,10 @@ For installing and using this colection in Icestudio follow these steps:
             * 01-Manual-testing
           * **Alhambra-II**
             * 01-Manual-testing
+      * **03-bits**
+        * **SL1**
+          * **Alhambra-II**
+            * 01-Manual-testing
       * **04-bits**
         * **SL1**
           * **Alhambra-II**
@@ -765,17 +769,12 @@ For installing and using this colection in Icestudio follow these steps:
           * **Alhambra-II**
             * 01-Manual-testing
       * **03-bits**
-        * **Shift-left**
-          * **SL1**
-            * **Alhambra-II**
-              * 01-Manual-testing
-        * **Shift-right**
-          * **SR1**
-          * **SR1-uint3**
-            * **Alhambra-II**
-              * 01-Manual-testing
-            * **Alhambra-II**
-              * 01-Manual-testing
+        * **SR1**
+        * **SR1-uint3**
+          * **Alhambra-II**
+            * 01-Manual-testing
+          * **Alhambra-II**
+            * 01-Manual-testing
       * **04-bits**
         * **SR1**
         * **SR1-uint4**
