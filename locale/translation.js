@@ -276,6 +276,8 @@ gettext('Bus64-Join-half: Join the two buses into an 64-bits Bus');
 gettext('Blocks');
 gettext('Reversal-02');
 gettext('Reversal-2-verilog: 2-bit Bus reversal. Verilog implementation');
+gettext('Reversal-03');
+gettext('Reversal-3-verilog: 3-bit Bus reversal. Verilog implementation');
 gettext('Reversal-02');
 gettext('Reversal-2: 2-bit Bus reversal');
 gettext('Bus2-Split-all: Split the 2-bits bus into two wires');
