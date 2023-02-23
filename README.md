@@ -32,7 +32,7 @@ For installing and using this colection in Icestudio follow these steps:
 | CZech |  cs_CZ | ![](https://progress-bar.dev/0) |
 | German |  de_DE | ![](https://progress-bar.dev/0) |
 | Greek |  el_GR | ![](https://progress-bar.dev/0) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/81) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/80) |
 | Basque |  eu_ES | ![](https://progress-bar.dev/0) |
 | French |  fr_FR | ![](https://progress-bar.dev/0) |
 | Galician |  gl_ES | ![](https://progress-bar.dev/0) |
@@ -200,44 +200,51 @@ For installing and using this colection in Icestudio follow these steps:
     * Reversal-03
     * Reversal-04
 * **Shift**
-  * **Bus-02**
-    * **Shift-Left**
-      * SL1-int2
-      * SL1-uint2
-      * SL1
-  * **Bus-03**
-    * **Shift-Left**
-      * SL1
-    * **Shift-Right**
-      * SR1-uint3
-      * SR1
-  * **Bus-04**
-    * **Shift-left**
-      * SL1
-    * **Shift-right**
-      * SR1-uint4
-      * SR1
-  * **Bus-08**
-    * **Shift-left**
-      * SL1
-    * **Shift-right**
-      * SR1
-  * **Bus-16**
-    * **Shift-left**
-      * SL1
-    * **Shift-right**
-      * SR1
-  * **Bus-32**
-    * **Shift-Right**
-      * SR1
-    * **Shift-left**
-      * SL1
+  * **Left**
+    * **02-Bits**
+      * **Blocks**
+        * SL1-int2
+        * SL1-uint2
+        * SL1
+    * **03-Bits**
+      * **Blocks**
+        * SL1
+    * **04-Bits**
+      * **Blocks**
+        * SL1
+    * **08-Bits**
+      * **Blocks**
+        * SL1
+    * **16-Bits**
+      * **Blocks**
+        * SL1
+    * **32-Bits**
+      * **Blocks**
+        * SL1
   * **Right**
-    * SR1
-    * **Blocks**
-      * SR1-int2
-      * SR1-uint2
+    * **02-Bits**
       * SR1
+      * **Blocks**
+        * SR1-int2
+        * SR1-uint2
+        * SR1
+    * **03-Bits**
+      * **Blocks**
+        * SR1-uint3
+        * SR1
+    * **04-Bits**
+      * **Blocks**
+        * SR1-uint4
+        * SR1
+    * **08-Bits**
+      * **Blocks**
+        * SR1
+    * **16-Bits**
+      * **Blocks**
+        * SR1
+    * **32-Bits**
+      * **Blocks**
+        * SR1
 * **Sign**
   * Sign-int12
   * Sign-int16
