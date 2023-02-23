@@ -205,10 +205,6 @@ For installing and using this colection in Icestudio follow these steps:
       * SL1-int2
       * SL1-uint2
       * SL1
-    * **Shift-Right**
-      * SR1-int2
-      * SR1-uint2
-      * SR1
   * **Bus-03**
     * **Shift-Left**
       * SL1
@@ -236,6 +232,12 @@ For installing and using this colection in Icestudio follow these steps:
       * SR1
     * **Shift-left**
       * SL1
+  * **Right**
+    * SR1
+    * **Blocks**
+      * SR1-int2
+      * SR1-uint2
+      * SR1
 * **Sign**
   * Sign-int12
   * Sign-int16
@@ -728,16 +730,6 @@ For installing and using this colection in Icestudio follow these steps:
             * 01-Manual-testing
           * **Alhambra-II**
             * 01-Manual-testing
-      * **Shift-right**
-        * **SR1**
-        * **SR1-int2**
-          * **Alhambra-II**
-            * 01-Manual-testing
-        * **SR1-uint2**
-          * **Alhambra-II**
-            * 01-Manual-testing
-          * **Alhambra-II**
-            * 01-Manual-testing
     * **Bus-03**
       * **Shift-left**
         * **SL1**
@@ -787,6 +779,17 @@ For installing and using this colection in Icestudio follow these steps:
             * 01-Manual-testing
       * **Shift-right**
         * **SR1**
+          * **Alhambra-II**
+            * 01-Manual-testing
+    * **Right**
+      * **02-bits**
+        * **SR1**
+        * **SR1-int2**
+          * **Alhambra-II**
+            * 01-Manual-testing
+        * **SR1-uint2**
+          * **Alhambra-II**
+            * 01-Manual-testing
           * **Alhambra-II**
             * 01-Manual-testing
   * **Sign**
