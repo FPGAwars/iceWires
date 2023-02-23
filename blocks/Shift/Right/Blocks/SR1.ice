@@ -190,7 +190,7 @@
           "id": "709f67fe-d09c-413d-aa2f-a0db15869600",
           "type": "basic.info",
           "data": {
-            "info": "# Shift Right: Manual testing",
+            "info": "# 2-bits Shift Right: Manual testing",
             "readonly": true
           },
           "position": {
