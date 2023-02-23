@@ -229,6 +229,7 @@ For installing and using this colection in Icestudio follow these steps:
         * SR1-uint2
         * SR1
     * **03-Bits**
+      * SR1
       * **Blocks**
         * SR1-uint3
         * SR1
