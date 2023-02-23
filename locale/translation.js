@@ -398,7 +398,7 @@ gettext('Edges detector. It generates a 1-period pulse (tic) when either a risin
 gettext('Sync 1-bit input with the system clock domain');
 gettext('Select positive or negative logic for the input (0=positive, 1=negative)');
 gettext('1-bit generic constant (0/1)');
-gettext('# Shift Right: Manual testing');
+gettext('# 2-bits Shift Right: Manual testing');
 gettext('System clock');
 gettext('Button state signal');
 gettext('Tic: button pressed');
@@ -1362,6 +1362,7 @@ gettext('01-Manual-testing');
 gettext('Alhambra-II');
 gettext('01-Manual-testing');
 gettext('01-Manual-testing');
+gettext('# Shift Right: Manual testing');
 gettext('Sign-02Bits');
 gettext('Sign-03Bits');
 gettext('Sign-04Bits');
