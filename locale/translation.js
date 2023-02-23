@@ -436,7 +436,7 @@ gettext('SR1-4bits-verilog: Shift  a 4-bit value one bit right. MSB is filled wi
 gettext('SR1-uint4');
 gettext('SR1-uint4: Shift  a 4-bit value one bit right. MSB is filled with 0 (no sign used)');
 gettext('SR1');
-gettext('SR1: Shift  a 4-bit value one bit right. MSB is filled with ');
+gettext('SR1-4bits: Shift  a 4-bit value one bit right. MSB is filled with in');
 gettext('Bus4-Split-3-1: Split the 4-bits bus into two: 3-bits and 1-bits buses');
 gettext('Blocks');
 gettext('SR1');
@@ -758,6 +758,7 @@ gettext('10-Shift');
 gettext('TESTs');
 gettext('00-Index');
 gettext('SR1: Shift  a 3-bit value one bit right. MSB is filled with ');
+gettext('SR1: Shift  a 4-bit value one bit right. MSB is filled with ');
 gettext('SR1: Shift  a 2-bit value one bit right. MSB is filled with in');
 gettext('# INDEX: IceWire Collection');
 gettext('## Wires');
