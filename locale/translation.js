@@ -423,6 +423,8 @@ gettext('In any other case the output is 0');
 gettext('When k=0, it works like a wire  \n(The output is equal to the input)  \nWhen k=1, it act as a not gate\n(The output is the inverse of the input)');
 gettext('### Truth table for XOR\n\n| k | input | output | function |\n|---|-------|--------|----------|\n| 0 | 0     |  0     | wire     |\n| 0 | 1     |  1     | wire     |\n| 1 | 0     |  1     | Not      |\n| 1 | 1     |  0     | Not      |');
 gettext('Blocks');
+gettext('SR1');
+gettext('SR1-3bits-verilog: Shift  a 3-bit value one bit right. MSB is filled with in. Verilog implementation');
 gettext('SR1-uint3');
 gettext('SR1-uint3: Shift  a 3-bit value one bit right. MSB is filled with 0 (no sign used)');
 gettext('SR1');
