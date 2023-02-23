@@ -53,6 +53,7 @@ For installing and using this colection in Icestudio follow these steps:
   * Copy-07
   * Copy-08
   * Copy-09
+  * Copy-12
   * **Blocks**
     * Copy-02
     * Copy-03
