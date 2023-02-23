@@ -32,7 +32,7 @@ For installing and using this colection in Icestudio follow these steps:
 | CZech |  cs_CZ | ![](https://progress-bar.dev/0) |
 | German |  de_DE | ![](https://progress-bar.dev/0) |
 | Greek |  el_GR | ![](https://progress-bar.dev/0) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/82) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/81) |
 | Basque |  eu_ES | ![](https://progress-bar.dev/0) |
 | French |  fr_FR | ![](https://progress-bar.dev/0) |
 | Galician |  gl_ES | ![](https://progress-bar.dev/0) |
@@ -192,6 +192,7 @@ For installing and using this colection in Icestudio follow these steps:
     * Join-half
 * **Reversal**
   * Reversal-02
+  * Reversal-03
   * **Blocks**
     * Reversal-02
     * Reversal-03
