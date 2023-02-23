@@ -192,8 +192,10 @@ For installing and using this colection in Icestudio follow these steps:
     * Join-half
 * **Reversal**
   * Reversal-02
-  * Reversal-03
-  * Reversal-04
+  * **Blocks**
+    * Reversal-02
+    * Reversal-03
+    * Reversal-04
 * **Shift**
   * **Bus-02**
     * **Shift-Left**
