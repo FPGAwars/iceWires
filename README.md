@@ -726,8 +726,8 @@ For installing and using this colection in Icestudio follow these steps:
       * **Alhambra-II**
         * 01-Manual-testing
   * **Shift**
-    * **Bus-02**
-      * **Shift-left**
+    * **Left**
+      * **02-bits**
         * **SL1**
         * **SL1-int2**
           * **Alhambra-II**
@@ -737,55 +737,20 @@ For installing and using this colection in Icestudio follow these steps:
             * 01-Manual-testing
           * **Alhambra-II**
             * 01-Manual-testing
-    * **Bus-03**
-      * **Shift-left**
+      * **04-bits**
         * **SL1**
           * **Alhambra-II**
             * 01-Manual-testing
-      * **Shift-right**
-        * **SR1**
-        * **SR1-uint3**
-          * **Alhambra-II**
-            * 01-Manual-testing
-          * **Alhambra-II**
-            * 01-Manual-testing
-    * **Bus-04**
-      * **Shift-left**
+      * **08-bits**
         * **SL1**
           * **Alhambra-II**
             * 01-Manual-testing
-      * **Shift-right**
-        * **SR1**
-        * **SR1-uint4**
-          * **Alhambra-II**
-            * 01-Manual-testing
-          * **Alhambra-II**
-            * 01-Manual-testing
-    * **Bus-08**
-      * **Shift-left**
+      * **16-bits**
         * **SL1**
           * **Alhambra-II**
             * 01-Manual-testing
-      * **Shift-right**
-        * **SR1**
-          * **Alhambra-II**
-            * 01-Manual-testing
-    * **Bus-16**
-      * **Shift-left**
+      * **32-bits**
         * **SL1**
-          * **Alhambra-II**
-            * 01-Manual-testing
-      * **Shift-right**
-        * **SR1**
-          * **Alhambra-II**
-            * 01-Manual-testing
-    * **Bus-32**
-      * **Shift-left**
-        * **SL1**
-          * **Alhambra-II**
-            * 01-Manual-testing
-      * **Shift-right**
-        * **SR1**
           * **Alhambra-II**
             * 01-Manual-testing
     * **Right**
@@ -797,6 +762,37 @@ For installing and using this colection in Icestudio follow these steps:
         * **SR1-uint2**
           * **Alhambra-II**
             * 01-Manual-testing
+          * **Alhambra-II**
+            * 01-Manual-testing
+      * **03-bits**
+        * **Shift-left**
+          * **SL1**
+            * **Alhambra-II**
+              * 01-Manual-testing
+        * **Shift-right**
+          * **SR1**
+          * **SR1-uint3**
+            * **Alhambra-II**
+              * 01-Manual-testing
+            * **Alhambra-II**
+              * 01-Manual-testing
+      * **04-bits**
+        * **SR1**
+        * **SR1-uint4**
+          * **Alhambra-II**
+            * 01-Manual-testing
+          * **Alhambra-II**
+            * 01-Manual-testing
+      * **08-bits**
+        * **SR1**
+          * **Alhambra-II**
+            * 01-Manual-testing
+      * **16-bits**
+        * **SR1**
+          * **Alhambra-II**
+            * 01-Manual-testing
+      * **32-bits**
+        * **SR1**
           * **Alhambra-II**
             * 01-Manual-testing
   * **Sign**
