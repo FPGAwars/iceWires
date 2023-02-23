@@ -69,6 +69,9 @@ For installing and using this colection in Icestudio follow these steps:
     * Copy-08
     * Copy-09
     * Copy-12
+  * **Copy-20**
+    * **Alhambra-II**
+      * Copy-20
 * **Join**
   * **Bus-02**
     * Join-all
@@ -455,6 +458,9 @@ For installing and using this colection in Icestudio follow these steps:
       * **Alhambra-II**
         * 01-manual-btn-leds
     * **Copy-12**
+      * **Alhambra-II**
+        * 01-manual-btn-leds
+    * **Copy-20**
       * **Alhambra-II**
         * 01-manual-btn-leds
     * **Copy-24**
