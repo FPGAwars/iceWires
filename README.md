@@ -202,6 +202,7 @@ For installing and using this colection in Icestudio follow these steps:
 * **Shift**
   * **Left**
     * **02-Bits**
+      * SL1
       * **Blocks**
         * SL1-int2
         * SL1-uint2
