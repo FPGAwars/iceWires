@@ -243,6 +243,7 @@ For installing and using this colection in Icestudio follow these steps:
       * **Blocks**
         * SR1
     * **16-Bits**
+      * SR1
       * **Blocks**
         * SR1
     * **32-Bits**
