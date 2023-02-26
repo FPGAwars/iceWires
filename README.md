@@ -220,6 +220,7 @@ For installing and using this colection in Icestudio follow these steps:
       * **Blocks**
         * SL1
     * **16-Bits**
+      * SL1
       * **Blocks**
         * SL1
     * **32-Bits**
