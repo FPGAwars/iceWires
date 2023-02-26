@@ -10784,7 +10784,7 @@
                   ]
                 },
                 "params": [],
-                "code": "//-- Number of bits\nlocalparam N=3;\n\n//-- Generic shift left\nassign o = {i[N-2:N-3], in};\n\nassign out = i[N-1];"
+                "code": "//-- Number of bits\nlocalparam N=3;\n\n//-- Generic shift left\nassign o = {i[N-2:0], in};\n\nassign out = i[N-1];"
               },
               "position": {
                 "x": 440,
