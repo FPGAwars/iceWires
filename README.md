@@ -32,7 +32,7 @@ For installing and using this colection in Icestudio follow these steps:
 | CZech |  cs_CZ | ![](https://progress-bar.dev/0) |
 | German |  de_DE | ![](https://progress-bar.dev/0) |
 | Greek |  el_GR | ![](https://progress-bar.dev/0) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/79) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/78) |
 | Basque |  eu_ES | ![](https://progress-bar.dev/0) |
 | French |  fr_FR | ![](https://progress-bar.dev/0) |
 | Galician |  gl_ES | ![](https://progress-bar.dev/0) |
@@ -208,6 +208,7 @@ For installing and using this colection in Icestudio follow these steps:
         * SL1-uint2
         * SL1
     * **03-Bits**
+      * SL1
       * **Blocks**
         * SL1
     * **04-Bits**
