@@ -368,49 +368,55 @@ For installing and using this colection in Icestudio follow these steps:
     * Split-half
 * **Uint**
   * **Uint12**
-    * Uint12-08-bits
+    * **Uint12**
+      * Uint12-08-bits
   * **Uint16**
-    * Uint16-08-bits
-    * Uint16-09-bits
-    * Uint16-10-bits
-    * Uint16-11-bits
-    * Uint16-12-bits
-    * Uint16-13-bits
-    * Uint16-14-bits
-    * Uint16-15-bits
+    * **Blocks**
+      * Uint16-08-bits
+      * Uint16-09-bits
+      * Uint16-10-bits
+      * Uint16-11-bits
+      * Uint16-12-bits
+      * Uint16-13-bits
+      * Uint16-14-bits
+      * Uint16-15-bits
   * **Uint2**
-    * Uint2-01-bit
+    * **Blocks**
+      * Uint2-01-bit
   * **Uint32**
-    * Uint32-16-bits
-    * Uint32-17-bits
-    * Uint32-18-bits
-    * Uint32-19-bits
-    * Uint32-2-bits
-    * Uint32-20-bits
-    * Uint32-21-bits
-    * Uint32-22-bits
-    * Uint32-23-bits
-    * Uint32-24-bits
-    * Uint32-25-bits
-    * Uint32-26-bits
-    * Uint32-27-bits
-    * Uint32-28-bits
-    * Uint32-29-bits
-    * Uint32-30-bits
-    * Uint32-31-bits
-    * Uint32-8-bits
+    * **Blocks**
+      * Uint32-16-bits
+      * Uint32-17-bits
+      * Uint32-18-bits
+      * Uint32-19-bits
+      * Uint32-2-bits
+      * Uint32-20-bits
+      * Uint32-21-bits
+      * Uint32-22-bits
+      * Uint32-23-bits
+      * Uint32-24-bits
+      * Uint32-25-bits
+      * Uint32-26-bits
+      * Uint32-27-bits
+      * Uint32-28-bits
+      * Uint32-29-bits
+      * Uint32-30-bits
+      * Uint32-31-bits
+      * Uint32-8-bits
   * **Uint4**
-    * Uint4-01-bit
-    * Uint4-02-bit
-    * Uint4-03-bit
+    * **Blocks**
+      * Uint4-01-bit
+      * Uint4-02-bit
+      * Uint4-03-bit
   * **Uint8**
-    * Uint8-01-bit
-    * Uint8-02-bits
-    * Uint8-03-bits
-    * Uint8-04-bits
-    * Uint8-05-bits
-    * Uint8-06-bits
-    * Uint8-07-bits
+    * **Blocks**
+      * Uint8-01-bit
+      * Uint8-02-bits
+      * Uint8-03-bits
+      * Uint8-04-bits
+      * Uint8-05-bits
+      * Uint8-06-bits
+      * Uint8-07-bits
 * **Wires**
   * Bus-2
   * Bus-3
