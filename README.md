@@ -417,6 +417,7 @@ For installing and using this colection in Icestudio follow these steps:
     * Uint8-02-bit
     * Uint8-03-bit
     * Uint8-04-bit
+    * Uint8-05-bit
     * **Blocks**
       * Uint8-01-bit
       * Uint8-02-bits
