@@ -741,6 +741,8 @@ gettext('Uint4-01-bit');
 gettext('UINT4-1bit-verilog:  Extend a 1-bit unsigned integer to 4-bits. Verilog implementation ');
 gettext('Uint4-02-bit');
 gettext('UINT4-2bit-verilog:  Extend a 2-bit unsigned integer to 4-bits. Verilog implementation ');
+gettext('Uint4-03-bit');
+gettext('UINT4-3bit-verilog:  Extend a 3-bit unsigned integer to 4-bits. Verilog implementation ');
 gettext('Uint4-01-bit');
 gettext('UINT4-1bit:  Extend a 1-bit unsigned integer to 4-bits ');
 gettext('Uint4-02-bit');
