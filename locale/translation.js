@@ -646,7 +646,7 @@ gettext('Uint2');
 gettext('Uint32');
 gettext('Uint4');
 gettext('Uint8');
-gettext('Uint12');
+gettext('Blocks');
 gettext('Uint12-08-bits');
 gettext('UINT12-8bits:  Extend a 8-bits unsigned integer to 12-bits ');
 gettext('4bits constant value: 0');
