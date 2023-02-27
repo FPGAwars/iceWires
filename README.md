@@ -32,7 +32,7 @@ For installing and using this colection in Icestudio follow these steps:
 | CZech |  cs_CZ | ![](https://progress-bar.dev/0) |
 | German |  de_DE | ![](https://progress-bar.dev/0) |
 | Greek |  el_GR | ![](https://progress-bar.dev/0) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/77) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/76) |
 | Basque |  eu_ES | ![](https://progress-bar.dev/0) |
 | French |  fr_FR | ![](https://progress-bar.dev/0) |
 | Galician |  gl_ES | ![](https://progress-bar.dev/0) |
@@ -416,6 +416,7 @@ For installing and using this colection in Icestudio follow these steps:
     * Uint8-01-bit
     * Uint8-02-bit
     * Uint8-03-bit
+    * Uint8-04-bit
     * **Blocks**
       * Uint8-01-bit
       * Uint8-02-bits
