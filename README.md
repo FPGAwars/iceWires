@@ -368,7 +368,7 @@ For installing and using this colection in Icestudio follow these steps:
     * Split-half
 * **Uint**
   * **Uint12**
-    * **Uint12**
+    * **Blocks**
       * Uint12-08-bits
   * **Uint16**
     * **Blocks**
