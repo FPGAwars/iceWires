@@ -413,6 +413,7 @@ For installing and using this colection in Icestudio follow these steps:
       * Uint4-02-bit
       * Uint4-03-bit
   * **Uint8**
+    * Uint8-01-bit
     * **Blocks**
       * Uint8-01-bit
       * Uint8-02-bits
