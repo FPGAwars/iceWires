@@ -1129,6 +1129,12 @@ For installing and using this colection in Icestudio follow these steps:
       * **16-bits**
         * **Alhambra-II**
           * 01-Manual-testing
+      * **28-bits**
+        * **Alhambra-II**
+          * 01-Manual-testing
+      * **29-bits**
+        * **Alhambra-II**
+          * 01-Manual-testing
       * **30-bits**
         * **Alhambra-II**
           * 01-Manual-testing
