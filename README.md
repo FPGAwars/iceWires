@@ -57,6 +57,7 @@ For installing and using this colection in Icestudio follow these steps:
   * Copy-11
   * Copy-12
   * Copy-16
+  * Copy-22
   * Copy-23
   * Copy-24
   * Copy-25
@@ -392,6 +393,7 @@ For installing and using this colection in Icestudio follow these steps:
     * **Blocks**
       * Uint2-01-bit
   * **Uint32**
+    * Uint32-22-bits
     * Uint32-23-bits
     * Uint32-24-bits
     * Uint32-25-bits
@@ -1136,6 +1138,9 @@ For installing and using this colection in Icestudio follow these steps:
         * **Alhambra-II**
           * 01-Manual-testing
       * **16-bits**
+        * **Alhambra-II**
+          * 01-Manual-testing
+      * **22-bits**
         * **Alhambra-II**
           * 01-Manual-testing
       * **23-bits**
