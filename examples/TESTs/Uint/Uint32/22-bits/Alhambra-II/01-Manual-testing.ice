@@ -129,7 +129,7 @@
           "id": "fd14ed5d-e91b-42a8-922f-414275d054bf",
           "type": "basic.info",
           "data": {
-            "info": "## Uint32-23bit Manual testing",
+            "info": "## Uint32-22bit Manual testing",
             "readonly": true
           },
           "position": {
@@ -178,8 +178,8 @@
           }
         },
         {
-          "id": "0e32180d-a516-451b-8c84-5f34bc70212d",
-          "type": "997234a96a92a750edb82170e3c280bb6406b77e",
+          "id": "ec98a70c-c1c7-49d7-a0a3-b6ce8a77b83d",
+          "type": "3a04df54db8a9c1e4c9be1b107082fa7c6e439d2",
           "position": {
             "x": 544,
             "y": 56
@@ -190,8 +190,8 @@
           }
         },
         {
-          "id": "c47f78bb-26b3-463f-90d8-714afe63d609",
-          "type": "69a5064901cd88715e419372245e1c240495ca5e",
+          "id": "19f12da3-d637-44fa-a990-efaa20f319b8",
+          "type": "d933f4130cefdc316a436aa3d74941552afca9de",
           "position": {
             "x": 344,
             "y": 56
@@ -209,7 +209,7 @@
             "port": "out"
           },
           "target": {
-            "block": "c47f78bb-26b3-463f-90d8-714afe63d609",
+            "block": "19f12da3-d637-44fa-a990-efaa20f319b8",
             "port": "cf3b4c7c-042a-45f7-b958-990d7157f928"
           }
         },
@@ -267,7 +267,7 @@
         },
         {
           "source": {
-            "block": "0e32180d-a516-451b-8c84-5f34bc70212d",
+            "block": "ec98a70c-c1c7-49d7-a0a3-b6ce8a77b83d",
             "port": "d9d839cc-4510-43c1-abfe-93fd1cfc056f"
           },
           "target": {
@@ -278,14 +278,14 @@
         },
         {
           "source": {
-            "block": "c47f78bb-26b3-463f-90d8-714afe63d609",
-            "port": "701a44c6-012b-4f37-9aa8-a52ca32401e1"
+            "block": "19f12da3-d637-44fa-a990-efaa20f319b8",
+            "port": "858853f8-0b95-4be8-9215-abc6c9285834"
           },
           "target": {
-            "block": "0e32180d-a516-451b-8c84-5f34bc70212d",
-            "port": "1222242b-1c66-4a88-903a-5fcf4ff86013"
+            "block": "ec98a70c-c1c7-49d7-a0a3-b6ce8a77b83d",
+            "port": "a69e75b1-cee3-4211-bb75-c7326445bcba"
           },
-          "size": 23
+          "size": 22
         }
       ]
     }
@@ -16099,11 +16099,11 @@
         }
       }
     },
-    "997234a96a92a750edb82170e3c280bb6406b77e": {
+    "3a04df54db8a9c1e4c9be1b107082fa7c6e439d2": {
       "package": {
-        "name": "UINT32-23bit-verilog",
+        "name": "UINT32-22bit-verilog",
         "version": "0.1",
-        "description": "UINT32-23bit-verilog:  Extend a 23-bit unsigned integer to 32-bits. Verilog implementation ",
+        "description": "UINT32-22bit-verilog:  Extend a 22-bit unsigned integer to 32-bits. Verilog implementation ",
         "author": "Juan González-Gómez (Obijuan)",
         "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22448.598%22%20height=%22127.811%22%20viewBox=%220%200%20118.69152%2033.816643%22%3E%3Cg%20style=%22line-height:1.25%22%20font-weight=%22700%22%20font-size=%2245.504%22%20font-family=%22sans-serif%22%20fill=%22green%22%20stroke-width=%221.138%22%3E%3Cpath%20d=%22M0%200h8.554v19.886q0%204.11%201.333%205.888%201.356%201.755%204.4%201.755%203.066%200%204.399-1.755%201.355-1.778%201.355-5.888V0h8.554v19.886q0%207.043-3.532%2010.487-3.533%203.444-10.776%203.444-7.221%200-10.754-3.444Q0%2026.929%200%2019.886zM36.972%200h8.554v33.172h-8.554zM53.947%200H63.5l12.064%2022.752V0h8.11v33.172h-9.554L62.056%2010.421v22.751h-8.11zM88.119%200h30.573v6.466h-10.999v26.706H99.14V6.466H88.12z%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22/%3E%3C/g%3E%3C/svg%3E",
         "otid": 1621785467119
@@ -16125,13 +16125,125 @@
               }
             },
             {
-              "id": "1222242b-1c66-4a88-903a-5fcf4ff86013",
+              "id": "a69e75b1-cee3-4211-bb75-c7326445bcba",
               "type": "basic.input",
               "data": {
                 "name": "i",
-                "range": "[22:0]",
-                "clock": false,
-                "size": 23
+                "virtual": true,
+                "range": "[21:0]",
+                "pins": [
+                  {
+                    "index": "21",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "20",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "19",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "18",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "17",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "16",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "15",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "14",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "13",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "12",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "11",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "10",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "9",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "8",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "7",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "6",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "5",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "4",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "3",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "2",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "1",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "0",
+                    "name": "NULL",
+                    "value": "NULL"
+                  }
+                ],
+                "clock": false
               },
               "position": {
                 "x": 352,
@@ -16146,8 +16258,8 @@
                   "in": [
                     {
                       "name": "i",
-                      "range": "[22:0]",
-                      "size": 23
+                      "range": "[21:0]",
+                      "size": 22
                     }
                   ],
                   "out": [
@@ -16159,7 +16271,7 @@
                   ]
                 },
                 "params": [],
-                "code": "//-- Number of bits\nlocalparam N = 23;\n\n//-- Extend i with 0s\nassign o = { {(32-N){0}} , i};"
+                "code": "//-- Number of bits\nlocalparam N = 22;\n\n//-- Extend i with 0s\nassign o = { {(32-N){0}} , i};"
               },
               "position": {
                 "x": 504,
@@ -16185,24 +16297,24 @@
             },
             {
               "source": {
-                "block": "1222242b-1c66-4a88-903a-5fcf4ff86013",
+                "block": "a69e75b1-cee3-4211-bb75-c7326445bcba",
                 "port": "out"
               },
               "target": {
                 "block": "060b73c2-8fae-4f64-8db2-c8335f464d4c",
                 "port": "i"
               },
-              "size": 23
+              "size": 22
             }
           ]
         }
       }
     },
-    "69a5064901cd88715e419372245e1c240495ca5e": {
+    "d933f4130cefdc316a436aa3d74941552afca9de": {
       "package": {
-        "name": "Copy-23-verilog",
+        "name": "Copy-22-verilog",
         "version": "0.2",
-        "description": "Copy-23: Copy the input wire twice and generate a 23 bits Bus output (Verilog implementation)",
+        "description": "Copy-22: Copy the input wire twice and generate a 22 bits Bus output (Verilog implementation)",
         "author": "Juan González-Gómez (Obijuan)",
         "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22311.429%22%20height=%22131.811%22%20viewBox=%220%200%2082.398813%2034.875011%22%20id=%22svg840%22%3E%3Cg%20id=%22layer2%22%20transform=%22translate(-33.717%20-91.738)%22%20fill=%22none%22%20stroke-linecap=%22round%22%3E%3Cpath%20id=%22path865-3-6%22%20d=%22M36.363%20123.968l77.107-.336%22%20stroke=%22green%22%20stroke-width=%225.292%22/%3E%3Cpath%20d=%22M88.632%20114.651l20.928-20.928%22%20id=%22path850%22%20stroke=%22#000%22%20stroke-width=%223.969%22/%3E%3Cpath%20d=%22M109.56%20114.651L88.632%2093.723%22%20id=%22path852%22%20stroke=%22#000%22%20stroke-width=%223.969%22/%3E%3C/g%3E%3Cstyle%20id=%22style263%22%3E.st0%7Bdisplay:none%7D.st1%7Bfill:none;stroke:#000;stroke-width:.75;stroke-linejoin:round;stroke-miterlimit:10%7D.st2%7Bfill:#010002%7D%3C/style%3E%3C/svg%3E"
       },
@@ -16222,12 +16334,124 @@
               }
             },
             {
-              "id": "701a44c6-012b-4f37-9aa8-a52ca32401e1",
+              "id": "858853f8-0b95-4be8-9215-abc6c9285834",
               "type": "basic.output",
               "data": {
                 "name": "",
-                "range": "[22:0]",
-                "size": 23
+                "virtual": true,
+                "range": "[21:0]",
+                "pins": [
+                  {
+                    "index": "21",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "20",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "19",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "18",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "17",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "16",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "15",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "14",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "13",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "12",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "11",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "10",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "9",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "8",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "7",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "6",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "5",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "4",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "3",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "2",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "1",
+                    "name": "NULL",
+                    "value": "NULL"
+                  },
+                  {
+                    "index": "0",
+                    "name": "NULL",
+                    "value": "NULL"
+                  }
+                ]
               },
               "position": {
                 "x": 992,
@@ -16247,13 +16471,13 @@
                   "out": [
                     {
                       "name": "o",
-                      "range": "[22:0]",
-                      "size": 23
+                      "range": "[21:0]",
+                      "size": 22
                     }
                   ]
                 },
                 "params": [],
-                "code": "//-- Number of bits\nlocalparam N=23;\n\nassign o = {N{i}};\n"
+                "code": "//-- Number of bits\nlocalparam N=22;\n\nassign o = {N{i}};\n"
               },
               "position": {
                 "x": 632,
@@ -16282,10 +16506,10 @@
                 "port": "o"
               },
               "target": {
-                "block": "701a44c6-012b-4f37-9aa8-a52ca32401e1",
+                "block": "858853f8-0b95-4be8-9215-abc6c9285834",
                 "port": "in"
               },
-              "size": 23
+              "size": 22
             }
           ]
         }
