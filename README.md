@@ -32,7 +32,7 @@ For installing and using this colection in Icestudio follow these steps:
 | CZech |  cs_CZ | ![](https://progress-bar.dev/0) |
 | German |  de_DE | ![](https://progress-bar.dev/0) |
 | Greek |  el_GR | ![](https://progress-bar.dev/0) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/75) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/74) |
 | Basque |  eu_ES | ![](https://progress-bar.dev/0) |
 | French |  fr_FR | ![](https://progress-bar.dev/0) |
 | Galician |  gl_ES | ![](https://progress-bar.dev/0) |
@@ -58,6 +58,7 @@ For installing and using this colection in Icestudio follow these steps:
   * Copy-12
   * Copy-16
   * Copy-24
+  * Copy-27
   * Copy-28
   * Copy-29
   * Copy-30
@@ -388,6 +389,7 @@ For installing and using this colection in Icestudio follow these steps:
     * **Blocks**
       * Uint2-01-bit
   * **Uint32**
+    * Uint32-27-bits
     * Uint32-28-bits
     * Uint32-29-bits
     * Uint32-30-bits
@@ -1127,6 +1129,9 @@ For installing and using this colection in Icestudio follow these steps:
         * **Alhambra-II**
           * 01-Manual-testing
       * **16-bits**
+        * **Alhambra-II**
+          * 01-Manual-testing
+      * **27-bits**
         * **Alhambra-II**
           * 01-Manual-testing
       * **28-bits**
