@@ -59,6 +59,7 @@ For installing and using this colection in Icestudio follow these steps:
   * Copy-16
   * Copy-24
   * Copy-28
+  * Copy-29
   * Copy-30
   * Copy-31
   * Copy-32
@@ -387,6 +388,8 @@ For installing and using this colection in Icestudio follow these steps:
     * **Blocks**
       * Uint2-01-bit
   * **Uint32**
+    * Uint32-28-bits
+    * Uint32-29-bits
     * Uint32-30-bits
     * Uint32-31-bits
     * **Blocks**
