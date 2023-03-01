@@ -384,6 +384,7 @@ For installing and using this colection in Icestudio follow these steps:
     * **Blocks**
       * Uint12-08-bits
   * **Uint16**
+    * Uint16-12-bits
     * Uint16-13-bits
     * Uint16-14-bits
     * Uint16-15-bits
