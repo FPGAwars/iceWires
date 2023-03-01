@@ -80,7 +80,7 @@
           "id": "16d0f9a0-41a3-4b34-99a4-ef5ba4408423",
           "type": "basic.info",
           "data": {
-            "info": "# Example: Displaying the sign bit on a LED\n\nThe Sign of a number is shown on an LED",
+            "info": "# 32-bits sign Test: Displaying the sign bit on a LED\n\nThe Sign of a number is shown on an LED",
             "readonly": true
           },
           "position": {
