@@ -411,6 +411,7 @@ For installing and using this colection in Icestudio follow these steps:
     * Uint32-29-bits
     * Uint32-30-bits
     * Uint32-31-bits
+    * Uint32-8-bits
     * **Blocks**
       * Uint32-16-bits
       * Uint32-17-bits
