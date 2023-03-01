@@ -1545,6 +1545,7 @@ gettext('Alhambra-II');
 gettext('01-sign-LED');
 gettext('Generic: 32-bits generic constant');
 gettext('2-to-1 Multplexer (32-bit channels). Verilog implementation');
+gettext('# 32-bits sign Test: Displaying the sign bit on a LED\n\nThe Sign of a number is shown on an LED');
 gettext('Bus-02');
 gettext('Bus-03');
 gettext('Bus-04');
