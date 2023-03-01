@@ -129,7 +129,7 @@
           "id": "fd14ed5d-e91b-42a8-922f-414275d054bf",
           "type": "basic.info",
           "data": {
-            "info": "## Uint32-16bit Manual testing",
+            "info": "## Uint32-8bit Manual testing",
             "readonly": true
           },
           "position": {
