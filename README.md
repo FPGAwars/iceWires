@@ -32,7 +32,7 @@ For installing and using this colection in Icestudio follow these steps:
 | CZech |  cs_CZ | ![](https://progress-bar.dev/0) |
 | German |  de_DE | ![](https://progress-bar.dev/0) |
 | Greek |  el_GR | ![](https://progress-bar.dev/0) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/68) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/67) |
 | Basque |  eu_ES | ![](https://progress-bar.dev/0) |
 | French |  fr_FR | ![](https://progress-bar.dev/0) |
 | Galician |  gl_ES | ![](https://progress-bar.dev/0) |
@@ -274,6 +274,7 @@ For installing and using this colection in Icestudio follow these steps:
   * Sign-int16
   * Sign-int20
   * Sign-int32
+  * Sign-int4
   * Sign-int5
   * Sign-int6
   * Sign-int7
