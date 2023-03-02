@@ -274,6 +274,7 @@ For installing and using this colection in Icestudio follow these steps:
   * Sign-int16
   * Sign-int20
   * Sign-int32
+  * Sign-int7
   * Sign-int8
   * **Blocks**
     * Sign-int02
