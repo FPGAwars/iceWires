@@ -270,6 +270,7 @@ For installing and using this colection in Icestudio follow these steps:
       * **Blocks**
         * SR1
 * **Sign**
+  * Sign-int12
   * Sign-int16
   * Sign-int20
   * Sign-int32
