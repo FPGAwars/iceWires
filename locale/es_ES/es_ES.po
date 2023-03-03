@@ -839,9 +839,8 @@ msgid "Join-quarter"
 msgstr "Join-quarter"
 
 #: translation.js:195
-#, fuzzy
 msgid "Bus8-Join-quarter: Join the four quarters into an 8-bits Bus"
-msgstr "Bus32-join-quarter: Unir cuatro buses en un bus de 32 bits"
+msgstr "Bus8-Join-quarter: Juntar los cuatro cuartos en bus de 8 bits"
 
 #: translation.js:196
 msgid "Join-1-8"
@@ -3071,7 +3070,7 @@ msgid ""
 "implementation "
 msgstr ""
 "UINT2-1bit-veriog:  Extender un entero sin signo de 1 bit a 2 bits. "
-"Implementación en Verilog"
+"Implementación en Verilog  "
 
 #: translation.js:754
 msgid "UINT2-1bit:  Extend a 1-bit unsigned integer to 2-bits "
@@ -3099,7 +3098,7 @@ msgid ""
 "implementation "
 msgstr ""
 "UINT32-17bit-veriog:  Extender un entero sin signo de 17 bit a 32 bits. "
-"Implementación en Verilog"
+"Implementación en Verilog  "
 
 #: translation.js:760 translation.js:798
 msgid "Uint32-18-bits"
@@ -3111,7 +3110,7 @@ msgid ""
 "implementation "
 msgstr ""
 "UINT32-18bit-veriog:  Extender un entero sin signo de 18 bit a 32 bits. "
-"Implementación en Verilog"
+"Implementación en Verilog  "
 
 #: translation.js:762 translation.js:802
 msgid "Uint32-19-bits"
@@ -3123,7 +3122,7 @@ msgid ""
 "implementation "
 msgstr ""
 "UINT32-19bit-veriog:  Extender un entero sin signo de 19 bit a 32 bits. "
-"Implementación en Verilog"
+"Implementación en Verilog  "
 
 #: translation.js:764 translation.js:806
 msgid "Uint32-2-bits"
@@ -3135,7 +3134,7 @@ msgid ""
 "implementation "
 msgstr ""
 "UINT32-2bit-veriog:  Extender un entero sin signo de 2 bit a 32 bits. "
-"Implementación en Verilog"
+"Implementación en Verilog  "
 
 #: translation.js:766 translation.js:809
 msgid "Uint32-20-bits"
@@ -3147,7 +3146,7 @@ msgid ""
 "implementation "
 msgstr ""
 "UINT32-20bit-veriog:  Extender un entero sin signo de 20 bit a 32 bits. "
-"Implementación en Verilog"
+"Implementación en Verilog  "
 
 #: translation.js:768 translation.js:813
 msgid "Uint32-21-bits"
@@ -3427,7 +3426,7 @@ msgid ""
 "implementation "
 msgstr ""
 "UINT4-1bit-veriog:  Extender un entero sin signo de 1 bit a 4 bits. "
-"Implementación en Verilog"
+"Implementación en Verilog  "
 
 #: translation.js:845 translation.js:851
 msgid "Uint4-02-bit"
@@ -3439,7 +3438,7 @@ msgid ""
 "implementation "
 msgstr ""
 "UINT4-2bit-veriog:  Extender un entero sin signo de 2 bits a 4 bits. "
-"Implementación en Verilog"
+"Implementación en Verilog  "
 
 #: translation.js:847 translation.js:853
 msgid "Uint4-03-bit"
@@ -3475,7 +3474,7 @@ msgid ""
 "implementation "
 msgstr ""
 "UINT8-1bit-veriog:  Extender un entero sin signo de 1 bit a 8 bits. "
-"Implementación en Verilog"
+"Implementación en Verilog  "
 
 #: translation.js:858
 msgid "Uint8-02-bit"
@@ -3487,7 +3486,7 @@ msgid ""
 "implementation "
 msgstr ""
 "UINT8-2bit-veriog:  Extender un entero sin signo de 2 bits a 8 bits. "
-"Implementación en Verilog"
+"Implementación en Verilog  "
 
 #: translation.js:860
 msgid "Uint8-03-bit"
@@ -3523,7 +3522,7 @@ msgid ""
 "implementation "
 msgstr ""
 "UINT8-5bit-veriog:  Extender un entero sin signo de 5 bit a 8 bits. "
-"Implementación en Verilog"
+"Implementación en Verilog  "
 
 #: translation.js:866
 msgid "Uint8-06-bit"
@@ -3535,7 +3534,7 @@ msgid ""
 "implementation "
 msgstr ""
 "UINT8-6bit-veriog:  Extender un entero sin signo de 6 bit a 8 bits. "
-"Implementación en Verilog"
+"Implementación en Verilog  "
 
 #: translation.js:868
 msgid "Uint8-07-bit"
@@ -3547,7 +3546,7 @@ msgid ""
 "implementation "
 msgstr ""
 "UINT8-7bit-veriog:  Extender un entero sin signo de 7 bit a 8 bits. "
-"Implementación en Verilog"
+"Implementación en Verilog  "
 
 #: translation.js:871
 msgid "UINT8-1bit:  Extend a 1-bit unsigned integer to 8-bits "
@@ -4526,6 +4525,8 @@ msgid ""
 "Byte 0  \n"
 "(least significant)  "
 msgstr ""
+"Byte 0  \n"
+"(Menos significativo)  "
 
 #: translation.js:1087
 msgid "Mux 2-1"
@@ -5293,15 +5294,15 @@ msgstr "Counter-M-x02: Contador módulo M de 2 bits"
 
 #: translation.js:1371
 msgid "Comp2-2bit: Comparator of two 2-bit numbers"
-msgstr ""
+msgstr "Comp2-2-bit: Comparador de dos números de 2 bits"
 
 #: translation.js:1372
 msgid "Comp2-1bit: Comparator of two 1-bit numbers"
-msgstr ""
+msgstr "Comp2-1-bit: Comparador de dos números de 1 bit"
 
 #: translation.js:1373
 msgid "reg-rst-2-bits:  2-bits register with reset"
-msgstr ""
+msgstr "reg-rst-2-bits:  Registro de 2 bits con reset"
 
 #: translation.js:1374
 msgid "1-bit-Reg-rst: 1-Bit register with reset"
@@ -5317,13 +5318,15 @@ msgstr ""
 
 #: translation.js:1376
 msgid "2-bits Comparator"
-msgstr ""
+msgstr "Comparador de 2-bits"
 
 #: translation.js:1377
 msgid ""
 "Maximum count  \n"
 "reached"
 msgstr ""
+"Cuenta máxima  \n"
+"alcanzada"
 
 #: translation.js:1378
 msgid "2-bits register"
@@ -5335,14 +5338,17 @@ msgid ""
 "and the cnt tic is received,  \n"
 "the register is reset to 0"
 msgstr ""
+"Si se alcanza la cuenta máxima  \n"
+"y se recibe un tic en cnt,  \n"
+"el registro se inicializa a 0"
 
 #: translation.js:1380
 msgid "A"
-msgstr ""
+msgstr "A"
 
 #: translation.js:1381
 msgid "B"
-msgstr ""
+msgstr "B"
 
 #: translation.js:1384
 msgid ""
@@ -5433,17 +5439,15 @@ msgstr ""
 "\n"
 
 #: translation.js:1422
-#, fuzzy
 msgid "2bits constant value: 1"
-msgstr "Valor constante 0 de 2 bits"
+msgstr "Valor constante de 2 bits: 1"
 
 #: translation.js:1423
-#, fuzzy
 msgid ""
 "# Bus32-Join-30-2: Manual testing\n"
 "\n"
 msgstr ""
-"# Bus32-Join-31-1: Prueba manual\n"
+"# Bus32-Join-30-2: Prueba manual\n"
 "\n"
 
 #: translation.js:1428
@@ -5475,9 +5479,8 @@ msgid "05-Bits"
 msgstr "05-Bits"
 
 #: translation.js:1441
-#, fuzzy
 msgid "## Reversal test"
-msgstr "## Inversión"
+msgstr "## Prueba de Inversión"
 
 #: translation.js:1450 translation.js:1490 translation.js:1961
 #: translation.js:2048
@@ -5498,63 +5501,64 @@ msgid "08-bits"
 msgstr "08-bits"
 
 #: translation.js:1454 translation.js:1494 translation.js:1963
-#, fuzzy
 msgid "16-bits"
-msgstr "06-bits"
+msgstr "16-bits"
 
 #: translation.js:1455 translation.js:1495
-#, fuzzy
 msgid "32-bits"
-msgstr "02-bits"
+msgstr "32-bits"
 
 #: translation.js:1465
 msgid "## BUS-2-Shift-Left-1: Manual testing"
 msgstr "# BUS-2-Shift-Left-1: Prueba manual"
 
 #: translation.js:1469
-#, fuzzy
 msgid "Reg-3-verilog: 3 bits Register with load input. Verilog implementation"
-msgstr "Reversal-2: Inversión de un Bus de 2-bits"
+msgstr ""
+"Reg-3-verilog: Registro de 3 bits con entradas de load. Implementación en "
+"Verilog"
 
 #: translation.js:1470
 msgid "## BUS-3-Shift-Left-1: Manual testing"
 msgstr "# BUS-3-Shift-Left-1: Prueba manual"
 
 #: translation.js:1474
-#, fuzzy
 msgid "Reg-4-verilog: 4 bits Register with load input. Verilog implementation"
-msgstr "Reversal-2: Inversión de un Bus de 2-bits"
+msgstr ""
+"Reg-4-verilog: Registro de 4 bits con entradas de load. Implementación en "
+"Verilog"
 
 #: translation.js:1475
-#, fuzzy
 msgid "## BUS-4-Shift-Left-1: Manual testing"
-msgstr "# BUS-2-Shift-Left-1: Prueba manual"
+msgstr "# BUS-4-Shift-Left-1: Prueba manual"
 
 #: translation.js:1479
-#, fuzzy
 msgid "Reg-8-verilog: 8 bits Register with load input. Verilog implementation"
-msgstr "Reversal-2: Inversión de un Bus de 2-bits"
+msgstr ""
+"Reg-8-verilog: Registro de 8 bits con entradas de load. Implementación en "
+"Verilog"
 
 #: translation.js:1480
-#, fuzzy
 msgid "## BUS-8-Shift-Left-1: Manual testing"
-msgstr "# BUS-2-Shift-Left-1: Prueba manual"
+msgstr "# BUS-8-Shift-Left-1: Prueba manual"
 
 #: translation.js:1484
-#, fuzzy
 msgid ""
 "Reg-16-verilog: 16 bits Register with load input. Verilog implementation"
-msgstr "Reversal-2: Inversión de un Bus de 2-bits"
+msgstr ""
+"Reg-16-verilog: Registro de 16 bits con entradas de load. Implementación en "
+"Verilog"
 
 #: translation.js:1485
 msgid "## BUS-16-Shift-Left-1: Manual testing"
 msgstr "# BUS-16-Shift-Left-1: Prueba manual"
 
 #: translation.js:1489
-#, fuzzy
 msgid ""
 "Reg-03-verilog: 32 bits Register with load input. Verilog implementation"
-msgstr "Reversal-2: Inversión de un Bus de 2-bits"
+msgstr ""
+"Reg-03-verilog: Registro de 32 bits con entradas de load. Implementación en "
+"Verilog"
 
 #: translation.js:1505
 msgid "SR1: Shift  a 2-bit value one bit right. MSB is filled with in"
@@ -5562,29 +5566,24 @@ msgstr ""
 "SR1: Desplazar un valor de 2-bits un bit a la derecha. MSB se rellena con in"
 
 #: translation.js:1512
-#, fuzzy
 msgid "# 3-bits Shift Right: Manual testing"
-msgstr "## BUS-3-Shift-right-1: Prueba manual"
+msgstr "# 3-bits Shift Right: Prueba manual"
 
 #: translation.js:1519
-#, fuzzy
 msgid "# 4-bits Shift Right: Manual testing"
-msgstr "## BUS-3-Shift-right-1: Prueba manual"
+msgstr "# 4-bits Shift Right: Prueba manual"
 
 #: translation.js:1523
-#, fuzzy
 msgid "# 8-bits Shift Right: Manual testing"
-msgstr "## BUS-3-Shift-right-1: Prueba manual"
+msgstr "# 8-bits Shift Right: Prueba manual"
 
 #: translation.js:1527
-#, fuzzy
 msgid "# 16-bits Shift Right: Manual testing"
-msgstr "## BUS-3-Shift-right-1: Prueba manual"
+msgstr "# 16-bits Shift Right: Prueba manual"
 
 #: translation.js:1531
-#, fuzzy
 msgid "# 32-bits Shift Right: Manual testing"
-msgstr "## BUS-3-Shift-right-1: Prueba manual"
+msgstr "# 32-bits Shift Right: Prueba manual"
 
 #: translation.js:1532
 msgid "Sign-02Bits"
@@ -5631,166 +5630,146 @@ msgid "Sign-32Bits"
 msgstr "Sign-32Bits"
 
 #: translation.js:1545
-#, fuzzy
 msgid "2-to-1 Multplexer (2-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Versión invertida"
+msgstr "Multiplexor 2-1 (Canales de 2 bits). Implementación en verilog"
 
 #: translation.js:1546
-#, fuzzy
 msgid ""
 "# 2-bits sign Test: Displaying the sign bit on a LED\n"
 "\n"
 "The Sign of a number is shown on an LED"
 msgstr ""
-"# Ejemplo: Mostrando el bit de signo en un LED\n"
+"# Prueba de Sign-2bits: Mostrando el bit de signo en un LED\n"
 "\n"
 "El signo de un número se muestra en un LED"
 
 #: translation.js:1550
-#, fuzzy
 msgid "2-to-1 Multplexer (3-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Versión invertida"
+msgstr "Multiplexor 2-1 (Canales de 3 bit). Implementación en verilog"
 
 #: translation.js:1551
-#, fuzzy
 msgid ""
 "# 3-bits sign Test: Displaying the sign bit on a LED\n"
 "\n"
 "The Sign of a number is shown on an LED"
 msgstr ""
-"# Ejemplo: Mostrando el bit de signo en un LED\n"
+"# Prueba de Sign-3bits: Mostrando el bit de signo en un LED\n"
 "\n"
 "El signo de un número se muestra en un LED"
 
 #: translation.js:1554
-#, fuzzy
 msgid "2-to-1 Multplexer (4-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Versión invertida"
+msgstr "Multiplexor 2-1 (Canales de 4 bit). Implementación en verilog"
 
 #: translation.js:1555
-#, fuzzy
 msgid ""
 "# 4-bits sign Test: Displaying the sign bit on a LED\n"
 "\n"
 "The Sign of a number is shown on an LED"
 msgstr ""
-"# Ejemplo: Mostrando el bit de signo en un LED\n"
+"# Prueba de Sign-4bits: Mostrando el bit de signo en un LED\n"
 "\n"
 "El signo de un número se muestra en un LED"
 
 #: translation.js:1558
-#, fuzzy
 msgid "2-to-1 Multplexer (5-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Versión invertida"
+msgstr "Multiplexor 2-1 (Canales de 5 bit). Implementación en verilog"
 
 #: translation.js:1559
-#, fuzzy
 msgid ""
 "# 5-bits sign Test: Displaying the sign bit on a LED\n"
 "\n"
 "The Sign of a number is shown on an LED"
 msgstr ""
-"# Ejemplo: Mostrando el bit de signo en un LED\n"
+"# Prueba de Sign-5bits: Mostrando el bit de signo en un LED\n"
 "\n"
 "El signo de un número se muestra en un LED"
 
 #: translation.js:1562
-#, fuzzy
 msgid "2-to-1 Multplexer (6-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Versión invertida"
+msgstr "Multiplexor 2-1 (Canales de 6 bit). Implementación en verilog"
 
 #: translation.js:1563
-#, fuzzy
 msgid ""
 "# 6-bits sign Test: Displaying the sign bit on a LED\n"
 "\n"
 "The Sign of a number is shown on an LED"
 msgstr ""
-"# Ejemplo: Mostrando el bit de signo en un LED\n"
+"# Prueba de Sign-6bits: Mostrando el bit de signo en un LED\n"
 "\n"
 "El signo de un número se muestra en un LED"
 
 #: translation.js:1566
-#, fuzzy
 msgid "2-to-1 Multplexer (7-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Versión invertida"
+msgstr "Multiplexor 2-1 (Canales de 7 bit). Implementación en verilog"
 
 #: translation.js:1567
-#, fuzzy
 msgid ""
 "# 7-bits sign Test: Displaying the sign bit on a LED\n"
 "\n"
 "The Sign of a number is shown on an LED"
 msgstr ""
-"# Ejemplo: Mostrando el bit de signo en un LED\n"
+"# Prueba de Sign-7bits: Mostrando el bit de signo en un LED\n"
 "\n"
 "El signo de un número se muestra en un LED"
 
 #: translation.js:1570
-#, fuzzy
 msgid "2-to-1 Multplexer (8-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Versión invertida"
+msgstr "Multiplexor 2-1 (Canales de 8 bit). Implementación en verilog"
 
 #: translation.js:1571
-#, fuzzy
 msgid ""
 "# 8-bits sign Test: Displaying the sign bit on a LED\n"
 "\n"
 "The Sign of a number is shown on an LED"
 msgstr ""
-"# Ejemplo: Mostrando el bit de signo en un LED\n"
+"# Prueba de Sign-8bits: Mostrando el bit de signo en un LED\n"
 "\n"
 "El signo de un número se muestra en un LED"
 
 #: translation.js:1574
-#, fuzzy
 msgid "2-to-1 Multplexer (12-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Versión invertida"
+msgstr "Multiplexor 2-1 (Canales de 12 bit). Implementación en verilog"
 
 #: translation.js:1575
-#, fuzzy
 msgid ""
 "# 12-bits sign Test: Displaying the sign bit on a LED\n"
 "\n"
 "The Sign of a number is shown on an LED"
 msgstr ""
-"# Ejemplo: Mostrando el bit de signo en un LED\n"
+"# Prueba de Sign-12bits: Mostrando el bit de signo en un LED\n"
 "\n"
 "El signo de un número se muestra en un LED"
 
 #: translation.js:1577
-#, fuzzy
 msgid "2-to-1 Multplexer (16-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Versión invertida"
+msgstr "Multiplexor 2-1 (Canales de 16 bit). Implementación en verilog"
 
 #: translation.js:1578
-#, fuzzy
 msgid ""
 "# 16-bits sign Test: Displaying the sign bit on a LED\n"
 "\n"
 "The Sign of a number is shown on an LED"
 msgstr ""
-"# Ejemplo: Mostrando el bit de signo en un LED\n"
+"# Prueba de Sign-16bits: Mostrando el bit de signo en un LED\n"
 "\n"
 "El signo de un número se muestra en un LED"
 
 #: translation.js:1581
-#, fuzzy
 msgid "2-to-1 Multplexer (20-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Versión invertida"
+msgstr "Multiplexor 2-1 (Canales de 20 bit). Implementación en verilog"
 
 #: translation.js:1582
 msgid "Generic: 20-bits generic constant"
 msgstr "Generic: Constante genérica de 20-bits"
 
 #: translation.js:1583
-#, fuzzy
 msgid ""
 "# 20-bits sign Test: Displaying the sign bit on a LED\n"
 "\n"
 "The Sign of a number is shown on an LED"
 msgstr ""
-"# Ejemplo: Mostrando el bit de signo en un LED\n"
+"# Prueba de Sign-20bits: Mostrando el bit de signo en un LED\n"
 "\n"
 "El signo de un número se muestra en un LED"
 
@@ -5799,18 +5778,16 @@ msgid "Generic: 32-bits generic constant"
 msgstr "Generic: Constante genérica de 32-bits"
 
 #: translation.js:1587
-#, fuzzy
 msgid "2-to-1 Multplexer (32-bit channels). Verilog implementation"
-msgstr "Multiplexor 2-1 (Canales de 1 bit). Versión invertida"
+msgstr "Multiplexor 2-1 (Canales de 32 bit). Implementación en verilog"
 
 #: translation.js:1588
-#, fuzzy
 msgid ""
 "# 32-bits sign Test: Displaying the sign bit on a LED\n"
 "\n"
 "The Sign of a number is shown on an LED"
 msgstr ""
-"# Ejemplo: Mostrando el bit de signo en un LED\n"
+"# Prueba de Sign-32bits: Mostrando el bit de signo en un LED\n"
 "\n"
 "El signo de un número se muestra en un LED"
 
@@ -6143,13 +6120,12 @@ msgstr ""
 "El valor de la constante se muestra en los LEDs"
 
 #: translation.js:1748
-#, fuzzy
 msgid ""
 "# Bus8-Split-quarter: Manual testing with a constant and LEDs\n"
 "\n"
 "The value of the constant is shown on the LEDs"
 msgstr ""
-"# Bus8-Split-all: Prueba manual con una constante y LEDs  \n"
+"# Bus8-Split-quarter: Prueba manual con una constante y LEDs  \n"
 "\n"
 "El valor de la constante se muestra en los LEDs"
 
@@ -6596,69 +6572,57 @@ msgstr ""
 "El valor de la constante se muestra en los LEDs"
 
 #: translation.js:1903
-#, fuzzy
 msgid "8-to-1 Multplexer (8-bit channels)"
-msgstr "Multiplexor 2-1 (Canales de 8 bits)"
+msgstr "Multiplexor 8-1 (Canales de 8 bits)"
 
 #: translation.js:1904
-#, fuzzy
 msgid "8-to-1 Multplexer (2-bit channels)"
-msgstr "Multiplexor 2-1 (Canales de 8 bits)"
+msgstr "Multiplexor 8-1 (Canales de 2 bits)"
 
 #: translation.js:1905
-#, fuzzy
 msgid "8-to-1 Multplexer (1-bit channels)"
-msgstr "Multiplexor 2-1 (Canales de 1 bit)"
+msgstr "Multiplexor 8-1 (Canales de 1 bit)"
 
 #: translation.js:1906
-#, fuzzy
 msgid "4-to-1 Multplexer (1-bit channels)"
-msgstr "Multiplexor 2-1 (Canales de 1 bit)"
+msgstr "Multiplexor 4-1 (Canales de 1 bit)"
 
 #: translation.js:1907
-#, fuzzy
 msgid "Counter-x03: 3-bits counter"
-msgstr "Counter-x02: Contador de 2 bits"
+msgstr "Counter-x03: Contador de 3-bits"
 
 #: translation.js:1908
-#, fuzzy
 msgid "Reg-x03: 3-bits register"
-msgstr "Reg: Registro de 1-Bit"
+msgstr "Reg-x03: Registro de 3 bits"
 
 #: translation.js:1909
-#, fuzzy
 msgid "Inc1-3bit: Increment a 3-bits number by one"
-msgstr "Inc1-2bit: Incrementar un número de 2 bits en uno"
+msgstr "Inc1-3bit: Incrementar un número de 3 bits en uno"
 
 #: translation.js:1910
-#, fuzzy
 msgid "AdderK-3bit: Adder of 3-bit operand and 3-bit constant"
 msgstr ""
-"AdderK-2bit: Sumador de un operando de 2 bits y una constante de 2 bits"
+"AdderK-3bit: Sumador de un operando de 3 bits y una constante de 3 bits"
 
 #: translation.js:1911
-#, fuzzy
 msgid "Adder-3bits: Adder of two operands of 3 bits"
-msgstr "Adder-8bits: Sumador de dos operandos de 8 bits"
+msgstr "Adder-3bits: Sumador de dos operandos de 3 bits"
 
 #: translation.js:1912
-#, fuzzy
 msgid "Generic: 64-bits generic constant"
-msgstr "Generic: Constante genérica de 24-bits"
+msgstr "Genérica: Constante genérica de 64 bits"
 
 #: translation.js:1913
-#, fuzzy
 msgid ""
 "## 64-bits Split half: Manual testing\n"
 "\n"
 "The 64-bits constants is displayed on the 8 LEDs"
 msgstr ""
-"# Bus32-Split-half: Prueba manual  \n"
+"# 64-bits Split-half: Prueba manual  \n"
 "\n"
 "El valor de la constante se muestra en los LEDs"
 
 #: translation.js:1922
-#, fuzzy
 msgid "## Uint12-8bit Manual testing"
 msgstr "## Uint12-8bits: Prueba manual"
 
@@ -6667,277 +6631,228 @@ msgid "09-bits"
 msgstr "09-bits"
 
 #: translation.js:1925
-#, fuzzy
 msgid "10-bits"
-msgstr "02-bits"
+msgstr "10-bits"
 
 #: translation.js:1926
-#, fuzzy
 msgid "11-bits"
-msgstr "03-bits"
+msgstr "11-bits"
 
 #: translation.js:1927
-#, fuzzy
 msgid "12-bits"
-msgstr "02-bits"
+msgstr "12-bits"
 
 #: translation.js:1928
-#, fuzzy
 msgid "13-bits"
-msgstr "03-bits"
+msgstr "13-bits"
 
 #: translation.js:1929
-#, fuzzy
 msgid "14-bits"
-msgstr "04-bits"
+msgstr "14-bits"
 
 #: translation.js:1930
-#, fuzzy
 msgid "15-bits"
-msgstr "05-bits"
+msgstr "15-bits"
 
 #: translation.js:1933
-#, fuzzy
 msgid "## Uint16-8bit Manual testing"
 msgstr "## Uint16-8bits: Prueba manual"
 
 #: translation.js:1938
-#, fuzzy
 msgid "## Uint16-10bit Manual testing"
-msgstr "## Uint16-8bits: Prueba manual"
+msgstr "## Uint16-10bits: Prueba manual"
 
 #: translation.js:1941
-#, fuzzy
 msgid "## Uint16-11bit Manual testing"
-msgstr "## Uint16-8bits: Prueba manual"
+msgstr "## Uint16-11bits: Prueba manual"
 
 #: translation.js:1944
-#, fuzzy
 msgid "## Uint16-12bit Manual testing"
-msgstr "## Uint16-8bits: Prueba manual"
+msgstr "## Uint16-12bits: Prueba manual"
 
 #: translation.js:1947
-#, fuzzy
 msgid "## Uint16-13bit Manual testing"
-msgstr "## Uint16-8bits: Prueba manual"
+msgstr "## Uint16-13bits: Prueba manual"
 
 #: translation.js:1950
-#, fuzzy
 msgid "## Uint16-14bit Manual testing"
-msgstr "## Uint16-8bits: Prueba manual"
+msgstr "## Uint16-14bits: Prueba manual"
 
 #: translation.js:1953
-#, fuzzy
 msgid ""
 "UINT32-15bit-verilog:  Extend a 15-bit unsigned integer to 32-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT32-15bit-verilog:  Extender un entero sin signo de 15 bits a 32 bits. "
+"Implementación en Verilog "
 
 #: translation.js:1954
-#, fuzzy
 msgid ""
 "Copy-15: Copy the input wire twice and generate a 15 bits Bus output "
 "(Verilog implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits (Implementación en Verilog)"
+"Copy-15: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"15 bits (Implementación en Verilog)"
 
 #: translation.js:1955
-#, fuzzy
 msgid "## Uint32-15bit Manual testing"
-msgstr "## Uint2-1bits: Prueba manual"
+msgstr "## Uint32-15bits: Prueba manual"
 
 #: translation.js:1956 translation.js:2047
 msgid "01-bit"
 msgstr "01-bit"
 
 #: translation.js:1959
-#, fuzzy
 msgid "not-x2: 2-bits not gate"
-msgstr "Counter-x02: Contador de 2 bits"
+msgstr "not-x2: Puerta not de 2 bits"
 
 #: translation.js:1960
 msgid "## Uint2-1bits: Manual testing"
 msgstr "## Uint2-1bits: Prueba manual"
 
 #: translation.js:1964
-#, fuzzy
 msgid "17-bits"
-msgstr "07-bits"
+msgstr "17-bits"
 
 #: translation.js:1965
-#, fuzzy
 msgid "18-bits"
-msgstr "08-bits"
+msgstr "18-bits"
 
 #: translation.js:1966
-#, fuzzy
 msgid "19-bits"
-msgstr "09-bits"
+msgstr "19-bits"
 
 #: translation.js:1967
-#, fuzzy
 msgid "20-bits"
-msgstr "02-bits"
+msgstr "20-bits"
 
 #: translation.js:1968
-#, fuzzy
 msgid "21-bits"
-msgstr "03-bits"
+msgstr "21-bits"
 
 #: translation.js:1969
-#, fuzzy
 msgid "22-bits"
-msgstr "02-bits"
+msgstr "22-bits"
 
 #: translation.js:1970
-#, fuzzy
 msgid "23-bits"
-msgstr "03-bits"
+msgstr "23-bits"
 
 #: translation.js:1971
-#, fuzzy
 msgid "24-bits"
-msgstr "04-bits"
+msgstr "24-bits"
 
 #: translation.js:1972
-#, fuzzy
 msgid "25-bits"
-msgstr "05-bits"
+msgstr "25-bits"
 
 #: translation.js:1973
-#, fuzzy
 msgid "26-bits"
-msgstr "06-bits"
+msgstr "26-bits"
 
 #: translation.js:1974
-#, fuzzy
 msgid "27-bits"
-msgstr "07-bits"
+msgstr "27-bits"
 
 #: translation.js:1975
-#, fuzzy
 msgid "28-bits"
-msgstr "08-bits"
+msgstr "28-bits"
 
 #: translation.js:1976
-#, fuzzy
 msgid "29-bits"
-msgstr "09-bits"
+msgstr "29-bits"
 
 #: translation.js:1977
-#, fuzzy
 msgid "30-bits"
-msgstr "02-bits"
+msgstr "30-bits"
 
 #: translation.js:1978
-#, fuzzy
 msgid "31-bits"
-msgstr "03-bits"
+msgstr "31-bits"
 
 #: translation.js:1981
-#, fuzzy
 msgid "not-x32: 32-bits not gate"
-msgstr "Counter-x02: Contador de 2 bits"
+msgstr "not-x32: Puerta NOT de 32 bits"
 
 #: translation.js:1982
-#, fuzzy
 msgid "## Uint32-2bit Manual testing"
-msgstr "## Uint12-8bits: Prueba manual"
+msgstr "## Uint32-2bits: Prueba manual"
 
 #: translation.js:1985
-#, fuzzy
 msgid "## Uint32-8bit Manual testing"
-msgstr "## Uint12-8bits: Prueba manual"
+msgstr "## Uint32-8bits: Prueba manual"
 
 #: translation.js:1988
-#, fuzzy
 msgid "## Uint32-16bit Manual testing"
-msgstr "## Uint2-1bits: Prueba manual"
+msgstr "## Uint32-16bits: Prueba manual"
 
 #: translation.js:1991
-#, fuzzy
 msgid "## Uint32-17bit Manual testing"
-msgstr "## Uint12-8bits: Prueba manual"
+msgstr "## Uint32-17bits: Prueba manual"
 
 #: translation.js:1994
-#, fuzzy
 msgid "## Uint32-18bit Manual testing"
-msgstr "## Uint12-8bits: Prueba manual"
+msgstr "## Uint32-18bits: Prueba manual"
 
 #: translation.js:1997
-#, fuzzy
 msgid "## Uint32-19bit Manual testing"
-msgstr "## Uint12-8bits: Prueba manual"
+msgstr "## Uint32-19bits: Prueba manual"
 
 #: translation.js:2000
-#, fuzzy
 msgid "## Uint32-20bit Manual testing"
-msgstr "## Uint12-8bits: Prueba manual"
+msgstr "## Uint32-20bits: Prueba manual"
 
 #: translation.js:2003
-#, fuzzy
 msgid "## Uint32-21bit Manual testing"
-msgstr "## Uint12-8bits: Prueba manual"
+msgstr "## Uint32-21bits: Prueba manual"
 
 #: translation.js:2006
-#, fuzzy
 msgid "## Uint32-22bit Manual testing"
-msgstr "## Uint12-8bits: Prueba manual"
+msgstr "## Uint32-22bits: Prueba manual"
 
 #: translation.js:2009
-#, fuzzy
 msgid "## Uint32-23bit Manual testing"
-msgstr "## Uint12-8bits: Prueba manual"
+msgstr "## Uint32-23bits: Prueba manual"
 
 #: translation.js:2012
-#, fuzzy
 msgid "## Uint32-24bit Manual testing"
-msgstr "## Uint12-8bits: Prueba manual"
+msgstr "## Uint32-24bits: Prueba manual"
 
 #: translation.js:2015
-#, fuzzy
 msgid "## Uint32-25bit Manual testing"
-msgstr "## Uint12-8bits: Prueba manual"
+msgstr "## Uint32-25bits: Prueba manual"
 
 #: translation.js:2018
-#, fuzzy
 msgid "## Uint32-26bit Manual testing"
-msgstr "## Uint12-8bits: Prueba manual"
+msgstr "## Uint32-26bits: Prueba manual"
 
 #: translation.js:2021
-#, fuzzy
 msgid "## Uint32-27bit Manual testing"
-msgstr "## Uint12-8bits: Prueba manual"
+msgstr "## Uint32-27bits: Prueba manual"
 
 #: translation.js:2024
-#, fuzzy
 msgid "## Uint32-28bit Manual testing"
-msgstr "## Uint12-8bits: Prueba manual"
+msgstr "## Uint32-28bits: Prueba manual"
 
 #: translation.js:2027
-#, fuzzy
 msgid "## Uint32-29bit: Manual testing"
-msgstr "## Uint12-8bits: Prueba manual"
+msgstr "## Uint32-29bits: Prueba manual"
 
 #: translation.js:2030
-#, fuzzy
 msgid "## Uint32-30bit: Manual testing"
-msgstr "## Uint2-1bits: Prueba manual"
+msgstr "## Uint32-30bits: Prueba manual"
 
 #: translation.js:2033
-#, fuzzy
 msgid "## Uint32-31bit: Manual testing"
-msgstr "## Uint2-1bits: Prueba manual"
+msgstr "## Uint32-31bits: Prueba manual"
 
 #: translation.js:2034
 msgid "01-Bit"
 msgstr "01-Bit"
 
 #: translation.js:2039
-#, fuzzy
 msgid "not-x4: 4-bits not gate"
-msgstr "Counter-x02: Contador de 2 bits"
+msgstr "not-x4: PUerta NOT de 4-bits"
 
 #: translation.js:2040
 msgid "## Uint4-1bit: Manual testing"
@@ -6964,41 +6879,34 @@ msgid "07-bits"
 msgstr "07-bits"
 
 #: translation.js:2056
-#, fuzzy
 msgid "not-x8: 8-bits not gate"
-msgstr "Counter-x02: Contador de 2 bits"
+msgstr "not-x8: PUerta NOT de 8-bits"
 
 #: translation.js:2057
 msgid "## Uint8-1bit: Manual testing"
 msgstr "## Uint8-1bit: Prueba manual"
 
 #: translation.js:2060
-#, fuzzy
 msgid "## Uint8-2bit: Manual testing"
 msgstr "## Uint8-2bit: Prueba manual"
 
 #: translation.js:2063
-#, fuzzy
 msgid "## Uint8-3bit: Manual testing"
 msgstr "## Uint8-3bit: Prueba manual"
 
 #: translation.js:2066
-#, fuzzy
 msgid "## Uint8-4bit: Manual testing"
 msgstr "## Uint8-4bit: Prueba manual"
 
 #: translation.js:2069
-#, fuzzy
 msgid "## Uint8-5bit: Manual testing"
 msgstr "## Uint8-5bit: Prueba manual"
 
 #: translation.js:2072
-#, fuzzy
 msgid "## Uint8-6bit: Manual testing"
 msgstr "## Uint8-6bit: Prueba manual"
 
 #: translation.js:2075
-#, fuzzy
 msgid "## Uint8-7bit: Manual testing"
 msgstr "## Uint8-7bit: Prueba manual"
 
