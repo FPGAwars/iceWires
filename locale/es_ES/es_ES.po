@@ -10,8 +10,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SearchPath-0: translation.js\n"
 
@@ -54,7 +54,7 @@ msgstr "Cables"
 #: translation.js:706 translation.js:750 translation.js:755 translation.js:842
 #: translation.js:855
 msgid "Blocks"
-msgstr ""
+msgstr "Blocks"
 
 #: translation.js:19 translation.js:82 translation.js:1039
 msgid "Copy-02"
@@ -73,171 +73,152 @@ msgid "Copy-03"
 msgstr "Copy-03"
 
 #: translation.js:22
-#, fuzzy
 msgid ""
 "Copy-3: Copy the input wire twice and generate a 3 bits Bus output (Verilog "
 "implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits (Implementación en Verilog)"
+"Copy-3: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"3 bits (Implementación en Verilog)"
 
 #: translation.js:23 translation.js:88 translation.js:1041
 msgid "Copy-04"
 msgstr "Copy-04"
 
 #: translation.js:24
-#, fuzzy
 msgid ""
 "Copy-4: Copy the input wire twice and generate a 4 bits Bus output (Verilog "
 "implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits (Implementación en Verilog)"
+"Copy-4: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"4 bits (Implementación en Verilog)"
 
 #: translation.js:25 translation.js:91 translation.js:1042
 msgid "Copy-05"
 msgstr "Copy-05"
 
 #: translation.js:26
-#, fuzzy
 msgid ""
 "Copy-5: Copy the input wire twice and generate a 5 bits Bus output (Verilog "
 "implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits (Implementación en Verilog)"
+"Copy-5: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"5 bits (Implementación en Verilog)"
 
 #: translation.js:27 translation.js:94 translation.js:1043
 msgid "Copy-06"
 msgstr "Copy-06"
 
 #: translation.js:28
-#, fuzzy
 msgid ""
 "Copy-6: Copy the input wire twice and generate a 6 bits Bus output (Verilog "
 "implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits (Implementación en Verilog)"
+"Copy-6: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"6 bits (Implementación en Verilog)"
 
 #: translation.js:29 translation.js:97 translation.js:1044
 msgid "Copy-07"
 msgstr "Copy-07"
 
 #: translation.js:30
-#, fuzzy
 msgid ""
 "Copy-7: Copy the input wire twice and generate a 7 bits Bus output (Verilog "
 "implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits (Implementación en Verilog)"
+"Copy-7: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"7 bits (Implementación en Verilog)"
 
 #: translation.js:31 translation.js:100 translation.js:1045
 msgid "Copy-08"
 msgstr "Copy-08"
 
 #: translation.js:32
-#, fuzzy
 msgid ""
 "Copy-8: Copy the input wire twice and generate a 8 bits Bus output (Verilog "
 "implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits (Implementación en Verilog)"
+"Copy-8: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"8 bits (Implementación en Verilog)"
 
 #: translation.js:33 translation.js:103 translation.js:1046
 msgid "Copy-09"
 msgstr "Copy-09"
 
 #: translation.js:34
-#, fuzzy
 msgid ""
 "Copy-9: Copy the input wire twice and generate a 9 bits Bus output (Verilog "
 "implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits (Implementación en Verilog)"
+"Copy-9: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"9 bits (Implementación en Verilog)"
 
 #: translation.js:35 translation.js:1047
-#, fuzzy
 msgid "Copy-10"
-msgstr "Copy-2"
+msgstr "Copy-10"
 
 #: translation.js:36
-#, fuzzy
 msgid ""
 "Copy-10: Copy the input wire twice and generate a 10 bits Bus output "
 "(Verilog implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits (Implementación en Verilog)"
+"Copy-10: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"10 bits (Implementación en Verilog)"
 
 #: translation.js:37 translation.js:1048
-#, fuzzy
 msgid "Copy-11"
-msgstr "Copy-2"
+msgstr "Copy-11"
 
 #: translation.js:38
-#, fuzzy
 msgid ""
 "Copy-11: Copy the input wire twice and generate a 11 bits Bus output "
 "(Verilog implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits (Implementación en Verilog)"
+"Copy-11: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"11 bits (Implementación en Verilog)"
 
 #: translation.js:39 translation.js:106 translation.js:1049
-#, fuzzy
 msgid "Copy-12"
-msgstr "Copy-2"
+msgstr "Copy-12"
 
 #: translation.js:40
-#, fuzzy
 msgid ""
 "Copy-12: Copy the input wire twice and generate a 12 bits Bus output "
 "(Verilog implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits (Implementación en Verilog)"
+"Copy-12: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"12 bits (Implementación en Verilog)"
 
 #: translation.js:41
-#, fuzzy
 msgid "Copy-13"
-msgstr "Copy-2"
+msgstr "Copy-13"
 
 #: translation.js:42
-#, fuzzy
 msgid ""
 "Copy-13: Copy the input wire twice and generate a 13 bits Bus output "
 "(Verilog implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"Copy-13: Copiar el cable de entrada dos veces y generar una salida de bus de "
 "2 bits (Implementación en Verilog)"
 
 #: translation.js:43
-#, fuzzy
 msgid "Copy-14"
-msgstr "Copy-2"
+msgstr "Copy-14"
 
 #: translation.js:44
-#, fuzzy
 msgid ""
 "Copy-14: Copy the input wire twice and generate a 14 bits Bus output "
 "(Verilog implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"Copy-14: Copiar el cable de entrada dos veces y generar una salida de bus de "
 "2 bits (Implementación en Verilog)"
 
 #: translation.js:45
-#, fuzzy
 msgid "Copy-15"
-msgstr "Copy-2"
+msgstr "Copy-15"
 
 #: translation.js:46
-#, fuzzy
 msgid "not-x16: 16-bits not gate"
-msgstr "Counter-x02: Contador de 2 bits"
+msgstr "not-x16: Puerta NOT de 16 bits"
 
 #: translation.js:47
 msgid "Input"
@@ -248,233 +229,200 @@ msgid "Output"
 msgstr "Salida"
 
 #: translation.js:49 translation.js:1050
-#, fuzzy
 msgid "Copy-16"
-msgstr "Copy-2"
+msgstr "Copy-16"
 
 #: translation.js:50
-#, fuzzy
 msgid ""
 "Copy-16: Copy the input wire twice and generate a 16 bits Bus output "
 "(Verilog implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits (Implementación en Verilog)"
+"Copy-16: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"16 bits (Implementación en Verilog)"
 
 #: translation.js:51
-#, fuzzy
 msgid "Copy-17"
-msgstr "Copy-7"
+msgstr "Copy-17"
 
 #: translation.js:52
-#, fuzzy
 msgid ""
 "Copy-17: Copy the input wire twice and generate a 17 bits Bus output "
 "(Verilog implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits (Implementación en Verilog)"
+"Copy-17: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"17 bits (Implementación en Verilog)"
 
 #: translation.js:53
-#, fuzzy
 msgid "Copy-18"
-msgstr "Copy-8"
+msgstr "Copy-18"
 
 #: translation.js:54
-#, fuzzy
 msgid ""
 "Copy-18: Copy the input wire twice and generate a 18 bits Bus output "
 "(Verilog implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits (Implementación en Verilog)"
+"Copy-18: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"18 bits (Implementación en Verilog)"
 
 #: translation.js:55
-#, fuzzy
 msgid "Copy-19"
-msgstr "Copy-2"
+msgstr "Copy-19"
 
 #: translation.js:56
-#, fuzzy
 msgid ""
 "Copy-19: Copy the input wire twice and generate a 19 bits Bus output "
 "(Verilog implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits (Implementación en Verilog)"
+"Copy-19: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"19 bits (Implementación en Verilog)"
 
 #: translation.js:57 translation.js:1051
-#, fuzzy
 msgid "Copy-20"
-msgstr "Copy-2"
+msgstr "Copy-20"
 
 #: translation.js:58
-#, fuzzy
 msgid ""
 "Copy-20: Copy the input wire twice and generate a 20 bits Bus output "
 "(Verilog implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits (Implementación en Verilog)"
+"Copy-20: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"20 bits (Implementación en Verilog)"
 
 #: translation.js:59
-#, fuzzy
 msgid "Copy-21"
-msgstr "Copy-2"
+msgstr "Copy-21"
 
 #: translation.js:60
-#, fuzzy
 msgid ""
 "Copy-21: Copy the input wire twice and generate a 21 bits Bus output "
 "(Verilog implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits (Implementación en Verilog)"
+"Copy-21: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"21 bits (Implementación en Verilog)"
 
 #: translation.js:61
-#, fuzzy
 msgid "Copy-22"
-msgstr "Copy-2"
+msgstr "Copy-22"
 
 #: translation.js:62
-#, fuzzy
 msgid ""
 "Copy-22: Copy the input wire twice and generate a 22 bits Bus output "
 "(Verilog implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits (Implementación en Verilog)"
+"Copy-22: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"22 bits (Implementación en Verilog)"
 
 #: translation.js:63
-#, fuzzy
 msgid "Copy-23"
-msgstr "Copy-2"
+msgstr "Copy-23"
 
 #: translation.js:64
-#, fuzzy
 msgid ""
 "Copy-23: Copy the input wire twice and generate a 23 bits Bus output "
 "(Verilog implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits (Implementación en Verilog)"
+"Copy-23: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"23 bits (Implementación en Verilog)"
 
 #: translation.js:65 translation.js:1052
-#, fuzzy
 msgid "Copy-24"
-msgstr "Copy-2"
+msgstr "Copy-24"
 
 #: translation.js:66
-#, fuzzy
 msgid ""
 "Copy-24: Copy the input wire twice and generate a 24 bits Bus output "
 "(Verilog implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits (Implementación en Verilog)"
+"Copy-24: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"24 bits (Implementación en Verilog)"
 
 #: translation.js:67
-#, fuzzy
 msgid "Copy-25"
-msgstr "Copy-2"
+msgstr "Copy-25"
 
 #: translation.js:68
-#, fuzzy
 msgid ""
 "Copy-25: Copy the input wire twice and generate a 25 bits Bus output "
 "(Verilog implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits (Implementación en Verilog)"
+"Copy-25: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"25 bits (Implementación en Verilog)"
 
 #: translation.js:69
-#, fuzzy
 msgid "Copy-26"
-msgstr "Copy-2"
+msgstr "Copy-26"
 
 #: translation.js:70
-#, fuzzy
 msgid ""
 "Copy-26: Copy the input wire twice and generate a 26 bits Bus output "
 "(Verilog implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits (Implementación en Verilog)"
+"Copy-26: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"26 bits (Implementación en Verilog)"
 
 #: translation.js:71
-#, fuzzy
 msgid "Copy-27"
-msgstr "Copy-2"
+msgstr "Copy-27"
 
 #: translation.js:72
-#, fuzzy
 msgid ""
 "Copy-27: Copy the input wire twice and generate a 27 bits Bus output "
 "(Verilog implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits (Implementación en Verilog)"
+"Copy-27: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"27 bits (Implementación en Verilog)"
 
 #: translation.js:73 translation.js:1053
-#, fuzzy
 msgid "Copy-28"
-msgstr "Copy-2"
+msgstr "Copy-28"
 
 #: translation.js:74
-#, fuzzy
 msgid ""
 "Copy-28: Copy the input wire twice and generate a 28 bits Bus output "
 "(Verilog implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits (Implementación en Verilog)"
+"Copy-28: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"28 bits (Implementación en Verilog)"
 
 #: translation.js:75
-#, fuzzy
 msgid "Copy-29"
-msgstr "Copy-2"
+msgstr "Copy-29"
 
 #: translation.js:76
-#, fuzzy
 msgid ""
 "Copy-30: Copy the input wire twice and generate a 30 bits Bus output "
 "(Verilog implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits (Implementación en Verilog)"
+"Copy-30: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"30 bits (Implementación en Verilog)"
 
 #: translation.js:77
-#, fuzzy
 msgid "Copy-30"
-msgstr "Copy-2"
+msgstr "Copy-30"
 
 #: translation.js:78
-#, fuzzy
 msgid "Copy-31"
-msgstr "Copy-2"
+msgstr "Copy-31"
 
 #: translation.js:79
-#, fuzzy
 msgid ""
 "Copy-31: Copy the input wire twice and generate a 31 bits Bus output "
 "(Verilog implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits (Implementación en Verilog)"
+"Copy-31: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"31 bits (Implementación en Verilog)"
 
 #: translation.js:80 translation.js:1054
-#, fuzzy
 msgid "Copy-32"
-msgstr "Copy-2"
+msgstr "Copy-32"
 
 #: translation.js:81
-#, fuzzy
 msgid ""
 "Copy-32: Copy the input wire twice and generate a 32 bits Bus output "
 "(Verilog implementation)"
 msgstr ""
-"Copy-2: Copiar el cable de entrada dos veces y generar una salida de bus de "
-"2 bits (Implementación en Verilog)"
+"Copy-32: Copiar el cable de entrada dos veces y generar una salida de bus de "
+"32 bits (Implementación en Verilog)"
 
 #: translation.js:83
 msgid "Copy-2: Copy the input wire twice and generate a 2 bits Bus output"
@@ -543,9 +491,8 @@ msgid "Bus8-Join-1-8: Join the two buses into an 9-bits Bus"
 msgstr "Bus8-join-1-8: Unir dos buses en un bus de 9 bits"
 
 #: translation.js:107
-#, fuzzy
 msgid "Copy-12: Copy the input wire and creates a 12 bits Bus output"
-msgstr "Copy-3: Copiar el cable de entrada y sacarlo por un bus de 3 bits"
+msgstr "Copy-12: Copiar el cable de entrada y sacarlo por un bus de 12 bits"
 
 #: translation.js:108
 msgid "Bus12-Join-4-8: Join the two buses into an 12-bits Bus"
@@ -627,9 +574,8 @@ msgid "Bus-20"
 msgstr "Bus-20"
 
 #: translation.js:124
-#, fuzzy
 msgid "Bus-21"
-msgstr "Bus-2"
+msgstr "Bus-21"
 
 #: translation.js:125 translation.js:565 translation.js:1138
 #: translation.js:1605
@@ -666,9 +612,8 @@ msgid "Bus-32"
 msgstr "Bus-32"
 
 #: translation.js:132 translation.js:572 translation.js:1611
-#, fuzzy
 msgid "Bus-64"
-msgstr "Bus-6"
+msgstr "Bus-64"
 
 #: translation.js:133 translation.js:138 translation.js:143 translation.js:154
 #: translation.js:163 translation.js:178 translation.js:191 translation.js:1145
@@ -939,14 +884,12 @@ msgid "Join-4-8"
 msgstr "Join-4-8"
 
 #: translation.js:206 translation.js:1291
-#, fuzzy
 msgid "Join-one-fourth"
-msgstr "Join-one-third"
+msgstr "Join-one-fourth"
 
 #: translation.js:207
-#, fuzzy
 msgid "Bus12-Join-one-fourth: Join the four buses into an 12-bits Bus"
-msgstr "Bus12-join-one-third: Unir los tres buses en un bus de 12 bits"
+msgstr "Bus12-join-one-fourth: Unir los tres buses en un bus de 12 bits"
 
 #: translation.js:208 translation.js:253 translation.js:1292
 #: translation.js:1363
@@ -974,86 +917,72 @@ msgid "Bus15-Join-7-8: Join the two buses into a 15-bits Bus"
 msgstr "Bus15-join-7-8: Unir dos buses en un bus de 15 bits"
 
 #: translation.js:214
-#, fuzzy
 msgid "Join-01-15"
-msgstr "Join-1-15"
+msgstr "Join-01-15"
 
 #: translation.js:215
 msgid "Bus16-Join-1-15: Join the two buses into a 16-bits Bus"
 msgstr "Bus6-join-1-15: Unir dos buses en un bus de 16 bits"
 
 #: translation.js:216
-#, fuzzy
 msgid "Join-02-14"
-msgstr "Join-2-1"
+msgstr "Join-02-14"
 
 #: translation.js:217
-#, fuzzy
 msgid "Bus16-Join-2-14: Join the two buses into a 16-bits Bus"
-msgstr "Bus6-join-1-15: Unir dos buses en un bus de 16 bits"
+msgstr "Bus16-join-2-14: Unir dos buses en un bus de 16 bits"
 
 #: translation.js:218
-#, fuzzy
 msgid "Join-03-13"
-msgstr "Join-3-1"
+msgstr "Join-03-13"
 
 #: translation.js:219
-#, fuzzy
 msgid "Bus16-Join-3-13: Join the two same halves into an 16-bits Bus"
-msgstr "Bus16-Join-4-12: Unir los dos partes iguales en un bus de 16 bits"
+msgstr "Bus16-Join-3-13: Unir los dos partes iguales en un bus de 16 bits"
 
 #: translation.js:220
-#, fuzzy
 msgid "Join-04-12"
-msgstr "Join-4-12"
+msgstr "Join-04-12"
 
 #: translation.js:221
 msgid "Bus16-Join-4-12: Join the two same halves into an 16-bits Bus"
 msgstr "Bus16-Join-4-12: Unir los dos partes iguales en un bus de 16 bits"
 
 #: translation.js:222
-#, fuzzy
 msgid "Join-05-11"
-msgstr "Join-5-1"
+msgstr "Join-05-11"
 
 #: translation.js:223
-#, fuzzy
 msgid "Bus16-Join-5-11: Join the two same halves into an 16-bits Bus"
-msgstr "Bus16-Join-4-12: Unir los dos partes iguales en un bus de 16 bits"
+msgstr "Bus16-Join-5-11: Unir los dos partes iguales en un bus de 16 bits"
 
 #: translation.js:224
-#, fuzzy
 msgid "Join-06-10"
-msgstr "Join-6-1"
+msgstr "Join-06-10"
 
 #: translation.js:225
-#, fuzzy
 msgid "Bus16-Join-6-10: Join the two same halves into an 16-bits Bus"
-msgstr "Bus16-Join-4-12: Unir los dos partes iguales en un bus de 16 bits"
+msgstr "Bus16-Join-6-10: Unir los dos partes iguales en un bus de 16 bits"
 
 #: translation.js:226
-#, fuzzy
 msgid "Join-07-9"
-msgstr "Join-7-9"
+msgstr "Join-07-9"
 
 #: translation.js:227
 msgid "Bus16-Join-7-9: Join the two same halves into an 16-bits Bus"
 msgstr "Bus16-Join-7-9: Unir los dos partes iguales en un bus de 16 bits"
 
 #: translation.js:228
-#, fuzzy
 msgid "Join-14-02"
-msgstr "Join-1-2"
+msgstr "Join-14-02"
 
 #: translation.js:229
-#, fuzzy
 msgid "Bus16-Join-14-2: Join the two buses into a 16-bits Bus"
-msgstr "Bus6-join-4-2: Unir dos buses en un bus de 6 bits"
+msgstr "Bus16-join-4-2: Unir dos buses en un bus de 16 bits"
 
 #: translation.js:230
-#, fuzzy
 msgid "Join-15-01"
-msgstr "Join-15-1"
+msgstr "Join-15-01"
 
 #: translation.js:231
 msgid "Bus16-Join-15-1: Join the two buses into a 16-bits Bus"
@@ -1096,14 +1025,12 @@ msgid "Bus20-Join-4-8-8: Join the three buses into an 20-bits Bus"
 msgstr "Bus20-join-4-8-8: Unir los tres buses en un bus de 20 bits"
 
 #: translation.js:243 translation.js:282
-#, fuzzy
 msgid "Join-11-21"
-msgstr "Join-1-2"
+msgstr "Join-11-21"
 
 #: translation.js:244
-#, fuzzy
 msgid "Bus32-Join-11-21: Join the two buses into an 32-bits Bus"
-msgstr "Bus32-join-1-31: Unir dos buses en un bus de 32 bits"
+msgstr "Bus32-join-11-21: Unir dos buses en un bus de 32 bits"
 
 #: translation.js:245 translation.js:281 translation.js:1353
 msgid "Join-10-22"
@@ -1130,9 +1057,8 @@ msgid "Bus24-Join-8-16: Join the two buses into an 24-bits Bus"
 msgstr "Bus24-join-8-16: Unir dos buses en un bus de 24 bits"
 
 #: translation.js:252
-#, fuzzy
 msgid "Bus24-Join-half: Join the two buses into an 24-bits Bus"
-msgstr "Bus4-join-half: Unir dos buses en un bus de 4 bits"
+msgstr "Bus24-join-half: Unir dos buses en un bus de 24 bits"
 
 #: translation.js:254
 msgid "Bus24-Join-one-third: Join the three buses into an 24-bits Bus"
@@ -1171,131 +1097,108 @@ msgid "Bus31-Join-7-8-8-8: Join the four buses into a 31-bits Bus"
 msgstr "Bus31-join-7-8-8-8: Unir cuatro buses en un bus de 31 bits"
 
 #: translation.js:263
-#, fuzzy
 msgid "Join-01-31"
-msgstr "Join-1-31"
+msgstr "Join-01-31"
 
 #: translation.js:264
 msgid "Bus32-Join-1-31: Join the two buses into an 32-bits Bus"
 msgstr "Bus32-join-1-31: Unir dos buses en un bus de 32 bits"
 
 #: translation.js:265
-#, fuzzy
 msgid "Join-02-30"
-msgstr "Join-2-3"
+msgstr "Join-02-30"
 
 #: translation.js:266
-#, fuzzy
 msgid "Bus32-Join-2-30: Join the two buses into an 32-bits Bus"
-msgstr "Bus32-join-29-3: Unir dos buses en un bus de 32 bits"
+msgstr "Bus32-join-2-30: Unir dos buses en un bus de 32 bits"
 
 #: translation.js:267
-#, fuzzy
 msgid "Join-03-29"
-msgstr "Join-3-29"
+msgstr "Join-03-29"
 
 #: translation.js:268
 msgid "Bus32-Join-3-29: Join the two buses into an 32-bits Bus"
 msgstr "Bus32-join-3-29: Unir dos buses en un bus de 32 bits"
 
 #: translation.js:269
-#, fuzzy
 msgid "Join-04-28"
-msgstr "Join-4-2"
+msgstr "Join-04-28"
 
 #: translation.js:270
-#, fuzzy
 msgid "Bus32-Join-4-28: Join the two buses into an 32-bits Bus"
-msgstr "Bus32-join-3-29: Unir dos buses en un bus de 32 bits"
+msgstr "Bus32-join-4-28: Unir dos buses en un bus de 32 bits"
 
 #: translation.js:271
-#, fuzzy
 msgid "Join-05-27"
-msgstr "Join-5-2"
+msgstr "Join-05-27"
 
 #: translation.js:272
-#, fuzzy
 msgid "Bus32-Join-5-27: Join the two buses into an 32-bits Bus"
-msgstr "Bus32-join-3-29: Unir dos buses en un bus de 32 bits"
+msgstr "Bus32-join-5-27: Unir dos buses en un bus de 32 bits"
 
 #: translation.js:273
-#, fuzzy
 msgid "Join-06-26"
-msgstr "Join-6-2"
+msgstr "Join-06-26"
 
 #: translation.js:274
-#, fuzzy
 msgid "Bus32-Join-6-26: Join the two buses into an 32-bits Bus"
-msgstr "Bus32-join-3-29: Unir dos buses en un bus de 32 bits"
+msgstr "Bus32-join-6-26: Unir dos buses en un bus de 32 bits"
 
 #: translation.js:275
-#, fuzzy
 msgid "Join-07-25"
-msgstr "Join-3-2"
+msgstr "Join-07-25"
 
 #: translation.js:276
-#, fuzzy
 msgid "Bus32-Join-7-25: Join the two buses into an 32-bits Bus"
-msgstr "Bus32-join-17-15: Unir dos buses en un bus de 32 bits"
+msgstr "Bus32-join-7-25: Unir dos buses en un bus de 32 bits"
 
 #: translation.js:277
-#, fuzzy
 msgid "Join-08-24"
-msgstr "Join-8-24"
+msgstr "Join-08-24"
 
 #: translation.js:278
 msgid "Bus32-Join-8-24: Join the two buses into an 32-bits Bus"
 msgstr "Bus32-join-8-24: Unir dos buses en un bus de 32 bits"
 
 #: translation.js:279
-#, fuzzy
 msgid "Join-09-23"
-msgstr "Join-29-3"
+msgstr "Join-09-23"
 
 #: translation.js:280
-#, fuzzy
 msgid "Bus32-Join-9-23: Join the two buses into an 32-bits Bus"
-msgstr "Bus32-join-29-3: Unir dos buses en un bus de 32 bits"
+msgstr "Bus32-join-9-23: Unir dos buses en un bus de 32 bits"
 
 #: translation.js:283
-#, fuzzy
 msgid "Join-12-20"
-msgstr "Join-1-2"
+msgstr "Join-12-20"
 
 #: translation.js:284
-#, fuzzy
 msgid "Bus32-Join-12-20: Join the two buses into an 32-bits Bus"
-msgstr "Bus32-join-10-22: Unir dos buses en un bus de 32 bits"
+msgstr "Bus32-join-12-20: Unir dos buses en un bus de 32 bits"
 
 #: translation.js:285
-#, fuzzy
 msgid "Join-13-19"
-msgstr "Join-1-19"
+msgstr "Join-13-19"
 
 #: translation.js:286
-#, fuzzy
 msgid "Bus32-Join-13-19: Join the two buses into an 32-bits Bus"
-msgstr "Bus32-join-1-31: Unir dos buses en un bus de 32 bits"
+msgstr "Bus32-join-13-19: Unir dos buses en un bus de 32 bits"
 
 #: translation.js:287
-#, fuzzy
 msgid "Join-14-18"
-msgstr "Join-1-8"
+msgstr "Join-14-18"
 
 #: translation.js:288
-#, fuzzy
 msgid "Bus32-Join-14-18: Join the two buses into an 32-bits Bus"
-msgstr "Bus32-join-1-31: Unir dos buses en un bus de 32 bits"
+msgstr "Bus32-join-14-18: Unir dos buses en un bus de 32 bits"
 
 #: translation.js:289
-#, fuzzy
 msgid "Join-15-17"
-msgstr "Join-15-1"
+msgstr "Join-15-17"
 
 #: translation.js:290
-#, fuzzy
 msgid "Bus32-Join-15-17: Join the two buses into an 32-bits Bus"
-msgstr "Bus32-join-1-31: Unir dos buses en un bus de 32 bits"
+msgstr "Bus32-join-15-17: Unir dos buses en un bus de 32 bits"
 
 #: translation.js:291 translation.js:1401
 msgid "Join-17-15"
@@ -1314,14 +1217,12 @@ msgid "Bus32-Join-29-3: Join the two buses into an 32-bits Bus"
 msgstr "Bus32-join-29-3: Unir dos buses en un bus de 32 bits"
 
 #: translation.js:295 translation.js:1403
-#, fuzzy
 msgid "Join-30-2"
-msgstr "Join-3-2"
+msgstr "Join-30-2"
 
 #: translation.js:296
-#, fuzzy
 msgid "Bus32-Join-30-2: Join the two buses into an 32-bits Bus"
-msgstr "Bus32-join-3-29: Unir dos buses en un bus de 32 bits"
+msgstr "Bus32-join-30-2: Unir dos buses en un bus de 32 bits"
 
 #: translation.js:297 translation.js:1404
 msgid "Join-31-1"
@@ -1340,46 +1241,44 @@ msgid "Bus32-Join-quarter: Join the four buses into an 32-bits Bus"
 msgstr "Bus32-join-quarter: Unir cuatro buses en un bus de 32 bits"
 
 #: translation.js:304
-#, fuzzy
 msgid "Bus64-Join-half: Join the two buses into an 64-bits Bus"
-msgstr "Bus4-join-half: Unir dos buses en un bus de 4 bits"
+msgstr "Bus64-join-half: Unir dos buses en un bus de 64 bits"
 
 #: translation.js:306 translation.js:314
 msgid "Reversal-02"
 msgstr "Reversal-02"
 
 #: translation.js:307
-#, fuzzy
 msgid "Reversal-2-verilog: 2-bit Bus reversal. Verilog implementation"
-msgstr "Reversal-2: Inversión de un Bus de 2-bits"
+msgstr ""
+"Reversal-2-verilog: Inversión de un Bus de 2-bits. Implementación en Verilog"
 
 #: translation.js:308 translation.js:317
 msgid "Reversal-03"
 msgstr "Reversal-03"
 
 #: translation.js:309
-#, fuzzy
 msgid "Reversal-3-verilog: 3-bit Bus reversal. Verilog implementation"
-msgstr "Reversal-2: Inversión de un Bus de 2-bits"
+msgstr ""
+"Reversal-3-verilog: Inversión de un Bus de 2-bits. Implementación en Verilog"
 
 #: translation.js:310 translation.js:320
 msgid "Reversal-04"
 msgstr "Reversal-04"
 
 #: translation.js:311
-#, fuzzy
 msgid "Reversal-4-verilog: 4-bit Bus reversal. Verilog implementation"
-msgstr "Reversal-2: Inversión de un Bus de 2-bits"
+msgstr ""
+"Reversal-4-verilog: Inversión de un Bus de 4-bits. Implementación en Verilog"
 
 #: translation.js:312
-#, fuzzy
 msgid "Reversal-05"
-msgstr "Reversal-02"
+msgstr "Reversal-05"
 
 #: translation.js:313
-#, fuzzy
 msgid "Reversal-5-verilog: 5-bit Bus reversal. Verilog implementation"
-msgstr "Reversal-2: Inversión de un Bus de 2-bits"
+msgstr ""
+"Reversal-5-verilog: Inversión de un Bus de 5-bits. Implementación en Verilog"
 
 #: translation.js:315
 msgid "Reversal-2: 2-bit Bus reversal"
@@ -1407,12 +1306,11 @@ msgstr "Bus4-Split-all: Separar un bus de 4 bits en sus  cables"
 
 #: translation.js:323 translation.js:1448
 msgid "Left"
-msgstr ""
+msgstr "Left"
 
 #: translation.js:324 translation.js:1449
-#, fuzzy
 msgid "Right"
-msgstr "Shift-Right"
+msgstr "Right"
 
 #: translation.js:325 translation.js:375 translation.js:1435
 #: translation.js:2035
@@ -1429,19 +1327,16 @@ msgid "04-Bits"
 msgstr "04-Bits"
 
 #: translation.js:328 translation.js:378
-#, fuzzy
 msgid "08-Bits"
-msgstr "02-Bits"
+msgstr "08-Bits"
 
 #: translation.js:329 translation.js:379
-#, fuzzy
 msgid "16-Bits"
-msgstr "## 16-Bits"
+msgstr "16-Bits"
 
 #: translation.js:330 translation.js:380
-#, fuzzy
 msgid "32-Bits"
-msgstr "02-Bits"
+msgstr "32-Bits"
 
 #: translation.js:332 translation.js:344 translation.js:347 translation.js:349
 #: translation.js:353 translation.js:355 translation.js:359 translation.js:361
@@ -1452,10 +1347,10 @@ msgid "SL1"
 msgstr "SL1"
 
 #: translation.js:333
-#, fuzzy
 msgid "SL1-2-verilog: Shift  a 2-bit value one bit left. LSB is filled with "
 msgstr ""
-"SL1: Desplaar un valor de 2 bits un bit a la izquierda. LSB se rellena con "
+"SL1-2-verilog: Desplazar un valor de 2 bits un bit a la izquierda. LSB se "
+"rellena con "
 
 #: translation.js:334 translation.js:1457
 msgid "SL1-int2"
@@ -1504,70 +1399,70 @@ msgid "Sign bit is lost"
 msgstr "El bit de signo se pierde"
 
 #: translation.js:345
-#, fuzzy
 msgid "SL1-2: Shift  a 2-bit value one bit left. LSB is filled with "
 msgstr ""
-"SL1: Desplaar un valor de 2 bits un bit a la izquierda. LSB se rellena con "
+"SL1-2: Desplazar un valor de 2 bits un bit a la izquierda. LSB se rellena "
+"con "
 
 #: translation.js:348
-#, fuzzy
 msgid "SL1-3-verilog: Shift  a 3-bit value one bit left. LSB is filled with "
 msgstr ""
-"SL1: Desplaar un valor de 2 bits un bit a la izquierda. LSB se rellena con "
+"SL1-3-verilog: Desplazar un valor de 3 bits un bit a la izquierda. LSB se "
+"rellena con "
 
 #: translation.js:350
-#, fuzzy
 msgid "SL1-3: Shift  a 3-bit value one bit left. LSB is filled with "
 msgstr ""
-"SL1: Desplazar un valor de 3 bits un bit a la izquierda. LSB se rellena con "
+"SL1-3: Desplazar un valor de 3 bits un bit a la izquierda. LSB se rellena "
+"con "
 
 #: translation.js:351
 msgid "Bus3-Split-1-2: Split the 3-bits bus into two: 1-bit and 2-bits buses"
 msgstr "Bus3-Split-1-2: Separar un bus de 3 bits en dos buses de 1 y 2 bits"
 
 #: translation.js:354
-#, fuzzy
 msgid "SL1-4-verilog: Shift  a 4-bit value one bit left. LSB is filled with "
 msgstr ""
-"SL1: Desplaar un valor de 2 bits un bit a la izquierda. LSB se rellena con "
+"SL1-4-verilog: Desplazar un valor de 4 bits un bit a la izquierda. LSB se "
+"rellena con "
 
 #: translation.js:356
-#, fuzzy
 msgid "SL1-4: Shift  a 4-bit value one bit left. LSB is filled with "
 msgstr ""
-"SL1: Desplazar un valor de 4 bits un bit a la izquierda. LSB se rellena con "
+"SL1-4: Desplazar un valor de 4 bits un bit a la izquierda. LSB se rellena "
+"con "
 
 #: translation.js:357
 msgid "Bus5-Split-1-4: Split the 5-bits bus into two buses of 1 and 4 bits"
 msgstr "Bus5-Split-1-4: Separar un bus de 5 bits en dos buses de 1 y 4 bits"
 
 #: translation.js:360
-#, fuzzy
 msgid "SL1-8-verilog: Shift  a 8-bit value one bit left. LSB is filled with "
 msgstr ""
-"SL1: Desplaar un valor de 2 bits un bit a la izquierda. LSB se rellena con "
+"SL1-1-8-verilog: Desplazar un valor de 8 bits un bit a la izquierda. LSB se "
+"rellena con "
 
 #: translation.js:362
-#, fuzzy
 msgid "SL1-8: Shift  a 8-bit value one bit left. LSB is filled with "
 msgstr ""
-"SL1: Desplazar un valor de 8 bits un bit a la izquierda. LSB se rellena con "
+"SL1-8: Desplazar un valor de 8 bits un bit a la izquierda. LSB se rellena "
+"con "
 
 #: translation.js:363
 msgid "Bus9-Split-half: Split the 9-bits bus into two buses of 1 and 8 wires"
 msgstr "Bus9-Split-half: Separar un bus de 9 bits en dos buses de 1 y 8 bits"
 
 #: translation.js:366
-#, fuzzy
 msgid "SL1-16-verilog: Shift  a 16-bit value one bit left. LSB is filled with "
 msgstr ""
-"SL1: Desplaar un valor de 2 bits un bit a la izquierda. LSB se rellena con "
+"SL1-16-verilog: Desplazar un valor de 16 bits un bit a la izquierda. LSB se "
+"rellena con "
 
 #: translation.js:368
-#, fuzzy
 msgid "SL1-16: Shift  a 16-bit value one bit left. LSB is filled with "
 msgstr ""
-"SL1: Desplazar un valor de 16 bits un bit a la izquierda. LSB se rellena con "
+"SL1-16: Desplazar un valor de 16 bits un bit a la izquierda. LSB se rellena "
+"con "
 
 #: translation.js:369
 msgid ""
@@ -1576,10 +1471,10 @@ msgstr ""
 "Bus16-Split-half: Separar un bus de 16 bits en dos buses de 1 y 11 bits"
 
 #: translation.js:372
-#, fuzzy
 msgid "SL1-32-verilog: Shift  a 32-bit value one bit left. LSB is filled with "
 msgstr ""
-"SL1: Desplaar un valor de 2 bits un bit a la izquierda. LSB se rellena con "
+"SL1-32-verilog: Desplazar un valor de 32 bits un bit a la izquierda. LSB se "
+"rellena con "
 
 #: translation.js:374
 msgid ""
@@ -1596,12 +1491,11 @@ msgid "SR1"
 msgstr "SR1"
 
 #: translation.js:383
-#, fuzzy
 msgid ""
 "SR1-2bits-verilog: Shift  a 2-bit value one bit right. MSB is filled with "
 "in. Verilog implementation"
 msgstr ""
-"SR1-32bits: Desplazar un valor de 32-bits un bit a la derecha. MSB se "
+"SR1-2bits-verilog: Desplazar un valor de 32-bits un bit a la derecha. MSB se "
 "rellena con la entrada in"
 
 #: translation.js:384 translation.js:1497
@@ -1648,9 +1542,10 @@ msgid "This bit is ignored"
 msgstr "Este bit se ignora"
 
 #: translation.js:393
-#, fuzzy
 msgid "Reg-2-verilog: 2 bits Register with load input. Verilog implementation"
-msgstr "Reversal-2: Inversión de un Bus de 2-bits"
+msgstr ""
+"Reg-2-verilog: Registro de 2-bits con entrada de load. Implementación en "
+"Verilog"
 
 #: translation.js:394
 msgid "Button-tic: Configurable button that emits a tic when it is pressed"
@@ -1802,9 +1697,8 @@ msgid "1-bit generic constant (0/1)"
 msgstr "Constante genérica de 1-bit  (0/1)"
 
 #: translation.js:426
-#, fuzzy
 msgid "# 2-bits Shift Right: Manual testing"
-msgstr "## BUS-3-Shift-right-1: Prueba manual"
+msgstr "# 2-bits Shift Right: Prueba manual"
 
 #: translation.js:427
 msgid "System clock"
@@ -2112,13 +2006,12 @@ msgstr ""
 "| 1 | 1     |  0     | Not      |"
 
 #: translation.js:467
-#, fuzzy
 msgid ""
 "SR1-3bits-verilog: Shift  a 3-bit value one bit right. MSB is filled with "
 "in. Verilog implementation"
 msgstr ""
-"SR1-32bits: Desplazar un valor de 32-bits un bit a la derecha. MSB se "
-"rellena con la entrada in"
+"SR1-3bits-verilog: Desplazar un valor de 3-bits un bit a la derecha. MSB se "
+"rellena con la entrada in. Implementación en Verilog"
 
 #: translation.js:468 translation.js:1507
 msgid "SR1-uint3"
@@ -2133,83 +2026,77 @@ msgstr ""
 "rellena con 0 (no se usa signo)"
 
 #: translation.js:471
-#, fuzzy
 msgid "SR1: Shift  a 3-bit value one bit right. MSB is filled with in"
 msgstr ""
-"SR1: Desplazar un valor de 2-bits un bit a la derecha. MSB se rellena con in"
+"SR1: Desplazar un valor de 3-bits un bit a la derecha. MSB se rellena con in"
 
 #: translation.js:472
 msgid "Bus3-Split-2-1: Split the 3-bits bus into two: 2-bit and 1-bits buses"
 msgstr "Bus3-Split-2-1: Separar un bus de 3 bits en dos buses de 2 y 1 bits"
 
 #: translation.js:475
-#, fuzzy
 msgid ""
 "SR1-4bits-verilog: Shift  a 4-bit value one bit right. MSB is filled with "
 "in. Verilog implementation"
 msgstr ""
-"SR1-32bits: Desplazar un valor de 32-bits un bit a la derecha. MSB se "
-"rellena con la entrada in"
+"SR1-4bits-verilog: Desplazar un valor de 4-bits un bit a la derecha. MSB se "
+"rellena con la entrada in. Implementación en Verilog"
 
 #: translation.js:476 translation.js:1514
-#, fuzzy
 msgid "SR1-uint4"
-msgstr "SR1-uint2"
+msgstr "SR1-uint4"
 
 #: translation.js:477
-#, fuzzy
 msgid ""
 "SR1-uint4: Shift  a 4-bit value one bit right. MSB is filled with 0 (no sign "
 "used)"
 msgstr ""
-"SR1-uint2: Desplazar un valor de 2-bits un bit a la derecha. El MSB se "
+"SR1-uint4: Desplazar un valor de 4-bits un bit a la derecha. El MSB se "
 "rellena con 0 (no se usa signo)"
 
 #: translation.js:479
-#, fuzzy
 msgid "SR1-4bits: Shift  a 4-bit value one bit right. MSB is filled with in"
 msgstr ""
-"SR1: Desplazar un valor de 2-bits un bit a la derecha. MSB se rellena con in"
+"SR1-4bits: Desplazar un valor de 4-bits un bit a la derecha. MSB se rellena "
+"con in"
 
 #: translation.js:480
 msgid "Bus4-Split-3-1: Split the 4-bits bus into two: 3-bits and 1-bits buses"
 msgstr "Bus4-Split-3-1: Separar un bus de 4 bits en dos buses de 3 y 1 bits"
 
 #: translation.js:483
-#, fuzzy
 msgid ""
 "SR1-8bits-verilog: Shift  a 8-bit value one bit right. MSB is filled with "
 "in. Verilog implementation"
 msgstr ""
-"SR1-32bits: Desplazar un valor de 32-bits un bit a la derecha. MSB se "
-"rellena con la entrada in"
+"SR1-8bits-verilog: Desplazar un valor de 8-bits un bit a la derecha. MSB se "
+"rellena con la entrada in. Implementación en Verilog"
 
 #: translation.js:485
-#, fuzzy
 msgid "SR1-8bits: Shift  a 8-bit value one bit right. MSB is filled with in"
 msgstr ""
-"SR1: Desplazar un valor de 2-bits un bit a la derecha. MSB se rellena con in"
+"SR1-8bits: Desplazar un valor de 8-bits un bit a la derecha. MSB se rellena "
+"con in"
 
 #: translation.js:486
 msgid "Bus8-Split-7-1: Split the 8-bits bus into two buses of 7 and 1 wires"
 msgstr "Bus8-Split-7-1: Separar un bus de 8 bits en dos buses de 7 y 1 bits"
 
 #: translation.js:489
-#, fuzzy
 msgid ""
 "SR1-16bits-verilog: Shift  a 16-bit value one bit right. MSB is filled with "
 "in. Verilog implementation"
 msgstr ""
-"SR1-32bits: Desplazar un valor de 32-bits un bit a la derecha. MSB se "
-"rellena con la entrada in"
+"SR1-16bits-verilog: Desplazar un valor de 16-bits un bit a la derecha. MSB "
+"se rellena con la entrada in. Implementación en Verilog"
 
 #: translation.js:491
-#, fuzzy
 msgid ""
 "SR1-16bits-verilog: Shift  a 16-bit value one bit right. MSB is filled with "
 "in"
 msgstr ""
-"SR1: Desplazar un valor de 2-bits un bit a la derecha. MSB se rellena con in"
+"SR1-16bits-verilog: Desplazar un valor de 16-bits un bit a la derecha. MSB "
+"se rellena con in"
 
 #: translation.js:492
 msgid ""
@@ -2218,21 +2105,20 @@ msgstr ""
 "Bus16-Split-half: Separar un bus de 16 bits en dos buses de 1 y 15 bits"
 
 #: translation.js:495
-#, fuzzy
 msgid ""
 "SR1-32bits-verilog: Shift  a 32-bit value one bit right. MSB is filled with "
 "in. Verilog implementation"
 msgstr ""
-"SR1-32bits: Desplazar un valor de 32-bits un bit a la derecha. MSB se "
-"rellena con la entrada in"
+"SR1-32bits-verilog: Desplazar un valor de 32-bits un bit a la derecha. MSB "
+"se rellena con la entrada in. Implementación en Verilog"
 
 #: translation.js:497
-#, fuzzy
 msgid ""
 "SR1-32bits-verilog: Shift  a 32-bit value one bit right. MSB is filled with "
 "in"
 msgstr ""
-"SR1: Desplazar un valor de 2-bits un bit a la derecha. MSB se rellena con in"
+"SR1-32bits-verilog: Desplazar un valor de 32-bits un bit a la derecha. MSB "
+"se rellena con in"
 
 #: translation.js:498
 msgid ""
@@ -2245,133 +2131,140 @@ msgid "Sign-int12"
 msgstr "Sign-int12"
 
 #: translation.js:501
-#, fuzzy
 msgid ""
 "Sign-int12-verilog: Get the sign of a 12-bits Intenger. Verilog "
 "implementation"
-msgstr "Sign-int32: Obtener el signo de un entero de 32 bits"
+msgstr ""
+"Sign-int12-verilog: Obtener el signo de un entero de 12 bits. Implementación "
+"en Verilog"
 
 #: translation.js:502 translation.js:542
 msgid "Sign-int16"
 msgstr "Sign-int16"
 
 #: translation.js:503
-#, fuzzy
 msgid ""
 "Sign-int16-verilog: Get the sign of a 16-bits Intenger. Verilog "
 "implementation"
-msgstr "Sign-int32: Obtener el signo de un entero de 32 bits"
+msgstr ""
+"Sign-int16-verilog: Obtener el signo de un entero de 16 bits. Implementación "
+"en Verilog"
 
 #: translation.js:504 translation.js:1547
 msgid "Sign-int2"
 msgstr "Sign-int2"
 
 #: translation.js:505
-#, fuzzy
 msgid ""
 "Sign-int2-verilog: Get the sign of a 2-bits Intenger. Verilog implementation"
-msgstr "Sign-int32: Obtener el signo de un entero de 32 bits"
+msgstr ""
+"Sign-int2-verilog: Obtener el signo de un entero de 32 bits. Implementación "
+"en Verilog"
 
 #: translation.js:506 translation.js:544
 msgid "Sign-int20"
 msgstr "Sign-int20"
 
 #: translation.js:507
-#, fuzzy
 msgid ""
 "Sign-int20-verilog: Get the sign of a 20-bits Intenger. Verilog "
 "implementation"
-msgstr "Sign-int32: Obtener el signo de un entero de 32 bits"
+msgstr ""
+"Sign-int20-verilog: Obtener el signo de un entero de 20 bits. Implementación "
+"en Verilog"
 
 #: translation.js:508 translation.js:1549
 msgid "Sign-int3"
 msgstr "Sign-int3"
 
 #: translation.js:509
-#, fuzzy
 msgid ""
 "Sign-int3-verilog: Get the sign of a 3-bits Intenger. Verilog implementation"
-msgstr "Sign-int32: Obtener el signo de un entero de 32 bits"
+msgstr ""
+"Sign-int3: Obtener el signo de un entero de 3 bits. Implementación en Verilog"
 
 #: translation.js:510 translation.js:547
 msgid "Sign-int32"
 msgstr "Sign-int32"
 
 #: translation.js:511
-#, fuzzy
 msgid ""
 "Sign-int32-verilog: Get the sign of a 32-bits Intenger. Verilog "
 "implementation"
-msgstr "Sign-int32: Obtener el signo de un entero de 32 bits"
+msgstr ""
+"Sign-int32-verilog: Obtener el signo de un entero de 32 bits. Implementación "
+"en Verilog"
 
 #: translation.js:512 translation.js:1553
 msgid "Sign-int4"
 msgstr "Sign-int4"
 
 #: translation.js:513
-#, fuzzy
 msgid ""
 "Sign-int4-verilog: Get the sign of a 4-bits Intenger. Verilog implementation"
-msgstr "Sign-int32: Obtener el signo de un entero de 32 bits"
+msgstr ""
+"Sign-int4-verilog: Obtener el signo de un entero de 4 bits. Implementación "
+"en Verilog"
 
 #: translation.js:514 translation.js:1557
 msgid "Sign-int5"
 msgstr "Sign-int5"
 
 #: translation.js:515
-#, fuzzy
 msgid ""
 "Sign-int5-verilog: Get the sign of a 5-bits Intenger. Verilog implementation"
-msgstr "Sign-int32: Obtener el signo de un entero de 32 bits"
+msgstr ""
+"Sign-int5-verilog: Obtener el signo de un entero de 5 bits. Implementación "
+"en Verilog"
 
 #: translation.js:516 translation.js:1561
 msgid "Sign-int6"
 msgstr "Sign-int6"
 
 #: translation.js:517
-#, fuzzy
 msgid ""
 "Sign-int6-verilog: Get the sign of a 6-bits Intenger. Verilog implementation"
-msgstr "Sign-int32: Obtener el signo de un entero de 32 bits"
+msgstr ""
+"Sign-int6-verilog: Obtener el signo de un entero de 6 bits. Implementación "
+"en Verilog"
 
 #: translation.js:518 translation.js:1565
 msgid "Sign-int7"
 msgstr "Sign-int7"
 
 #: translation.js:519
-#, fuzzy
 msgid ""
 "Sign-int7-verilog: Get the sign of a 7-bits Intenger. Verilog implementation"
-msgstr "Sign-int32: Obtener el signo de un entero de 32 bits"
+msgstr ""
+"Sign-int7-verilog: Obtener el signo de un entero de 7 bits. Implementación "
+"en Verilog"
 
 #: translation.js:520 translation.js:1569
 msgid "Sign-int8"
 msgstr "Sign-int8"
 
 #: translation.js:521
-#, fuzzy
 msgid ""
 "Sign-int8-verilog: Get the sign of a 8-bits Intenger. Verilog implementation"
-msgstr "Sign-int32: Obtener el signo de un entero de 32 bits"
+msgstr ""
+"Sign-int8-verilog: Obtener el signo de un entero de 8 bits. Implementación "
+"en Verilog"
 
 #: translation.js:522
-#, fuzzy
 msgid "Sign-int02"
-msgstr "Sign-int2"
+msgstr "Sign-int02"
 
 #: translation.js:523
-#, fuzzy
 msgid "Sign-int03"
-msgstr "Sign-int3"
+msgstr "Sign-int03"
 
 #: translation.js:524
 msgid "Sign-int3: Get the sign of a 3-bits Intenger"
 msgstr "Sign-int3: Obtener el signo de un entero de 3 bits"
 
 #: translation.js:525
-#, fuzzy
 msgid "Sign-int04"
-msgstr "Sign-int4"
+msgstr "Sign-int04"
 
 #: translation.js:526
 msgid "Sign-int4: Get the sign of a 4-bits Intenger"
@@ -2382,18 +2275,16 @@ msgid "Bus4-Split-1-3: Split the 4-bits bus into two: 1-bit and 3-bits buses"
 msgstr "Bus4-Split-1-3: Separar un bus de 4 bits en dos buses de 1 y 3 bits"
 
 #: translation.js:528
-#, fuzzy
 msgid "Sign-int05"
-msgstr "Sign-int5"
+msgstr "Sign-int05"
 
 #: translation.js:529
 msgid "Sign-int5: Get the sign of a 5-bits Intenger"
 msgstr "Sign-int5: Obtener el signo de un entero de 5 bits"
 
 #: translation.js:530
-#, fuzzy
 msgid "Sign-int06"
-msgstr "Sign-int6"
+msgstr "Sign-int06"
 
 #: translation.js:531
 msgid "Sign-int6: Get the sign of a 6-bits Intenger"
@@ -2404,9 +2295,8 @@ msgid "Bus6-Split-1-5: Split the 6-bits bus into two buses of 1 and 5 wires"
 msgstr "Bus6-Split-1-5: Separar un bus de 6 bits en dos buses de 1 y 5 bits"
 
 #: translation.js:533
-#, fuzzy
 msgid "Sign-int07"
-msgstr "Sign-int7"
+msgstr "Sign-int07"
 
 #: translation.js:534
 msgid "Sign-int7: Get the sign of a 7-bits Intenger"
@@ -2417,9 +2307,8 @@ msgid "Bus7-Split-1-6: Split the 7-bits bus into two buses of 1 and 6 wires"
 msgstr "Bus7-Split-1-6: Separar un bus de 7 bits en dos buses de 1 y 6 bits"
 
 #: translation.js:536
-#, fuzzy
 msgid "Sign-int08"
-msgstr "Sign-int8"
+msgstr "Sign-int08"
 
 #: translation.js:537
 msgid "Sign-int8: Get the sign of a 8-bits Intenger"
@@ -2658,12 +2547,10 @@ msgid "Split-quarter"
 msgstr "Split-quarter"
 
 #: translation.js:628
-#, fuzzy
 msgid ""
 "Bus8-Split-quarter: Split the 8-bits bus into four buses of the same size"
 msgstr ""
-"Bus16-Split-quarter: Separar un bus de 16 bits en cuatro buses del mismo "
-"tamaño"
+"Bus8-Split-quarter: Separar un bus de 8 bits en cuatro buses del mismo tamaño"
 
 #: translation.js:629 translation.js:1749
 msgid "Split-1-8"
@@ -2943,9 +2830,8 @@ msgstr ""
 "Bus24-Split-quarter: Separar un bus de 32 bits en cuatro buses de  8 bits"
 
 #: translation.js:692
-#, fuzzy
 msgid "Bus64-Split-half: Split the 64-bits bus into two buses of 32 wires"
-msgstr "Bus6-Split-half: Separar un bus de 6 bits en dos buses de 3 cables"
+msgstr "Bus64-Split-half: Separar un bus de 64 bits en dos buses de 32 cables"
 
 #: translation.js:693 translation.js:1914
 msgid "Uint12"
@@ -2960,9 +2846,8 @@ msgid "Uint2"
 msgstr "Uint2"
 
 #: translation.js:696 translation.js:1917
-#, fuzzy
 msgid "Uint32"
-msgstr "Uint2"
+msgstr "Uint32"
 
 #: translation.js:697 translation.js:1918
 msgid "Uint4"
@@ -2977,11 +2862,12 @@ msgid "Uint12-08-bits"
 msgstr "Uint12-08-bits"
 
 #: translation.js:701
-#, fuzzy
 msgid ""
 "UINT12-8bit-verilog:  Extend a 8-bit unsigned integer to 12-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT12-8bit-verilog:  Extender un entero sin signo de 8 bits a 12 bits. "
+"Implementación en Verilog "
 
 #: translation.js:703
 msgid "UINT12-8bits:  Extend a 8-bits unsigned integer to 12-bits "
@@ -2996,100 +2882,100 @@ msgid "Generic: 4-bits generic constant (0-15)"
 msgstr "Generic: Constante genérica de 4-bits  (0-15)"
 
 #: translation.js:707 translation.js:730
-#, fuzzy
 msgid "Uint16-10-bits"
-msgstr "Uint16-08-bits"
+msgstr "Uint16-10-bits"
 
 #: translation.js:708
-#, fuzzy
 msgid ""
 "UINT32-10bit-verilog:  Extend a 10-bit unsigned integer to 32-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT32-10bit-verilog:  Extender un entero sin signo de 10 bits a 32 bits. "
+"Implementación en Verilog "
 
 #: translation.js:709 translation.js:734
-#, fuzzy
 msgid "Uint16-11-bits"
-msgstr "Uint16-08-bits"
+msgstr "Uint16-11-bits"
 
 #: translation.js:710
-#, fuzzy
 msgid ""
 "UINT32-11bit-verilog:  Extend a 11-bit unsigned integer to 32-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT32-11bit-verilog:  Extender un entero sin signo de 11 bits a 32 bits. "
+"Implementación en Verilog "
 
 #: translation.js:711 translation.js:738
-#, fuzzy
 msgid "Uint16-12-bits"
-msgstr "Uint16-08-bits"
+msgstr "Uint16-12-bits"
 
 #: translation.js:712
-#, fuzzy
 msgid ""
 "UINT32-12bit-verilog:  Extend a 12-bit unsigned integer to 32-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT32-12bit-verilog:  Extender un entero sin signo de 12 bits a 32 bits. "
+"Implementación en Verilog "
 
 #: translation.js:713 translation.js:740
-#, fuzzy
 msgid "Uint16-13-bits"
-msgstr "Uint16-08-bits"
+msgstr "Uint16-13-bits"
 
 #: translation.js:714
-#, fuzzy
 msgid ""
 "UINT32-13bit-verilog:  Extend a 13-bit unsigned integer to 32-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT32-13bit-verilog:  Extender un entero sin signo de 13 bits a 32 bits. "
+"Implementación en Verilog "
 
 #: translation.js:715 translation.js:744
-#, fuzzy
 msgid "Uint16-14-bits"
-msgstr "Uint16-08-bits"
+msgstr "Uint16-14-bits"
 
 #: translation.js:716
-#, fuzzy
 msgid ""
 "UINT32-14bit-verilog:  Extend a 14-bit unsigned integer to 32-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT32-14bit-verilog:  Extender un entero sin signo de 14 bits a 32 bits. "
+"Implementación en Verilog "
 
 #: translation.js:717 translation.js:748
-#, fuzzy
 msgid "Uint16-15-bits"
-msgstr "Uint16-08-bits"
+msgstr "Uint16-15-bits"
 
 #: translation.js:718
-#, fuzzy
 msgid ""
 "UINT16-15bit-verilog:  Extend a 15-bit unsigned integer to 32-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT32-15bit-verilog:  Extender un entero sin signo de 15 bits a 32 bits. "
+"Implementación en Verilog "
 
 #: translation.js:719
-#, fuzzy
 msgid "Uint16-8-bits"
-msgstr "Uint16-08-bits"
+msgstr "Uint16-8-bits"
 
 #: translation.js:720
-#, fuzzy
 msgid ""
 "UINT32-8bit-verilog:  Extend a 8-bit unsigned integer to 32-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT32-8bit-verilog:  Extender un entero sin signo de 8 bits a 32 bits. "
+"Implementación en Verilog "
 
 #: translation.js:721
-#, fuzzy
 msgid "Uint16-9-bits"
-msgstr "Uint16-09-bits"
+msgstr "Uint16-9-bits"
 
 #: translation.js:722
-#, fuzzy
 msgid ""
 "UINT32-9bit-verilog:  Extend a 9-bit unsigned integer to 32-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT32-9bit-verilog:  Extender un entero sin signo de 9 bits a 32 bits. "
+"Implementación en Verilog "
 
 #: translation.js:723
 msgid "Uint16-08-bits"
@@ -3120,9 +3006,8 @@ msgid "Generic: 7-bits generic constant (0-127)"
 msgstr "Generic: Constante genérica de 7-bits (0-127)"
 
 #: translation.js:731
-#, fuzzy
 msgid "UINT16-10bits:  Extend a 10-bits unsigned integer to 16-bits "
-msgstr "UINT8-6bit:  Extender un entero sin signo de 9 bits a 16 bits "
+msgstr "UINT16-10bit:  Extender un entero sin signo de 10 bits a 16 bits "
 
 #: translation.js:732
 msgid "6bits constant value: 0"
@@ -3133,9 +3018,8 @@ msgid "Generic: 6-bits generic constant (0-63)"
 msgstr "Generic: Constante genérica de 6-bits (0-63)"
 
 #: translation.js:735
-#, fuzzy
 msgid "UINT16-11bits:  Extend a 11-bits unsigned integer to 16-bits "
-msgstr "UINT8-6bit:  Extender un entero sin signo de 9 bits a 16 bits "
+msgstr "UINT16-11bit:  Extender un entero sin signo de 11 bits a 16 bits "
 
 #: translation.js:736
 msgid "5bits constant value: 0"
@@ -3146,14 +3030,12 @@ msgid "Generic: 5-bits generic constant (0-31)"
 msgstr "Generic: Constante genérica de 5-bits (0-31)"
 
 #: translation.js:739
-#, fuzzy
 msgid "UINT16-12bits:  Extend a 12-bits unsigned integer to 16-bits "
-msgstr "UINT8-6bit:  Extender un entero sin signo de 9 bits a 16 bits "
+msgstr "UINT16-12bit:  Extender un entero sin signo de 12 bits a 16 bits "
 
 #: translation.js:741
-#, fuzzy
 msgid "UINT16-13bits:  Extend a 13-bits unsigned integer to 16-bits "
-msgstr "UINT8-6bit:  Extender un entero sin signo de 9 bits a 16 bits "
+msgstr "UINT16-13bit:  Extender un entero sin signo de 13 bits a 16 bits "
 
 #: translation.js:742
 msgid "3bits constant value: 0"
@@ -3164,9 +3046,8 @@ msgid "Generic: 3-bits generic constant (0-7)"
 msgstr "Generic: Constante genérica de 3-bits  (0-7)"
 
 #: translation.js:745
-#, fuzzy
 msgid "UINT16-14bits:  Extend a 14-bits unsigned integer to 16-bits "
-msgstr "UINT8-6bit:  Extender un entero sin signo de 9 bits a 16 bits "
+msgstr "UINT16-14bit:  Extender un entero sin signo de 14 bits a 16 bits "
 
 #: translation.js:746
 msgid "2bits constant value: 0"
@@ -3177,427 +3058,400 @@ msgid "Generic: 2-bits generic constant (0,1,2,3)"
 msgstr "Generic: Constante genérica de 2-bits (0,1,2,3)"
 
 #: translation.js:749
-#, fuzzy
 msgid "UINT16-15bits:  Extend a 12-bits unsigned integer to 16-bits "
-msgstr "UINT8-6bit:  Extender un entero sin signo de 9 bits a 16 bits "
+msgstr "UINT16-15bit:  Extender un entero sin signo de 12 bits a 16 bits "
 
 #: translation.js:751 translation.js:753
 msgid "Uint2-01-bit"
 msgstr "Uint2-01-bit"
 
 #: translation.js:752
-#, fuzzy
 msgid ""
 "UINT2-1bit-verilog:  Extend a 1-bit unsigned integer to 2-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT2-1bit-veriog:  Extender un entero sin signo de 1 bit a 2 bits. "
+"Implementación en Verilog"
 
 #: translation.js:754
 msgid "UINT2-1bit:  Extend a 1-bit unsigned integer to 2-bits "
 msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
 
 #: translation.js:756 translation.js:791
-#, fuzzy
 msgid "Uint32-16-bits"
-msgstr "Uint2-01-bit"
+msgstr "Uint32-16-bits"
 
 #: translation.js:757
-#, fuzzy
 msgid ""
 "UINT32-16bit-verilog:  Extend a 16-bit unsigned integer to 32-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT32-16bit-veriog:  Extender un entero sin signo de 16 bit a 32 bits. "
+"Implementación en Verilog  "
 
 #: translation.js:758 translation.js:794
-#, fuzzy
 msgid "Uint32-17-bits"
-msgstr "Uint2-01-bit"
+msgstr "Uint32-17-bit"
 
 #: translation.js:759
-#, fuzzy
 msgid ""
 "UINT32-17bit-verilog:  Extend a 17-bit unsigned integer to 32-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT32-17bit-veriog:  Extender un entero sin signo de 17 bit a 32 bits. "
+"Implementación en Verilog"
 
 #: translation.js:760 translation.js:798
-#, fuzzy
 msgid "Uint32-18-bits"
-msgstr "Uint2-01-bit"
+msgstr "Uint32-18-bit"
 
 #: translation.js:761
-#, fuzzy
 msgid ""
 "UINT32-18bit-verilog:  Extend a 18-bit unsigned integer to 32-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT32-18bit-veriog:  Extender un entero sin signo de 18 bit a 32 bits. "
+"Implementación en Verilog"
 
 #: translation.js:762 translation.js:802
-#, fuzzy
 msgid "Uint32-19-bits"
-msgstr "Uint2-01-bit"
+msgstr "Uint32-19-bits"
 
 #: translation.js:763
-#, fuzzy
 msgid ""
 "UINT32-19bit-verilog:  Extend a 19-bit unsigned integer to 32-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT32-19bit-veriog:  Extender un entero sin signo de 19 bit a 32 bits. "
+"Implementación en Verilog"
 
 #: translation.js:764 translation.js:806
-#, fuzzy
 msgid "Uint32-2-bits"
-msgstr "Uint2-01-bit"
+msgstr "Uint32-2-bit"
 
 #: translation.js:765
-#, fuzzy
 msgid ""
 "UINT32-2bit-verilog:  Extend a 2-bit unsigned integer to 32-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT32-2bit-veriog:  Extender un entero sin signo de 2 bit a 32 bits. "
+"Implementación en Verilog"
 
 #: translation.js:766 translation.js:809
-#, fuzzy
 msgid "Uint32-20-bits"
-msgstr "Uint2-01-bit"
+msgstr "Uint32-20-bit"
 
 #: translation.js:767
-#, fuzzy
 msgid ""
 "UINT32-20bit-verilog:  Extend a 20-bit unsigned integer to 32-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT32-20bit-veriog:  Extender un entero sin signo de 20 bit a 32 bits. "
+"Implementación en Verilog"
 
 #: translation.js:768 translation.js:813
-#, fuzzy
 msgid "Uint32-21-bits"
-msgstr "Uint2-01-bit"
+msgstr "Uint32-21-bits"
 
 #: translation.js:769
-#, fuzzy
 msgid ""
 "UINT32-21bit-verilog:  Extend a 21-bit unsigned integer to 32-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT32-21bit-veriog:  Extender un entero sin signo de 21 bit a 32 bits. "
+"Implementación en Verilog  "
 
 #: translation.js:770 translation.js:817
-#, fuzzy
 msgid "Uint32-22-bits"
-msgstr "Uint2-01-bit"
+msgstr "Uint32-22-bits"
 
 #: translation.js:771
-#, fuzzy
 msgid ""
 "UINT32-22bit-verilog:  Extend a 22-bit unsigned integer to 32-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT32-22bit-veriog:  Extender un entero sin signo de 22 bits a 32 bits. "
+"Implementación en Verilog  "
 
 #: translation.js:772 translation.js:821
-#, fuzzy
 msgid "Uint32-23-bits"
-msgstr "Uint2-01-bit"
+msgstr "Uint32-23-bits"
 
 #: translation.js:773
-#, fuzzy
 msgid ""
 "UINT32-23bit-verilog:  Extend a 23-bit unsigned integer to 32-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT32-23bit-veriog:  Extender un entero sin signo de 23 bit a 32 bits. "
+"Implementación en Verilog  "
 
 #: translation.js:774 translation.js:824
-#, fuzzy
 msgid "Uint32-24-bits"
-msgstr "Uint2-01-bit"
+msgstr "Uint32-24-bits"
 
 #: translation.js:775
-#, fuzzy
 msgid ""
 "UINT32-24bit-verilog:  Extend a 24-bit unsigned integer to 32-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT32-24bit-verilog:  Extender un entero sin signo de 24 bits a 32 bits. "
+"Implementación en Verilog "
 
 #: translation.js:776 translation.js:826
-#, fuzzy
 msgid "Uint32-25-bits"
-msgstr "Uint2-01-bit"
+msgstr "Uint32-25-bits"
 
 #: translation.js:777
-#, fuzzy
 msgid ""
 "UINT32-25bit-verilog:  Extend a 25-bit unsigned integer to 32-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT32-25bit-verilog:  Extender un entero sin signo de 25 bits a 32 bits. "
+"Implementación en Verilog "
 
 #: translation.js:778 translation.js:828
-#, fuzzy
 msgid "Uint32-26-bits"
-msgstr "Uint2-01-bit"
+msgstr "Uint32-26-bits"
 
 #: translation.js:779
-#, fuzzy
 msgid ""
 "UINT32-26bit-verilog:  Extend a 26-bit unsigned integer to 32-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT32-26bit-veriog:  Extender un entero sin signo de 26 bit a 32 bits. "
+"Implementación en Verilog  "
 
 #: translation.js:780 translation.js:830
-#, fuzzy
 msgid "Uint32-27-bits"
-msgstr "Uint2-01-bit"
+msgstr "Uint32-27-bits"
 
 #: translation.js:781
-#, fuzzy
 msgid ""
 "UINT32-27bit-verilog:  Extend a 27-bit unsigned integer to 32-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT32-27bit-verilog:  Extender un entero sin signo de 27 bits a 32 bits. "
+"Implementación en Verilog "
 
 #: translation.js:782 translation.js:832
-#, fuzzy
 msgid "Uint32-28-bits"
-msgstr "Uint2-01-bit"
+msgstr "Uint32-28-bit"
 
 #: translation.js:783
-#, fuzzy
 msgid ""
 "UINT32-28bit-verilog:  Extend a 28-bit unsigned integer to 32-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT32-28bit-verilog:  Extender un entero sin signo de 28 bits a 32 bits. "
+"Implementación en Verilog "
 
 #: translation.js:784 translation.js:834
-#, fuzzy
 msgid "Uint32-29-bits"
-msgstr "Uint2-01-bit"
+msgstr "Uint32-29-bits"
 
 #: translation.js:785
-#, fuzzy
 msgid ""
 "UINT32-29bit-verilog:  Extend a 29-bit unsigned integer to 32-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT32-29bit-verilog:  Extender un entero sin signo de 32 bits a 32 bits. "
+"Implementación en Verilog "
 
 #: translation.js:786 translation.js:836
-#, fuzzy
 msgid "Uint32-30-bits"
-msgstr "Uint2-01-bit"
+msgstr "Uint32-30-bits"
 
 #: translation.js:787
-#, fuzzy
 msgid ""
 "UINT32-30bit-verilog:  Extend a 30-bit unsigned integer to 32-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT32-30bit-verilog:  Extender un entero sin signo de 30 bits a 32 bits. "
+"Implementación en Verilog "
 
 #: translation.js:788 translation.js:838
-#, fuzzy
 msgid "Uint32-31-bits"
-msgstr "Uint2-01-bit"
+msgstr "Uint32-31-bits"
 
 #: translation.js:789
-#, fuzzy
 msgid ""
 "UINT32-31bit-verilog:  Extend a 31-bit unsigned integer to 32-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT32-31bit-verilog:  Extender un entero sin signo de 31 bits a 32 bits. "
+"Implementación en Verilog "
 
 #: translation.js:790 translation.js:840
-#, fuzzy
 msgid "Uint32-8-bits"
-msgstr "Uint2-01-bit"
+msgstr "Uint32-08-bits"
 
 #: translation.js:792
-#, fuzzy
 msgid "UINT32-16bits:  Extend a 16-bits unsigned integer to 32-bits "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr "UINT32-16bits: Extender un entero sin signo de 16 a 32 bits "
 
 #: translation.js:793
-#, fuzzy
 msgid "16bits constant value: 0"
-msgstr "Valor constante 0 de 6 bits"
+msgstr "Valor constante de 16 bits: 0"
 
 #: translation.js:795
-#, fuzzy
 msgid "UINT32-17bits:  Extend a 17-bits unsigned integer to 32-bits "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr "UINT32-17bits: Extender un entero sin signo de 17 bits a 32-bits  "
 
 #: translation.js:796
-#, fuzzy
 msgid "15bits constant value: 0"
-msgstr "Valor constante 0 de 5 bits"
+msgstr "Valor constante de 15 bits: 0"
 
 #: translation.js:797
 msgid "Generic: 15-bits generic constant"
 msgstr "Generic: Constante genérica de 15-bits"
 
 #: translation.js:799
-#, fuzzy
 msgid "UINT32-18bits:  Extend a 18-bits unsigned integer to 32-bits "
-msgstr "UINT12-8bit:  Extender un entero sin signo de 8 bit a 12 bits "
+msgstr "UINT32-18bits: Extender un entero sin signo de 18 bits a 32-bits  "
 
 #: translation.js:800
-#, fuzzy
 msgid "14bits constant value: 0"
-msgstr "Valor constante 0 de 4 bits"
+msgstr "Valor constante de 14 bits: 0"
 
 #: translation.js:801
-#, fuzzy
 msgid "Generic: 14-bits generic constant"
-msgstr "Generic: Constante genérica de 16-bits"
+msgstr "Generic: Constante genérica de 14-bits"
 
 #: translation.js:803
-#, fuzzy
 msgid "UINT32-19bits:  Extend a 19-bits unsigned integer to 32-bits "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr "UINT32-19bits: Extender un entero sin signo de 19 bits a 32-bits  "
 
 #: translation.js:804
-#, fuzzy
 msgid "13bits constant value: 0"
-msgstr "Valor constante 0 de 3 bits"
+msgstr "Valor constante de 13 bits: 0"
 
 #: translation.js:805
-#, fuzzy
 msgid "Generic: 13-bits generic constant"
-msgstr "Generic: Constante genérica de 16-bits"
+msgstr "Generic: Constante genérica de 13-bits"
 
 #: translation.js:807
-#, fuzzy
 msgid "UINT32-8bits:  Extend a 2-bits unsigned integer to 32-bits "
-msgstr "UINT12-8bit:  Extender un entero sin signo de 8 bit a 12 bits "
+msgstr "UINT32-8bits: Extender un entero sin signo de 8 bits a 32-bits  "
 
 #: translation.js:808
-#, fuzzy
 msgid "Generic: 30-bits generic constant"
-msgstr "Generic: Constante genérica de 31-bits"
+msgstr "Generic: Constante genérica de 30-bits"
 
 #: translation.js:810
-#, fuzzy
 msgid "UINT32-20bits:  Extend a 20-bits unsigned integer to 32-bits "
-msgstr "UINT12-8bit:  Extender un entero sin signo de 8 bit a 12 bits "
+msgstr "UINT32-20bits: Extender un entero sin signo de 20 bits a 32-bits  "
 
 #: translation.js:811
-#, fuzzy
 msgid "12bits constant value: 0"
-msgstr "Valor constante 0 de 2 bits"
+msgstr "Valor constante de 12 bits: 0"
 
 #: translation.js:812
 msgid "Generic: 12-bits generic constant (0-4095)"
 msgstr "Generic: Constante genérica de 12-bits (0-4095)"
 
 #: translation.js:814
-#, fuzzy
 msgid "UINT32-21bits:  Extend a 21-bits unsigned integer to 32-bits "
-msgstr "UINT12-8bit:  Extender un entero sin signo de 8 bit a 12 bits "
+msgstr "UINT32-21bits: Extender un entero sin signo de 21 bits a 32-bits  "
 
 #: translation.js:815
-#, fuzzy
 msgid "11bits constant value: 0"
-msgstr "Valor constante 0 de 6 bits"
+msgstr "Valor constante de 11 bits: 0"
 
 #: translation.js:816
 msgid "Generic: 11-bits generic constant"
 msgstr "Generic: Constante genérica de 11-bits"
 
 #: translation.js:818
-#, fuzzy
 msgid "UINT32-22bits:  Extend a 22-bits unsigned integer to 32-bits "
-msgstr "UINT12-8bit:  Extender un entero sin signo de 8 bit a 12 bits "
+msgstr "UINT32-22bits: Extender un entero sin signo de 22 bits a 32-bits  "
 
 #: translation.js:819
-#, fuzzy
 msgid "10bits constant value: 0"
-msgstr "Valor constante 0 de 6 bits"
+msgstr "Valor constante de 10 bits: 0"
 
 #: translation.js:820
 msgid "Generic: 9-bits generic constant"
 msgstr "Generic: Constante genérica de 9-bits"
 
 #: translation.js:822
-#, fuzzy
 msgid "UINT32-23bits:  Extend a 23-bits unsigned integer to 32-bits "
-msgstr "UINT12-8bit:  Extender un entero sin signo de 8 bit a 12 bits "
+msgstr "UINT32-23bits: Extender un entero sin signo de 23 bits a 32-bits  "
 
 #: translation.js:823
-#, fuzzy
 msgid "9bits constant value: 0"
-msgstr "Valor constante 0 de 4 bits"
+msgstr "Valor constante de 9 bits: 0"
 
 #: translation.js:825
-#, fuzzy
 msgid "UINT32-24bits:  Extend a 24-bits unsigned integer to 32-bits "
-msgstr "UINT12-8bit:  Extender un entero sin signo de 8 bit a 12 bits "
+msgstr "UINT32-24bits: Extender un entero sin signo de 24 bits a 32-bits  "
 
 #: translation.js:827
-#, fuzzy
 msgid "UINT32-25bits:  Extend a 25-bits unsigned integer to 32-bits "
-msgstr "UINT12-8bit:  Extender un entero sin signo de 8 bit a 12 bits "
+msgstr "UINT32-25bits: Extender un entero sin signo de 25 bits a 32-bits  "
 
 #: translation.js:829
-#, fuzzy
 msgid "UINT32-26bits:  Extend a 26-bits unsigned integer to 32-bits "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr "UINT32-26bits: Extender un entero sin signo de 26 bits a 32-bits  "
 
 #: translation.js:831
-#, fuzzy
 msgid "UINT32-27bits:  Extend a 27-bits unsigned integer to 32-bits "
-msgstr "UINT12-8bit:  Extender un entero sin signo de 8 bit a 12 bits "
+msgstr "UINT32-27bits: Extender un entero sin signo de 27 bits a 32-bits  "
 
 #: translation.js:833
-#, fuzzy
 msgid "UINT32-28bits:  Extend a 28-bits unsigned integer to 32-bits "
-msgstr "UINT12-8bit:  Extender un entero sin signo de 8 bit a 12 bits "
+msgstr "UINT32-28bits: Extender un entero sin signo de 28 bits a 32-bits  "
 
 #: translation.js:835
-#, fuzzy
 msgid "UINT32-29bits:  Extend a 29-bits unsigned integer to 32-bits "
-msgstr "UINT12-8bit:  Extender un entero sin signo de 8 bit a 12 bits "
+msgstr "UINT32-29bits: Extender un entero sin signo de 29 bits a 32-bits  "
 
 #: translation.js:837
-#, fuzzy
 msgid "UINT32-30bits:  Extend a 30-bits unsigned integer to 32-bits "
-msgstr "UINT12-8bit:  Extender un entero sin signo de 8 bit a 12 bits "
+msgstr "UINT32-30bits: Extender un entero sin signo de 30 bits a 32-bits  "
 
 #: translation.js:839
-#, fuzzy
 msgid "UINT32-31bits:  Extend a 31-bits unsigned integer to 32-bits "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr "UINT32-31bits: Extender un entero sin signo de 31 bits a 32-bits  "
 
 #: translation.js:841
-#, fuzzy
 msgid "UINT32-8bits:  Extend a 8-bits unsigned integer to 32-bits "
-msgstr "UINT12-8bit:  Extender un entero sin signo de 8 bit a 12 bits "
+msgstr "UINT32-8bits: Extender un entero sin signo de 8 bits a 32-bits  "
 
 #: translation.js:843 translation.js:849
 msgid "Uint4-01-bit"
 msgstr "Uint4-01-bit"
 
 #: translation.js:844
-#, fuzzy
 msgid ""
 "UINT4-1bit-verilog:  Extend a 1-bit unsigned integer to 4-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT4-1bit-veriog:  Extender un entero sin signo de 1 bit a 4 bits. "
+"Implementación en Verilog"
 
 #: translation.js:845 translation.js:851
 msgid "Uint4-02-bit"
 msgstr "Uint4-02-bit"
 
 #: translation.js:846
-#, fuzzy
 msgid ""
 "UINT4-2bit-verilog:  Extend a 2-bit unsigned integer to 4-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT4-2bit-veriog:  Extender un entero sin signo de 2 bits a 4 bits. "
+"Implementación en Verilog"
 
 #: translation.js:847 translation.js:853
 msgid "Uint4-03-bit"
 msgstr "Uint4-03-bit"
 
 #: translation.js:848
-#, fuzzy
 msgid ""
 "UINT4-3bit-verilog:  Extend a 3-bit unsigned integer to 4-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT4-3bit-veriog:  Extender un entero sin signo de 3 bits a 4 bits. "
+"Implementación en Verilog "
 
 #: translation.js:850
 msgid "UINT4-1bit:  Extend a 1-bit unsigned integer to 4-bits "
@@ -3616,83 +3470,84 @@ msgid "Uint8-01-bit"
 msgstr "Uint8-01-bit"
 
 #: translation.js:857
-#, fuzzy
 msgid ""
 "UINT8-1bit-verilog:  Extend a 1-bit unsigned integer to 8-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT8-1bit-veriog:  Extender un entero sin signo de 1 bit a 8 bits. "
+"Implementación en Verilog"
 
 #: translation.js:858
-#, fuzzy
 msgid "Uint8-02-bit"
-msgstr "Uint8-02-bits"
+msgstr "Uint8-02-bit"
 
 #: translation.js:859
-#, fuzzy
 msgid ""
 "UINT8-2bit-verilog:  Extend a 2-bit unsigned integer to 8-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT8-2bit-veriog:  Extender un entero sin signo de 2 bits a 8 bits. "
+"Implementación en Verilog"
 
 #: translation.js:860
-#, fuzzy
 msgid "Uint8-03-bit"
-msgstr "Uint8-03-bits"
+msgstr "Uint8-03-bit"
 
 #: translation.js:861
-#, fuzzy
 msgid ""
 "UINT8-3bit-verilog:  Extend a 3-bit unsigned integer to 8-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT8-3bit-veriog:  Extender un entero sin signo de 3 bits a 8 bits. "
+"Implementación en Verilog "
 
 #: translation.js:862
-#, fuzzy
 msgid "Uint8-04-bit"
-msgstr "Uint8-04-bits"
+msgstr "Uint8-04-bit"
 
 #: translation.js:863
-#, fuzzy
 msgid ""
 "UINT8-4bit-verilog:  Extend a 4-bit unsigned integer to 8-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT8-4bit-veriog:  Extender un entero sin signo de 4 bits a 8 bits. "
+"Implementación en Verilog "
 
 #: translation.js:864
-#, fuzzy
 msgid "Uint8-05-bit"
-msgstr "Uint8-05-bits"
+msgstr "Uint8-05-bit"
 
 #: translation.js:865
-#, fuzzy
 msgid ""
 "UINT8-5bit-verilog:  Extend a 5-bit unsigned integer to 8-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT8-5bit-veriog:  Extender un entero sin signo de 5 bit a 8 bits. "
+"Implementación en Verilog"
 
 #: translation.js:866
-#, fuzzy
 msgid "Uint8-06-bit"
-msgstr "Uint8-06-bits"
+msgstr "Uint8-06-bit"
 
 #: translation.js:867
-#, fuzzy
 msgid ""
 "UINT8-6bit-verilog:  Extend a 6-bit unsigned integer to 8-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT8-6bit-veriog:  Extender un entero sin signo de 6 bit a 8 bits. "
+"Implementación en Verilog"
 
 #: translation.js:868
-#, fuzzy
 msgid "Uint8-07-bit"
-msgstr "Uint8-07-bits"
+msgstr "Uint8-07-bit"
 
 #: translation.js:869
-#, fuzzy
 msgid ""
 "UINT8-7bit-verilog:  Extend a 7-bit unsigned integer to 8-bits. Verilog "
 "implementation "
-msgstr "UINT2-1bit:  Extender un entero sin signo de 1 bit a 2 bits "
+msgstr ""
+"UINT8-7bit-veriog:  Extender un entero sin signo de 7 bit a 8 bits. "
+"Implementación en Verilog"
 
 #: translation.js:871
 msgid "UINT8-1bit:  Extend a 1-bit unsigned integer to 8-bits "
@@ -4070,9 +3925,8 @@ msgid "## 8-Bits"
 msgstr "## 8-Bits"
 
 #: translation.js:955
-#, fuzzy
 msgid "Bus8-Split-quarter"
-msgstr "Split-quarter"
+msgstr "Bus8-Split-quarter"
 
 #: translation.js:956
 msgid "02-Index"
@@ -4181,9 +4035,8 @@ msgid "## 29-Bits"
 msgstr "## 29-Bits"
 
 #: translation.js:980
-#, fuzzy
 msgid "## 64-Bits"
-msgstr "## 4-Bits"
+msgstr "## 64-Bits"
 
 #: translation.js:981 translation.js:993 translation.js:1002
 #: translation.js:1009 translation.js:1013 translation.js:1017
@@ -4635,6 +4488,8 @@ msgid ""
 "System TFF with toggle input: It toogles on every system cycle if the input "
 "is active"
 msgstr ""
+"Biestable T del sistema con entrada de cambio: Cambia en cada ciclo del "
+"sistema si la entrada está activa"
 
 #: translation.js:1080
 msgid "Reg: 1-Bit register"
@@ -4693,46 +4548,42 @@ msgid "Channel A"
 msgstr "Canal A"
 
 #: translation.js:1093
-#, fuzzy
 msgid ""
 "# Copy-10: Manual testing with one pushbutton and LEDs\n"
 "\n"
 "When the button is pressed, the LEDs are turned on"
 msgstr ""
-"# Copy-3: Prueba manual con un botón y LEDs  \n"
+"# Copy-10: Prueba manual con un botón y LEDs  \n"
 "\n"
 "Cuando el botón se aprieta se encienden los dos LEDs"
 
 #: translation.js:1096
-#, fuzzy
 msgid ""
 "# Copy-11: Manual testing with one pushbutton and LEDs\n"
 "\n"
 "When the button is pressed, the LEDs are turned on"
 msgstr ""
-"# Copy-3: Prueba manual con un botón y LEDs  \n"
+"# Copy-11: Prueba manual con un botón y LEDs  \n"
 "\n"
 "Cuando el botón se aprieta se encienden los dos LEDs"
 
 #: translation.js:1099
-#, fuzzy
 msgid ""
 "# Copy-12: Manual testing with one pushbutton and LEDs\n"
 "\n"
 "When the button is pressed, the LEDs are turned on"
 msgstr ""
-"# Copy-3: Prueba manual con un botón y LEDs  \n"
+"# Copy-12: Prueba manual con un botón y LEDs  \n"
 "\n"
 "Cuando el botón se aprieta se encienden los dos LEDs"
 
 #: translation.js:1102
-#, fuzzy
 msgid ""
 "# Copy-16: Manual testing with one pushbutton and LEDs\n"
 "\n"
 "When the button is pressed, the LEDs are turned on"
 msgstr ""
-"# Copy-6: Prueba manual con un botón y  LEDs  \n"
+"# Copy-16: Prueba manual con un botón y  LEDs  \n"
 "\n"
 "Cuando el botón se aprieta se encienden los LEDs"
 
@@ -4771,49 +4622,45 @@ msgstr "Adder-2bits: Sumador de dos operandos de 2 bits"
 
 #: translation.js:1112
 msgid "OR-BUS2: OR gate with 2-bits bus input"
-msgstr ""
+msgstr "OR-BUS2: Puerta OR de 2 bits de entrada"
 
 #: translation.js:1113
-#, fuzzy
 msgid ""
 "# Copy-20: Manual testing with one pushbutton and LEDs\n"
 "\n"
 "When the button is pressed, the LEDs are turned on"
 msgstr ""
-"# Copy-3: Prueba manual con un botón y LEDs  \n"
+"# Copy-20: Prueba manual con un botón y LEDs  \n"
 "\n"
 "Cuando el botón se aprieta se encienden los dos LEDs"
 
 #: translation.js:1116
-#, fuzzy
 msgid ""
 "# Copy-24: Manual testing with one pushbutton and LEDs\n"
 "\n"
 "When the button is pressed, the LEDs are turned on"
 msgstr ""
-"# Copy-4: Prueba manual con un botón y  LEDs  \n"
+"# Copy-24: Prueba manual con un botón y  LEDs  \n"
 "\n"
 "Cuando el botón se aprieta se encienden los LEDs"
 
 #: translation.js:1119
-#, fuzzy
 msgid ""
 "# Copy-28: Manual testing with one pushbutton and LEDs\n"
 "\n"
 "When the button is pressed, the LEDs are turned on"
 msgstr ""
-"# Copy-8: Prueba manual con un botón y  LEDs  \n"
+"# Copy-28: Prueba manual con un botón y  LEDs  \n"
 "\n"
 "Cuando el botón se aprieta se encienden los LEDs"
 
 #: translation.js:1122
-#, fuzzy
 msgid ""
 "# Copy-32: Manual testing with one pushbutton and LEDs\n"
 "\n"
 "When the button is pressed, the LEDs are turned on"
 msgstr ""
-"# Copy-3: Prueba manual con un botón y LEDs  \n"
+"# Copy-32: Prueba manual con un botón y LEDs  \n"
 "\n"
 "Cuando el botón se aprieta se encienden los dos LEDs"
 
@@ -5209,7 +5056,6 @@ msgstr ""
 "Los LEDs 2-6 se encienden"
 
 #: translation.js:1279
-#, fuzzy
 msgid ""
 "# Bus8-Join-quarter: Manual testing with two pushbuttons and two LEDs\n"
 "\n"
@@ -5217,7 +5063,7 @@ msgid ""
 "When the buttons are pressed, the corresponding LED is turned on  \n"
 "The LEDs 2-6 are on"
 msgstr ""
-"# Bus8-Join-half: Prueba manual con dos pulsadores y dos LEDs\n"
+"# Bus8-Join-quarter: Prueba manual con dos pulsadores y dos LEDs\n"
 "\n"
 "Los botones SW1 y SW2 se conectan a los LEDs 0 y 7 respectivamente  \n"
 "Cuando los botones se aprietan, el LED correspondiente se enciende\n"
@@ -5268,12 +5114,11 @@ msgid "Counter-x01: 1-bit counter"
 msgstr "Counter-x01: Contador de 1 bit"
 
 #: translation.js:1302
-#, fuzzy
 msgid ""
 "# Bus12-Join-one-forth: Manual testing\n"
 "\n"
 msgstr ""
-"# Bus12-Join-one-third: Prueba manual\n"
+"# Bus12-Join-one-forth: Prueba manual\n"
 "\n"
 
 #: translation.js:1305
@@ -5435,18 +5280,16 @@ msgstr ""
 "\n"
 
 #: translation.js:1369
-#, fuzzy
 msgid ""
 "Display24-8: Display a 24-bits value on  8-LEDs. The sel input selects the "
 "byte to display "
 msgstr ""
-"Display32-8: Mostrar un valor de 32 bits en 8 LEDs. La entrada sel "
+"Display24-8: Mostrar un valor de 24 bits en 8 LEDs. La entrada sel "
 "selecciona el byte a mostrar "
 
 #: translation.js:1370
-#, fuzzy
 msgid "Counter-M-x02: 2-bits M module counter"
-msgstr "Counter-x02: Contador de 2 bits"
+msgstr "Counter-M-x02: Contador módulo M de 2 bits"
 
 #: translation.js:1371
 msgid "Comp2-2bit: Comparator of two 2-bit numbers"
@@ -5461,17 +5304,15 @@ msgid "reg-rst-2-bits:  2-bits register with reset"
 msgstr ""
 
 #: translation.js:1374
-#, fuzzy
 msgid "1-bit-Reg-rst: 1-Bit register with reset"
-msgstr "Reg: Registro de 1-Bit"
+msgstr "1-bit-Reg-rst: Registro de 1-bit con reset"
 
 #: translation.js:1375
-#, fuzzy
 msgid ""
 "# Bus24-Join-half: Manual testing\n"
 "\n"
 msgstr ""
-"# Bus4-Join-half: Prueba manual\n"
+"# Bus24-Join-half: Prueba manual\n"
 "\n"
 
 #: translation.js:1376
@@ -5485,9 +5326,8 @@ msgid ""
 msgstr ""
 
 #: translation.js:1378
-#, fuzzy
 msgid "2-bits register"
-msgstr "Reg: Registro de 1-Bit"
+msgstr "Registro de 2 bits"
 
 #: translation.js:1379
 msgid ""
