@@ -637,6 +637,8 @@ gettext('Bus8-Split-quarter: Split the 8-bits bus into four buses of the same si
 gettext('Split-1-8');
 gettext('Split-6-3');
 gettext('Bus9-Split-half: Split the 9-bits bus into two buses of 6 and 3 wires');
+gettext('Split-8-1');
+gettext('Bus9-Split-half: Split the 9-bits bus into two buses of 8 and 1 wires');
 gettext('Split-2-8');
 gettext('Bus10-Split-2-8: Split the 10-bits bus into two buses of 2 and 8 wires');
 gettext('Split-4-6');
