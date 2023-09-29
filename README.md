@@ -217,6 +217,7 @@ For installing and using this colection in Icestudio follow these steps:
     * Reversal-03
     * Reversal-04
     * Reversal-2x8
+    * Reversal-4x8
 * **Shift**
   * **Left**
     * **02-Bits**
@@ -816,6 +817,9 @@ For installing and using this colection in Icestudio follow these steps:
       * **Alhambra-II**
         * 01-Manual-testing
     * **2x8-Bits**
+      * **Alhambra-II**
+        * 01-Manual-testing
+    * **4x8-Bits**
       * **Alhambra-II**
         * 01-Manual-testing
   * **Shift**
