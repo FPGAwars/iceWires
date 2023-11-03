@@ -107,8 +107,8 @@
           }
         },
         {
-          "id": "8cdaf9aa-6141-4eb2-8297-5d1495ca3daf",
-          "type": "6e8eddb534ec160ba4970441a539175907f16c45",
+          "id": "9aa0be22-fc4c-4e00-9d40-e256b008fee3",
+          "type": "b3c08cadb482b8e1a9bb3b1881c59a3a3c39223b",
           "position": {
             "x": 560,
             "y": 56
@@ -133,7 +133,7 @@
         },
         {
           "source": {
-            "block": "8cdaf9aa-6141-4eb2-8297-5d1495ca3daf",
+            "block": "9aa0be22-fc4c-4e00-9d40-e256b008fee3",
             "port": "a27a9eb1-cacc-489b-8841-b19428732584"
           },
           "target": {
@@ -158,7 +158,7 @@
             "port": "8a22aa50-e3de-4e44-9d95-9d949f0c3478"
           },
           "target": {
-            "block": "8cdaf9aa-6141-4eb2-8297-5d1495ca3daf",
+            "block": "9aa0be22-fc4c-4e00-9d40-e256b008fee3",
             "port": "33718e54-4f8d-4411-bb70-d7da8a414dc4"
           },
           "size": 3
@@ -1005,10 +1005,10 @@
         }
       }
     },
-    "6e8eddb534ec160ba4970441a539175907f16c45": {
+    "b3c08cadb482b8e1a9bb3b1881c59a3a3c39223b": {
       "package": {
         "name": "UINT4-3bit-verilog",
-        "version": "0.1",
+        "version": "0.2",
         "description": "UINT4-3bit-verilog:  Extend a 3-bit unsigned integer to 4-bits. Verilog implementation ",
         "author": "Juan González-Gómez (Obijuan)",
         "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22448.598%22%20height=%22127.811%22%20viewBox=%220%200%20118.69152%2033.816643%22%3E%3Cg%20style=%22line-height:1.25%22%20font-weight=%22700%22%20font-size=%2245.504%22%20font-family=%22sans-serif%22%20fill=%22green%22%20stroke-width=%221.138%22%3E%3Cpath%20d=%22M0%200h8.554v19.886q0%204.11%201.333%205.888%201.356%201.755%204.4%201.755%203.066%200%204.399-1.755%201.355-1.778%201.355-5.888V0h8.554v19.886q0%207.043-3.532%2010.487-3.533%203.444-10.776%203.444-7.221%200-10.754-3.444Q0%2026.929%200%2019.886zM36.972%200h8.554v33.172h-8.554zM53.947%200H63.5l12.064%2022.752V0h8.11v33.172h-9.554L62.056%2010.421v22.751h-8.11zM88.119%200h30.573v6.466h-10.999v26.706H99.14V6.466H88.12z%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22/%3E%3C/g%3E%3C/svg%3E",
@@ -1104,7 +1104,7 @@
                   ]
                 },
                 "params": [],
-                "code": "//-- Number of bits\nlocalparam N = 4;\n\n//-- Extend i with N-3 0s\nassign o = { {(N-3){0}} , i};"
+                "code": "//-- Number of bits\nlocalparam N = 4;\n\n//-- Extend i with N-3 0s\nassign o = { {(N-3){1'b0}} , i};"
               },
               "position": {
                 "x": 504,
