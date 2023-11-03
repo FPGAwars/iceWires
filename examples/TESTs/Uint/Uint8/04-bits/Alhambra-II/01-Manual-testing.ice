@@ -115,10 +115,10 @@
           }
         },
         {
-          "id": "40bd736a-503d-4552-acac-b52f9b410b28",
-          "type": "7bbd16b8b2a7ade5d56c0ba7d0fa56f40a9fe427",
+          "id": "93c6cce9-78e2-4902-a244-2f4262aac5f9",
+          "type": "4e38b609a85f04a3331d6d81def56c05a9b323e4",
           "position": {
-            "x": 560,
+            "x": 384,
             "y": 56
           },
           "size": {
@@ -127,10 +127,10 @@
           }
         },
         {
-          "id": "93c6cce9-78e2-4902-a244-2f4262aac5f9",
-          "type": "4e38b609a85f04a3331d6d81def56c05a9b323e4",
+          "id": "c52a2c56-8732-4236-a964-6da23a262877",
+          "type": "9ad2547c8d355033b8cd1a13976ee4c89137e079",
           "position": {
-            "x": 384,
+            "x": 560,
             "y": 56
           },
           "size": {
@@ -153,7 +153,7 @@
         },
         {
           "source": {
-            "block": "40bd736a-503d-4552-acac-b52f9b410b28",
+            "block": "c52a2c56-8732-4236-a964-6da23a262877",
             "port": "e0cb078e-5589-4f38-983f-ff5d02d74932"
           },
           "target": {
@@ -178,7 +178,7 @@
             "port": "c2318a95-bf2e-4d78-9577-c227619bac5d"
           },
           "target": {
-            "block": "40bd736a-503d-4552-acac-b52f9b410b28",
+            "block": "c52a2c56-8732-4236-a964-6da23a262877",
             "port": "ec286ed1-a32d-45ae-bc77-cd82748b2fe8"
           },
           "size": 4
@@ -1395,10 +1395,103 @@
         }
       }
     },
-    "7bbd16b8b2a7ade5d56c0ba7d0fa56f40a9fe427": {
+    "4e38b609a85f04a3331d6d81def56c05a9b323e4": {
+      "package": {
+        "name": "Copy-4-verilog",
+        "version": "0.2",
+        "description": "Copy-4: Copy the input wire twice and generate a 4 bits Bus output (Verilog implementation)",
+        "author": "Juan González-Gómez (Obijuan)",
+        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22311.429%22%20height=%22131.811%22%20viewBox=%220%200%2082.398813%2034.875011%22%20id=%22svg840%22%3E%3Cg%20id=%22layer2%22%20transform=%22translate(-33.717%20-91.738)%22%20fill=%22none%22%20stroke-linecap=%22round%22%3E%3Cpath%20id=%22path865-3-6%22%20d=%22M36.363%20123.968l77.107-.336%22%20stroke=%22green%22%20stroke-width=%225.292%22/%3E%3Cpath%20d=%22M88.632%20114.651l20.928-20.928%22%20id=%22path850%22%20stroke=%22#000%22%20stroke-width=%223.969%22/%3E%3Cpath%20d=%22M109.56%20114.651L88.632%2093.723%22%20id=%22path852%22%20stroke=%22#000%22%20stroke-width=%223.969%22/%3E%3C/g%3E%3Cstyle%20id=%22style263%22%3E.st0%7Bdisplay:none%7D.st1%7Bfill:none;stroke:#000;stroke-width:.75;stroke-linejoin:round;stroke-miterlimit:10%7D.st2%7Bfill:#010002%7D%3C/style%3E%3C/svg%3E"
+      },
+      "design": {
+        "graph": {
+          "blocks": [
+            {
+              "id": "cf3b4c7c-042a-45f7-b958-990d7157f928",
+              "type": "basic.input",
+              "data": {
+                "name": "",
+                "clock": false
+              },
+              "position": {
+                "x": 448,
+                "y": 176
+              }
+            },
+            {
+              "id": "c2318a95-bf2e-4d78-9577-c227619bac5d",
+              "type": "basic.output",
+              "data": {
+                "name": "",
+                "range": "[3:0]",
+                "size": 4
+              },
+              "position": {
+                "x": 992,
+                "y": 176
+              }
+            },
+            {
+              "id": "3266f4f1-eba1-4272-a937-4415542dcb7f",
+              "type": "basic.code",
+              "data": {
+                "ports": {
+                  "in": [
+                    {
+                      "name": "i"
+                    }
+                  ],
+                  "out": [
+                    {
+                      "name": "o",
+                      "range": "[3:0]",
+                      "size": 4
+                    }
+                  ]
+                },
+                "params": [],
+                "code": "//-- Number of bits\nlocalparam N=4;\n\nassign o = {N{i}};\n"
+              },
+              "position": {
+                "x": 632,
+                "y": 144
+              },
+              "size": {
+                "width": 288,
+                "height": 120
+              }
+            }
+          ],
+          "wires": [
+            {
+              "source": {
+                "block": "cf3b4c7c-042a-45f7-b958-990d7157f928",
+                "port": "out"
+              },
+              "target": {
+                "block": "3266f4f1-eba1-4272-a937-4415542dcb7f",
+                "port": "i"
+              }
+            },
+            {
+              "source": {
+                "block": "3266f4f1-eba1-4272-a937-4415542dcb7f",
+                "port": "o"
+              },
+              "target": {
+                "block": "c2318a95-bf2e-4d78-9577-c227619bac5d",
+                "port": "in"
+              },
+              "size": 4
+            }
+          ]
+        }
+      }
+    },
+    "9ad2547c8d355033b8cd1a13976ee4c89137e079": {
       "package": {
         "name": "UINT8-4bit-verilog",
-        "version": "0.1",
+        "version": "0.2",
         "description": "UINT8-4bit-verilog:  Extend a 4-bit unsigned integer to 8-bits. Verilog implementation ",
         "author": "Juan González-Gómez (Obijuan)",
         "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22448.598%22%20height=%22127.811%22%20viewBox=%220%200%20118.69152%2033.816643%22%3E%3Cg%20style=%22line-height:1.25%22%20font-weight=%22700%22%20font-size=%2245.504%22%20font-family=%22sans-serif%22%20fill=%22green%22%20stroke-width=%221.138%22%3E%3Cpath%20d=%22M0%200h8.554v19.886q0%204.11%201.333%205.888%201.356%201.755%204.4%201.755%203.066%200%204.399-1.755%201.355-1.778%201.355-5.888V0h8.554v19.886q0%207.043-3.532%2010.487-3.533%203.444-10.776%203.444-7.221%200-10.754-3.444Q0%2026.929%200%2019.886zM36.972%200h8.554v33.172h-8.554zM53.947%200H63.5l12.064%2022.752V0h8.11v33.172h-9.554L62.056%2010.421v22.751h-8.11zM88.119%200h30.573v6.466h-10.999v26.706H99.14V6.466H88.12z%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22/%3E%3C/g%3E%3C/svg%3E",
@@ -1519,7 +1612,7 @@
                   ]
                 },
                 "params": [],
-                "code": "//-- Number of bits\nlocalparam N = 8;\n\n//-- Extend i with N-4 0s\nassign o = { {(N-4){0}} , i};"
+                "code": "//-- Number of bits\nlocalparam N = 8;\n\n//-- Extend i with N-4 0s\nassign o = { {(N-4){1'b0}} , i};"
               },
               "position": {
                 "x": 504,
@@ -1551,99 +1644,6 @@
               "target": {
                 "block": "060b73c2-8fae-4f64-8db2-c8335f464d4c",
                 "port": "i"
-              },
-              "size": 4
-            }
-          ]
-        }
-      }
-    },
-    "4e38b609a85f04a3331d6d81def56c05a9b323e4": {
-      "package": {
-        "name": "Copy-4-verilog",
-        "version": "0.2",
-        "description": "Copy-4: Copy the input wire twice and generate a 4 bits Bus output (Verilog implementation)",
-        "author": "Juan González-Gómez (Obijuan)",
-        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22311.429%22%20height=%22131.811%22%20viewBox=%220%200%2082.398813%2034.875011%22%20id=%22svg840%22%3E%3Cg%20id=%22layer2%22%20transform=%22translate(-33.717%20-91.738)%22%20fill=%22none%22%20stroke-linecap=%22round%22%3E%3Cpath%20id=%22path865-3-6%22%20d=%22M36.363%20123.968l77.107-.336%22%20stroke=%22green%22%20stroke-width=%225.292%22/%3E%3Cpath%20d=%22M88.632%20114.651l20.928-20.928%22%20id=%22path850%22%20stroke=%22#000%22%20stroke-width=%223.969%22/%3E%3Cpath%20d=%22M109.56%20114.651L88.632%2093.723%22%20id=%22path852%22%20stroke=%22#000%22%20stroke-width=%223.969%22/%3E%3C/g%3E%3Cstyle%20id=%22style263%22%3E.st0%7Bdisplay:none%7D.st1%7Bfill:none;stroke:#000;stroke-width:.75;stroke-linejoin:round;stroke-miterlimit:10%7D.st2%7Bfill:#010002%7D%3C/style%3E%3C/svg%3E"
-      },
-      "design": {
-        "graph": {
-          "blocks": [
-            {
-              "id": "cf3b4c7c-042a-45f7-b958-990d7157f928",
-              "type": "basic.input",
-              "data": {
-                "name": "",
-                "clock": false
-              },
-              "position": {
-                "x": 448,
-                "y": 176
-              }
-            },
-            {
-              "id": "c2318a95-bf2e-4d78-9577-c227619bac5d",
-              "type": "basic.output",
-              "data": {
-                "name": "",
-                "range": "[3:0]",
-                "size": 4
-              },
-              "position": {
-                "x": 992,
-                "y": 176
-              }
-            },
-            {
-              "id": "3266f4f1-eba1-4272-a937-4415542dcb7f",
-              "type": "basic.code",
-              "data": {
-                "ports": {
-                  "in": [
-                    {
-                      "name": "i"
-                    }
-                  ],
-                  "out": [
-                    {
-                      "name": "o",
-                      "range": "[3:0]",
-                      "size": 4
-                    }
-                  ]
-                },
-                "params": [],
-                "code": "//-- Number of bits\nlocalparam N=4;\n\nassign o = {N{i}};\n"
-              },
-              "position": {
-                "x": 632,
-                "y": 144
-              },
-              "size": {
-                "width": 288,
-                "height": 120
-              }
-            }
-          ],
-          "wires": [
-            {
-              "source": {
-                "block": "cf3b4c7c-042a-45f7-b958-990d7157f928",
-                "port": "out"
-              },
-              "target": {
-                "block": "3266f4f1-eba1-4272-a937-4415542dcb7f",
-                "port": "i"
-              }
-            },
-            {
-              "source": {
-                "block": "3266f4f1-eba1-4272-a937-4415542dcb7f",
-                "port": "o"
-              },
-              "target": {
-                "block": "c2318a95-bf2e-4d78-9577-c227619bac5d",
-                "port": "in"
               },
               "size": 4
             }
