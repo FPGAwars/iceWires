@@ -411,6 +411,14 @@ For installing and using this colection in Icestudio follow these steps:
     * 05-Uint08
     * 06-Uint08
     * 07-Uint08
+    * **Blocks**
+      * Uint8-01-bit
+      * Uint8-02-bits
+      * Uint8-03-bits
+      * Uint8-04-bits
+      * Uint8-05-bits
+      * Uint8-06-bits
+      * Uint8-07-bits
   * **Uint12**
     * Uint12-08-bits
     * **Blocks**
@@ -483,22 +491,6 @@ For installing and using this colection in Icestudio follow these steps:
       * Uint4-01-bit
       * Uint4-02-bit
       * Uint4-03-bit
-  * **Uint8**
-    * Uint8-01-bit
-    * Uint8-02-bit
-    * Uint8-03-bit
-    * Uint8-04-bit
-    * Uint8-05-bit
-    * Uint8-06-bit
-    * Uint8-07-bit
-    * **Blocks**
-      * Uint8-01-bit
-      * Uint8-02-bits
-      * Uint8-03-bits
-      * Uint8-04-bits
-      * Uint8-05-bits
-      * Uint8-06-bits
-      * Uint8-07-bits
 * **Wires**
   * Bus-2
   * Bus-3
