@@ -404,6 +404,7 @@ For installing and using this colection in Icestudio follow these steps:
     * Split-half
 * **Uint**
   * **Uint02**
+    * 01-Uint02
     * Uint2-01-bit
     * **Blocks**
       * Uint2-01-bit
