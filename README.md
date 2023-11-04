@@ -405,16 +405,15 @@ For installing and using this colection in Icestudio follow these steps:
 * **Uint**
   * **Uint02**
     * 01-Uint02
-    * Uint2-01-bit
     * **Blocks**
       * Uint2-01-bit
   * **Uint03**
     * 01-Uint03
     * 02-Uint03
   * **Uint04**
-    * Uint4-01-bit
-    * Uint4-02-bit
-    * Uint4-03-bit
+    * 01-Uint04
+    * 02-Uint04
+    * 03-Uint04
     * **Blocks**
       * Uint4-01-bit
       * Uint4-02-bit
