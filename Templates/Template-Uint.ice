@@ -21,8 +21,8 @@
             "size": 8
           },
           "position": {
-            "x": 920,
-            "y": 304
+            "x": 952,
+            "y": 368
           }
         },
         {
@@ -34,8 +34,8 @@
             "size": 2
           },
           "position": {
-            "x": 352,
-            "y": 304
+            "x": 336,
+            "y": 368
           }
         },
         {
@@ -59,15 +59,15 @@
               ]
             },
             "params": [],
-            "code": "//-- Number of bits\nlocalparam N = 8;\n\n//-- Extend i with N-2 0s\nassign o = { {(N-2){1'b0}} , i};"
+            "code": "//-- Number of input bits\nlocalparam X = 2;\n\n//-- Number of output bits\nlocalparam N = 8;\n\n//-- zeros to add to the input\nwire zeros = {(N-X){1'b0}};\n\n//-- Extend the input with zeros\nassign o = { zeros , i};"
           },
           "position": {
             "x": 504,
             "y": 272
           },
           "size": {
-            "width": 344,
-            "height": 120
+            "width": 384,
+            "height": 248
           }
         }
       ],
