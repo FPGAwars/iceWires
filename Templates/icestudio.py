@@ -19,7 +19,7 @@ import sys
 
 def generate_block_from_template(
         nibits: int, #-- Parameter: Number of input bits
-        nobits: int, #-- Parameter: Number of outputs bits (N)
+        nobits: int, #-- Parameter: Number of outputs bits (N) (It should be > 2!!)
                      #-- NOTE: nibits < nobits always!!
         bid : str,  #-- Block identification string. Ex: "Uint"
         version: str, #-- Block version
