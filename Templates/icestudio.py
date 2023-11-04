@@ -30,6 +30,13 @@ def generate_block_from_template(
     the template file has an input of 2 bits and output of 8 bits
     """
 
+    #-- Check that nobits > nibits
+    if nobits <= nibits:
+        print()
+        print(f"--> ERROR: Output bits ({nobits}) should be greather than Input bits ({nibits})")
+        print()
+        sys.exit()
+
     #-- Create the block name
     block_name = f"{nibits:02}-{bid}{nobits:02}"
 
@@ -85,8 +92,12 @@ def generate_block_from_template(
         new_ice = new_ice.replace(f"[1:0]", f"[{nibits-1}:0]")
         new_ice = new_ice.replace(f'"size": 2', f'"size": {nibits}')
 
-    #-- Change the size in the verilog code (Parameter N)
-    new_ice = new_ice.replace("localparam N = 2", 
+    #--------- Change the size in the verilog code
+    #-- Input bits: X
+    new_ice = new_ice.replace("localparam X = 2", 
+                             f"localparam X = {nibits}")
+    #-- Output bits: N
+    new_ice = new_ice.replace("localparam N = 8", 
                               f"localparam N = {nobits}")
     
     #-- Write the new generated component in the file

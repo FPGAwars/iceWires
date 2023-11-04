@@ -1,7 +1,7 @@
 from icestudio import generate_block_from_template
 
 BLOCK_ID = "Uint"
-VERSION = "0.3"
+VERSION = "0.4"
 DESCRIPTION = "unsigned integer extension to <N> bits. Verilog implementation"
 TARGET_PATH = f"../blocks/Right/{BLOCK_ID}"
 
