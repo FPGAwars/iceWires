@@ -127,8 +127,8 @@
           }
         },
         {
-          "id": "5423265a-d7d5-4758-bf8b-f8c227aeec24",
-          "type": "e57a8cd7fe06c946f48211b49faf84d43d03d40e",
+          "id": "65d5f64c-1d22-4dbb-8ae0-3b0484d09b97",
+          "type": "1ad7d9e5a12172123139aa1218ee9a9a777d44c4",
           "position": {
             "x": 560,
             "y": 56
@@ -153,7 +153,7 @@
         },
         {
           "source": {
-            "block": "5423265a-d7d5-4758-bf8b-f8c227aeec24",
+            "block": "65d5f64c-1d22-4dbb-8ae0-3b0484d09b97",
             "port": "e0cb078e-5589-4f38-983f-ff5d02d74932"
           },
           "target": {
@@ -168,7 +168,7 @@
             "port": "a2b77ebf-2ba8-494f-bf22-b2410234d608"
           },
           "target": {
-            "block": "5423265a-d7d5-4758-bf8b-f8c227aeec24",
+            "block": "65d5f64c-1d22-4dbb-8ae0-3b0484d09b97",
             "port": "418dea9f-f4c9-4a1f-8294-0f6c34e32f1d"
           },
           "size": 2
@@ -1489,11 +1489,11 @@
         }
       }
     },
-    "e57a8cd7fe06c946f48211b49faf84d43d03d40e": {
+    "1ad7d9e5a12172123139aa1218ee9a9a777d44c4": {
       "package": {
-        "name": "UINT8-2bit-verilog",
-        "version": "0.2",
-        "description": "UINT8-2bit-verilog:  Extend a 2-bit unsigned integer to 8-bits. Verilog implementation ",
+        "name": "02-Uint08",
+        "version": "0.4",
+        "description": "02-Uint08: 2 bits unsigned integer extension to 8 bits. Verilog implementation",
         "author": "Juan González-Gómez (Obijuan)",
         "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22448.598%22%20height=%22127.811%22%20viewBox=%220%200%20118.69152%2033.816643%22%3E%3Cg%20style=%22line-height:1.25%22%20font-weight=%22700%22%20font-size=%2245.504%22%20font-family=%22sans-serif%22%20fill=%22green%22%20stroke-width=%221.138%22%3E%3Cpath%20d=%22M0%200h8.554v19.886q0%204.11%201.333%205.888%201.356%201.755%204.4%201.755%203.066%200%204.399-1.755%201.355-1.778%201.355-5.888V0h8.554v19.886q0%207.043-3.532%2010.487-3.533%203.444-10.776%203.444-7.221%200-10.754-3.444Q0%2026.929%200%2019.886zM36.972%200h8.554v33.172h-8.554zM53.947%200H63.5l12.064%2022.752V0h8.11v33.172h-9.554L62.056%2010.421v22.751h-8.11zM88.119%200h30.573v6.466h-10.999v26.706H99.14V6.466H88.12z%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22/%3E%3C/g%3E%3C/svg%3E",
         "otid": 1621785467119
@@ -1506,80 +1506,25 @@
               "type": "basic.output",
               "data": {
                 "name": "",
-                "virtual": true,
                 "range": "[7:0]",
-                "pins": [
-                  {
-                    "index": "7",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "6",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "5",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "4",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "3",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "2",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "1",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ]
+                "size": 8
               },
               "position": {
-                "x": 920,
-                "y": 304
+                "x": 952,
+                "y": 368
               }
             },
             {
               "id": "418dea9f-f4c9-4a1f-8294-0f6c34e32f1d",
               "type": "basic.input",
               "data": {
-                "name": "i",
-                "virtual": true,
+                "name": "",
                 "range": "[1:0]",
-                "pins": [
-                  {
-                    "index": "1",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ],
-                "clock": false
+                "size": 2
               },
               "position": {
-                "x": 352,
-                "y": 304
+                "x": 336,
+                "y": 368
               }
             },
             {
@@ -1603,15 +1548,15 @@
                   ]
                 },
                 "params": [],
-                "code": "//-- Number of bits\nlocalparam N = 8;\n\n//-- Extend i with N-2 0s\nassign o = { {(N-2){1'b0}} , i};"
+                "code": "//-- Number of input bits\nlocalparam X = 2;\n\n//-- Number of output bits\nlocalparam N = 8;\n\n//-- zeros to add to the input\nwire zeros = {(N-X){1'b0}};\n\n//-- Extend the input with zeros\nassign o = { zeros , i};"
               },
               "position": {
                 "x": 504,
                 "y": 272
               },
               "size": {
-                "width": 344,
-                "height": 120
+                "width": 384,
+                "height": 248
               }
             }
           ],

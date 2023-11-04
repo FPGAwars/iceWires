@@ -90,7 +90,7 @@
           "id": "fd14ed5d-e91b-42a8-922f-414275d054bf",
           "type": "basic.info",
           "data": {
-            "info": "## Uint8-5bit: Manual testing",
+            "info": "## 05-Uint8: Manual testing",
             "readonly": true
           },
           "position": {
@@ -127,8 +127,8 @@
           }
         },
         {
-          "id": "f0ea2b77-297a-4d0b-ba0f-f978c9d32ca9",
-          "type": "4bd233d532c0d884de1eb431a54b495f5368b2fe",
+          "id": "887c77a0-42bc-4ec1-a543-7e75458f47ab",
+          "type": "63321ed6f62679a5353dfab7dc5a296ff82a9737",
           "position": {
             "x": 560,
             "y": 56
@@ -153,7 +153,7 @@
         },
         {
           "source": {
-            "block": "f0ea2b77-297a-4d0b-ba0f-f978c9d32ca9",
+            "block": "887c77a0-42bc-4ec1-a543-7e75458f47ab",
             "port": "e0cb078e-5589-4f38-983f-ff5d02d74932"
           },
           "target": {
@@ -178,8 +178,8 @@
             "port": "93e14a4a-8d91-4925-8959-6127ac6060cf"
           },
           "target": {
-            "block": "f0ea2b77-297a-4d0b-ba0f-f978c9d32ca9",
-            "port": "463e324e-c48d-4f3d-ada5-a394b422f26f"
+            "block": "887c77a0-42bc-4ec1-a543-7e75458f47ab",
+            "port": "418dea9f-f4c9-4a1f-8294-0f6c34e32f1d"
           },
           "size": 5
         }
@@ -1488,11 +1488,11 @@
         }
       }
     },
-    "4bd233d532c0d884de1eb431a54b495f5368b2fe": {
+    "63321ed6f62679a5353dfab7dc5a296ff82a9737": {
       "package": {
-        "name": "UINT8-5bit-verilog",
-        "version": "0.2",
-        "description": "UINT8-5bit-verilog:  Extend a 5-bit unsigned integer to 8-bits. Verilog implementation ",
+        "name": "05-Uint08",
+        "version": "0.4",
+        "description": "05-Uint08: 5 bits unsigned integer extension to 8 bits. Verilog implementation",
         "author": "Juan González-Gómez (Obijuan)",
         "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22448.598%22%20height=%22127.811%22%20viewBox=%220%200%20118.69152%2033.816643%22%3E%3Cg%20style=%22line-height:1.25%22%20font-weight=%22700%22%20font-size=%2245.504%22%20font-family=%22sans-serif%22%20fill=%22green%22%20stroke-width=%221.138%22%3E%3Cpath%20d=%22M0%200h8.554v19.886q0%204.11%201.333%205.888%201.356%201.755%204.4%201.755%203.066%200%204.399-1.755%201.355-1.778%201.355-5.888V0h8.554v19.886q0%207.043-3.532%2010.487-3.533%203.444-10.776%203.444-7.221%200-10.754-3.444Q0%2026.929%200%2019.886zM36.972%200h8.554v33.172h-8.554zM53.947%200H63.5l12.064%2022.752V0h8.11v33.172h-9.554L62.056%2010.421v22.751h-8.11zM88.119%200h30.573v6.466h-10.999v26.706H99.14V6.466H88.12z%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22/%3E%3C/g%3E%3C/svg%3E",
         "otid": 1621785467119
@@ -1505,95 +1505,25 @@
               "type": "basic.output",
               "data": {
                 "name": "",
-                "virtual": true,
                 "range": "[7:0]",
-                "pins": [
-                  {
-                    "index": "7",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "6",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "5",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "4",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "3",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "2",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "1",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ]
+                "size": 8
               },
               "position": {
-                "x": 920,
-                "y": 304
+                "x": 952,
+                "y": 368
               }
             },
             {
-              "id": "463e324e-c48d-4f3d-ada5-a394b422f26f",
+              "id": "418dea9f-f4c9-4a1f-8294-0f6c34e32f1d",
               "type": "basic.input",
               "data": {
-                "name": "i",
-                "virtual": true,
+                "name": "",
                 "range": "[4:0]",
-                "pins": [
-                  {
-                    "index": "4",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "3",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "2",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "1",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ],
-                "clock": false
+                "size": 5
               },
               "position": {
-                "x": 352,
-                "y": 304
+                "x": 336,
+                "y": 368
               }
             },
             {
@@ -1617,15 +1547,15 @@
                   ]
                 },
                 "params": [],
-                "code": "//-- Number of bits\nlocalparam N = 8;\n\n//-- Extend i with N-5 0s\nassign o = { {(N-5){1'b0}} , i};"
+                "code": "//-- Number of input bits\nlocalparam X = 5;\n\n//-- Number of output bits\nlocalparam N = 8;\n\n//-- zeros to add to the input\nwire zeros = {(N-X){1'b0}};\n\n//-- Extend the input with zeros\nassign o = { zeros , i};"
               },
               "position": {
                 "x": 504,
                 "y": 272
               },
               "size": {
-                "width": 344,
-                "height": 120
+                "width": 384,
+                "height": 248
               }
             }
           ],
@@ -1643,7 +1573,7 @@
             },
             {
               "source": {
-                "block": "463e324e-c48d-4f3d-ada5-a394b422f26f",
+                "block": "418dea9f-f4c9-4a1f-8294-0f6c34e32f1d",
                 "port": "out"
               },
               "target": {
