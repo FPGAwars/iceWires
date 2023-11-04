@@ -1172,6 +1172,28 @@ For installing and using this colection in Icestudio follow these steps:
         * **Alhambra-II**
           * 01-Manual-testing
   * **Uint**
+    * **Uint08**
+      * **01-bit**
+        * **Alhambra-II**
+          * 01-Manual-testing
+      * **02-bits**
+        * **Alhambra-II**
+          * 01-Manual-testing
+      * **03-bits**
+        * **Alhambra-II**
+          * 01-Manual-testing
+      * **04-bits**
+        * **Alhambra-II**
+          * 01-Manual-testing
+      * **05-bits**
+        * **Alhambra-II**
+          * 01-Manual-testing
+      * **06-bits**
+        * **Alhambra-II**
+          * 01-Manual-testing
+      * **07-bits**
+        * **Alhambra-II**
+          * 01-Manual-testing
     * **Uint12**
       * **Alhambra-II**
         * 01-Manual-testing
@@ -1267,28 +1289,6 @@ For installing and using this colection in Icestudio follow these steps:
         * **Alhambra-II**
           * 01-Manual-testing
       * **03-Bits**
-        * **Alhambra-II**
-          * 01-Manual-testing
-    * **Uint8**
-      * **01-bit**
-        * **Alhambra-II**
-          * 01-Manual-testing
-      * **02-bits**
-        * **Alhambra-II**
-          * 01-Manual-testing
-      * **03-bits**
-        * **Alhambra-II**
-          * 01-Manual-testing
-      * **04-bits**
-        * **Alhambra-II**
-          * 01-Manual-testing
-      * **05-bits**
-        * **Alhambra-II**
-          * 01-Manual-testing
-      * **06-bits**
-        * **Alhambra-II**
-          * 01-Manual-testing
-      * **07-bits**
         * **Alhambra-II**
           * 01-Manual-testing
   * **Wires**
