@@ -70,7 +70,7 @@
           "id": "fd14ed5d-e91b-42a8-922f-414275d054bf",
           "type": "basic.info",
           "data": {
-            "info": "## Uint4-3bit: Manual testing",
+            "info": "## 03-Uint4: Manual testing",
             "readonly": true
           },
           "position": {
@@ -107,8 +107,8 @@
           }
         },
         {
-          "id": "9aa0be22-fc4c-4e00-9d40-e256b008fee3",
-          "type": "b3c08cadb482b8e1a9bb3b1881c59a3a3c39223b",
+          "id": "8531f739-f395-43c4-9e3f-914436096e0a",
+          "type": "51d27c9840f6f7be337411433971d32ead207180",
           "position": {
             "x": 560,
             "y": 56
@@ -133,8 +133,8 @@
         },
         {
           "source": {
-            "block": "9aa0be22-fc4c-4e00-9d40-e256b008fee3",
-            "port": "a27a9eb1-cacc-489b-8841-b19428732584"
+            "block": "8531f739-f395-43c4-9e3f-914436096e0a",
+            "port": "e0cb078e-5589-4f38-983f-ff5d02d74932"
           },
           "target": {
             "block": "3346a117-bf92-44c8-8ba0-27382230e0ca",
@@ -158,8 +158,8 @@
             "port": "8a22aa50-e3de-4e44-9d95-9d949f0c3478"
           },
           "target": {
-            "block": "9aa0be22-fc4c-4e00-9d40-e256b008fee3",
-            "port": "33718e54-4f8d-4411-bb70-d7da8a414dc4"
+            "block": "8531f739-f395-43c4-9e3f-914436096e0a",
+            "port": "418dea9f-f4c9-4a1f-8294-0f6c34e32f1d"
           },
           "size": 3
         }
@@ -1005,11 +1005,11 @@
         }
       }
     },
-    "b3c08cadb482b8e1a9bb3b1881c59a3a3c39223b": {
+    "51d27c9840f6f7be337411433971d32ead207180": {
       "package": {
-        "name": "UINT4-3bit-verilog",
-        "version": "0.2",
-        "description": "UINT4-3bit-verilog:  Extend a 3-bit unsigned integer to 4-bits. Verilog implementation ",
+        "name": "03-Uint04",
+        "version": "0.4",
+        "description": "03-Uint04: 3 bits unsigned integer extension to 4 bits. Verilog implementation",
         "author": "Juan González-Gómez (Obijuan)",
         "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22448.598%22%20height=%22127.811%22%20viewBox=%220%200%20118.69152%2033.816643%22%3E%3Cg%20style=%22line-height:1.25%22%20font-weight=%22700%22%20font-size=%2245.504%22%20font-family=%22sans-serif%22%20fill=%22green%22%20stroke-width=%221.138%22%3E%3Cpath%20d=%22M0%200h8.554v19.886q0%204.11%201.333%205.888%201.356%201.755%204.4%201.755%203.066%200%204.399-1.755%201.355-1.778%201.355-5.888V0h8.554v19.886q0%207.043-3.532%2010.487-3.533%203.444-10.776%203.444-7.221%200-10.754-3.444Q0%2026.929%200%2019.886zM36.972%200h8.554v33.172h-8.554zM53.947%200H63.5l12.064%2022.752V0h8.11v33.172h-9.554L62.056%2010.421v22.751h-8.11zM88.119%200h30.573v6.466h-10.999v26.706H99.14V6.466H88.12z%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22/%3E%3C/g%3E%3C/svg%3E",
         "otid": 1621785467119
@@ -1018,69 +1018,29 @@
         "graph": {
           "blocks": [
             {
-              "id": "a27a9eb1-cacc-489b-8841-b19428732584",
+              "id": "e0cb078e-5589-4f38-983f-ff5d02d74932",
               "type": "basic.output",
               "data": {
                 "name": "",
-                "virtual": true,
                 "range": "[3:0]",
-                "pins": [
-                  {
-                    "index": "3",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "2",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "1",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ]
+                "size": 4
               },
               "position": {
-                "x": 920,
-                "y": 304
+                "x": 952,
+                "y": 368
               }
             },
             {
-              "id": "33718e54-4f8d-4411-bb70-d7da8a414dc4",
+              "id": "418dea9f-f4c9-4a1f-8294-0f6c34e32f1d",
               "type": "basic.input",
               "data": {
-                "name": "i",
-                "virtual": true,
+                "name": "",
                 "range": "[2:0]",
-                "pins": [
-                  {
-                    "index": "2",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "1",
-                    "name": "NULL",
-                    "value": "NULL"
-                  },
-                  {
-                    "index": "0",
-                    "name": "NULL",
-                    "value": "NULL"
-                  }
-                ],
-                "clock": false
+                "size": 3
               },
               "position": {
-                "x": 352,
-                "y": 304
+                "x": 336,
+                "y": 368
               }
             },
             {
@@ -1104,15 +1064,15 @@
                   ]
                 },
                 "params": [],
-                "code": "//-- Number of bits\nlocalparam N = 4;\n\n//-- Extend i with N-3 0s\nassign o = { {(N-3){1'b0}} , i};"
+                "code": "//-- Number of input bits\nlocalparam X = 3;\n\n//-- Number of output bits\nlocalparam N = 4;\n\n//-- zeros to add to the input\nwire zeros = {(N-X){1'b0}};\n\n//-- Extend the input with zeros\nassign o = { zeros , i};"
               },
               "position": {
                 "x": 504,
                 "y": 272
               },
               "size": {
-                "width": 344,
-                "height": 120
+                "width": 384,
+                "height": 248
               }
             }
           ],
@@ -1123,14 +1083,14 @@
                 "port": "o"
               },
               "target": {
-                "block": "a27a9eb1-cacc-489b-8841-b19428732584",
+                "block": "e0cb078e-5589-4f38-983f-ff5d02d74932",
                 "port": "in"
               },
               "size": 4
             },
             {
               "source": {
-                "block": "33718e54-4f8d-4411-bb70-d7da8a414dc4",
+                "block": "418dea9f-f4c9-4a1f-8294-0f6c34e32f1d",
                 "port": "out"
               },
               "target": {
