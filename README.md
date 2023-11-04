@@ -408,6 +408,14 @@ For installing and using this colection in Icestudio follow these steps:
     * Uint2-01-bit
     * **Blocks**
       * Uint2-01-bit
+  * **Uint04**
+    * Uint4-01-bit
+    * Uint4-02-bit
+    * Uint4-03-bit
+    * **Blocks**
+      * Uint4-01-bit
+      * Uint4-02-bit
+      * Uint4-03-bit
   * **Uint08**
     * 01-Uint08
     * 02-Uint08
@@ -484,14 +492,6 @@ For installing and using this colection in Icestudio follow these steps:
       * Uint32-30-bits
       * Uint32-31-bits
       * Uint32-8-bits
-  * **Uint4**
-    * Uint4-01-bit
-    * Uint4-02-bit
-    * Uint4-03-bit
-    * **Blocks**
-      * Uint4-01-bit
-      * Uint4-02-bit
-      * Uint4-03-bit
 * **Wires**
   * Bus-2
   * Bus-3
@@ -1169,6 +1169,16 @@ For installing and using this colection in Icestudio follow these steps:
       * **01-bit**
         * **Alhambra-II**
           * 01-Manual-testing
+    * **Uint04**
+      * **01-Bit**
+        * **Alhambra-II**
+          * 01-Manual-testing
+      * **02-Bits**
+        * **Alhambra-II**
+          * 01-Manual-testing
+      * **03-Bits**
+        * **Alhambra-II**
+          * 01-Manual-testing
     * **Uint08**
       * **01-bit**
         * **Alhambra-II**
@@ -1272,16 +1282,6 @@ For installing and using this colection in Icestudio follow these steps:
         * **Alhambra-II**
           * 01-Manual-testing
       * **31-bits**
-        * **Alhambra-II**
-          * 01-Manual-testing
-    * **Uint4**
-      * **01-Bit**
-        * **Alhambra-II**
-          * 01-Manual-testing
-      * **02-Bits**
-        * **Alhambra-II**
-          * 01-Manual-testing
-      * **03-Bits**
         * **Alhambra-II**
           * 01-Manual-testing
   * **Wires**
