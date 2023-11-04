@@ -446,7 +446,6 @@ For installing and using this colection in Icestudio follow these steps:
     * 09-Uint12
     * 10-Uint12
     * 11-Uint12
-    * Uint12-08-bits
     * **Blocks**
       * Uint12-08-bits
   * **Uint16**
@@ -465,14 +464,6 @@ For installing and using this colection in Icestudio follow these steps:
     * 13-Uint16
     * 14-Uint16
     * 15-Uint16
-    * Uint16-10-bits
-    * Uint16-11-bits
-    * Uint16-12-bits
-    * Uint16-13-bits
-    * Uint16-14-bits
-    * Uint16-15-bits
-    * Uint16-8-bits
-    * Uint16-9-bits
     * **Blocks**
       * Uint16-08-bits
       * Uint16-09-bits
@@ -514,24 +505,7 @@ For installing and using this colection in Icestudio follow these steps:
     * 29-Uint32
     * 30-Uint32
     * 31-Uint32
-    * Uint32-16-bits
-    * Uint32-17-bits
-    * Uint32-18-bits
-    * Uint32-19-bits
     * Uint32-2-bits
-    * Uint32-20-bits
-    * Uint32-21-bits
-    * Uint32-22-bits
-    * Uint32-23-bits
-    * Uint32-24-bits
-    * Uint32-25-bits
-    * Uint32-26-bits
-    * Uint32-27-bits
-    * Uint32-28-bits
-    * Uint32-29-bits
-    * Uint32-30-bits
-    * Uint32-31-bits
-    * Uint32-8-bits
     * **Blocks**
       * Uint32-16-bits
       * Uint32-17-bits
