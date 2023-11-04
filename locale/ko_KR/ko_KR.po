@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: zekurokorea\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-11-04 10:15+0000\n"
+"POT-Creation-Date: 2023-11-04 10:21+0000\n"
 "PO-Revision-Date: 2021-08-30 12:59+0200\n"
 "Last-Translator: HwaGyeong\n"
 "Language-Team: Korean\n"
@@ -54,7 +54,7 @@ msgstr ""
 #: translation.js:365 translation.js:371 translation.js:377 translation.js:383
 #: translation.js:394 translation.js:477 translation.js:485 translation.js:493
 #: translation.js:499 translation.js:505 translation.js:511 translation.js:719
-#: translation.js:760 translation.js:765 translation.js:799 translation.js:804
+#: translation.js:724 translation.js:765 translation.js:770 translation.js:804
 #: translation.js:891
 msgid "Blocks"
 msgstr ""
@@ -2642,20 +2642,20 @@ msgstr ""
 msgid "Bus64-Split-half: Split the 64-bits bus into two buses of 32 wires"
 msgstr ""
 
-#: translation.js:713 translation.js:1940
+#: translation.js:713
+msgid "Uint02"
+msgstr ""
+
+#: translation.js:714 translation.js:1940
 msgid "Uint08"
 msgstr ""
 
-#: translation.js:714 translation.js:1941
+#: translation.js:715 translation.js:1941
 msgid "Uint12"
 msgstr ""
 
-#: translation.js:715 translation.js:1942
+#: translation.js:716 translation.js:1942
 msgid "Uint16"
-msgstr ""
-
-#: translation.js:716 translation.js:1943
-msgid "Uint2"
 msgstr ""
 
 #: translation.js:717 translation.js:1944
@@ -2666,330 +2666,330 @@ msgstr ""
 msgid "Uint4"
 msgstr ""
 
-#: translation.js:720
-msgid "01-Uint08"
-msgstr ""
-
-#: translation.js:721
-msgid ""
-"01-Uint08: 1 bits unsigned integer extension to 8 bits. Verilog "
-"implementation"
-msgstr ""
-
-#: translation.js:722
-msgid "02-Uint08"
-msgstr ""
-
-#: translation.js:723
-msgid ""
-"02-Uint08: 2 bits unsigned integer extension to 8 bits. Verilog "
-"implementation"
-msgstr ""
-
-#: translation.js:724
-msgid "03-Uint08"
-msgstr ""
-
-#: translation.js:725
-msgid ""
-"03-Uint08: 3 bits unsigned integer extension to 8 bits. Verilog "
-"implementation"
-msgstr ""
-
-#: translation.js:726
-msgid "04-Uint08"
-msgstr ""
-
-#: translation.js:727
-msgid ""
-"04-Uint08: 4 bits unsigned integer extension to 8 bits. Verilog "
-"implementation"
-msgstr ""
-
-#: translation.js:728
-msgid "05-Uint08"
-msgstr ""
-
-#: translation.js:729
-msgid ""
-"05-Uint08: 5 bits unsigned integer extension to 8 bits. Verilog "
-"implementation"
-msgstr ""
-
-#: translation.js:730
-msgid "06-Uint08"
-msgstr ""
-
-#: translation.js:731
-msgid ""
-"06-Uint08: 6 bits unsigned integer extension to 8 bits. Verilog "
-"implementation"
-msgstr ""
-
-#: translation.js:732
-msgid "07-Uint08"
-msgstr ""
-
-#: translation.js:733
-msgid ""
-"07-Uint08: 7 bits unsigned integer extension to 8 bits. Verilog "
-"implementation"
-msgstr ""
-
-#: translation.js:734
-msgid "Uint8-01-bit"
-msgstr ""
-
-#: translation.js:735
-msgid "UINT8-1bit:  Extend a 1-bit unsigned integer to 8-bits "
-msgstr ""
-
-#: translation.js:736
-msgid "7bits constant value: 0"
-msgstr ""
-
-#: translation.js:737
-msgid "Generic: 7-bits generic constant (0-127)"
-msgstr ""
-
-#: translation.js:738
-msgid "Uint8-02-bits"
-msgstr ""
-
-#: translation.js:739
-msgid "UINT8-2bits:  Extend a 2-bits unsigned integer to 8-bits "
-msgstr ""
-
-#: translation.js:740
-msgid "6bits constant value: 0"
-msgstr ""
-
-#: translation.js:741
-msgid "Generic: 6-bits generic constant (0-63)"
-msgstr ""
-
-#: translation.js:742
-msgid "Uint8-03-bits"
-msgstr ""
-
-#: translation.js:743
-msgid "UINT8-3bits:  Extend a 3-bits unsigned integer to 8-bits "
-msgstr ""
-
-#: translation.js:744
-msgid "5bits constant value: 0"
-msgstr ""
-
-#: translation.js:745
-msgid "Generic: 5-bits generic constant (0-31)"
-msgstr ""
-
-#: translation.js:746
-msgid "Uint8-04-bits"
-msgstr ""
-
-#: translation.js:747
-msgid "UINT8-4bits:  Extend a 4-bits unsigned integer to 8-bits "
-msgstr ""
-
-#: translation.js:748
-msgid "4bits constant value: 0"
-msgstr ""
-
-#: translation.js:749
-msgid "Generic: 4-bits generic constant (0-15)"
-msgstr ""
-
-#: translation.js:750
-msgid "Uint8-05-bits"
-msgstr ""
-
-#: translation.js:751
-msgid "UINT8-5bits:  Extend a 5-bits unsigned integer to 8-bits "
-msgstr ""
-
-#: translation.js:752
-msgid "3bits constant value: 0"
-msgstr ""
-
-#: translation.js:753
-msgid "Generic: 3-bits generic constant (0-7)"
-msgstr ""
-
-#: translation.js:754
-msgid "Uint8-06-bits"
-msgstr ""
-
-#: translation.js:755
-msgid "UINT8-6bits:  Extend a 6-bits unsigned integer to 8-bits "
-msgstr ""
-
-#: translation.js:756
-msgid "2bits constant value: 0"
-msgstr ""
-
-#: translation.js:757
-msgid "Generic: 2-bits generic constant (0,1,2,3)"
-msgstr ""
-
-#: translation.js:758
-msgid "Uint8-07-bits"
-msgstr ""
-
-#: translation.js:759
-msgid "UINT8-7bits:  Extend a 7-bits unsigned integer to 8-bits "
-msgstr ""
-
-#: translation.js:761 translation.js:763
-msgid "Uint12-08-bits"
-msgstr ""
-
-#: translation.js:762
-msgid ""
-"UINT12-8bit-verilog:  Extend a 8-bit unsigned integer to 12-bits. Verilog "
-"implementation "
-msgstr ""
-
-#: translation.js:764
-msgid "UINT12-8bits:  Extend a 8-bits unsigned integer to 12-bits "
-msgstr ""
-
-#: translation.js:766 translation.js:787
-msgid "Uint16-10-bits"
-msgstr ""
-
-#: translation.js:767
-msgid ""
-"UINT32-10bit-verilog:  Extend a 10-bit unsigned integer to 32-bits. Verilog "
-"implementation "
-msgstr ""
-
-#: translation.js:768 translation.js:789
-msgid "Uint16-11-bits"
-msgstr ""
-
-#: translation.js:769
-msgid ""
-"UINT32-11bit-verilog:  Extend a 11-bit unsigned integer to 32-bits. Verilog "
-"implementation "
-msgstr ""
-
-#: translation.js:770 translation.js:791
-msgid "Uint16-12-bits"
-msgstr ""
-
-#: translation.js:771
-msgid ""
-"UINT32-12bit-verilog:  Extend a 12-bit unsigned integer to 32-bits. Verilog "
-"implementation "
-msgstr ""
-
-#: translation.js:772 translation.js:793
-msgid "Uint16-13-bits"
-msgstr ""
-
-#: translation.js:773
-msgid ""
-"UINT32-13bit-verilog:  Extend a 13-bit unsigned integer to 32-bits. Verilog "
-"implementation "
-msgstr ""
-
-#: translation.js:774 translation.js:795
-msgid "Uint16-14-bits"
-msgstr ""
-
-#: translation.js:775
-msgid ""
-"UINT32-14bit-verilog:  Extend a 14-bit unsigned integer to 32-bits. Verilog "
-"implementation "
-msgstr ""
-
-#: translation.js:776 translation.js:797
-msgid "Uint16-15-bits"
-msgstr ""
-
-#: translation.js:777
-msgid ""
-"UINT16-15bit-verilog:  Extend a 15-bit unsigned integer to 32-bits. Verilog "
-"implementation "
-msgstr ""
-
-#: translation.js:778
-msgid "Uint16-8-bits"
-msgstr ""
-
-#: translation.js:779
-msgid ""
-"UINT32-8bit-verilog:  Extend a 8-bit unsigned integer to 32-bits. Verilog "
-"implementation "
-msgstr ""
-
-#: translation.js:780
-msgid "Uint16-9-bits"
-msgstr ""
-
-#: translation.js:781
-msgid ""
-"UINT32-9bit-verilog:  Extend a 9-bit unsigned integer to 32-bits. Verilog "
-"implementation "
-msgstr ""
-
-#: translation.js:782
-msgid "Uint16-08-bits"
-msgstr ""
-
-#: translation.js:783
-msgid "UINT16-9bits:  Extend a 9-bits unsigned integer to 16-bits "
-msgstr ""
-
-#: translation.js:784
-msgid "8bits constant value: 0"
-msgstr ""
-
-#: translation.js:785
-msgid "Generic: 8-bits generic constant (0-255)"
-msgstr ""
-
-#: translation.js:786
-msgid "Uint16-09-bits"
-msgstr ""
-
-#: translation.js:788
-msgid "UINT16-10bits:  Extend a 10-bits unsigned integer to 16-bits "
-msgstr ""
-
-#: translation.js:790
-msgid "UINT16-11bits:  Extend a 11-bits unsigned integer to 16-bits "
-msgstr ""
-
-#: translation.js:792
-msgid "UINT16-12bits:  Extend a 12-bits unsigned integer to 16-bits "
-msgstr ""
-
-#: translation.js:794
-msgid "UINT16-13bits:  Extend a 13-bits unsigned integer to 16-bits "
-msgstr ""
-
-#: translation.js:796
-msgid "UINT16-14bits:  Extend a 14-bits unsigned integer to 16-bits "
-msgstr ""
-
-#: translation.js:798
-msgid "UINT16-15bits:  Extend a 12-bits unsigned integer to 16-bits "
-msgstr ""
-
-#: translation.js:800 translation.js:802
+#: translation.js:720 translation.js:722
 msgid "Uint2-01-bit"
 msgstr ""
 
-#: translation.js:801
+#: translation.js:721
 msgid ""
 "UINT2-1bit-verilog:  Extend a 1-bit unsigned integer to 2-bits. Verilog "
 "implementation "
 msgstr ""
 
-#: translation.js:803
+#: translation.js:723
 msgid "UINT2-1bit:  Extend a 1-bit unsigned integer to 2-bits "
+msgstr ""
+
+#: translation.js:725
+msgid "01-Uint08"
+msgstr ""
+
+#: translation.js:726
+msgid ""
+"01-Uint08: 1 bits unsigned integer extension to 8 bits. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:727
+msgid "02-Uint08"
+msgstr ""
+
+#: translation.js:728
+msgid ""
+"02-Uint08: 2 bits unsigned integer extension to 8 bits. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:729
+msgid "03-Uint08"
+msgstr ""
+
+#: translation.js:730
+msgid ""
+"03-Uint08: 3 bits unsigned integer extension to 8 bits. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:731
+msgid "04-Uint08"
+msgstr ""
+
+#: translation.js:732
+msgid ""
+"04-Uint08: 4 bits unsigned integer extension to 8 bits. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:733
+msgid "05-Uint08"
+msgstr ""
+
+#: translation.js:734
+msgid ""
+"05-Uint08: 5 bits unsigned integer extension to 8 bits. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:735
+msgid "06-Uint08"
+msgstr ""
+
+#: translation.js:736
+msgid ""
+"06-Uint08: 6 bits unsigned integer extension to 8 bits. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:737
+msgid "07-Uint08"
+msgstr ""
+
+#: translation.js:738
+msgid ""
+"07-Uint08: 7 bits unsigned integer extension to 8 bits. Verilog "
+"implementation"
+msgstr ""
+
+#: translation.js:739
+msgid "Uint8-01-bit"
+msgstr ""
+
+#: translation.js:740
+msgid "UINT8-1bit:  Extend a 1-bit unsigned integer to 8-bits "
+msgstr ""
+
+#: translation.js:741
+msgid "7bits constant value: 0"
+msgstr ""
+
+#: translation.js:742
+msgid "Generic: 7-bits generic constant (0-127)"
+msgstr ""
+
+#: translation.js:743
+msgid "Uint8-02-bits"
+msgstr ""
+
+#: translation.js:744
+msgid "UINT8-2bits:  Extend a 2-bits unsigned integer to 8-bits "
+msgstr ""
+
+#: translation.js:745
+msgid "6bits constant value: 0"
+msgstr ""
+
+#: translation.js:746
+msgid "Generic: 6-bits generic constant (0-63)"
+msgstr ""
+
+#: translation.js:747
+msgid "Uint8-03-bits"
+msgstr ""
+
+#: translation.js:748
+msgid "UINT8-3bits:  Extend a 3-bits unsigned integer to 8-bits "
+msgstr ""
+
+#: translation.js:749
+msgid "5bits constant value: 0"
+msgstr ""
+
+#: translation.js:750
+msgid "Generic: 5-bits generic constant (0-31)"
+msgstr ""
+
+#: translation.js:751
+msgid "Uint8-04-bits"
+msgstr ""
+
+#: translation.js:752
+msgid "UINT8-4bits:  Extend a 4-bits unsigned integer to 8-bits "
+msgstr ""
+
+#: translation.js:753
+msgid "4bits constant value: 0"
+msgstr ""
+
+#: translation.js:754
+msgid "Generic: 4-bits generic constant (0-15)"
+msgstr ""
+
+#: translation.js:755
+msgid "Uint8-05-bits"
+msgstr ""
+
+#: translation.js:756
+msgid "UINT8-5bits:  Extend a 5-bits unsigned integer to 8-bits "
+msgstr ""
+
+#: translation.js:757
+msgid "3bits constant value: 0"
+msgstr ""
+
+#: translation.js:758
+msgid "Generic: 3-bits generic constant (0-7)"
+msgstr ""
+
+#: translation.js:759
+msgid "Uint8-06-bits"
+msgstr ""
+
+#: translation.js:760
+msgid "UINT8-6bits:  Extend a 6-bits unsigned integer to 8-bits "
+msgstr ""
+
+#: translation.js:761
+msgid "2bits constant value: 0"
+msgstr ""
+
+#: translation.js:762
+msgid "Generic: 2-bits generic constant (0,1,2,3)"
+msgstr ""
+
+#: translation.js:763
+msgid "Uint8-07-bits"
+msgstr ""
+
+#: translation.js:764
+msgid "UINT8-7bits:  Extend a 7-bits unsigned integer to 8-bits "
+msgstr ""
+
+#: translation.js:766 translation.js:768
+msgid "Uint12-08-bits"
+msgstr ""
+
+#: translation.js:767
+msgid ""
+"UINT12-8bit-verilog:  Extend a 8-bit unsigned integer to 12-bits. Verilog "
+"implementation "
+msgstr ""
+
+#: translation.js:769
+msgid "UINT12-8bits:  Extend a 8-bits unsigned integer to 12-bits "
+msgstr ""
+
+#: translation.js:771 translation.js:792
+msgid "Uint16-10-bits"
+msgstr ""
+
+#: translation.js:772
+msgid ""
+"UINT32-10bit-verilog:  Extend a 10-bit unsigned integer to 32-bits. Verilog "
+"implementation "
+msgstr ""
+
+#: translation.js:773 translation.js:794
+msgid "Uint16-11-bits"
+msgstr ""
+
+#: translation.js:774
+msgid ""
+"UINT32-11bit-verilog:  Extend a 11-bit unsigned integer to 32-bits. Verilog "
+"implementation "
+msgstr ""
+
+#: translation.js:775 translation.js:796
+msgid "Uint16-12-bits"
+msgstr ""
+
+#: translation.js:776
+msgid ""
+"UINT32-12bit-verilog:  Extend a 12-bit unsigned integer to 32-bits. Verilog "
+"implementation "
+msgstr ""
+
+#: translation.js:777 translation.js:798
+msgid "Uint16-13-bits"
+msgstr ""
+
+#: translation.js:778
+msgid ""
+"UINT32-13bit-verilog:  Extend a 13-bit unsigned integer to 32-bits. Verilog "
+"implementation "
+msgstr ""
+
+#: translation.js:779 translation.js:800
+msgid "Uint16-14-bits"
+msgstr ""
+
+#: translation.js:780
+msgid ""
+"UINT32-14bit-verilog:  Extend a 14-bit unsigned integer to 32-bits. Verilog "
+"implementation "
+msgstr ""
+
+#: translation.js:781 translation.js:802
+msgid "Uint16-15-bits"
+msgstr ""
+
+#: translation.js:782
+msgid ""
+"UINT16-15bit-verilog:  Extend a 15-bit unsigned integer to 32-bits. Verilog "
+"implementation "
+msgstr ""
+
+#: translation.js:783
+msgid "Uint16-8-bits"
+msgstr ""
+
+#: translation.js:784
+msgid ""
+"UINT32-8bit-verilog:  Extend a 8-bit unsigned integer to 32-bits. Verilog "
+"implementation "
+msgstr ""
+
+#: translation.js:785
+msgid "Uint16-9-bits"
+msgstr ""
+
+#: translation.js:786
+msgid ""
+"UINT32-9bit-verilog:  Extend a 9-bit unsigned integer to 32-bits. Verilog "
+"implementation "
+msgstr ""
+
+#: translation.js:787
+msgid "Uint16-08-bits"
+msgstr ""
+
+#: translation.js:788
+msgid "UINT16-9bits:  Extend a 9-bits unsigned integer to 16-bits "
+msgstr ""
+
+#: translation.js:789
+msgid "8bits constant value: 0"
+msgstr ""
+
+#: translation.js:790
+msgid "Generic: 8-bits generic constant (0-255)"
+msgstr ""
+
+#: translation.js:791
+msgid "Uint16-09-bits"
+msgstr ""
+
+#: translation.js:793
+msgid "UINT16-10bits:  Extend a 10-bits unsigned integer to 16-bits "
+msgstr ""
+
+#: translation.js:795
+msgid "UINT16-11bits:  Extend a 11-bits unsigned integer to 16-bits "
+msgstr ""
+
+#: translation.js:797
+msgid "UINT16-12bits:  Extend a 12-bits unsigned integer to 16-bits "
+msgstr ""
+
+#: translation.js:799
+msgid "UINT16-13bits:  Extend a 13-bits unsigned integer to 16-bits "
+msgstr ""
+
+#: translation.js:801
+msgid "UINT16-14bits:  Extend a 14-bits unsigned integer to 16-bits "
+msgstr ""
+
+#: translation.js:803
+msgid "UINT16-15bits:  Extend a 12-bits unsigned integer to 16-bits "
 msgstr ""
 
 #: translation.js:805 translation.js:840
@@ -5775,6 +5775,10 @@ msgid ""
 "## 64-bits Split half: Manual testing\n"
 "\n"
 "The 64-bits constants is displayed on the 8 LEDs"
+msgstr ""
+
+#: translation.js:1943
+msgid "Uint2"
 msgstr ""
 
 #: translation.js:1946 translation.js:2012

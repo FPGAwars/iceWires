@@ -403,6 +403,10 @@ For installing and using this colection in Icestudio follow these steps:
   * **Bus-64**
     * Split-half
 * **Uint**
+  * **Uint02**
+    * Uint2-01-bit
+    * **Blocks**
+      * Uint2-01-bit
   * **Uint08**
     * 01-Uint08
     * 02-Uint08
@@ -441,10 +445,6 @@ For installing and using this colection in Icestudio follow these steps:
       * Uint16-13-bits
       * Uint16-14-bits
       * Uint16-15-bits
-  * **Uint2**
-    * Uint2-01-bit
-    * **Blocks**
-      * Uint2-01-bit
   * **Uint32**
     * Uint32-16-bits
     * Uint32-17-bits
