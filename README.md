@@ -1263,12 +1263,13 @@ For installing and using this colection in Icestudio follow these steps:
         * **Alhambra-II**
           * 01-Manual-testing
     * **Uint32**
-      * **02-bits**
-        * **Alhambra-II**
-          * 01-Manual-testing
-      * **08-bits**
-        * **Alhambra-II**
-          * 01-Manual-testing
+      * **02-08-bits**
+        * **02-bits**
+          * **Alhambra-II**
+            * 01-Manual-testing
+        * **08-bits**
+          * **Alhambra-II**
+            * 01-Manual-testing
       * **16-bits**
         * **Alhambra-II**
           * 01-Manual-testing
