@@ -32,7 +32,7 @@ For installing and using this colection in Icestudio follow these steps:
 | CZech |  cs_CZ | ![](https://progress-bar.dev/0) |
 | German |  de_DE | ![](https://progress-bar.dev/0) |
 | Greek |  el_GR | ![](https://progress-bar.dev/0) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/98) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/97) |
 | Basque |  eu_ES | ![](https://progress-bar.dev/0) |
 | French |  fr_FR | ![](https://progress-bar.dev/0) |
 | Galician |  gl_ES | ![](https://progress-bar.dev/0) |
@@ -403,6 +403,14 @@ For installing and using this colection in Icestudio follow these steps:
   * **Bus-64**
     * Split-half
 * **Uint**
+  * **Uint08**
+    * 01-Uint08
+    * 02-Uint08
+    * 03-Uint08
+    * 04-Uint08
+    * 05-Uint08
+    * 06-Uint08
+    * 07-Uint08
   * **Uint12**
     * Uint12-08-bits
     * **Blocks**
