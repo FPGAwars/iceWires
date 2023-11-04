@@ -32,7 +32,7 @@ For installing and using this colection in Icestudio follow these steps:
 | CZech |  cs_CZ | ![](https://progress-bar.dev/0) |
 | German |  de_DE | ![](https://progress-bar.dev/0) |
 | Greek |  el_GR | ![](https://progress-bar.dev/0) |
-| Spanish |  es_ES | ![](https://progress-bar.dev/95) |
+| Spanish |  es_ES | ![](https://progress-bar.dev/87) |
 | Basque |  eu_ES | ![](https://progress-bar.dev/0) |
 | French |  fr_FR | ![](https://progress-bar.dev/0) |
 | Galician |  gl_ES | ![](https://progress-bar.dev/0) |
@@ -435,10 +435,36 @@ For installing and using this colection in Icestudio follow these steps:
       * Uint8-06-bits
       * Uint8-07-bits
   * **Uint12**
+    * 01-Uint12
+    * 02-Uint12
+    * 03-Uint12
+    * 04-Uint12
+    * 05-Uint12
+    * 06-Uint12
+    * 07-Uint12
+    * 08-Uint12
+    * 09-Uint12
+    * 10-Uint12
+    * 11-Uint12
     * Uint12-08-bits
     * **Blocks**
       * Uint12-08-bits
   * **Uint16**
+    * 01-Uint16
+    * 02-Uint16
+    * 03-Uint16
+    * 04-Uint16
+    * 05-Uint16
+    * 06-Uint16
+    * 07-Uint16
+    * 08-Uint16
+    * 09-Uint16
+    * 10-Uint16
+    * 11-Uint16
+    * 12-Uint16
+    * 13-Uint16
+    * 14-Uint16
+    * 15-Uint16
     * Uint16-10-bits
     * Uint16-11-bits
     * Uint16-12-bits
@@ -457,6 +483,37 @@ For installing and using this colection in Icestudio follow these steps:
       * Uint16-14-bits
       * Uint16-15-bits
   * **Uint32**
+    * 01-Uint32
+    * 02-Uint32
+    * 03-Uint32
+    * 04-Uint32
+    * 05-Uint32
+    * 06-Uint32
+    * 07-Uint32
+    * 08-Uint32
+    * 09-Uint32
+    * 10-Uint32
+    * 11-Uint32
+    * 12-Uint32
+    * 13-Uint32
+    * 14-Uint32
+    * 15-Uint32
+    * 16-Uint32
+    * 17-Uint32
+    * 18-Uint32
+    * 19-Uint32
+    * 20-Uint32
+    * 21-Uint32
+    * 22-Uint32
+    * 23-Uint32
+    * 24-Uint32
+    * 25-Uint32
+    * 26-Uint32
+    * 27-Uint32
+    * 28-Uint32
+    * 29-Uint32
+    * 30-Uint32
+    * 31-Uint32
     * Uint32-16-bits
     * Uint32-17-bits
     * Uint32-18-bits
