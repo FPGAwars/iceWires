@@ -203,6 +203,8 @@ gettext('Join-4-6');
 gettext('Bus10-Join-4-6: Join the two buses into an 10-bits Bus');
 gettext('Join-8-2');
 gettext('Bus10-Join-2-8: Join the two buses into an 10-bits Bus');
+gettext('Join-2-9');
+gettext('Bus11-Join-2-9: Join the two buses into an 11-bits Bus');
 gettext('Join-3-8');
 gettext('Bus11-Join-3-8: Join the two buses into an 11-bits Bus');
 gettext('Join-1-11');
