@@ -136,6 +136,7 @@ For installing and using this colection in Icestudio follow these steps:
   * **Bus-10**
     * Join-4-6
     * Join-8-2
+    * Join-9-1
   * **Bus-11**
     * Join-2-9
     * Join-3-8
