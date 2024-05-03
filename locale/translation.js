@@ -674,6 +674,8 @@ gettext('Bus15-Split-7-8: Split the 15-bits bus into two buses of 7 and 8 bits')
 gettext('Split-7-8');
 gettext('Split-1-15');
 gettext('Split-15-1');
+gettext('Split-3-13');
+gettext('Bus16-Split-half: Split the 16-bits bus into two buses of 3 and 13 wires');
 gettext('Split-half');
 gettext('Split-quarter');
 gettext('Split-1-16');
