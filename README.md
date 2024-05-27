@@ -228,6 +228,7 @@ For installing and using this colection in Icestudio follow these steps:
   * Reversal-03
   * Reversal-04
   * Reversal-05
+  * Reversal-06
   * **Blocks**
     * Reversal-02
     * Reversal-03
