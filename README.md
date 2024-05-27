@@ -86,6 +86,20 @@ For installing and using this colection in Icestudio follow these steps:
     * Copy-08
     * Copy-09
     * Copy-12
+* **Extract-bits**
+  * Extract-bit-12-bits
+  * Extract-bit-16-bits
+  * Extract-bit-4-bits
+  * Extract-bit-9-bits
+  * Extract-bit
+  * Extractor-bus-1bit
+  * Extractor-bus-2bits
+  * Extractor-bus-4bits
+  * Extractor-bus-8bits
+  * extract-bit-23
+  * extract-bit-24-bits
+* **Inject**
+  * Inject-bit
 * **Join**
   * **Bus-02**
     * Join-all
