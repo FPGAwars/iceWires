@@ -364,6 +364,7 @@ For installing and using this colection in Icestudio follow these steps:
     * Split-6-3
     * Split-8-1
   * **Bus-10**
+    * Split-1-9
     * Split-2-8
     * Split-4-6
     * Split-9-1
